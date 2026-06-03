@@ -132,6 +132,22 @@
     .prob-item .prob-meta{font-size:.7rem;color:var(--sub);margin-top:3px}
     .resolved{opacity:.5;text-decoration:line-through}
 
+    /* ── By Driver ── */
+    .m-drivers{margin-top:18px}
+    .m-drivers>h4{font-size:.68rem;text-transform:uppercase;letter-spacing:.08em;color:var(--teal);margin-bottom:8px;display:flex;align-items:center;gap:6px}
+    .drv{background:#0f1117;border:1px solid var(--border);border-radius:10px;padding:10px 13px;margin-bottom:8px}
+    .drv-head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:2px}
+    .drv-name{font-weight:600;font-size:.86rem;color:#fff}
+    .drv-count{font-size:.66rem;color:var(--sub);white-space:nowrap}
+    .drv-unknown{border-style:dashed}
+    .drv-unknown .drv-name{color:var(--amber)}
+    .drv-wave{display:flex;align-items:flex-start;gap:8px;font-size:.82rem;margin-top:6px}
+    .wave-tag{flex-shrink:0;font-size:.6rem;font-weight:700;border-radius:5px;padding:2px 7px;letter-spacing:.05em;margin-top:1px}
+    .wave-tag.am{background:#0c4a6e55;color:#7dd3fc;border:1px solid #38bdf855}
+    .wave-tag.pm{background:#581c8755;color:#d8b4fe;border:1px solid #a855f755}
+    .wave-tag.all{background:#1e293b;color:var(--sub);border:1px solid var(--border)}
+    .wave-codes{color:var(--text);line-height:1.55;word-break:break-word}
+
     .no-data{color:var(--sub);font-size:.82rem;padding:6px 0}
 
     footer{text-align:center;margin-top:24px;font-size:.72rem;color:#334155}
@@ -528,6 +544,10 @@ function buildModal(g, dateKey) {
         </div>`).join('')
     : '<div class="no-data">No problems logged</div>';
 
+  // ── By Driver: bucket each stop under whoever reported it done; the rest
+  // (not yet detected) go to "Driver Unknown". Split AM/PM when we know the waves.
+  const driversHtml = buildDriverBreakdown(g);
+
   document.getElementById('modal-body').innerHTML = `
     <div class="m-stats">
       <div class="m-stat"><div class="mn c-purple">${g.total_locations}</div><div class="ml">Total</div></div>
@@ -539,9 +559,63 @@ function buildModal(g, dateKey) {
       <div class="m-col col-out"><h4>⏳ Outstanding (${outstanding.length})</h4><div class="outlet-list">${outChips}</div></div>
       <div class="m-col col-done"><h4>✅ Done (${done.length})</h4><div class="outlet-list">${doneChips}</div></div>
     </div>
+    <div class="m-drivers"><h4>🚛 By Driver</h4>${driversHtml}</div>
     <div class="m-probs"><h4>🚩 Problems (${problems.length})</h4>${probHtml}</div>`;
 
   document.getElementById('overlay').classList.add('open');
+}
+
+// Group the day's stops by the driver who completed each one.
+// Done stops are filed under their reporter (done_detail.by); everything not yet
+// done is filed under "Driver Unknown". AM/PM are split when am_outlets/pm_outlets
+// are present, otherwise stops are shown in a single list.
+function buildDriverBreakdown(g) {
+  const detail   = g.done_detail ?? {};
+  const amList   = g.am_outlets ?? [];
+  const pmList   = g.pm_outlets ?? [];
+  const haveWaves = amList.length > 0 || pmList.length > 0;
+  const amSet    = new Set(amList);
+  const pmSet    = new Set(pmList);
+
+  // Full code set for the day.
+  const allCodes = haveWaves
+    ? [...amList, ...pmList]
+    : [...new Set([...(g.outlets_done ?? []), ...(g.outlets_outstanding ?? [])])];
+
+  if (!allCodes.length) return '<div class="no-data">No stops yet</div>';
+
+  const UNKNOWN = 'Driver Unknown';
+  const drivers = {}; // name -> { am:[], pm:[], all:[] }
+  for (const code of allCodes) {
+    const name = detail[code]?.by || UNKNOWN;
+    const bucket = (drivers[name] ??= { am: [], pm: [], all: [] });
+    if (!haveWaves) bucket.all.push(code);
+    else if (amSet.has(code)) bucket.am.push(code);
+    else if (pmSet.has(code)) bucket.pm.push(code);
+    else bucket.all.push(code);
+  }
+
+  const total = d => d.am.length + d.pm.length + d.all.length;
+  const order = Object.keys(drivers).sort((a, b) => {
+    if (a === UNKNOWN) return 1;
+    if (b === UNKNOWN) return -1;
+    return total(drivers[b]) - total(drivers[a]);
+  });
+
+  const waveRow = (tag, cls, codes) => codes.length
+    ? `<div class="drv-wave"><span class="wave-tag ${cls}">${tag}</span><span class="wave-codes">${codes.join(', ')}</span></div>`
+    : '';
+
+  return order.map(name => {
+    const d = drivers[name];
+    const isUnknown = name === UNKNOWN;
+    return `<div class="drv ${isUnknown ? 'drv-unknown' : ''}">
+      <div class="drv-head"><span class="drv-name">${isUnknown ? '❓ ' + name : name}</span><span class="drv-count">${total(d)} stop${total(d) > 1 ? 's' : ''}</span></div>
+      ${waveRow('AM', 'am', d.am)}
+      ${waveRow('PM', 'pm', d.pm)}
+      ${waveRow('STOPS', 'all', d.all)}
+    </div>`;
+  }).join('');
 }
 
 document.getElementById('modal-close').onclick = () => document.getElementById('overlay').classList.remove('open');
