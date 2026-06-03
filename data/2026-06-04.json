@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-03T18:08:45.190Z",
+  "generated": "2026-06-03T19:00:21.160Z",
   "groups": [
     {
       "id": "EBL6",
@@ -22,6 +22,88 @@
         "STC",
         "MBA",
         "TY"
+      ],
+      "pm_outlets": [
+        "PECC",
+        "CKCC",
+        "LOY",
+        "TNC2",
+        "J9",
+        "WNC",
+        "MARS",
+        "YS1",
+        "LTM",
+        "R3",
+        "AP4",
+        "VIVA",
+        "AP1",
+        "R1",
+        "HRC",
+        "WWP",
+        "KEB",
+        "FEN",
+        "PDD"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [],
+          "pm": [
+            "PECC",
+            "CKCC",
+            "LOY",
+            "TNC2"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "BPP",
+            "KH",
+            "YTP",
+            "CCKS",
+            "WSM"
+          ],
+          "pm": [
+            "J9",
+            "WNC",
+            "MARS",
+            "YS1",
+            "LTM"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "WXI",
+            "IM",
+            "JKN",
+            "TGCC"
+          ],
+          "pm": [
+            "R3",
+            "AP4",
+            "VIVA",
+            "AP1",
+            "R1"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "BS",
+            "STC",
+            "MBA",
+            "TY"
+          ],
+          "pm": [
+            "HRC",
+            "WWP",
+            "KEB",
+            "FEN",
+            "PDD"
+          ]
+        }
       ],
       "done": 0,
       "outlets_done": [],
