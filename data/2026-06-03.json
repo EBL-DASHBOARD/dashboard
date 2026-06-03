@@ -1,6 +1,6 @@
 {
   "date": "2026-06-03",
-  "generated": "2026-06-03T16:53:26.130Z",
+  "generated": "2026-06-03T18:36:24.119Z",
   "groups": [
     {
       "id": "EBL6",
@@ -8,6 +8,124 @@
       "total_locations": 42,
       "am_total": 21,
       "pm_total": 21,
+      "am_outlets": [
+        "PS",
+        "CT",
+        "KRC",
+        "BQ",
+        "BNV",
+        "DV",
+        "JP",
+        "TRM",
+        "WSM",
+        "HV2",
+        "CCKS",
+        "CL2",
+        "VIVO",
+        "ART",
+        "TIO",
+        "ARC",
+        "MSQ",
+        "USQ",
+        "KLP",
+        "SHP",
+        "KIT"
+      ],
+      "pm_outlets": [
+        "TNC2",
+        "TPM",
+        "KNX",
+        "LOY",
+        "EPT",
+        "CCP",
+        "PAL",
+        "AP4",
+        "BOB",
+        "BHT",
+        "NEX",
+        "AP1",
+        "R3",
+        "R1",
+        "R4",
+        "AP2",
+        "KTB",
+        "NTP",
+        "WIS",
+        "ACV",
+        "WWP"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [
+            "PS",
+            "CT",
+            "KRC",
+            "BQ",
+            "BNV"
+          ],
+          "pm": [
+            "TNC2",
+            "TPM",
+            "KNX",
+            "LOY",
+            "EPT",
+            "CCP"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "DV",
+            "JP",
+            "TRM",
+            "WSM",
+            "HV2",
+            "CCKS"
+          ],
+          "pm": [
+            "PAL",
+            "AP4",
+            "BOB",
+            "BHT",
+            "NEX"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "CL2",
+            "VIVO",
+            "ART",
+            "TIO",
+            "ARC"
+          ],
+          "pm": [
+            "AP1",
+            "R3",
+            "R1",
+            "R4",
+            "AP2"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "MSQ",
+            "USQ",
+            "KLP",
+            "SHP",
+            "KIT"
+          ],
+          "pm": [
+            "KTB",
+            "NTP",
+            "WIS",
+            "ACV",
+            "WWP"
+          ]
+        }
+      ],
       "done": 42,
       "outlets_done": [
         "JP",
@@ -229,19 +347,22 @@
           "time": "09:44",
           "by": "Sasi",
           "text": "USQ — 1 item wrong.",
-          "escalated": false
+          "escalated": false,
+          "resolved": false
         },
         {
           "time": "14:13",
           "by": "ashok",
           "text": "USQ  , wrong item returned back to ckl.",
-          "escalated": true
+          "escalated": true,
+          "resolved": false
         },
         {
           "time": "17:46",
           "by": "ashok",
           "text": "WWP  1 wrong item .",
-          "escalated": true
+          "escalated": true,
+          "resolved": false
         }
       ],
       "customers": null
