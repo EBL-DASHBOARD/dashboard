@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sam Delivery Dashboard</title>
+  <script src="dashboard_data.js"></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      background: #0f1117;
+      color: #e2e8f0;
+      min-height: 100vh;
+      padding: 24px;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 28px;
+    }
+
+    header h1 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      color: #fff;
+    }
+
+    #status-badge {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background: #1e2230;
+      border: 1px solid #2d3348;
+      border-radius: 999px;
+      padding: 6px 14px;
+      font-size: 0.78rem;
+      color: #94a3b8;
+    }
+
+    #status-dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: #22c55e;
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+
+    /* ── Overall summary card ── */
+    #summary-card {
+      background: linear-gradient(135deg, #1a1f35 0%, #1e2433 100%);
+      border: 1px solid #2d3348;
+      border-radius: 16px;
+      padding: 28px 32px;
+      margin-bottom: 28px;
+      display: flex;
+      align-items: center;
+      gap: 32px;
+      flex-wrap: wrap;
+    }
+
+    .summary-numbers {
+      flex: 1;
+      min-width: 200px;
+    }
+
+    .summary-numbers .big-num {
+      font-size: 3rem;
+      font-weight: 800;
+      line-height: 1;
+      color: #fff;
+    }
+
+    .summary-numbers .big-num span { color: #6366f1; }
+
+    .summary-numbers .sub {
+      margin-top: 6px;
+      font-size: 0.9rem;
+      color: #64748b;
+    }
+
+    .summary-ring-wrap {
+      position: relative;
+      width: 120px; height: 120px;
+      flex-shrink: 0;
+    }
+
+    .summary-ring-wrap svg { transform: rotate(-90deg); }
+
+    .ring-bg { fill: none; stroke: #2d3348; stroke-width: 10; }
+    .ring-fg { fill: none; stroke: #6366f1; stroke-width: 10; stroke-linecap: round; transition: stroke-dashoffset 0.8s ease; }
+
+    .ring-label {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 1.3rem;
+      color: #fff;
+    }
+
+    .ring-label small { font-size: 0.65rem; font-weight: 400; color: #64748b; margin-top: 2px; }
+
+    .overall-bar-wrap {
+      flex: 2;
+      min-width: 240px;
+    }
+
+    .overall-bar-wrap .bar-label {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.82rem;
+      color: #64748b;
+      margin-bottom: 8px;
+    }
+
+    .bar {
+      height: 12px;
+      background: #2d3348;
+      border-radius: 999px;
+      overflow: hidden;
+    }
+
+    .bar-fill {
+      height: 100%;
+      border-radius: 999px;
+      transition: width 0.8s ease;
+    }
+
+    /* ── Group grid ── */
+    #groups-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 16px;
+    }
+
+    .group-card {
+      background: #1e2230;
+      border: 1px solid #2d3348;
+      border-radius: 14px;
+      overflow: hidden;
+      transition: border-color 0.2s;
+    }
+
+    .group-card:hover { border-color: #6366f1; }
+
+    .group-header {
+      padding: 18px 20px 14px;
+      border-bottom: 1px solid #2d3348;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .group-name {
+      font-weight: 600;
+      font-size: 1rem;
+    }
+
+    .group-badge {
+      font-size: 0.75rem;
+      padding: 3px 10px;
+      border-radius: 999px;
+      font-weight: 600;
+    }
+
+    .badge-green  { background: #14532d33; color: #4ade80; border: 1px solid #16a34a55; }
+    .badge-yellow { background: #78350f33; color: #fbbf24; border: 1px solid #d9770655; }
+    .badge-gray   { background: #1e293b; color: #64748b; border: 1px solid #2d3348; }
+
+    .group-body { padding: 18px 20px; }
+
+    .group-progress-nums {
+      display: flex;
+      align-items: baseline;
+      gap: 6px;
+      margin-bottom: 12px;
+    }
+
+    .group-progress-nums .done-num {
+      font-size: 2rem;
+      font-weight: 800;
+      color: #fff;
+    }
+
+    .group-progress-nums .total-num {
+      font-size: 1rem;
+      color: #64748b;
+    }
+
+    .group-bar { margin-bottom: 16px; }
+
+    .group-bar .bar { height: 8px; }
+
+    /* customer table */
+    .customer-section { margin-top: 16px; }
+
+    .customer-section h4 {
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #475569;
+      margin-bottom: 10px;
+    }
+
+    .customer-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 8px;
+    }
+
+    .customer-name {
+      font-size: 0.82rem;
+      color: #94a3b8;
+      width: 100px;
+      flex-shrink: 0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .customer-bar-wrap { flex: 1; }
+
+    .customer-bar-wrap .bar { height: 6px; }
+
+    .customer-count {
+      font-size: 0.78rem;
+      color: #64748b;
+      width: 44px;
+      text-align: right;
+      flex-shrink: 0;
+    }
+
+    /* color themes per group index */
+    .color-0 .ring-fg, .color-0 .bar-fill { stroke: #6366f1; background: #6366f1; }
+    .color-1 .bar-fill { background: #22c55e; }
+    .color-2 .bar-fill { background: #f59e0b; }
+    .color-3 .bar-fill { background: #ec4899; }
+    .color-4 .bar-fill { background: #14b8a6; }
+    .color-5 .bar-fill { background: #f97316; }
+
+    .cust-fill-0 { background: #6366f1; }
+    .cust-fill-1 { background: #22c55e; }
+    .cust-fill-2 { background: #f59e0b; }
+    .cust-fill-3 { background: #ec4899; }
+
+    footer {
+      text-align: center;
+      margin-top: 32px;
+      font-size: 0.75rem;
+      color: #334155;
+    }
+
+    #error-banner {
+      display: none;
+      background: #450a0a;
+      border: 1px solid #7f1d1d;
+      color: #fca5a5;
+      padding: 10px 16px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🚚 Delivery Dashboard</h1>
+  <div id="status-badge">
+    <div id="status-dot"></div>
+    <span id="last-updated">Connecting…</span>
+  </div>
+</header>
+
+<div id="error-banner">⚠️ Could not load data. Retrying…</div>
+
+<!-- Overall summary -->
+<div id="summary-card">
+  <div class="summary-numbers">
+    <div class="big-num"><span id="total-done">–</span> / <span id="total-all" style="color:#fff">–</span></div>
+    <div class="sub">locations completed across all groups</div>
+  </div>
+
+  <div class="summary-ring-wrap color-0">
+    <svg viewBox="0 0 120 120" width="120" height="120">
+      <circle class="ring-bg" cx="60" cy="60" r="52"/>
+      <circle class="ring-fg" id="ring-circle" cx="60" cy="60" r="52" stroke-dasharray="326.7" stroke-dashoffset="326.7"/>
+    </svg>
+    <div class="ring-label">
+      <span id="ring-pct">0%</span>
+      <small>done</small>
+    </div>
+  </div>
+
+  <div class="overall-bar-wrap">
+    <div class="bar-label">
+      <span>Overall progress</span>
+      <span id="bar-label-right">0 / 0</span>
+    </div>
+    <div class="bar">
+      <div class="bar-fill color-0" id="overall-bar-fill" style="width:0%"></div>
+    </div>
+  </div>
+</div>
+
+<!-- Group cards -->
+<div id="groups-grid"></div>
+
+<footer>Auto-refreshes every 5 seconds · Powered by AI Sam</footer>
+
+<script>
+const REFRESH_MS = 5000;
+const CIRCUMFERENCE = 2 * Math.PI * 52; // ≈326.7
+
+const COLORS = ['#6366f1','#22c55e','#f59e0b','#ec4899','#14b8a6','#f97316'];
+const CUST_COLORS = ['#6366f1','#22c55e','#f59e0b','#ec4899','#14b8a6','#f97316'];
+
+function pct(done, total) {
+  return total === 0 ? 0 : Math.round((done / total) * 100);
+}
+
+function fmtTime(isoStr) {
+  try {
+    const d = new Date(isoStr);
+    return d.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+  } catch { return isoStr; }
+}
+
+function badgeClass(p) {
+  if (p === 100) return 'badge-green';
+  if (p > 0)    return 'badge-yellow';
+  return 'badge-gray';
+}
+
+function badgeText(p) {
+  if (p === 100) return 'Complete';
+  if (p > 0)    return 'In Progress';
+  return 'Pending';
+}
+
+function renderSummary(groups) {
+  const totalDone = groups.reduce((s, g) => s + g.done, 0);
+  const totalAll  = groups.reduce((s, g) => s + g.total_locations, 0);
+  const p = pct(totalDone, totalAll);
+
+  document.getElementById('total-done').textContent = totalDone;
+  document.getElementById('total-all').textContent  = totalAll;
+  document.getElementById('ring-pct').textContent   = p + '%';
+  document.getElementById('bar-label-right').textContent = `${totalDone} / ${totalAll}`;
+  document.getElementById('overall-bar-fill').style.width = p + '%';
+
+  // ring
+  const offset = CIRCUMFERENCE - (p / 100) * CIRCUMFERENCE;
+  document.getElementById('ring-circle').style.strokeDashoffset = offset;
+}
+
+function buildGroupCard(group, idx) {
+  const color = COLORS[idx % COLORS.length];
+  const p = pct(group.done, group.total_locations);
+  const hasCust = group.customers && group.customers.length > 0;
+
+  let custHTML = '';
+  if (hasCust) {
+    const rows = group.customers.map((c, ci) => {
+      const cp = pct(c.done, c.total);
+      const cc = CUST_COLORS[ci % CUST_COLORS.length];
+      return `
+        <div class="customer-row">
+          <div class="customer-name" title="${c.name}">${c.name}</div>
+          <div class="customer-bar-wrap">
+            <div class="bar"><div class="bar-fill" style="width:${cp}%;background:${cc}"></div></div>
+          </div>
+          <div class="customer-count">${c.done}/${c.total}</div>
+        </div>`;
+    }).join('');
+
+    custHTML = `
+      <div class="customer-section">
+        <h4>Customer Breakdown</h4>
+        ${rows}
+      </div>`;
+  }
+
+  return `
+    <div class="group-card">
+      <div class="group-header">
+        <div class="group-name">${group.name}</div>
+        <div class="group-badge ${badgeClass(p)}">${badgeText(p)}</div>
+      </div>
+      <div class="group-body">
+        <div class="group-progress-nums">
+          <div class="done-num">${group.done}</div>
+          <div class="total-num">/ ${group.total_locations} locations</div>
+        </div>
+        <div class="group-bar">
+          <div class="bar">
+            <div class="bar-fill" style="width:${p}%;background:${color}"></div>
+          </div>
+        </div>
+        ${custHTML}
+      </div>
+    </div>`;
+}
+
+function loadData() {
+  try {
+    // Reload dashboard_data.js by injecting a fresh script tag each tick
+    const old = document.getElementById('data-script');
+    if (old) old.remove();
+    const s = document.createElement('script');
+    s.id = 'data-script';
+    s.src = 'dashboard_data.js?_=' + Date.now();
+    s.onload = function() {
+      const data = window.DASHBOARD_DATA;
+      if (!data) return;
+      document.getElementById('error-banner').style.display = 'none';
+      document.getElementById('status-dot').style.background = '#22c55e';
+      const ts = data.last_updated ? fmtTime(data.last_updated) : '–';
+      document.getElementById('last-updated').textContent = 'Updated ' + ts;
+      renderSummary(data.groups);
+      document.getElementById('groups-grid').innerHTML =
+        data.groups.map((g, i) => buildGroupCard(g, i)).join('');
+    };
+    s.onerror = function() {
+      document.getElementById('error-banner').style.display = 'block';
+      document.getElementById('status-dot').style.background = '#ef4444';
+      document.getElementById('last-updated').textContent = 'Error – retrying…';
+    };
+    document.head.appendChild(s);
+  } catch (e) {
+    console.error(e);
+  }
+}
+
+loadData();
+setInterval(loadData, REFRESH_MS);
+</script>
+</body>
+</html>
