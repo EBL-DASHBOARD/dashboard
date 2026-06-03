@@ -1,0 +1,250 @@
+{
+  "date": "2026-06-04",
+  "generated": "2026-06-03T16:27:27.023Z",
+  "groups": [
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 42,
+      "am_total": 21,
+      "pm_total": 21,
+      "done": 42,
+      "outlets_done": [
+        "JP",
+        "KRC",
+        "CL2",
+        "USQ",
+        "CCKS",
+        "BNV",
+        "ARC",
+        "ART",
+        "HV2",
+        "SHP",
+        "TRM",
+        "BQ",
+        "TIO",
+        "DV",
+        "KIT",
+        "CT",
+        "VIVO",
+        "PS",
+        "WSM",
+        "KLP",
+        "MSQ",
+        "NEX",
+        "NTP",
+        "PAL",
+        "R4",
+        "ACV",
+        "BHT",
+        "BOB",
+        "WWP",
+        "AP2",
+        "KTB",
+        "AP4",
+        "R3",
+        "LOY",
+        "WIS",
+        "R1",
+        "TNC2",
+        "TPM",
+        "KNX",
+        "EPT",
+        "CCP",
+        "AP1"
+      ],
+      "outlets_outstanding": [],
+      "done_detail": {
+        "JP": {
+          "by": "Samy Kumar Meena",
+          "time": "09:44"
+        },
+        "KRC": {
+          "by": "GK",
+          "time": "09:44"
+        },
+        "CL2": {
+          "by": "Krishnamiyako",
+          "time": "09:44"
+        },
+        "USQ": {
+          "by": "Sasi",
+          "time": "09:45"
+        },
+        "CCKS": {
+          "by": "Samy Kumar Meena",
+          "time": "09:48"
+        },
+        "BNV": {
+          "by": "GK",
+          "time": "10:17"
+        },
+        "ARC": {
+          "by": "Krishnamiyako",
+          "time": "10:29"
+        },
+        "ART": {
+          "by": "Krishnamiyako",
+          "time": "10:29"
+        },
+        "HV2": {
+          "by": "Samy Kumar Meena",
+          "time": "10:31"
+        },
+        "SHP": {
+          "by": "Sasi",
+          "time": "10:55"
+        },
+        "TRM": {
+          "by": "Samy Kumar Meena",
+          "time": "11:03"
+        },
+        "BQ": {
+          "by": "GK",
+          "time": "11:06"
+        },
+        "TIO": {
+          "by": "Krishnamiyako",
+          "time": "11:27"
+        },
+        "DV": {
+          "by": "Samy Kumar Meena",
+          "time": "11:32"
+        },
+        "KIT": {
+          "by": "Sasi",
+          "time": "11:33"
+        },
+        "CT": {
+          "by": "GK",
+          "time": "11:54"
+        },
+        "VIVO": {
+          "by": "Krishnamiyako",
+          "time": "12:09"
+        },
+        "PS": {
+          "by": "GK",
+          "time": "12:11"
+        },
+        "WSM": {
+          "by": "Samy Kumar Meena",
+          "time": "12:20"
+        },
+        "KLP": {
+          "by": "Sasi",
+          "time": "12:23"
+        },
+        "MSQ": {
+          "by": "Sasi",
+          "time": "13:09"
+        },
+        "NEX": {
+          "by": "Samy Kumar Meena",
+          "time": "15:23"
+        },
+        "NTP": {
+          "by": "Sasi",
+          "time": "15:38"
+        },
+        "PAL": {
+          "by": "Samy Kumar Meena",
+          "time": "16:13"
+        },
+        "R4": {
+          "by": "Krishnamiyako",
+          "time": "16:39"
+        },
+        "ACV": {
+          "by": "Sasi",
+          "time": "17:00"
+        },
+        "BHT": {
+          "by": "Samy Kumar Meena",
+          "time": "17:00"
+        },
+        "BOB": {
+          "by": "Samy Kumar Meena",
+          "time": "17:46"
+        },
+        "WWP": {
+          "by": "ashok",
+          "time": "17:49"
+        },
+        "AP2": {
+          "by": "Krishnamiyako",
+          "time": "18:16"
+        },
+        "KTB": {
+          "by": "Sasi",
+          "time": "18:41"
+        },
+        "AP4": {
+          "by": "Samy Kumar Meena",
+          "time": "18:47"
+        },
+        "R3": {
+          "by": "Krishnamiyako",
+          "time": "19:16"
+        },
+        "LOY": {
+          "by": "J E A N 🌻",
+          "time": "19:24"
+        },
+        "WIS": {
+          "by": "Sasi",
+          "time": "19:35"
+        },
+        "R1": {
+          "by": "Krishnamiyako",
+          "time": "19:50"
+        },
+        "TNC2": {
+          "by": "YAAKESH",
+          "time": "20:03"
+        },
+        "TPM": {
+          "by": "YAAKESH",
+          "time": "20:03"
+        },
+        "KNX": {
+          "by": "YAAKESH",
+          "time": "20:03"
+        },
+        "EPT": {
+          "by": "YAAKESH",
+          "time": "20:03"
+        },
+        "CCP": {
+          "by": "YAAKESH",
+          "time": "20:03"
+        },
+        "AP1": {
+          "by": "Krishnamiyako",
+          "time": "20:27"
+        }
+      },
+      "problems": [
+        {
+          "time": "09:44",
+          "by": "Sasi",
+          "text": "USQ — 1 item wrong.",
+          "escalated": false
+        },
+        {
+          "time": "14:13",
+          "by": "ashok",
+          "text": "USQ  , wrong item returned back to ckl.",
+          "escalated": true
+        },
+        {
+          "time": "17:46",
+          "by": "ashok",
+          "text": "WWP  1 wrong item .",
+          "escalated": true
+        }
+      ],
+      "customers": null
+    }
+  ]
+}
