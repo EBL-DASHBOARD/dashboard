@@ -23,12 +23,7 @@
       margin-bottom: 28px;
     }
 
-    header h1 {
-      font-size: 1.5rem;
-      font-weight: 700;
-      letter-spacing: -0.5px;
-      color: #fff;
-    }
+    header h1 { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.5px; color: #fff; }
 
     #status-badge {
       display: flex;
@@ -49,12 +44,9 @@
       animation: pulse 2s infinite;
     }
 
-    @keyframes pulse {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.4; }
-    }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }
 
-    /* ── Overall summary card ── */
+    /* ── Summary card ── */
     #summary-card {
       background: linear-gradient(135deg, #1a1f35 0%, #1e2433 100%);
       border: 1px solid #2d3348;
@@ -67,212 +59,195 @@
       flex-wrap: wrap;
     }
 
-    .summary-numbers {
-      flex: 1;
-      min-width: 200px;
-    }
-
-    .summary-numbers .big-num {
-      font-size: 3rem;
-      font-weight: 800;
-      line-height: 1;
-      color: #fff;
-    }
-
+    .summary-numbers { flex: 1; min-width: 200px; }
+    .summary-numbers .big-num { font-size: 3rem; font-weight: 800; line-height: 1; color: #fff; }
     .summary-numbers .big-num span { color: #6366f1; }
+    .summary-numbers .sub { margin-top: 6px; font-size: 0.9rem; color: #64748b; }
 
-    .summary-numbers .sub {
-      margin-top: 6px;
-      font-size: 0.9rem;
-      color: #64748b;
-    }
-
-    .summary-ring-wrap {
-      position: relative;
-      width: 120px; height: 120px;
-      flex-shrink: 0;
-    }
-
+    .summary-ring-wrap { position: relative; width: 120px; height: 120px; flex-shrink: 0; }
     .summary-ring-wrap svg { transform: rotate(-90deg); }
-
     .ring-bg { fill: none; stroke: #2d3348; stroke-width: 10; }
     .ring-fg { fill: none; stroke: #6366f1; stroke-width: 10; stroke-linecap: round; transition: stroke-dashoffset 0.8s ease; }
-
-    .ring-label {
-      position: absolute;
-      inset: 0;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      font-weight: 700;
-      font-size: 1.3rem;
-      color: #fff;
-    }
-
+    .ring-label { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; font-weight: 700; font-size: 1.3rem; color: #fff; }
     .ring-label small { font-size: 0.65rem; font-weight: 400; color: #64748b; margin-top: 2px; }
 
-    .overall-bar-wrap {
-      flex: 2;
-      min-width: 240px;
-    }
+    .overall-bar-wrap { flex: 2; min-width: 240px; }
+    .overall-bar-wrap .bar-label { display: flex; justify-content: space-between; font-size: 0.82rem; color: #64748b; margin-bottom: 8px; }
 
-    .overall-bar-wrap .bar-label {
-      display: flex;
-      justify-content: space-between;
-      font-size: 0.82rem;
-      color: #64748b;
-      margin-bottom: 8px;
-    }
-
-    .bar {
-      height: 12px;
-      background: #2d3348;
-      border-radius: 999px;
-      overflow: hidden;
-    }
-
-    .bar-fill {
-      height: 100%;
-      border-radius: 999px;
-      transition: width 0.8s ease;
-    }
+    .bar { height: 12px; background: #2d3348; border-radius: 999px; overflow: hidden; }
+    .bar-fill { height: 100%; border-radius: 999px; transition: width 0.8s ease; }
 
     /* ── Group grid ── */
-    #groups-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-      gap: 16px;
-    }
+    #groups-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
 
     .group-card {
       background: #1e2230;
       border: 1px solid #2d3348;
       border-radius: 14px;
       overflow: hidden;
-      transition: border-color 0.2s;
+      cursor: pointer;
+      transition: border-color 0.2s, transform 0.15s;
     }
+    .group-card:hover { border-color: #6366f1; transform: translateY(-2px); }
 
-    .group-card:hover { border-color: #6366f1; }
-
-    .group-header {
-      padding: 18px 20px 14px;
-      border-bottom: 1px solid #2d3348;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-    }
-
-    .group-name {
-      font-weight: 600;
-      font-size: 1rem;
-    }
-
-    .group-badge {
-      font-size: 0.75rem;
-      padding: 3px 10px;
-      border-radius: 999px;
-      font-weight: 600;
-    }
-
+    .group-header { padding: 18px 20px 14px; border-bottom: 1px solid #2d3348; display: flex; align-items: center; justify-content: space-between; }
+    .group-name { font-weight: 600; font-size: 1rem; }
+    .group-badge { font-size: 0.75rem; padding: 3px 10px; border-radius: 999px; font-weight: 600; }
     .badge-green  { background: #14532d33; color: #4ade80; border: 1px solid #16a34a55; }
     .badge-yellow { background: #78350f33; color: #fbbf24; border: 1px solid #d9770655; }
     .badge-gray   { background: #1e293b; color: #64748b; border: 1px solid #2d3348; }
 
     .group-body { padding: 18px 20px; }
-
-    .group-progress-nums {
-      display: flex;
-      align-items: baseline;
-      gap: 6px;
-      margin-bottom: 12px;
-    }
-
-    .group-progress-nums .done-num {
-      font-size: 2rem;
-      font-weight: 800;
-      color: #fff;
-    }
-
-    .group-progress-nums .total-num {
-      font-size: 1rem;
-      color: #64748b;
-    }
-
-    .group-bar { margin-bottom: 16px; }
-
+    .group-progress-nums { display: flex; align-items: baseline; gap: 6px; margin-bottom: 12px; }
+    .group-progress-nums .done-num { font-size: 2rem; font-weight: 800; color: #fff; }
+    .group-progress-nums .total-num { font-size: 1rem; color: #64748b; }
+    .group-bar { margin-bottom: 10px; }
     .group-bar .bar { height: 8px; }
+
+    .click-hint { font-size: 0.72rem; color: #475569; text-align: right; margin-top: 6px; }
 
     /* customer table */
     .customer-section { margin-top: 16px; }
+    .customer-section h4 { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: #475569; margin-bottom: 10px; }
+    .customer-row { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+    .customer-name { font-size: 0.82rem; color: #94a3b8; width: 100px; flex-shrink: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .customer-bar-wrap { flex: 1; }
+    .customer-bar-wrap .bar { height: 6px; }
+    .customer-count { font-size: 0.78rem; color: #64748b; width: 44px; text-align: right; flex-shrink: 0; }
 
-    .customer-section h4 {
+    /* colors */
+    .color-0 .ring-fg { stroke: #6366f1; }
+    .color-0 .bar-fill { background: #6366f1; }
+    .g-color-0 { background: #6366f1; }
+    .g-color-1 { background: #22c55e; }
+    .g-color-2 { background: #f59e0b; }
+    .g-color-3 { background: #ec4899; }
+    .g-color-4 { background: #14b8a6; }
+    .g-color-5 { background: #f97316; }
+
+    /* ── Modal ── */
+    #modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.75);
+      z-index: 100;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    #modal-overlay.open { display: flex; }
+
+    #modal {
+      background: #1a1f2e;
+      border: 1px solid #2d3348;
+      border-radius: 18px;
+      width: 100%;
+      max-width: 680px;
+      max-height: 85vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    #modal-header {
+      padding: 20px 24px;
+      border-bottom: 1px solid #2d3348;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-shrink: 0;
+    }
+
+    #modal-title { font-size: 1.1rem; font-weight: 700; }
+
+    #modal-close {
+      background: #2d3348;
+      border: none;
+      color: #94a3b8;
+      border-radius: 8px;
+      width: 32px; height: 32px;
+      font-size: 1.1rem;
+      cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+    }
+    #modal-close:hover { background: #3d4460; color: #fff; }
+
+    #modal-body {
+      padding: 20px 24px;
+      overflow-y: auto;
+      flex: 1;
+    }
+
+    .modal-summary {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+
+    .modal-stat {
+      flex: 1;
+      min-width: 100px;
+      background: #0f1117;
+      border: 1px solid #2d3348;
+      border-radius: 10px;
+      padding: 12px 16px;
+      text-align: center;
+    }
+    .modal-stat .stat-num { font-size: 1.8rem; font-weight: 800; }
+    .modal-stat .stat-label { font-size: 0.72rem; color: #64748b; margin-top: 2px; }
+    .stat-done { color: #4ade80; }
+    .stat-out  { color: #fbbf24; }
+    .stat-total { color: #6366f1; }
+
+    .outlet-columns {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .outlet-col h4 {
       font-size: 0.72rem;
       text-transform: uppercase;
       letter-spacing: 0.08em;
-      color: #475569;
       margin-bottom: 10px;
     }
+    .col-outstanding h4 { color: #fbbf24; }
+    .col-done h4        { color: #4ade80; }
 
-    .customer-row {
+    .outlet-list { display: flex; flex-direction: column; gap: 6px; }
+
+    .outlet-chip {
       display: flex;
       align-items: center;
-      gap: 10px;
-      margin-bottom: 8px;
+      gap: 8px;
+      padding: 7px 12px;
+      border-radius: 8px;
+      font-size: 0.88rem;
+      font-weight: 600;
     }
 
-    .customer-name {
-      font-size: 0.82rem;
-      color: #94a3b8;
-      width: 100px;
-      flex-shrink: 0;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
+    .chip-outstanding {
+      background: #78350f22;
+      border: 1px solid #d9770633;
+      color: #fde68a;
     }
 
-    .customer-bar-wrap { flex: 1; }
-
-    .customer-bar-wrap .bar { height: 6px; }
-
-    .customer-count {
-      font-size: 0.78rem;
-      color: #64748b;
-      width: 44px;
-      text-align: right;
-      flex-shrink: 0;
+    .chip-done {
+      background: #14532d22;
+      border: 1px solid #16a34a33;
+      color: #86efac;
     }
 
-    /* color themes per group index */
-    .color-0 .ring-fg, .color-0 .bar-fill { stroke: #6366f1; background: #6366f1; }
-    .color-1 .bar-fill { background: #22c55e; }
-    .color-2 .bar-fill { background: #f59e0b; }
-    .color-3 .bar-fill { background: #ec4899; }
-    .color-4 .bar-fill { background: #14b8a6; }
-    .color-5 .bar-fill { background: #f97316; }
+    .chip-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+    .dot-out  { background: #fbbf24; }
+    .dot-done { background: #4ade80; }
 
-    .cust-fill-0 { background: #6366f1; }
-    .cust-fill-1 { background: #22c55e; }
-    .cust-fill-2 { background: #f59e0b; }
-    .cust-fill-3 { background: #ec4899; }
+    .chip-meta { font-size: 0.72rem; font-weight: 400; color: #64748b; margin-left: auto; }
 
-    footer {
-      text-align: center;
-      margin-top: 32px;
-      font-size: 0.75rem;
-      color: #334155;
-    }
-
-    #error-banner {
-      display: none;
-      background: #450a0a;
-      border: 1px solid #7f1d1d;
-      color: #fca5a5;
-      padding: 10px 16px;
-      border-radius: 10px;
-      margin-bottom: 20px;
-      font-size: 0.85rem;
-    }
+    footer { text-align: center; margin-top: 32px; font-size: 0.75rem; color: #334155; }
+    #error-banner { display: none; background: #450a0a; border: 1px solid #7f1d1d; color: #fca5a5; padding: 10px 16px; border-radius: 10px; margin-bottom: 20px; font-size: 0.85rem; }
   </style>
 </head>
 <body>
@@ -287,84 +262,66 @@
 
 <div id="error-banner">⚠️ Could not load data. Retrying…</div>
 
-<!-- Overall summary -->
 <div id="summary-card">
   <div class="summary-numbers">
     <div class="big-num"><span id="total-done">–</span> / <span id="total-all" style="color:#fff">–</span></div>
     <div class="sub">locations completed across all groups</div>
   </div>
-
   <div class="summary-ring-wrap color-0">
     <svg viewBox="0 0 120 120" width="120" height="120">
       <circle class="ring-bg" cx="60" cy="60" r="52"/>
       <circle class="ring-fg" id="ring-circle" cx="60" cy="60" r="52" stroke-dasharray="326.7" stroke-dashoffset="326.7"/>
     </svg>
-    <div class="ring-label">
-      <span id="ring-pct">0%</span>
-      <small>done</small>
-    </div>
+    <div class="ring-label"><span id="ring-pct">0%</span><small>done</small></div>
   </div>
-
   <div class="overall-bar-wrap">
-    <div class="bar-label">
-      <span>Overall progress</span>
-      <span id="bar-label-right">0 / 0</span>
-    </div>
-    <div class="bar">
-      <div class="bar-fill color-0" id="overall-bar-fill" style="width:0%"></div>
-    </div>
+    <div class="bar-label"><span>Overall progress</span><span id="bar-label-right">0 / 0</span></div>
+    <div class="bar"><div class="bar-fill color-0" id="overall-bar-fill" style="width:0%;background:#6366f1"></div></div>
   </div>
 </div>
 
-<!-- Group cards -->
 <div id="groups-grid"></div>
 
-<footer>Auto-refreshes every 5 seconds · Powered by AI Sam</footer>
+<footer>Auto-refreshes every 5 seconds · Powered by AI Sam · Click a group card for details</footer>
+
+<!-- Modal -->
+<div id="modal-overlay">
+  <div id="modal">
+    <div id="modal-header">
+      <div id="modal-title">Group Details</div>
+      <button id="modal-close">✕</button>
+    </div>
+    <div id="modal-body"></div>
+  </div>
+</div>
 
 <script>
 const REFRESH_MS = 5000;
-const CIRCUMFERENCE = 2 * Math.PI * 52; // ≈326.7
-
+const CIRCUMFERENCE = 2 * Math.PI * 52;
 const COLORS = ['#6366f1','#22c55e','#f59e0b','#ec4899','#14b8a6','#f97316'];
-const CUST_COLORS = ['#6366f1','#22c55e','#f59e0b','#ec4899','#14b8a6','#f97316'];
 
-function pct(done, total) {
-  return total === 0 ? 0 : Math.round((done / total) * 100);
-}
+let currentData = null;
+
+function pct(done, total) { return total === 0 ? 0 : Math.round((done / total) * 100); }
 
 function fmtTime(isoStr) {
-  try {
-    const d = new Date(isoStr);
-    return d.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' });
-  } catch { return isoStr; }
+  try { return new Date(isoStr).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' }); }
+  catch { return isoStr; }
 }
 
-function badgeClass(p) {
-  if (p === 100) return 'badge-green';
-  if (p > 0)    return 'badge-yellow';
-  return 'badge-gray';
-}
-
-function badgeText(p) {
-  if (p === 100) return 'Complete';
-  if (p > 0)    return 'In Progress';
-  return 'Pending';
-}
+function badgeClass(p) { return p === 100 ? 'badge-green' : p > 0 ? 'badge-yellow' : 'badge-gray'; }
+function badgeText(p)  { return p === 100 ? 'Complete'    : p > 0 ? 'In Progress'  : 'Pending'; }
 
 function renderSummary(groups) {
   const totalDone = groups.reduce((s, g) => s + g.done, 0);
   const totalAll  = groups.reduce((s, g) => s + g.total_locations, 0);
   const p = pct(totalDone, totalAll);
-
   document.getElementById('total-done').textContent = totalDone;
   document.getElementById('total-all').textContent  = totalAll;
   document.getElementById('ring-pct').textContent   = p + '%';
   document.getElementById('bar-label-right').textContent = `${totalDone} / ${totalAll}`;
   document.getElementById('overall-bar-fill').style.width = p + '%';
-
-  // ring
-  const offset = CIRCUMFERENCE - (p / 100) * CIRCUMFERENCE;
-  document.getElementById('ring-circle').style.strokeDashoffset = offset;
+  document.getElementById('ring-circle').style.strokeDashoffset = CIRCUMFERENCE - (p / 100) * CIRCUMFERENCE;
 }
 
 function buildGroupCard(group, idx) {
@@ -376,48 +333,77 @@ function buildGroupCard(group, idx) {
   if (hasCust) {
     const rows = group.customers.map((c, ci) => {
       const cp = pct(c.done, c.total);
-      const cc = CUST_COLORS[ci % CUST_COLORS.length];
-      return `
-        <div class="customer-row">
-          <div class="customer-name" title="${c.name}">${c.name}</div>
-          <div class="customer-bar-wrap">
-            <div class="bar"><div class="bar-fill" style="width:${cp}%;background:${cc}"></div></div>
-          </div>
-          <div class="customer-count">${c.done}/${c.total}</div>
-        </div>`;
-    }).join('');
-
-    custHTML = `
-      <div class="customer-section">
-        <h4>Customer Breakdown</h4>
-        ${rows}
+      const cc = COLORS[ci % COLORS.length];
+      return `<div class="customer-row">
+        <div class="customer-name" title="${c.name}">${c.name}</div>
+        <div class="customer-bar-wrap"><div class="bar"><div class="bar-fill" style="width:${cp}%;background:${cc}"></div></div></div>
+        <div class="customer-count">${c.done}/${c.total}</div>
       </div>`;
+    }).join('');
+    custHTML = `<div class="customer-section"><h4>Customer Breakdown</h4>${rows}</div>`;
   }
 
-  return `
-    <div class="group-card">
-      <div class="group-header">
-        <div class="group-name">${group.name}</div>
-        <div class="group-badge ${badgeClass(p)}">${badgeText(p)}</div>
+  return `<div class="group-card" onclick="openModal(${idx})">
+    <div class="group-header">
+      <div class="group-name">${group.name}</div>
+      <div class="group-badge ${badgeClass(p)}">${badgeText(p)}</div>
+    </div>
+    <div class="group-body">
+      <div class="group-progress-nums">
+        <div class="done-num">${group.done}</div>
+        <div class="total-num">/ ${group.total_locations} locations</div>
       </div>
-      <div class="group-body">
-        <div class="group-progress-nums">
-          <div class="done-num">${group.done}</div>
-          <div class="total-num">/ ${group.total_locations} locations</div>
-        </div>
-        <div class="group-bar">
-          <div class="bar">
-            <div class="bar-fill" style="width:${p}%;background:${color}"></div>
-          </div>
-        </div>
-        ${custHTML}
-      </div>
-    </div>`;
+      <div class="group-bar"><div class="bar"><div class="bar-fill" style="width:${p}%;background:${color}"></div></div></div>
+      ${custHTML}
+      <div class="click-hint">Tap to see outlet details →</div>
+    </div>
+  </div>`;
 }
+
+function openModal(idx) {
+  if (!currentData) return;
+  const group = currentData.groups[idx];
+  const color = COLORS[idx % COLORS.length];
+
+  const outstanding = group.outlets_outstanding ?? [];
+  const done        = group.outlets_done ?? [];
+  const total       = group.total_locations;
+  const doneCount   = group.done;
+  const outCount    = total - doneCount;
+
+  document.getElementById('modal-title').textContent = group.name;
+
+  const outChips = outstanding.length
+    ? outstanding.map(o => `<div class="outlet-chip chip-outstanding"><div class="chip-dot dot-out"></div>${o}</div>`).join('')
+    : '<div style="color:#475569;font-size:0.82rem">All done ✅</div>';
+
+  const doneChips = done.length
+    ? done.map(d => {
+        const meta = group.done_detail?.[d];
+        const metaStr = meta ? `<span class="chip-meta">${meta.by ? meta.by.split(' ')[0] : ''} ${meta.time ?? ''}</span>` : '';
+        return `<div class="outlet-chip chip-done"><div class="chip-dot dot-done"></div>${d}${metaStr}</div>`;
+      }).join('')
+    : '<div style="color:#475569;font-size:0.82rem">None yet</div>';
+
+  document.getElementById('modal-body').innerHTML = `
+    <div class="modal-summary">
+      <div class="modal-stat"><div class="stat-num stat-total">${total}</div><div class="stat-label">Total</div></div>
+      <div class="modal-stat"><div class="stat-num stat-done">${doneCount}</div><div class="stat-label">Done</div></div>
+      <div class="modal-stat"><div class="stat-num stat-out">${outCount}</div><div class="stat-label">Outstanding</div></div>
+    </div>
+    <div class="outlet-columns">
+      <div class="outlet-col col-outstanding"><h4>⏳ Outstanding (${outCount})</h4><div class="outlet-list">${outChips}</div></div>
+      <div class="outlet-col col-done"><h4>✅ Done (${doneCount})</h4><div class="outlet-list">${doneChips}</div></div>
+    </div>`;
+
+  document.getElementById('modal-overlay').classList.add('open');
+}
+
+document.getElementById('modal-close').onclick = () => document.getElementById('modal-overlay').classList.remove('open');
+document.getElementById('modal-overlay').onclick = (e) => { if (e.target === document.getElementById('modal-overlay')) document.getElementById('modal-overlay').classList.remove('open'); };
 
 function loadData() {
   try {
-    // Reload dashboard_data.js by injecting a fresh script tag each tick
     const old = document.getElementById('data-script');
     if (old) old.remove();
     const s = document.createElement('script');
@@ -426,13 +412,12 @@ function loadData() {
     s.onload = function() {
       const data = window.DASHBOARD_DATA;
       if (!data) return;
+      currentData = data;
       document.getElementById('error-banner').style.display = 'none';
       document.getElementById('status-dot').style.background = '#22c55e';
-      const ts = data.last_updated ? fmtTime(data.last_updated) : '–';
-      document.getElementById('last-updated').textContent = 'Updated ' + ts;
+      document.getElementById('last-updated').textContent = 'Updated ' + fmtTime(data.last_updated);
       renderSummary(data.groups);
-      document.getElementById('groups-grid').innerHTML =
-        data.groups.map((g, i) => buildGroupCard(g, i)).join('');
+      document.getElementById('groups-grid').innerHTML = data.groups.map((g, i) => buildGroupCard(g, i)).join('');
     };
     s.onerror = function() {
       document.getElementById('error-banner').style.display = 'block';
@@ -440,9 +425,7 @@ function loadData() {
       document.getElementById('last-updated').textContent = 'Error – retrying…';
     };
     document.head.appendChild(s);
-  } catch (e) {
-    console.error(e);
-  }
+  } catch(e) { console.error(e); }
 }
 
 loadData();
