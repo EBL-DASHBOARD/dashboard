@@ -1,294 +1,222 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sam Delivery Dashboard</title>
-  <script src="dashboard_data.js"></script>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>EBL Delivery Dashboard</title>
   <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-
-    body {
-      font-family: 'Segoe UI', system-ui, sans-serif;
-      background: #0f1117;
-      color: #e2e8f0;
-      min-height: 100vh;
-      padding: 24px;
+    *{box-sizing:border-box;margin:0;padding:0}
+    :root{
+      --bg:#0f1117;--card:#1e2230;--border:#2d3348;--text:#e2e8f0;--sub:#64748b;
+      --purple:#6366f1;--green:#22c55e;--amber:#f59e0b;--red:#ef4444;--pink:#ec4899;--teal:#14b8a6;
     }
+    body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;padding:20px}
 
-    header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 28px;
-    }
+    /* ── Header ── */
+    header{display:flex;align-items:center;justify-content:space-between;margin-bottom:20px;flex-wrap:wrap;gap:12px}
+    header h1{font-size:1.4rem;font-weight:700;color:#fff}
+    #live-badge{display:flex;align-items:center;gap:8px;background:var(--card);border:1px solid var(--border);border-radius:999px;padding:5px 14px;font-size:0.78rem;color:var(--sub)}
+    #live-dot{width:8px;height:8px;border-radius:50%;background:var(--green);animation:pulse 2s infinite}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
 
-    header h1 { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.5px; color: #fff; }
+    /* ── Controls ── */
+    #controls{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 20px;margin-bottom:20px;display:flex;flex-direction:column;gap:14px}
+    .ctrl-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+    .ctrl-label{font-size:0.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--sub);width:60px;flex-shrink:0}
 
-    #status-badge {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      background: #1e2230;
-      border: 1px solid #2d3348;
-      border-radius: 999px;
-      padding: 6px 14px;
-      font-size: 0.78rem;
-      color: #94a3b8;
-    }
+    .pill{background:#1a1f2e;border:1px solid var(--border);border-radius:999px;padding:5px 14px;font-size:0.8rem;cursor:pointer;color:var(--sub);transition:all .15s;user-select:none}
+    .pill:hover{border-color:var(--purple);color:#fff}
+    .pill.active{background:var(--purple);border-color:var(--purple);color:#fff;font-weight:600}
+    .pill.group-active{background:#1e1f40;border-color:var(--purple);color:var(--purple)}
 
-    #status-dot {
-      width: 8px; height: 8px;
-      border-radius: 50%;
-      background: #22c55e;
-      animation: pulse 2s infinite;
-    }
-
-    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }
+    .date-inputs{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+    .date-inputs input[type=date]{background:#1a1f2e;border:1px solid var(--border);border-radius:8px;padding:5px 10px;color:var(--text);font-size:0.82rem;cursor:pointer}
+    .date-inputs input[type=date]:focus{outline:none;border-color:var(--purple)}
+    #custom-range{display:none}
 
     /* ── Summary card ── */
-    #summary-card {
-      background: linear-gradient(135deg, #1a1f35 0%, #1e2433 100%);
-      border: 1px solid #2d3348;
-      border-radius: 16px;
-      padding: 28px 32px;
-      margin-bottom: 28px;
-      display: flex;
-      align-items: center;
-      gap: 32px;
-      flex-wrap: wrap;
-    }
+    #summary-card{background:linear-gradient(135deg,#1a1f35,#1e2433);border:1px solid var(--border);border-radius:16px;padding:24px 28px;margin-bottom:20px;display:flex;align-items:center;gap:28px;flex-wrap:wrap}
+    .sum-numbers{flex:1;min-width:180px}
+    .sum-numbers .big{font-size:2.8rem;font-weight:800;line-height:1;color:#fff}
+    .sum-numbers .big span{color:var(--purple)}
+    .sum-numbers .sub{margin-top:6px;font-size:.85rem;color:var(--sub)}
+    .ring-wrap{position:relative;width:110px;height:110px;flex-shrink:0}
+    .ring-wrap svg{transform:rotate(-90deg)}
+    .ring-bg{fill:none;stroke:var(--border);stroke-width:10}
+    .ring-fg{fill:none;stroke:var(--purple);stroke-width:10;stroke-linecap:round;transition:stroke-dashoffset .8s ease}
+    .ring-label{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;font-weight:700;font-size:1.2rem;color:#fff}
+    .ring-label small{font-size:.6rem;font-weight:400;color:var(--sub);margin-top:2px}
+    .sum-bar-wrap{flex:2;min-width:220px}
+    .bar-row{display:flex;justify-content:space-between;font-size:.78rem;color:var(--sub);margin-bottom:6px}
+    .bar{height:10px;background:var(--border);border-radius:999px;overflow:hidden}
+    .bar-fill{height:100%;border-radius:999px;transition:width .8s ease}
 
-    .summary-numbers { flex: 1; min-width: 200px; }
-    .summary-numbers .big-num { font-size: 3rem; font-weight: 800; line-height: 1; color: #fff; }
-    .summary-numbers .big-num span { color: #6366f1; }
-    .summary-numbers .sub { margin-top: 6px; font-size: 0.9rem; color: #64748b; }
+    /* period summary stats */
+    #period-stats{display:flex;gap:12px;margin-bottom:20px;flex-wrap:wrap}
+    .pstat{flex:1;min-width:120px;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 18px;text-align:center}
+    .pstat .pnum{font-size:1.8rem;font-weight:800}
+    .pstat .plabel{font-size:.72rem;color:var(--sub);margin-top:3px}
 
-    .summary-ring-wrap { position: relative; width: 120px; height: 120px; flex-shrink: 0; }
-    .summary-ring-wrap svg { transform: rotate(-90deg); }
-    .ring-bg { fill: none; stroke: #2d3348; stroke-width: 10; }
-    .ring-fg { fill: none; stroke: #6366f1; stroke-width: 10; stroke-linecap: round; transition: stroke-dashoffset 0.8s ease; }
-    .ring-label { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; font-weight: 700; font-size: 1.3rem; color: #fff; }
-    .ring-label small { font-size: 0.65rem; font-weight: 400; color: #64748b; margin-top: 2px; }
+    /* ── Group cards ── */
+    #groups-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px;margin-bottom:20px}
+    .g-card{background:var(--card);border:1px solid var(--border);border-radius:14px;overflow:hidden;cursor:pointer;transition:border-color .2s,transform .15s}
+    .g-card:hover{border-color:var(--purple);transform:translateY(-2px)}
+    .g-card.flash{animation:flash-card .6s ease}
+    @keyframes flash-card{0%{border-color:var(--green);box-shadow:0 0 12px #22c55e55}100%{border-color:var(--border);box-shadow:none}}
+    .g-head{padding:16px 18px 12px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between}
+    .g-name{font-weight:600;font-size:.95rem}
+    .badge{font-size:.72rem;padding:3px 10px;border-radius:999px;font-weight:600}
+    .b-green{background:#14532d33;color:#4ade80;border:1px solid #16a34a55}
+    .b-amber{background:#78350f33;color:#fbbf24;border:1px solid #d9770655}
+    .b-gray{background:#1e293b;color:var(--sub);border:1px solid var(--border)}
+    .g-body{padding:16px 18px}
+    .g-nums{display:flex;align-items:baseline;gap:6px;margin-bottom:10px}
+    .g-done{font-size:1.9rem;font-weight:800;color:#fff}
+    .g-total{font-size:.95rem;color:var(--sub)}
+    .g-bar .bar{height:7px}
+    .click-hint{font-size:.7rem;color:#475569;text-align:right;margin-top:8px}
 
-    .overall-bar-wrap { flex: 2; min-width: 240px; }
-    .overall-bar-wrap .bar-label { display: flex; justify-content: space-between; font-size: 0.82rem; color: #64748b; margin-bottom: 8px; }
-
-    .bar { height: 12px; background: #2d3348; border-radius: 999px; overflow: hidden; }
-    .bar-fill { height: 100%; border-radius: 999px; transition: width 0.8s ease; }
-
-    /* ── Group grid ── */
-    #groups-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
-
-    .group-card {
-      background: #1e2230;
-      border: 1px solid #2d3348;
-      border-radius: 14px;
-      overflow: hidden;
-      cursor: pointer;
-      transition: border-color 0.2s, transform 0.15s;
-    }
-    .group-card:hover { border-color: #6366f1; transform: translateY(-2px); }
-
-    .group-header { padding: 18px 20px 14px; border-bottom: 1px solid #2d3348; display: flex; align-items: center; justify-content: space-between; }
-    .group-name { font-weight: 600; font-size: 1rem; }
-    .group-badge { font-size: 0.75rem; padding: 3px 10px; border-radius: 999px; font-weight: 600; }
-    .badge-green  { background: #14532d33; color: #4ade80; border: 1px solid #16a34a55; }
-    .badge-yellow { background: #78350f33; color: #fbbf24; border: 1px solid #d9770655; }
-    .badge-gray   { background: #1e293b; color: #64748b; border: 1px solid #2d3348; }
-
-    .group-body { padding: 18px 20px; }
-    .group-progress-nums { display: flex; align-items: baseline; gap: 6px; margin-bottom: 12px; }
-    .group-progress-nums .done-num { font-size: 2rem; font-weight: 800; color: #fff; }
-    .group-progress-nums .total-num { font-size: 1rem; color: #64748b; }
-    .group-bar { margin-bottom: 10px; }
-    .group-bar .bar { height: 8px; }
-
-    .click-hint { font-size: 0.72rem; color: #475569; text-align: right; margin-top: 6px; }
-
-    /* customer table */
-    .customer-section { margin-top: 16px; }
-    .customer-section h4 { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: #475569; margin-bottom: 10px; }
-    .customer-row { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
-    .customer-name { font-size: 0.82rem; color: #94a3b8; width: 100px; flex-shrink: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-    .customer-bar-wrap { flex: 1; }
-    .customer-bar-wrap .bar { height: 6px; }
-    .customer-count { font-size: 0.78rem; color: #64748b; width: 44px; text-align: right; flex-shrink: 0; }
-
-    /* colors */
-    .color-0 .ring-fg { stroke: #6366f1; }
-    .color-0 .bar-fill { background: #6366f1; }
-    .g-color-0 { background: #6366f1; }
-    .g-color-1 { background: #22c55e; }
-    .g-color-2 { background: #f59e0b; }
-    .g-color-3 { background: #ec4899; }
-    .g-color-4 { background: #14b8a6; }
-    .g-color-5 { background: #f97316; }
+    /* ── Period table ── */
+    #period-table-wrap{background:var(--card);border:1px solid var(--border);border-radius:14px;overflow:auto;margin-bottom:20px}
+    table{width:100%;border-collapse:collapse;font-size:.85rem}
+    thead th{padding:12px 16px;text-align:left;font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--sub);border-bottom:1px solid var(--border);white-space:nowrap}
+    tbody tr{border-bottom:1px solid #1e2230;cursor:pointer;transition:background .15s}
+    tbody tr:hover{background:#232840}
+    tbody tr:last-child{border-bottom:none}
+    td{padding:11px 16px;white-space:nowrap}
+    td.date-cell{font-weight:600;color:#fff}
+    td.pct-cell{font-weight:700}
+    .mini-bar{height:5px;background:var(--border);border-radius:999px;overflow:hidden;margin-top:4px;min-width:80px}
+    .mini-fill{height:100%;border-radius:999px}
+    .prob-badge{display:inline-flex;align-items:center;gap:4px;font-size:.72rem;background:#450a0a55;color:#fca5a5;border:1px solid #7f1d1d55;border-radius:999px;padding:2px 8px}
 
     /* ── Modal ── */
-    #modal-overlay {
-      display: none;
-      position: fixed;
-      inset: 0;
-      background: rgba(0,0,0,0.75);
-      z-index: 100;
-      align-items: center;
-      justify-content: center;
-      padding: 20px;
+    #overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.78);z-index:200;align-items:center;justify-content:center;padding:16px}
+    #overlay.open{display:flex}
+    #modal{background:#1a1f2e;border:1px solid var(--border);border-radius:18px;width:100%;max-width:700px;max-height:88vh;display:flex;flex-direction:column;overflow:hidden}
+    #modal-head{padding:18px 22px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;flex-shrink:0;gap:12px;flex-wrap:wrap}
+    #modal-title{font-size:1rem;font-weight:700}
+    #modal-date{font-size:.8rem;color:var(--sub)}
+    #modal-close{background:var(--border);border:none;color:var(--sub);border-radius:8px;width:30px;height:30px;font-size:1rem;cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+    #modal-close:hover{background:#3d4460;color:#fff}
+    #modal-body{padding:18px 22px;overflow-y:auto;flex:1}
+
+    .m-stats{display:flex;gap:10px;margin-bottom:18px;flex-wrap:wrap}
+    .m-stat{flex:1;min-width:90px;background:#0f1117;border:1px solid var(--border);border-radius:10px;padding:10px 14px;text-align:center}
+    .m-stat .mn{font-size:1.6rem;font-weight:800}
+    .m-stat .ml{font-size:.68rem;color:var(--sub);margin-top:2px}
+    .c-purple{color:var(--purple)}
+    .c-green{color:var(--green)}
+    .c-amber{color:var(--amber)}
+    .c-red{color:var(--red)}
+
+    .m-cols{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:16px}
+    .m-col h4{font-size:.68rem;text-transform:uppercase;letter-spacing:.08em;margin-bottom:8px;display:flex;align-items:center;gap:6px}
+    .col-out h4{color:var(--amber)}
+    .col-done h4{color:var(--green)}
+    .outlet-list{display:flex;flex-direction:column;gap:5px}
+    .o-chip{display:flex;align-items:center;gap:7px;padding:6px 10px;border-radius:8px;font-size:.82rem;font-weight:600}
+    .o-out{background:#78350f18;border:1px solid #d9770622;color:#fde68a}
+    .o-out.late{background:#7f1d1d22;border-color:#ef444433;color:#fca5a5}
+    .o-done{background:#14532d18;border:1px solid #16a34a22;color:#86efac}
+    .o-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0}
+    .dot-out{background:var(--amber)}
+    .dot-late{background:var(--red)}
+    .dot-done{background:var(--green)}
+    .o-meta{font-size:.68rem;font-weight:400;color:var(--sub);margin-left:auto;text-align:right}
+    .late-tag{font-size:.62rem;background:#7f1d1d55;color:#fca5a5;border-radius:4px;padding:1px 5px;margin-left:4px}
+
+    .m-probs{margin-top:4px}
+    .m-probs h4{font-size:.68rem;text-transform:uppercase;letter-spacing:.08em;color:var(--red);margin-bottom:8px;display:flex;align-items:center;gap:6px}
+    .prob-item{background:#450a0a22;border:1px solid #7f1d1d33;border-radius:8px;padding:8px 12px;margin-bottom:6px;font-size:.82rem}
+    .prob-item .prob-meta{font-size:.7rem;color:var(--sub);margin-top:3px}
+    .resolved{opacity:.5;text-decoration:line-through}
+
+    .no-data{color:var(--sub);font-size:.82rem;padding:6px 0}
+
+    footer{text-align:center;margin-top:24px;font-size:.72rem;color:#334155}
+
+    @media(max-width:500px){
+      .m-cols{grid-template-columns:1fr}
+      #summary-card{flex-direction:column}
+      .ctrl-label{width:auto}
     }
-    #modal-overlay.open { display: flex; }
-
-    #modal {
-      background: #1a1f2e;
-      border: 1px solid #2d3348;
-      border-radius: 18px;
-      width: 100%;
-      max-width: 680px;
-      max-height: 85vh;
-      display: flex;
-      flex-direction: column;
-      overflow: hidden;
-    }
-
-    #modal-header {
-      padding: 20px 24px;
-      border-bottom: 1px solid #2d3348;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      flex-shrink: 0;
-    }
-
-    #modal-title { font-size: 1.1rem; font-weight: 700; }
-
-    #modal-close {
-      background: #2d3348;
-      border: none;
-      color: #94a3b8;
-      border-radius: 8px;
-      width: 32px; height: 32px;
-      font-size: 1.1rem;
-      cursor: pointer;
-      display: flex; align-items: center; justify-content: center;
-    }
-    #modal-close:hover { background: #3d4460; color: #fff; }
-
-    #modal-body {
-      padding: 20px 24px;
-      overflow-y: auto;
-      flex: 1;
-    }
-
-    .modal-summary {
-      display: flex;
-      gap: 12px;
-      margin-bottom: 20px;
-      flex-wrap: wrap;
-    }
-
-    .modal-stat {
-      flex: 1;
-      min-width: 100px;
-      background: #0f1117;
-      border: 1px solid #2d3348;
-      border-radius: 10px;
-      padding: 12px 16px;
-      text-align: center;
-    }
-    .modal-stat .stat-num { font-size: 1.8rem; font-weight: 800; }
-    .modal-stat .stat-label { font-size: 0.72rem; color: #64748b; margin-top: 2px; }
-    .stat-done { color: #4ade80; }
-    .stat-out  { color: #fbbf24; }
-    .stat-total { color: #6366f1; }
-
-    .outlet-columns {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 16px;
-    }
-
-    .outlet-col h4 {
-      font-size: 0.72rem;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      margin-bottom: 10px;
-    }
-    .col-outstanding h4 { color: #fbbf24; }
-    .col-done h4        { color: #4ade80; }
-
-    .outlet-list { display: flex; flex-direction: column; gap: 6px; }
-
-    .outlet-chip {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      padding: 7px 12px;
-      border-radius: 8px;
-      font-size: 0.88rem;
-      font-weight: 600;
-    }
-
-    .chip-outstanding {
-      background: #78350f22;
-      border: 1px solid #d9770633;
-      color: #fde68a;
-    }
-
-    .chip-done {
-      background: #14532d22;
-      border: 1px solid #16a34a33;
-      color: #86efac;
-    }
-
-    .chip-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
-    .dot-out  { background: #fbbf24; }
-    .dot-done { background: #4ade80; }
-
-    .chip-meta { font-size: 0.72rem; font-weight: 400; color: #64748b; margin-left: auto; }
-
-    footer { text-align: center; margin-top: 32px; font-size: 0.75rem; color: #334155; }
-    #error-banner { display: none; background: #450a0a; border: 1px solid #7f1d1d; color: #fca5a5; padding: 10px 16px; border-radius: 10px; margin-bottom: 20px; font-size: 0.85rem; }
   </style>
 </head>
 <body>
 
 <header>
-  <h1>🚚 Delivery Dashboard</h1>
-  <div id="status-badge">
-    <div id="status-dot"></div>
-    <span id="last-updated">Connecting…</span>
+  <h1>🚚 EBL Delivery Dashboard</h1>
+  <div id="live-badge">
+    <div id="live-dot"></div>
+    <span id="live-txt">Loading…</span>
   </div>
 </header>
 
-<div id="error-banner">⚠️ Could not load data. Retrying…</div>
-
-<div id="summary-card">
-  <div class="summary-numbers">
-    <div class="big-num"><span id="total-done">–</span> / <span id="total-all" style="color:#fff">–</span></div>
-    <div class="sub">locations completed across all groups</div>
+<div id="controls">
+  <div class="ctrl-row">
+    <div class="ctrl-label">Groups</div>
+    <div id="group-pills"></div>
   </div>
-  <div class="summary-ring-wrap color-0">
-    <svg viewBox="0 0 120 120" width="120" height="120">
-      <circle class="ring-bg" cx="60" cy="60" r="52"/>
-      <circle class="ring-fg" id="ring-circle" cx="60" cy="60" r="52" stroke-dasharray="326.7" stroke-dashoffset="326.7"/>
-    </svg>
-    <div class="ring-label"><span id="ring-pct">0%</span><small>done</small></div>
+  <div class="ctrl-row">
+    <div class="ctrl-label">Period</div>
+    <div id="period-pills">
+      <span class="pill active" data-p="TODAY">Today</span>
+      <span class="pill" data-p="1W">1 Week</span>
+      <span class="pill" data-p="1M">1 Month</span>
+      <span class="pill" data-p="3M">3 Months</span>
+      <span class="pill" data-p="1Y">1 Year</span>
+      <span class="pill" data-p="CUSTOM">Custom</span>
+    </div>
   </div>
-  <div class="overall-bar-wrap">
-    <div class="bar-label"><span>Overall progress</span><span id="bar-label-right">0 / 0</span></div>
-    <div class="bar"><div class="bar-fill color-0" id="overall-bar-fill" style="width:0%;background:#6366f1"></div></div>
+  <div class="ctrl-row" id="custom-range">
+    <div class="ctrl-label">Range</div>
+    <div class="date-inputs">
+      <input type="date" id="from-date"/>
+      <span style="color:var(--sub)">→</span>
+      <input type="date" id="to-date"/>
+    </div>
   </div>
 </div>
 
-<div id="groups-grid"></div>
+<div id="summary-card" style="display:none">
+  <div class="sum-numbers">
+    <div class="big"><span id="s-done">–</span> / <span id="s-total" style="color:#fff">–</span></div>
+    <div class="sub" id="s-label">locations completed</div>
+  </div>
+  <div class="ring-wrap">
+    <svg viewBox="0 0 110 110" width="110" height="110">
+      <circle class="ring-bg" cx="55" cy="55" r="48"/>
+      <circle class="ring-fg" id="ring-fg" cx="55" cy="55" r="48"
+        stroke-dasharray="301.6" stroke-dashoffset="301.6"/>
+    </svg>
+    <div class="ring-label"><span id="ring-pct">0%</span><small>done</small></div>
+  </div>
+  <div class="sum-bar-wrap">
+    <div class="bar-row"><span>Overall progress</span><span id="s-bar-lbl">0/0</span></div>
+    <div class="bar"><div class="bar-fill" id="s-bar" style="width:0%;background:var(--purple)"></div></div>
+  </div>
+</div>
 
-<footer>Auto-refreshes every 5 seconds · Powered by AI Sam · Click a group card for details</footer>
+<div id="period-stats" style="display:none"></div>
+<div id="groups-grid" style="display:none"></div>
+<div id="period-table-wrap" style="display:none">
+  <table>
+    <thead id="tbl-head"></thead>
+    <tbody id="tbl-body"></tbody>
+  </table>
+</div>
+
+<footer>Auto-refreshes every 10s · Click a card or row for outlet detail · Powered by AI Sam</footer>
 
 <!-- Modal -->
-<div id="modal-overlay">
+<div id="overlay">
   <div id="modal">
-    <div id="modal-header">
-      <div id="modal-title">Group Details</div>
+    <div id="modal-head">
+      <div>
+        <div id="modal-title">Group Detail</div>
+        <div id="modal-date"></div>
+      </div>
       <button id="modal-close">✕</button>
     </div>
     <div id="modal-body"></div>
@@ -296,140 +224,392 @@
 </div>
 
 <script>
-const REFRESH_MS = 5000;
-const CIRCUMFERENCE = 2 * Math.PI * 52;
-const COLORS = ['#6366f1','#22c55e','#f59e0b','#ec4899','#14b8a6','#f97316'];
+const CIRC = 2 * Math.PI * 48; // ≈301.6
+const COLORS = ['#6366f1','#22c55e','#f59e0b','#ec4899','#14b8a6','#f97316','#3b82f6','#a855f7'];
+const BASE = location.hostname === 'localhost' || location.protocol === 'file:'
+  ? './'
+  : './';
 
-let currentData = null;
+// ── State ──
+const S = {
+  index: [],
+  cache: {},
+  groups: [],        // [{id,name}] discovered
+  selGroups: new Set(['ALL']),
+  period: 'TODAY',
+  customFrom: null,
+  customTo: null,
+  viewDate: todayKey(),
+  prevDone: {},      // groupId → Set of done codes (flash detection)
+  modalGroupIdx: 0,
+  modalDate: null,
+};
 
-function pct(done, total) { return total === 0 ? 0 : Math.round((done / total) * 100); }
+// ── Helpers ──
+function todayKey() {
+  const d = new Date();
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+}
+function fmtDate(k) {
+  if (!k) return '';
+  const [y,m,d] = k.split('-');
+  return new Date(+y,+m-1,+d).toLocaleDateString('en-SG',{day:'2-digit',month:'short',year:'numeric'});
+}
+function pct(done,total){ return total ? Math.round(done/total*100) : 0; }
+function pctColor(p){ return p===100?'var(--green)':p>=70?'var(--purple)':p>=40?'var(--amber)':'var(--red)'; }
 
-function fmtTime(isoStr) {
-  try { return new Date(isoStr).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' }); }
-  catch { return isoStr; }
+function offsetDate(days) {
+  const d = new Date(); d.setDate(d.getDate() + days);
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+}
+function periodRange() {
+  const t = todayKey();
+  if (S.period === 'TODAY') return [t, t];
+  if (S.period === '1W')    return [offsetDate(-6), t];
+  if (S.period === '1M')    return [offsetDate(-29), t];
+  if (S.period === '3M')    return [offsetDate(-89), t];
+  if (S.period === '1Y')    return [offsetDate(-364), t];
+  if (S.period === 'CUSTOM') return [S.customFrom || t, S.customTo || t];
+  return [t, t];
 }
 
-function badgeClass(p) { return p === 100 ? 'badge-green' : p > 0 ? 'badge-yellow' : 'badge-gray'; }
-function badgeText(p)  { return p === 100 ? 'Complete'    : p > 0 ? 'In Progress'  : 'Pending'; }
+// ── Data loading ──
+async function fetchJson(url) {
+  const r = await fetch(url + '?_=' + Date.now());
+  if (!r.ok) throw new Error(`${r.status} ${url}`);
+  return r.json();
+}
 
+async function loadIndex() {
+  try {
+    S.index = await fetchJson(BASE + 'data/index.json');
+  } catch { S.index = []; }
+}
+
+async function loadDay(dateKey) {
+  if (S.cache[dateKey]) return S.cache[dateKey];
+  try {
+    const data = await fetchJson(BASE + `data/${dateKey}.json`);
+    S.cache[dateKey] = data;
+    return data;
+  } catch { return null; }
+}
+
+async function loadRange(from, to) {
+  const days = S.index.filter(d => d >= from && d <= to);
+  const results = await Promise.all(days.map(d => loadDay(d)));
+  return days.map((d,i) => ({ date: d, data: results[i] })).filter(x => x.data);
+}
+
+// ── Group discovery ──
+function discoverGroups(dayData) {
+  if (!dayData?.groups) return;
+  for (const g of dayData.groups) {
+    if (!S.groups.find(x => x.id === g.id)) {
+      S.groups.push({ id: g.id, name: g.name });
+    }
+  }
+}
+
+function isGroupVisible(groupId) {
+  return S.selGroups.has('ALL') || S.selGroups.has(groupId);
+}
+
+// ── Render group pills ──
+function renderGroupPills() {
+  const wrap = document.getElementById('group-pills');
+  const pills = [{ id: 'ALL', name: 'All Groups' }, ...S.groups];
+  wrap.innerHTML = pills.map(g => {
+    const active = S.selGroups.has('ALL') && g.id === 'ALL' ? 'active'
+      : !S.selGroups.has('ALL') && S.selGroups.has(g.id) ? 'active' : '';
+    return `<span class="pill ${active}" data-gid="${g.id}" style="margin:2px">${g.name}</span>`;
+  }).join('');
+  wrap.querySelectorAll('.pill').forEach(p => p.onclick = () => toggleGroup(p.dataset.gid));
+}
+
+function toggleGroup(gid) {
+  if (gid === 'ALL') { S.selGroups = new Set(['ALL']); }
+  else {
+    S.selGroups.delete('ALL');
+    if (S.selGroups.has(gid)) { S.selGroups.delete(gid); if (!S.selGroups.size) S.selGroups = new Set(['ALL']); }
+    else S.selGroups.add(gid);
+  }
+  renderGroupPills();
+  render();
+}
+
+// ── Summary card ──
 function renderSummary(groups) {
-  const totalDone = groups.reduce((s, g) => s + g.done, 0);
-  const totalAll  = groups.reduce((s, g) => s + g.total_locations, 0);
+  const visible = groups.filter(g => isGroupVisible(g.id));
+  const totalDone = visible.reduce((s,g)=>s+g.done,0);
+  const totalAll  = visible.reduce((s,g)=>s+g.total_locations,0);
   const p = pct(totalDone, totalAll);
-  document.getElementById('total-done').textContent = totalDone;
-  document.getElementById('total-all').textContent  = totalAll;
-  document.getElementById('ring-pct').textContent   = p + '%';
-  document.getElementById('bar-label-right').textContent = `${totalDone} / ${totalAll}`;
-  document.getElementById('overall-bar-fill').style.width = p + '%';
-  document.getElementById('ring-circle').style.strokeDashoffset = CIRCUMFERENCE - (p / 100) * CIRCUMFERENCE;
+  document.getElementById('s-done').textContent = totalDone;
+  document.getElementById('s-total').textContent = totalAll;
+  document.getElementById('s-bar-lbl').textContent = `${totalDone}/${totalAll}`;
+  document.getElementById('ring-pct').textContent = p+'%';
+  document.getElementById('s-bar').style.width = p+'%';
+  document.getElementById('ring-fg').style.strokeDashoffset = CIRC - (p/100)*CIRC;
+  document.getElementById('summary-card').style.display = 'flex';
 }
 
-function buildGroupCard(group, idx) {
-  const color = COLORS[idx % COLORS.length];
-  const p = pct(group.done, group.total_locations);
-  const hasCust = group.customers && group.customers.length > 0;
+// ── Group cards (single day) ──
+function renderCards(groups, dateKey) {
+  const grid = document.getElementById('groups-grid');
+  const visible = groups.filter(g => isGroupVisible(g.id));
+  grid.innerHTML = visible.map((g, i) => {
+    const color = COLORS[i % COLORS.length];
+    const p = pct(g.done, g.total_locations);
+    const badge = p===100 ? 'b-green Complete' : p>0 ? 'b-amber In Progress' : 'b-gray Pending';
+    const [bc, bt] = badge.split(' ');
+    return `<div class="g-card" onclick="openModal(${i},${JSON.stringify(dateKey)})">
+      <div class="g-head">
+        <div class="g-name">${g.name}</div>
+        <div class="badge ${bc}">${bt}</div>
+      </div>
+      <div class="g-body">
+        <div class="g-nums"><div class="g-done">${g.done}</div><div class="g-total">/ ${g.total_locations} locations</div></div>
+        <div class="g-bar"><div class="bar"><div class="bar-fill" style="width:${p}%;background:${color}"></div></div></div>
+        ${g.problems?.length ? `<div style="margin-top:8px;font-size:.75rem;color:var(--red)">🚩 ${g.problems.length} problem${g.problems.length>1?'s':''}</div>` : ''}
+        <div class="click-hint">Tap for outlet detail →</div>
+      </div>
+    </div>`;
+  }).join('');
+  grid.style.display = 'grid';
 
-  let custHTML = '';
-  if (hasCust) {
-    const rows = group.customers.map((c, ci) => {
-      const cp = pct(c.done, c.total);
-      const cc = COLORS[ci % COLORS.length];
-      return `<div class="customer-row">
-        <div class="customer-name" title="${c.name}">${c.name}</div>
-        <div class="customer-bar-wrap"><div class="bar"><div class="bar-fill" style="width:${cp}%;background:${cc}"></div></div></div>
-        <div class="customer-count">${c.done}/${c.total}</div>
-      </div>`;
-    }).join('');
-    custHTML = `<div class="customer-section"><h4>Customer Breakdown</h4>${rows}</div>`;
+  // Flash newly done outlets
+  visible.forEach(g => {
+    const prev = S.prevDone[g.id] ?? new Set();
+    const curr = new Set(g.outlets_done ?? []);
+    const hasNew = [...curr].some(c => !prev.has(c));
+    if (hasNew) {
+      const cards = grid.querySelectorAll('.g-card');
+      const idx = visible.indexOf(g);
+      if (cards[idx]) { cards[idx].classList.remove('flash'); void cards[idx].offsetWidth; cards[idx].classList.add('flash'); }
+    }
+    S.prevDone[g.id] = curr;
+  });
+}
+
+// ── Period table ──
+async function renderPeriodTable(from, to) {
+  const entries = await loadRange(from, to);
+  const gids = S.selGroups.has('ALL') ? S.groups.map(g=>g.id) : [...S.selGroups];
+  const gNames = gids.map(id => S.groups.find(g=>g.id===id)?.name ?? id);
+
+  // Period summary stats
+  let totalDays=0, totalDone=0, totalLocs=0, totalProbs=0;
+  for (const {data} of entries) {
+    const vis = (data.groups??[]).filter(g=>gids.includes(g.id));
+    totalDone += vis.reduce((s,g)=>s+g.done,0);
+    totalLocs += vis.reduce((s,g)=>s+g.total_locations,0);
+    totalProbs += vis.reduce((s,g)=>s+(g.problems?.length??0),0);
+    if (vis.length) totalDays++;
+  }
+  const avgPct = totalLocs ? pct(totalDone, totalLocs) : 0;
+
+  document.getElementById('period-stats').innerHTML = `
+    <div class="pstat"><div class="pnum c-purple">${totalDays}</div><div class="plabel">Working Days</div></div>
+    <div class="pstat"><div class="pnum c-green">${totalDone}</div><div class="plabel">Total Done</div></div>
+    <div class="pstat"><div class="pnum" style="color:var(--sub)">${totalLocs}</div><div class="plabel">Total Stops</div></div>
+    <div class="pstat"><div class="pnum" style="color:${pctColor(avgPct)}">${avgPct}%</div><div class="plabel">Avg Completion</div></div>
+    <div class="pstat"><div class="pnum c-red">${totalProbs}</div><div class="plabel">Problems</div></div>
+  `;
+  document.getElementById('period-stats').style.display = 'flex';
+
+  // Table header
+  let headCols = '<th>Date</th>';
+  if (gids.length === 1) headCols += '<th>Done</th><th>Total</th>';
+  else gNames.forEach(n => headCols += `<th>${n}</th>`);
+  headCols += '<th>%</th><th>Problems</th>';
+  document.getElementById('tbl-head').innerHTML = `<tr>${headCols}</tr>`;
+
+  // Table rows
+  const rows = entries.map(({date, data}) => {
+    const vis = (data.groups??[]).filter(g=>gids.includes(g.id));
+    const rowDone = vis.reduce((s,g)=>s+g.done,0);
+    const rowTotal = vis.reduce((s,g)=>s+g.total_locations,0);
+    const rowPct = pct(rowDone, rowTotal);
+    const rowProbs = vis.reduce((s,g)=>s+(g.problems?.length??0),0);
+    const color = pctColor(rowPct);
+
+    let dataCols = '';
+    if (gids.length === 1) {
+      dataCols = `<td>${rowDone}</td><td>${rowTotal}</td>`;
+    } else {
+      gids.forEach(gid => {
+        const g = vis.find(x=>x.id===gid);
+        dataCols += g ? `<td>${g.done}/${g.total_locations}</td>` : '<td style="color:var(--sub)">–</td>';
+      });
+    }
+
+    return `<tr onclick="openDayModal(${JSON.stringify(date)})">
+      <td class="date-cell">${fmtDate(date)}</td>
+      ${dataCols}
+      <td class="pct-cell" style="color:${color}">${rowPct}%
+        <div class="mini-bar"><div class="mini-fill" style="width:${rowPct}%;background:${color}"></div></div>
+      </td>
+      <td>${rowProbs ? `<span class="prob-badge">🚩 ${rowProbs}</span>` : '<span style="color:var(--sub)">–</span>'}</td>
+    </tr>`;
+  }).join('');
+
+  document.getElementById('tbl-body').innerHTML = rows || '<tr><td colspan="10" style="text-align:center;padding:20px;color:var(--sub)">No data for this period</td></tr>';
+  document.getElementById('period-table-wrap').style.display = 'block';
+}
+
+// ── Modal ──
+async function openDayModal(dateKey) {
+  const data = await loadDay(dateKey);
+  if (!data) return;
+  const visible = (data.groups??[]).filter(g=>isGroupVisible(g.id));
+  if (!visible.length) return;
+  const g = visible[0]; // show first visible group; could expand to tabs later
+  S.modalDate = dateKey;
+  buildModal(g, dateKey);
+}
+
+function openModal(cardIdx, dateKey) {
+  S.modalDate = dateKey;
+  const data = S.cache[dateKey];
+  if (!data) return;
+  const visible = (data.groups??[]).filter(g=>isGroupVisible(g.id));
+  buildModal(visible[cardIdx], dateKey);
+}
+
+function buildModal(g, dateKey) {
+  if (!g) return;
+  document.getElementById('modal-title').textContent = g.name;
+  document.getElementById('modal-date').textContent = fmtDate(dateKey);
+
+  const outstanding = g.outlets_outstanding ?? [];
+  const done        = g.outlets_done ?? [];
+  const detail      = g.done_detail ?? {};
+  const problems    = g.problems ?? [];
+  const amSet       = new Set(g.am_outlets ?? []);
+  const now         = todayKey() === dateKey ? new Date() : null;
+
+  // Late logic: AM outlet still outstanding past 11:00 on the day
+  function isLate(code) {
+    if (!now) return false; // historical — don't flag
+    const h = now.getHours(), m = now.getMinutes();
+    const amLate = amSet.has(code) && (h > 11 || (h === 11 && m > 0));
+    const pmLate = !amSet.has(code) && (h > 19);
+    return amLate || pmLate;
   }
 
-  return `<div class="group-card" onclick="openModal(${idx})">
-    <div class="group-header">
-      <div class="group-name">${group.name}</div>
-      <div class="group-badge ${badgeClass(p)}">${badgeText(p)}</div>
-    </div>
-    <div class="group-body">
-      <div class="group-progress-nums">
-        <div class="done-num">${group.done}</div>
-        <div class="total-num">/ ${group.total_locations} locations</div>
-      </div>
-      <div class="group-bar"><div class="bar"><div class="bar-fill" style="width:${p}%;background:${color}"></div></div></div>
-      ${custHTML}
-      <div class="click-hint">Tap to see outlet details →</div>
-    </div>
-  </div>`;
-}
-
-function openModal(idx) {
-  if (!currentData) return;
-  const group = currentData.groups[idx];
-  const color = COLORS[idx % COLORS.length];
-
-  const outstanding = group.outlets_outstanding ?? [];
-  const done        = group.outlets_done ?? [];
-  const total       = group.total_locations;
-  const doneCount   = group.done;
-  const outCount    = total - doneCount;
-
-  document.getElementById('modal-title').textContent = group.name;
-
   const outChips = outstanding.length
-    ? outstanding.map(o => `<div class="outlet-chip chip-outstanding"><div class="chip-dot dot-out"></div>${o}</div>`).join('')
-    : '<div style="color:#475569;font-size:0.82rem">All done ✅</div>';
+    ? outstanding.map(code => {
+        const late = isLate(code);
+        return `<div class="o-chip ${late ? 'o-out late' : 'o-out'}">
+          <div class="o-dot ${late ? 'dot-late' : 'dot-out'}"></div>
+          ${code}
+          ${late ? '<span class="late-tag">LATE</span>' : ''}
+        </div>`;
+      }).join('')
+    : '<div class="no-data">All done ✅</div>';
 
   const doneChips = done.length
-    ? done.map(d => {
-        const meta = group.done_detail?.[d];
-        const metaStr = meta ? `<span class="chip-meta">${meta.by ? meta.by.split(' ')[0] : ''} ${meta.time ?? ''}</span>` : '';
-        return `<div class="outlet-chip chip-done"><div class="chip-dot dot-done"></div>${d}${metaStr}</div>`;
+    ? done.map(code => {
+        const d = detail[code];
+        const meta = d ? `${d.by ? d.by.split(' ')[0] : ''} ${d.time ?? ''}`.trim() : '';
+        return `<div class="o-chip o-done">
+          <div class="o-dot dot-done"></div>
+          ${code}
+          ${meta ? `<span class="o-meta">${meta}</span>` : ''}
+        </div>`;
       }).join('')
-    : '<div style="color:#475569;font-size:0.82rem">None yet</div>';
+    : '<div class="no-data">None yet</div>';
+
+  const probHtml = problems.length
+    ? problems.map(p => `
+        <div class="prob-item ${p.resolved ? 'resolved' : ''}">
+          ${p.text}
+          <div class="prob-meta">${p.by ?? ''} · ${p.time ?? ''}${p.escalated ? ' · ⚠️ Escalated' : ''}${p.resolved ? ' · ✅ Resolved' : ''}</div>
+        </div>`).join('')
+    : '<div class="no-data">No problems logged</div>';
 
   document.getElementById('modal-body').innerHTML = `
-    <div class="modal-summary">
-      <div class="modal-stat"><div class="stat-num stat-total">${total}</div><div class="stat-label">Total</div></div>
-      <div class="modal-stat"><div class="stat-num stat-done">${doneCount}</div><div class="stat-label">Done</div></div>
-      <div class="modal-stat"><div class="stat-num stat-out">${outCount}</div><div class="stat-label">Outstanding</div></div>
+    <div class="m-stats">
+      <div class="m-stat"><div class="mn c-purple">${g.total_locations}</div><div class="ml">Total</div></div>
+      <div class="m-stat"><div class="mn c-green">${done.length}</div><div class="ml">Done</div></div>
+      <div class="m-stat"><div class="mn c-amber">${outstanding.length}</div><div class="ml">Outstanding</div></div>
+      <div class="m-stat"><div class="mn c-red">${problems.length}</div><div class="ml">Problems</div></div>
     </div>
-    <div class="outlet-columns">
-      <div class="outlet-col col-outstanding"><h4>⏳ Outstanding (${outCount})</h4><div class="outlet-list">${outChips}</div></div>
-      <div class="outlet-col col-done"><h4>✅ Done (${doneCount})</h4><div class="outlet-list">${doneChips}</div></div>
-    </div>`;
+    <div class="m-cols">
+      <div class="m-col col-out"><h4>⏳ Outstanding (${outstanding.length})</h4><div class="outlet-list">${outChips}</div></div>
+      <div class="m-col col-done"><h4>✅ Done (${done.length})</h4><div class="outlet-list">${doneChips}</div></div>
+    </div>
+    <div class="m-probs"><h4>🚩 Problems (${problems.length})</h4>${probHtml}</div>`;
 
-  document.getElementById('modal-overlay').classList.add('open');
+  document.getElementById('overlay').classList.add('open');
 }
 
-document.getElementById('modal-close').onclick = () => document.getElementById('modal-overlay').classList.remove('open');
-document.getElementById('modal-overlay').onclick = (e) => { if (e.target === document.getElementById('modal-overlay')) document.getElementById('modal-overlay').classList.remove('open'); };
+document.getElementById('modal-close').onclick = () => document.getElementById('overlay').classList.remove('open');
+document.getElementById('overlay').onclick = e => { if(e.target===document.getElementById('overlay')) document.getElementById('overlay').classList.remove('open'); };
 
-function loadData() {
-  try {
-    const old = document.getElementById('data-script');
-    if (old) old.remove();
-    const s = document.createElement('script');
-    s.id = 'data-script';
-    s.src = 'dashboard_data.js?_=' + Date.now();
-    s.onload = function() {
-      const data = window.DASHBOARD_DATA;
-      if (!data) return;
-      currentData = data;
-      document.getElementById('error-banner').style.display = 'none';
-      document.getElementById('status-dot').style.background = '#22c55e';
-      document.getElementById('last-updated').textContent = 'Updated ' + fmtTime(data.last_updated);
+// ── Main render ──
+async function render() {
+  const [from, to] = periodRange();
+  const isToday = S.period === 'TODAY' || (from === to);
+
+  document.getElementById('period-stats').style.display = 'none';
+  document.getElementById('groups-grid').style.display = 'none';
+  document.getElementById('period-table-wrap').style.display = 'none';
+  document.getElementById('summary-card').style.display = 'none';
+
+  if (isToday || S.period === 'CUSTOM' && from === to) {
+    const dateKey = from;
+    const data = await loadDay(dateKey);
+    if (data) {
+      discoverGroups(data);
+      renderGroupPills();
       renderSummary(data.groups);
-      document.getElementById('groups-grid').innerHTML = data.groups.map((g, i) => buildGroupCard(g, i)).join('');
-    };
-    s.onerror = function() {
-      document.getElementById('error-banner').style.display = 'block';
-      document.getElementById('status-dot').style.background = '#ef4444';
-      document.getElementById('last-updated').textContent = 'Error – retrying…';
-    };
-    document.head.appendChild(s);
-  } catch(e) { console.error(e); }
+      renderCards(data.groups, dateKey);
+      document.getElementById('s-label').textContent = `locations completed · ${fmtDate(dateKey)}`;
+    }
+  } else {
+    await loadIndex();
+    const data = await loadDay(to); // load most recent for group discovery
+    if (data) { discoverGroups(data); renderGroupPills(); }
+    await renderPeriodTable(from, to);
+  }
 }
 
-loadData();
-setInterval(loadData, REFRESH_MS);
+// ── Period pill controls ──
+document.getElementById('period-pills').querySelectorAll('.pill').forEach(p => {
+  p.onclick = () => {
+    document.querySelectorAll('#period-pills .pill').forEach(x=>x.classList.remove('active'));
+    p.classList.add('active');
+    S.period = p.dataset.p;
+    document.getElementById('custom-range').style.display = S.period === 'CUSTOM' ? 'flex' : 'none';
+    render();
+  };
+});
+
+document.getElementById('from-date').onchange = e => { S.customFrom = e.target.value; render(); };
+document.getElementById('to-date').onchange  = e => { S.customTo   = e.target.value; render(); };
+
+// Set default custom dates
+document.getElementById('from-date').value = offsetDate(-6);
+document.getElementById('to-date').value   = todayKey();
+
+// ── Refresh loop (today only) ──
+async function tick() {
+  if (S.period === 'TODAY') {
+    delete S.cache[todayKey()]; // force re-fetch
+    await render();
+  }
+  document.getElementById('live-txt').textContent = 'Updated ' + new Date().toLocaleTimeString();
+  document.getElementById('live-dot').style.background = 'var(--green)';
+}
+
+// ── Init ──
+(async () => {
+  await loadIndex();
+  await render();
+  document.getElementById('live-txt').textContent = 'Live · updates every 10s';
+  setInterval(tick, 10000);
+})();
 </script>
 </body>
 </html>
