@@ -148,6 +148,19 @@
     .wave-tag.all{background:#1e293b;color:var(--sub);border:1px solid var(--border)}
     .wave-codes{color:var(--text);line-height:1.55;word-break:break-word}
 
+    /* By Truck */
+    .trk{background:#0f1117;border:1px solid var(--border);border-radius:10px;padding:11px 13px;margin-bottom:8px}
+    .trk-head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:4px}
+    .trk-name{font-weight:700;font-size:.9rem;color:#fff}
+    .trk-count{font-size:.68rem;color:var(--sub);white-space:nowrap}
+    .trk-count.trk-complete{color:var(--green)}
+    .trk-wave{display:flex;align-items:flex-start;gap:8px;margin-top:7px}
+    .trk-codes{display:flex;flex-wrap:wrap;gap:5px}
+    .t-chip{display:inline-flex;align-items:center;gap:5px;font-size:.78rem;font-weight:600;border-radius:7px;padding:3px 8px}
+    .t-chip.t-done{background:#14532d22;border:1px solid #16a34a44;color:#86efac}
+    .t-chip.t-out{background:#78350f1f;border:1px solid #d977061f;color:#fde68a}
+    .t-meta{font-size:.64rem;font-weight:400;color:var(--sub)}
+
     .no-data{color:var(--sub);font-size:.82rem;padding:6px 0}
 
     footer{text-align:center;margin-top:24px;font-size:.72rem;color:#334155}
@@ -544,9 +557,11 @@ function buildModal(g, dateKey) {
         </div>`).join('')
     : '<div class="no-data">No problems logged</div>';
 
-  // ── By Driver: bucket each stop under whoever reported it done; the rest
-  // (not yet detected) go to "Driver Unknown". Split AM/PM when we know the waves.
-  const driversHtml = buildDriverBreakdown(g);
+  // ── Breakdown by truck (from the schedule) when we have it, else by the
+  // driver who reported each stop done. Done stops show person + time.
+  const hasTrucks = Array.isArray(g.trucks) && g.trucks.length > 0;
+  const breakdownTitle = hasTrucks ? '🚛 By Truck' : '🚛 By Driver';
+  const breakdownHtml = hasTrucks ? buildTruckBreakdown(g) : buildDriverBreakdown(g);
 
   document.getElementById('modal-body').innerHTML = `
     <div class="m-stats">
@@ -559,10 +574,47 @@ function buildModal(g, dateKey) {
       <div class="m-col col-out"><h4>⏳ Outstanding (${outstanding.length})</h4><div class="outlet-list">${outChips}</div></div>
       <div class="m-col col-done"><h4>✅ Done (${done.length})</h4><div class="outlet-list">${doneChips}</div></div>
     </div>
-    <div class="m-drivers"><h4>🚛 By Driver</h4>${driversHtml}</div>
+    <div class="m-drivers"><h4>${breakdownTitle}</h4>${breakdownHtml}</div>
     <div class="m-probs"><h4>🚩 Problems (${problems.length})</h4>${probHtml}</div>`;
 
   document.getElementById('overlay').classList.add('open');
+}
+
+// Breakdown by truck/route from the schedule. Each truck shows its AM and PM
+// outlets; a done outlet shows ✓ with who cleared it and when, outstanding ones
+// stay plain. The truck assignment is known up front from the schedule photo.
+function buildTruckBreakdown(g) {
+  const detail  = g.done_detail ?? {};
+  const doneSet = new Set(g.outlets_done ?? []);
+  const trucks  = g.trucks ?? [];
+  if (!trucks.length) return '<div class="no-data">No truck breakdown for this day</div>';
+
+  const chip = code => {
+    const d = detail[code];
+    if (d) {
+      const meta = `${d.by ? d.by.split(' ')[0] : ''} ${d.time ?? ''}`.trim();
+      return `<span class="t-chip t-done">✓ ${code}${meta ? `<span class="t-meta">${meta}</span>` : ''}</span>`;
+    }
+    return `<span class="t-chip t-out">${code}</span>`;
+  };
+  const waveRow = (tag, cls, codes) => codes.length
+    ? `<div class="trk-wave"><span class="wave-tag ${cls}">${tag}</span><div class="trk-codes">${codes.map(chip).join('')}</div></div>`
+    : '';
+
+  return trucks.map(t => {
+    const am = t.am ?? [], pm = t.pm ?? [];
+    const all = [...am, ...pm];
+    const done = all.filter(c => doneSet.has(c)).length;
+    const complete = all.length && done === all.length;
+    return `<div class="trk">
+      <div class="trk-head">
+        <span class="trk-name">${t.name}</span>
+        <span class="trk-count ${complete ? 'trk-complete' : ''}">${done}/${all.length} done${complete ? ' ✅' : ''}</span>
+      </div>
+      ${waveRow('AM', 'am', am)}
+      ${waveRow('PM', 'pm', pm)}
+    </div>`;
+  }).join('');
 }
 
 // Group the day's stops by the driver who completed each one.
