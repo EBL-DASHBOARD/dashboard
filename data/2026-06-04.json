@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-03T23:38:51.969Z",
+  "generated": "2026-06-03T23:53:44.157Z",
   "groups": [
     {
       "id": "EBL6",
@@ -215,18 +215,20 @@
           "pm": []
         }
       ],
-      "done": 4,
+      "done": 8,
       "outlets_done": [
         "Tanah Merah Ferry Terminal",
         "Hougang Mall",
         "Junction 8",
-        "Parc Point"
+        "Parc Point",
+        "The Rail Mall",
+        "Hillion Mall",
+        "Parkway Parade",
+        "White Sands"
       ],
       "outlets_outstanding": [
         "Punggol Plaza",
         "Woods Square",
-        "Hillion Mall",
-        "The Rail Mall",
         "Marina One",
         "Suntec City",
         "South Beach Tower",
@@ -251,6 +253,22 @@
         "Parc Point": {
           "by": "boss",
           "time": "07:38"
+        },
+        "The Rail Mall": {
+          "by": "Nur Azimah",
+          "time": "07:53"
+        },
+        "Hillion Mall": {
+          "by": "Nur Azimah",
+          "time": "07:53"
+        },
+        "Parkway Parade": {
+          "by": "Nur Azimah",
+          "time": "07:53"
+        },
+        "White Sands": {
+          "by": "Nur Azimah",
+          "time": "07:53"
         }
       },
       "problems": [],
