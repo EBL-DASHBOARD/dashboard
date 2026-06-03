@@ -362,7 +362,7 @@ function renderCards(groups, dateKey) {
     const p = pct(g.done, g.total_locations);
     const badge = p===100 ? 'b-green Complete' : p>0 ? 'b-amber In Progress' : 'b-gray Pending';
     const [bc, bt] = badge.split(' ');
-    return `<div class="g-card" onclick="openModal(${i},${JSON.stringify(dateKey)})">
+    return `<div class="g-card" onclick="openModal(${i},'${dateKey}')">
       <div class="g-head">
         <div class="g-name">${g.name}</div>
         <div class="badge ${bc}">${bt}</div>
@@ -443,7 +443,7 @@ async function renderPeriodTable(from, to) {
       });
     }
 
-    return `<tr onclick="openDayModal(${JSON.stringify(date)})">
+    return `<tr onclick="openDayModal('${date}')">
       <td class="date-cell">${fmtDate(date)}</td>
       ${dataCols}
       <td class="pct-cell" style="color:${color}">${rowPct}%
