@@ -1,0 +1,48 @@
+{
+  "date": "2026-06-04",
+  "generated": "2026-06-03T18:08:45.190Z",
+  "groups": [
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 32,
+      "am_total": 13,
+      "pm_total": 19,
+      "am_outlets": [
+        "BPP",
+        "KH",
+        "YTP",
+        "CCKS",
+        "WSM",
+        "WXI",
+        "IM",
+        "JKN",
+        "TGCC",
+        "BS",
+        "STC",
+        "MBA",
+        "TY"
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "BPP",
+        "KH",
+        "YTP",
+        "CCKS",
+        "WSM",
+        "WXI",
+        "IM",
+        "JKN",
+        "TGCC",
+        "BS",
+        "STC",
+        "MBA",
+        "TY"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
