@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T05:57:26.614Z",
+  "generated": "2026-06-04T06:00:07.008Z",
   "groups": [
     {
       "id": "EBL6",
@@ -314,7 +314,9 @@
       "outlets_outstanding": [
         "The Woodleigh Mall",
         "Zhongshan Mall",
-        "Royal Square"
+        "Royal Square",
+        "Downtown East",
+        "Pasir Ris Mall"
       ],
       "done_detail": {
         "Tanah Merah Ferry Terminal": {
