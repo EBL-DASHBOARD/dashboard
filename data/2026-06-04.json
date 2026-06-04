@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T02:53:19.851Z",
+  "generated": "2026-06-04T02:59:16.306Z",
   "groups": [
     {
       "id": "EBL6",
@@ -360,6 +360,13 @@
           "by": "Nur Azimah",
           "text": "All four stops are already marked done (Rm=The Rail Mall, Hm=Hillion Mall, Pp=Parc Point or Parkway Parade, Ws=White Sands)",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "10:58",
+          "by": "#நVin🇮🇹🚀🔥",
+          "text": "Reported stops (77 Robinson, Marina One, South Beach Tower, plus unclear 'Sc') are already completed or not in outstanding list",
+          "escalated": false,
           "resolved": false
         }
       ],
