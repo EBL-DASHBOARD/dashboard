@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T05:28:21.100Z",
+  "generated": "2026-06-04T05:42:21.174Z",
   "groups": [
     {
       "id": "EBL6",
@@ -288,7 +288,7 @@
           "pm": []
         }
       ],
-      "done": 18,
+      "done": 20,
       "outlets_done": [
         "Tanah Merah Ferry Terminal",
         "Hougang Mall",
@@ -307,7 +307,9 @@
         "Waterway Point",
         "Compass One",
         "Causeway Point",
-        "888 Plaza"
+        "888 Plaza",
+        "Guoco Tower",
+        "Duo Galleria"
       ],
       "outlets_outstanding": [
         "The Woodleigh Mall",
@@ -386,6 +388,14 @@
         "888 Plaza": {
           "by": "Nur Azimah",
           "time": "13:28"
+        },
+        "Guoco Tower": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "13:42"
+        },
+        "Duo Galleria": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "13:42"
         }
       },
       "problems": [
