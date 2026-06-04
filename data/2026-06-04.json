@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T09:54:54.099Z",
+  "generated": "2026-06-04T10:50:18.504Z",
   "groups": [
     {
       "id": "EBL6",
@@ -105,7 +105,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -130,12 +130,12 @@
         "TNC2",
         "J9",
         "WWP",
-        "R1"
+        "R1",
+        "YS1"
       ],
       "outlets_outstanding": [
         "PECC",
         "LOY",
-        "YS1",
         "LTM",
         "R3",
         "AP1",
@@ -238,6 +238,10 @@
         "R1": {
           "by": "Krishnamiyako",
           "time": "17:44"
+        },
+        "YS1": {
+          "by": "Samy Kumar Meena",
+          "time": "18:50"
         }
       },
       "problems": [],
