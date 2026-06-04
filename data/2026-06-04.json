@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T11:31:44.031Z",
+  "generated": "2026-06-04T11:33:34.358Z",
   "groups": [
     {
       "id": "EBL6",
@@ -583,7 +583,7 @@
           "time": "19:18",
           "by": "#நVin🇮🇹🚀🔥",
           "text": "Driver's phone screen was broken, unable to update checklist",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
