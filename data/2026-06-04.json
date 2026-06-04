@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T01:15:04.088Z",
+  "generated": "2026-06-04T01:29:54.568Z",
   "groups": [
     {
       "id": "EBL6",
@@ -319,6 +319,13 @@
           "by": "boss",
           "text": "Message reports stops already marked done (Hougang Mall, Junction 8, Parc Point, Tanah Merah Ferry Terminal), not any outstanding stops",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "09:28",
+          "by": "Nur Azimah",
+          "text": "Reported items do not match outstanding stops: Rm unclear, Hm matches already-completed Hougang Mall, Pp/Ws require clarification",
+          "escalated": false,
           "resolved": false
         }
       ],
