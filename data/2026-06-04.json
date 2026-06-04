@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T10:51:23.591Z",
+  "generated": "2026-06-04T11:18:23.786Z",
   "groups": [
     {
       "id": "EBL6",
@@ -547,6 +547,13 @@
           "by": "Nur Azimah",
           "text": "Driver reported Wp, Cm1, Cwp, 888plaza — none match today's 5 outstanding stops",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "19:18",
+          "by": "#நVin🇮🇹🚀🔥",
+          "text": "Driver's phone screen was broken, unable to update checklist",
+          "escalated": false,
           "resolved": false
         }
       ],
