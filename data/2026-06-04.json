@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T00:32:10.855Z",
+  "generated": "2026-06-04T00:37:34.226Z",
   "groups": [
     {
       "id": "EBL6",
@@ -225,7 +225,7 @@
           "pm": []
         }
       ],
-      "done": 8,
+      "done": 10,
       "outlets_done": [
         "Tanah Merah Ferry Terminal",
         "Hougang Mall",
@@ -234,11 +234,11 @@
         "The Rail Mall",
         "Hillion Mall",
         "Parkway Parade",
-        "White Sands"
+        "White Sands",
+        "Punggol Plaza",
+        "Woods Square"
       ],
       "outlets_outstanding": [
-        "Punggol Plaza",
-        "Woods Square",
         "Marina One",
         "Suntec City",
         "South Beach Tower",
@@ -279,6 +279,14 @@
         "White Sands": {
           "by": "Nur Azimah",
           "time": "07:53"
+        },
+        "Punggol Plaza": {
+          "by": "Nur Azimah",
+          "time": "08:37"
+        },
+        "Woods Square": {
+          "by": "Nur Azimah",
+          "time": "08:37"
         }
       },
       "problems": [],
