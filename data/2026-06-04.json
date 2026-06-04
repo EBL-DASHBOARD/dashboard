@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T11:18:23.786Z",
+  "generated": "2026-06-04T11:19:18.336Z",
   "groups": [
     {
       "id": "EBL6",
@@ -352,7 +352,7 @@
           "pm": []
         }
       ],
-      "done": 20,
+      "done": 22,
       "outlets_done": [
         "Tanah Merah Ferry Terminal",
         "Hougang Mall",
@@ -373,14 +373,14 @@
         "Causeway Point",
         "888 Plaza",
         "Guoco Tower",
-        "Duo Galleria"
+        "Duo Galleria",
+        "Downtown East",
+        "Pasir Ris Mall"
       ],
       "outlets_outstanding": [
         "The Woodleigh Mall",
         "Zhongshan Mall",
-        "Royal Square",
-        "Downtown East",
-        "Pasir Ris Mall"
+        "Royal Square"
       ],
       "done_detail": {
         "Tanah Merah Ferry Terminal": {
@@ -462,6 +462,14 @@
         "Duo Galleria": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "13:42"
+        },
+        "Downtown East": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "19:18"
+        },
+        "Pasir Ris Mall": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "19:18"
         }
       },
       "problems": [
