@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T00:37:34.226Z",
+  "generated": "2026-06-04T00:44:56.277Z",
   "groups": [
     {
       "id": "EBL6",
@@ -225,7 +225,7 @@
           "pm": []
         }
       ],
-      "done": 10,
+      "done": 14,
       "outlets_done": [
         "Tanah Merah Ferry Terminal",
         "Hougang Mall",
@@ -236,13 +236,13 @@
         "Parkway Parade",
         "White Sands",
         "Punggol Plaza",
-        "Woods Square"
-      ],
-      "outlets_outstanding": [
+        "Woods Square",
         "Marina One",
         "Suntec City",
         "South Beach Tower",
-        "77 Robinson",
+        "77 Robinson"
+      ],
+      "outlets_outstanding": [
         "The Woodleigh Mall",
         "Zhongshan Mall",
         "Royal Square"
@@ -287,6 +287,22 @@
         "Woods Square": {
           "by": "Nur Azimah",
           "time": "08:37"
+        },
+        "Marina One": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "08:44"
+        },
+        "Suntec City": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "08:44"
+        },
+        "South Beach Tower": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "08:44"
+        },
+        "77 Robinson": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "08:44"
         }
       },
       "problems": [],
