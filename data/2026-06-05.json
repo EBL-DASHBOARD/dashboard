@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-04T16:49:09.679Z",
+  "generated": "2026-06-04T16:58:20.167Z",
   "groups": [
     {
       "id": "XH",
@@ -148,6 +148,151 @@
         "Vivo City",
         "Chinatown Point",
         "Marina Square"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 40,
+      "am_total": 18,
+      "pm_total": 22,
+      "am_outlets": [
+        "ARC",
+        "CL2",
+        "VIVO",
+        "TIO",
+        "ART",
+        "KRC",
+        "BNV",
+        "CCKS",
+        "HV2",
+        "DV",
+        "TRM",
+        "BPP",
+        "JP",
+        "SHP",
+        "KIT",
+        "USQ",
+        "PS",
+        "BQ"
+      ],
+      "pm_outlets": [
+        "R1",
+        "AP2",
+        "R3",
+        "R4",
+        "AP4",
+        "AP1",
+        "LTM",
+        "J9",
+        "KTB",
+        "YS1",
+        "CCP",
+        "EPT",
+        "TPM",
+        "KNX",
+        "BHT",
+        "BOB",
+        "NTP",
+        "GMM",
+        "NEX",
+        "WWP",
+        "ACV",
+        "PAL"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-2",
+          "am": [
+            "ARC",
+            "CL2",
+            "VIVO",
+            "TIO",
+            "ART",
+            "KRC",
+            "BNV"
+          ],
+          "pm": [
+            "R1",
+            "AP2",
+            "R3",
+            "R4",
+            "AP4",
+            "AP1"
+          ]
+        },
+        {
+          "name": "EBL6-4",
+          "am": [],
+          "pm": [
+            "LTM",
+            "J9",
+            "KTB",
+            "YS1"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "CCKS",
+            "HV2",
+            "DV",
+            "TRM",
+            "BPP",
+            "JP"
+          ],
+          "pm": [
+            "CCP",
+            "EPT",
+            "TPM",
+            "KNX",
+            "BHT",
+            "BOB"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "SHP",
+            "KIT",
+            "USQ",
+            "PS",
+            "BQ"
+          ],
+          "pm": [
+            "NTP",
+            "GMM",
+            "NEX",
+            "WWP",
+            "ACV",
+            "PAL"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "ARC",
+        "CL2",
+        "VIVO",
+        "TIO",
+        "ART",
+        "KRC",
+        "BNV",
+        "CCKS",
+        "HV2",
+        "DV",
+        "TRM",
+        "BPP",
+        "JP",
+        "SHP",
+        "KIT",
+        "USQ",
+        "PS",
+        "BQ"
       ],
       "done_detail": {},
       "problems": [],
