@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T02:45:56.526Z",
+  "generated": "2026-06-04T02:53:19.851Z",
   "groups": [
     {
       "id": "EBL6",
@@ -359,7 +359,7 @@
           "time": "10:37",
           "by": "Nur Azimah",
           "text": "All four stops are already marked done (Rm=The Rail Mall, Hm=Hillion Mall, Pp=Parc Point or Parkway Parade, Ws=White Sands)",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
