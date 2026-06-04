@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T05:42:24.270Z",
+  "generated": "2026-06-04T05:57:26.614Z",
   "groups": [
     {
       "id": "EBL6",
@@ -452,7 +452,7 @@
           "time": "13:41",
           "by": "#நVin🇮🇹🚀🔥",
           "text": "None of the reported stops match outstanding deliveries. All appear to be already completed.",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
