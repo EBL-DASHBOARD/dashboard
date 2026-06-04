@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T07:24:24.712Z",
+  "generated": "2026-06-04T07:27:20.379Z",
   "groups": [
     {
       "id": "EBL6",
@@ -105,7 +105,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -121,11 +121,11 @@
         "WSM",
         "BS",
         "VIVA",
-        "KEB"
+        "KEB",
+        "CKCC"
       ],
       "outlets_outstanding": [
         "PECC",
-        "CKCC",
         "LOY",
         "TNC2",
         "J9",
@@ -202,6 +202,10 @@
         "KEB": {
           "by": "Sasi",
           "time": "15:24"
+        },
+        "CKCC": {
+          "by": "Sudhakar",
+          "time": "15:27"
         }
       },
       "problems": [],
