@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T03:06:55.145Z",
+  "generated": "2026-06-04T03:14:17.954Z",
   "groups": [
     {
       "id": "EBL6",
@@ -370,7 +370,7 @@
           "time": "10:58",
           "by": "#நVin🇮🇹🚀🔥",
           "text": "Reported stops (77 Robinson, Marina One, South Beach Tower, plus unclear 'Sc') are already completed or not in outstanding list",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
