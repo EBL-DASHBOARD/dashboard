@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T01:31:26.727Z",
+  "generated": "2026-06-04T01:45:02.562Z",
   "groups": [
     {
       "id": "EBL6",
@@ -329,7 +329,7 @@
           "time": "09:28",
           "by": "Nur Azimah",
           "text": "Reported items do not match outstanding stops: Rm unclear, Hm matches already-completed Hougang Mall, Pp/Ws require clarification",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
