@@ -1,0 +1,157 @@
+{
+  "date": "2026-06-05",
+  "generated": "2026-06-04T12:10:39.593Z",
+  "groups": [
+    {
+      "id": "XH",
+      "name": "Xh Delivery",
+      "total_locations": 38,
+      "am_total": 21,
+      "pm_total": 17,
+      "am_outlets": [
+        "Tampines 1",
+        "Century Square",
+        "Tampines Mart",
+        "Institute of Mental Health",
+        "West Mall",
+        "Le Quest",
+        "Hillion Mall",
+        "Dairy Farm Mall",
+        "Junction 9",
+        "Northpoint City",
+        "Flavours @ NUS Uptown",
+        "GENEO",
+        "Ngee Ann Polytechnic B",
+        "ARTRA",
+        "63 Pagoda Street",
+        "9 Penang Road",
+        "UE Square",
+        "AltitudeX",
+        "Vivo City",
+        "Chinatown Point",
+        "Marina Square"
+      ],
+      "pm_outlets": [
+        "Eastpoint Mall",
+        "The Poiz Centre",
+        "New Tech Park",
+        "Causeway Point",
+        "Galaxis",
+        "Compass One",
+        "Punggol Coast Mall",
+        "Waterway Point",
+        "Rivervale Mall",
+        "Fairprice Hub",
+        "JEM",
+        "Lazada One",
+        "GRID",
+        "313 Somerset",
+        "Plaza Singapura",
+        "Citylink",
+        "One Raffles Link"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Tampines 1",
+            "Century Square",
+            "Tampines Mart",
+            "Institute of Mental Health"
+          ],
+          "pm": [
+            "Eastpoint Mall",
+            "The Poiz Centre",
+            "New Tech Park",
+            "Causeway Point",
+            "Galaxis"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "West Mall",
+            "Le Quest",
+            "Hillion Mall",
+            "Dairy Farm Mall"
+          ],
+          "pm": [
+            "Compass One",
+            "Punggol Coast Mall",
+            "Waterway Point",
+            "Rivervale Mall"
+          ]
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Junction 9",
+            "Northpoint City",
+            "Flavours @ NUS Uptown",
+            "GENEO",
+            "Ngee Ann Polytechnic B"
+          ],
+          "pm": [
+            "Fairprice Hub",
+            "JEM",
+            "Lazada One",
+            "GRID"
+          ]
+        },
+        {
+          "name": "TRUCK 4",
+          "am": [
+            "ARTRA",
+            "63 Pagoda Street",
+            "9 Penang Road",
+            "UE Square"
+          ],
+          "pm": [
+            "313 Somerset",
+            "Plaza Singapura",
+            "Citylink",
+            "One Raffles Link"
+          ]
+        },
+        {
+          "name": "TRUCK 5",
+          "am": [
+            "AltitudeX",
+            "Vivo City",
+            "Chinatown Point",
+            "Marina Square"
+          ],
+          "pm": []
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Tampines 1",
+        "Century Square",
+        "Tampines Mart",
+        "Institute of Mental Health",
+        "West Mall",
+        "Le Quest",
+        "Hillion Mall",
+        "Dairy Farm Mall",
+        "Junction 9",
+        "Northpoint City",
+        "Flavours @ NUS Uptown",
+        "GENEO",
+        "Ngee Ann Polytechnic B",
+        "ARTRA",
+        "63 Pagoda Street",
+        "9 Penang Road",
+        "UE Square",
+        "AltitudeX",
+        "Vivo City",
+        "Chinatown Point",
+        "Marina Square"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
