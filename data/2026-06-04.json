@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T11:19:18.336Z",
+  "generated": "2026-06-04T11:22:50.133Z",
   "groups": [
     {
       "id": "EBL6",
@@ -352,7 +352,7 @@
           "pm": []
         }
       ],
-      "done": 22,
+      "done": 25,
       "outlets_done": [
         "Tanah Merah Ferry Terminal",
         "Hougang Mall",
@@ -375,13 +375,12 @@
         "Guoco Tower",
         "Duo Galleria",
         "Downtown East",
-        "Pasir Ris Mall"
-      ],
-      "outlets_outstanding": [
-        "The Woodleigh Mall",
+        "Pasir Ris Mall",
         "Zhongshan Mall",
-        "Royal Square"
+        "Royal Square",
+        "The Woodleigh Mall"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "Tanah Merah Ferry Terminal": {
           "by": "boss",
@@ -470,6 +469,18 @@
         "Pasir Ris Mall": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "19:18"
+        },
+        "Zhongshan Mall": {
+          "by": "Thavasu",
+          "time": "19:22"
+        },
+        "Royal Square": {
+          "by": "Thavasu",
+          "time": "19:22"
+        },
+        "The Woodleigh Mall": {
+          "by": "Thavasu",
+          "time": "19:22"
         }
       },
       "problems": [
