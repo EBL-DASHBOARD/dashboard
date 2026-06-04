@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T02:21:16.810Z",
+  "generated": "2026-06-04T02:31:03.335Z",
   "groups": [
     {
       "id": "EBL6",
@@ -348,7 +348,7 @@
           "time": "10:15",
           "by": "boss",
           "text": "Hm, J8, Pp, Tmf are all already completed or don't match any outstanding stops",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
