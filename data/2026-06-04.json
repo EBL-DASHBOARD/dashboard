@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T04:16:16.644Z",
+  "generated": "2026-06-04T05:28:21.100Z",
   "groups": [
     {
       "id": "EBL6",
@@ -288,7 +288,7 @@
           "pm": []
         }
       ],
-      "done": 14,
+      "done": 18,
       "outlets_done": [
         "Tanah Merah Ferry Terminal",
         "Hougang Mall",
@@ -303,7 +303,11 @@
         "Marina One",
         "Suntec City",
         "South Beach Tower",
-        "77 Robinson"
+        "77 Robinson",
+        "Waterway Point",
+        "Compass One",
+        "Causeway Point",
+        "888 Plaza"
       ],
       "outlets_outstanding": [
         "The Woodleigh Mall",
@@ -366,6 +370,22 @@
         "77 Robinson": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "08:44"
+        },
+        "Waterway Point": {
+          "by": "Nur Azimah",
+          "time": "13:28"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "13:28"
+        },
+        "Causeway Point": {
+          "by": "Nur Azimah",
+          "time": "13:28"
+        },
+        "888 Plaza": {
+          "by": "Nur Azimah",
+          "time": "13:28"
         }
       },
       "problems": [
@@ -415,7 +435,7 @@
           "time": "12:15",
           "by": "boss",
           "text": "All reported stops were already marked done",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
