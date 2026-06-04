@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T01:29:54.568Z",
+  "generated": "2026-06-04T01:31:26.727Z",
   "groups": [
     {
       "id": "EBL6",
@@ -105,19 +105,19 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "YTP",
         "JKN",
         "CCKS",
-        "TY"
+        "TY",
+        "IM"
       ],
       "outlets_outstanding": [
         "BPP",
         "KH",
         "WSM",
         "WXI",
-        "IM",
         "TGCC",
         "BS",
         "STC",
@@ -139,6 +139,10 @@
         "TY": {
           "by": "Sasi",
           "time": "09:15"
+        },
+        "IM": {
+          "by": "Krishnamiyako",
+          "time": "09:31"
         }
       },
       "problems": [],
