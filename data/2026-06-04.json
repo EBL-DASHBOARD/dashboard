@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T01:02:01.912Z",
+  "generated": "2026-06-04T01:10:42.573Z",
   "groups": [
     {
       "id": "EBL6",
@@ -105,15 +105,15 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "YTP",
-        "JKN"
+        "JKN",
+        "CCKS"
       ],
       "outlets_outstanding": [
         "BPP",
         "KH",
-        "CCKS",
         "WSM",
         "WXI",
         "IM",
@@ -131,6 +131,10 @@
         "JKN": {
           "by": "Krishnamiyako",
           "time": "08:32"
+        },
+        "CCKS": {
+          "by": "Samy Kumar Meena",
+          "time": "09:10"
         }
       },
       "problems": [],
