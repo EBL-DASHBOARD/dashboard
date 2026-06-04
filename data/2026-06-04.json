@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated": "2026-06-04T08:58:23.292Z",
+  "generated": "2026-06-04T09:13:23.623Z",
   "groups": [
     {
       "id": "EBL6",
@@ -507,7 +507,7 @@
           "time": "16:58",
           "by": "Nur Azimah",
           "text": "Reported stops (Wp, Cm1, Cwp, 888plaza) are not on outstanding list — likely already completed",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
