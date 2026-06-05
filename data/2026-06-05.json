@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T06:45:29.988Z",
+  "generated": "2026-06-05T06:48:44.366Z",
   "groups": [
     {
       "id": "XH",
@@ -299,6 +299,13 @@
           "by": "Nur Azimah",
           "text": "All reported stops (Wsm=West Mall, Lq=Le Quest, Hm=Hillion Mall, Dfm=Dairy Farm Mall) are already marked done; none match outstanding stops",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "14:48",
+          "by": "Mr.vin",
+          "text": "Reported stops (Tpc, Ntp, Cwp, Gx, Epm) don't match outstanding deliveries",
+          "escalated": false,
           "resolved": false
         }
       ],
