@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T04:27:46.020Z",
+  "generated": "2026-06-05T04:34:58.788Z",
   "groups": [
     {
       "id": "XH",
@@ -124,7 +124,7 @@
           "pm": []
         }
       ],
-      "done": 17,
+      "done": 20,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -142,13 +142,13 @@
         "Northpoint City",
         "GENEO",
         "Ngee Ann Polytechnic B",
-        "Flavours @ NUS Uptown"
+        "Flavours @ NUS Uptown",
+        "Marina Square",
+        "Vivo City",
+        "AltitudeX"
       ],
       "outlets_outstanding": [
-        "AltitudeX",
-        "Vivo City",
-        "Chinatown Point",
-        "Marina Square"
+        "Chinatown Point"
       ],
       "done_detail": {
         "West Mall": {
@@ -218,6 +218,18 @@
         "Flavours @ NUS Uptown": {
           "by": "jvparthiban7",
           "time": "12:12"
+        },
+        "Marina Square": {
+          "by": "Thavasu",
+          "time": "12:34"
+        },
+        "Vivo City": {
+          "by": "Thavasu",
+          "time": "12:34"
+        },
+        "AltitudeX": {
+          "by": "Thavasu",
+          "time": "12:34"
         }
       },
       "problems": [
