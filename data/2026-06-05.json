@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T03:46:33.065Z",
+  "generated": "2026-06-05T03:55:59.062Z",
   "groups": [
     {
       "id": "XH",
@@ -124,7 +124,7 @@
           "pm": []
         }
       ],
-      "done": 8,
+      "done": 12,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -133,13 +133,13 @@
         "63 Pagoda Street",
         "9 Penang Road",
         "UE Square",
-        "ARTRA"
-      ],
-      "outlets_outstanding": [
+        "ARTRA",
         "Tampines 1",
         "Century Square",
         "Tampines Mart",
-        "Institute of Mental Health",
+        "Institute of Mental Health"
+      ],
+      "outlets_outstanding": [
         "Junction 9",
         "Northpoint City",
         "Flavours @ NUS Uptown",
@@ -182,6 +182,22 @@
         "ARTRA": {
           "by": "sudhakar",
           "time": "09:26"
+        },
+        "Tampines 1": {
+          "by": "Diaridah Smile",
+          "time": "11:55"
+        },
+        "Century Square": {
+          "by": "Diaridah Smile",
+          "time": "11:55"
+        },
+        "Tampines Mart": {
+          "by": "Diaridah Smile",
+          "time": "11:55"
+        },
+        "Institute of Mental Health": {
+          "by": "Diaridah Smile",
+          "time": "11:55"
         }
       },
       "problems": [
