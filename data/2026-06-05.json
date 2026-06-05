@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T07:45:35.703Z",
+  "generated": "2026-06-05T08:05:17.041Z",
   "groups": [
     {
       "id": "XH",
@@ -460,7 +460,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "CL2",
         "JP",
@@ -482,7 +482,8 @@
         "VIVO",
         "KNX",
         "PAL",
-        "KTB"
+        "KTB",
+        "BHT"
       ],
       "outlets_outstanding": [
         "R1",
@@ -497,7 +498,6 @@
         "CCP",
         "EPT",
         "TPM",
-        "BHT",
         "BOB",
         "NTP",
         "GMM",
@@ -589,6 +589,10 @@
         "KTB": {
           "by": "Sudhakar",
           "time": "15:45"
+        },
+        "BHT": {
+          "by": "Samy Kumar Meena",
+          "time": "16:05"
         }
       },
       "problems": [],
