@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T11:40:52.872Z",
+  "generated": "2026-06-05T11:54:01.971Z",
   "groups": [
     {
       "id": "XH",
@@ -497,7 +497,7 @@
           ]
         }
       ],
-      "done": 38,
+      "done": 39,
       "outlets_done": [
         "CL2",
         "JP",
@@ -536,10 +536,10 @@
         "CCP",
         "AP4",
         "R3",
-        "WWP"
+        "WWP",
+        "R1"
       ],
       "outlets_outstanding": [
-        "R1",
         "AP1"
       ],
       "done_detail": {
@@ -694,6 +694,10 @@
         "WWP": {
           "by": "Sasi",
           "time": "19:40"
+        },
+        "R1": {
+          "by": "Krishnamiyako",
+          "time": "19:54"
         }
       },
       "problems": [],
