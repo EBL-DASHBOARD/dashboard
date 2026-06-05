@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T07:04:05.060Z",
+  "generated": "2026-06-05T07:06:11.495Z",
   "groups": [
     {
       "id": "XH",
@@ -322,6 +322,13 @@
           "by": "Mr.vin",
           "text": "Reported stops (Tpc, Ntp, Cwp, Gx, Epm) don't match outstanding deliveries",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "15:05",
+          "by": "sudhakar",
+          "text": "Driver reported completed stops, but there are no outstanding stops; these are already marked done",
+          "escalated": false,
           "resolved": false
         }
       ],
