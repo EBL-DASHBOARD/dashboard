@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T02:50:48.129Z",
+  "generated": "2026-06-05T02:55:42.750Z",
   "groups": [
     {
       "id": "XH",
@@ -203,7 +203,7 @@
           "time": "10:40",
           "by": "Nur Azimah",
           "text": "Driver reported stops (Wsm, Lq, Hm, Dfm) that are already marked done—none match today's outstanding list",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
