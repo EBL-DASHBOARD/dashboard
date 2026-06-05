@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T08:21:36.527Z",
+  "generated": "2026-06-05T08:24:50.341Z",
   "groups": [
     {
       "id": "XH",
@@ -340,6 +340,13 @@
           "by": "Mr.vin",
           "text": "Driver reporting stops done, but no outstanding stops listed for today",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "16:24",
+          "by": "Nur Azimah",
+          "text": "Driver reporting stops (Pcm, Wp, Cm1, Rvm) but no stops are outstanding today — possibly yesterday's list or confusion about current tasks",
+          "escalated": false,
           "resolved": false
         }
       ],
