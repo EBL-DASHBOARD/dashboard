@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T06:00:00.233Z",
+  "generated": "2026-06-05T06:45:29.988Z",
   "groups": [
     {
       "id": "XH",
@@ -124,7 +124,7 @@
           "pm": []
         }
       ],
-      "done": 20,
+      "done": 24,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -145,7 +145,11 @@
         "Flavours @ NUS Uptown",
         "Marina Square",
         "Vivo City",
-        "AltitudeX"
+        "AltitudeX",
+        "313 Somerset",
+        "Plaza Singapura",
+        "Citylink",
+        "One Raffles Link"
       ],
       "outlets_outstanding": [
         "Chinatown Point",
@@ -161,11 +165,7 @@
         "Fairprice Hub",
         "JEM",
         "Lazada One",
-        "GRID",
-        "313 Somerset",
-        "Plaza Singapura",
-        "Citylink",
-        "One Raffles Link"
+        "GRID"
       ],
       "done_detail": {
         "West Mall": {
@@ -247,6 +247,22 @@
         "AltitudeX": {
           "by": "Thavasu",
           "time": "12:34"
+        },
+        "313 Somerset": {
+          "by": "sudhakar",
+          "time": "14:45"
+        },
+        "Plaza Singapura": {
+          "by": "sudhakar",
+          "time": "14:45"
+        },
+        "Citylink": {
+          "by": "sudhakar",
+          "time": "14:45"
+        },
+        "One Raffles Link": {
+          "by": "sudhakar",
+          "time": "14:45"
         }
       },
       "problems": [
