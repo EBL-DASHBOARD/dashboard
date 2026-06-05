@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T05:02:50.420Z",
+  "generated": "2026-06-05T06:00:00.233Z",
   "groups": [
     {
       "id": "XH",
@@ -148,7 +148,24 @@
         "AltitudeX"
       ],
       "outlets_outstanding": [
-        "Chinatown Point"
+        "Chinatown Point",
+        "Eastpoint Mall",
+        "The Poiz Centre",
+        "New Tech Park",
+        "Causeway Point",
+        "Galaxis",
+        "Compass One",
+        "Punggol Coast Mall",
+        "Waterway Point",
+        "Rivervale Mall",
+        "Fairprice Hub",
+        "JEM",
+        "Lazada One",
+        "GRID",
+        "313 Somerset",
+        "Plaza Singapura",
+        "Citylink",
+        "One Raffles Link"
       ],
       "done_detail": {
         "West Mall": {
