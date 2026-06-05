@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T06:48:44.366Z",
+  "generated": "2026-06-05T06:49:04.500Z",
   "groups": [
     {
       "id": "XH",
@@ -124,7 +124,7 @@
           "pm": []
         }
       ],
-      "done": 24,
+      "done": 28,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -149,7 +149,11 @@
         "313 Somerset",
         "Plaza Singapura",
         "Citylink",
-        "One Raffles Link"
+        "One Raffles Link",
+        "Waterway Point",
+        "Compass One",
+        "Punggol Coast Mall",
+        "Rivervale Mall"
       ],
       "outlets_outstanding": [
         "Chinatown Point",
@@ -158,10 +162,6 @@
         "New Tech Park",
         "Causeway Point",
         "Galaxis",
-        "Compass One",
-        "Punggol Coast Mall",
-        "Waterway Point",
-        "Rivervale Mall",
         "Fairprice Hub",
         "JEM",
         "Lazada One",
@@ -263,6 +263,22 @@
         "One Raffles Link": {
           "by": "sudhakar",
           "time": "14:45"
+        },
+        "Waterway Point": {
+          "by": "Nur Azimah",
+          "time": "14:48"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "14:48"
+        },
+        "Punggol Coast Mall": {
+          "by": "Nur Azimah",
+          "time": "14:48"
+        },
+        "Rivervale Mall": {
+          "by": "Nur Azimah",
+          "time": "14:48"
         }
       },
       "problems": [
