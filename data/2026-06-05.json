@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T10:17:27.425Z",
+  "generated": "2026-06-05T10:20:59.169Z",
   "groups": [
     {
       "id": "XH",
@@ -497,7 +497,7 @@
           ]
         }
       ],
-      "done": 31,
+      "done": 32,
       "outlets_done": [
         "CL2",
         "JP",
@@ -529,7 +529,8 @@
         "J9",
         "EPT",
         "NTP",
-        "LTM"
+        "LTM",
+        "TPM"
       ],
       "outlets_outstanding": [
         "R1",
@@ -538,7 +539,6 @@
         "AP4",
         "AP1",
         "CCP",
-        "TPM",
         "WWP",
         "ACV"
       ],
@@ -666,6 +666,10 @@
         "LTM": {
           "by": "Sudhakar",
           "time": "18:17"
+        },
+        "TPM": {
+          "by": "Samy Kumar Meena",
+          "time": "18:20"
         }
       },
       "problems": [],
