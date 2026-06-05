@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T01:44:46.203Z",
+  "generated": "2026-06-05T02:00:41.449Z",
   "groups": [
     {
       "id": "XH",
@@ -314,13 +314,14 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "CL2",
         "JP",
         "PS",
         "CCKS",
-        "KRC"
+        "KRC",
+        "USQ"
       ],
       "outlets_outstanding": [
         "ARC",
@@ -334,7 +335,6 @@
         "BPP",
         "SHP",
         "KIT",
-        "USQ",
         "BQ"
       ],
       "done_detail": {
@@ -357,6 +357,10 @@
         "KRC": {
           "by": "Krishnamiyako",
           "time": "09:40"
+        },
+        "USQ": {
+          "by": "Sasi",
+          "time": "10:00"
         }
       },
       "problems": [],
