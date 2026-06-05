@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T01:40:06.848Z",
+  "generated": "2026-06-05T01:44:46.203Z",
   "groups": [
     {
       "id": "XH",
@@ -189,7 +189,7 @@
           "time": "09:29",
           "by": "Nur Azimah",
           "text": "Reported stops already marked done",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
