@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T09:21:30.183Z",
+  "generated": "2026-06-05T09:26:17.699Z",
   "groups": [
     {
       "id": "XH",
@@ -366,6 +366,13 @@
           "by": "sudhakar",
           "text": "Reported stops not on outstanding list",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "17:25",
+          "by": "Nur Azimah",
+          "text": "Driver reported 4 stops (Pcm, Wp, Cm1, Rvm) but no stops remain outstanding — all 31 stops already marked done",
+          "escalated": false,
           "resolved": false
         }
       ],
