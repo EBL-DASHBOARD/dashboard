@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T07:03:44.369Z",
+  "generated": "2026-06-05T07:04:05.060Z",
   "groups": [
     {
       "id": "XH",
@@ -446,7 +446,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "CL2",
         "JP",
@@ -466,7 +466,8 @@
         "ART",
         "TIO",
         "VIVO",
-        "KNX"
+        "KNX",
+        "PAL"
       ],
       "outlets_outstanding": [
         "R1",
@@ -488,8 +489,7 @@
         "GMM",
         "NEX",
         "WWP",
-        "ACV",
-        "PAL"
+        "ACV"
       ],
       "done_detail": {
         "CL2": {
@@ -567,6 +567,10 @@
         "KNX": {
           "by": "Samy Kumar Meena",
           "time": "15:03"
+        },
+        "PAL": {
+          "by": "Sasi",
+          "time": "15:04"
         }
       },
       "problems": [],
