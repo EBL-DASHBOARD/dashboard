@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T04:01:32.834Z",
+  "generated": "2026-06-05T04:12:16.806Z",
   "groups": [
     {
       "id": "XH",
@@ -124,7 +124,7 @@
           "pm": []
         }
       ],
-      "done": 12,
+      "done": 17,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -137,14 +137,14 @@
         "Tampines 1",
         "Century Square",
         "Tampines Mart",
-        "Institute of Mental Health"
-      ],
-      "outlets_outstanding": [
+        "Institute of Mental Health",
         "Junction 9",
         "Northpoint City",
-        "Flavours @ NUS Uptown",
         "GENEO",
         "Ngee Ann Polytechnic B",
+        "Flavours @ NUS Uptown"
+      ],
+      "outlets_outstanding": [
         "AltitudeX",
         "Vivo City",
         "Chinatown Point",
@@ -198,6 +198,26 @@
         "Institute of Mental Health": {
           "by": "Diaridah Smile",
           "time": "11:55"
+        },
+        "Junction 9": {
+          "by": "jvparthiban7",
+          "time": "12:12"
+        },
+        "Northpoint City": {
+          "by": "jvparthiban7",
+          "time": "12:12"
+        },
+        "GENEO": {
+          "by": "jvparthiban7",
+          "time": "12:12"
+        },
+        "Ngee Ann Polytechnic B": {
+          "by": "jvparthiban7",
+          "time": "12:12"
+        },
+        "Flavours @ NUS Uptown": {
+          "by": "jvparthiban7",
+          "time": "12:12"
         }
       },
       "problems": [
