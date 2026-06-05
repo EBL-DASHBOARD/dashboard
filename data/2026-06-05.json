@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T07:21:11.360Z",
+  "generated": "2026-06-05T07:27:14.156Z",
   "groups": [
     {
       "id": "XH",
@@ -329,6 +329,13 @@
           "by": "sudhakar",
           "text": "Driver reported completed stops, but there are no outstanding stops; these are already marked done",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "15:26",
+          "by": "Mr.vin",
+          "text": "Driver reporting stops done, but no outstanding stops listed for today",
+          "escalated": false,
           "resolved": false
         }
       ],
