@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T08:39:50.011Z",
+  "generated": "2026-06-05T08:42:56.425Z",
   "groups": [
     {
       "id": "XH",
@@ -483,7 +483,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "CL2",
         "JP",
@@ -508,7 +508,8 @@
         "KTB",
         "BHT",
         "GMM",
-        "R4"
+        "R4",
+        "YS1"
       ],
       "outlets_outstanding": [
         "R1",
@@ -518,7 +519,6 @@
         "AP1",
         "LTM",
         "J9",
-        "YS1",
         "CCP",
         "EPT",
         "TPM",
@@ -624,6 +624,10 @@
         "R4": {
           "by": "Krishnamiyako",
           "time": "16:21"
+        },
+        "YS1": {
+          "by": "Sudhakar",
+          "time": "16:42"
         }
       },
       "problems": [],
