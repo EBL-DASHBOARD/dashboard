@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T08:49:55.419Z",
+  "generated": "2026-06-05T08:59:55.725Z",
   "groups": [
     {
       "id": "XH",
@@ -359,6 +359,13 @@
           "by": "Nur Azimah",
           "text": "Driver reporting stops (Pcm, Wp, Cm1, Rvm) but no stops are outstanding today — possibly yesterday's list or confusion about current tasks",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "16:59",
+          "by": "sudhakar",
+          "text": "Reported stops not on outstanding list",
+          "escalated": false,
           "resolved": false
         }
       ],
