@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T07:42:14.247Z",
+  "generated": "2026-06-05T07:45:35.703Z",
   "groups": [
     {
       "id": "XH",
@@ -460,7 +460,7 @@
           ]
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "CL2",
         "JP",
@@ -481,7 +481,8 @@
         "TIO",
         "VIVO",
         "KNX",
-        "PAL"
+        "PAL",
+        "KTB"
       ],
       "outlets_outstanding": [
         "R1",
@@ -492,7 +493,6 @@
         "AP1",
         "LTM",
         "J9",
-        "KTB",
         "YS1",
         "CCP",
         "EPT",
@@ -585,6 +585,10 @@
         "PAL": {
           "by": "Sasi",
           "time": "15:04"
+        },
+        "KTB": {
+          "by": "Sudhakar",
+          "time": "15:45"
         }
       },
       "problems": [],
