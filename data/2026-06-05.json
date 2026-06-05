@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T03:25:49.556Z",
+  "generated": "2026-06-05T03:31:18.792Z",
   "groups": [
     {
       "id": "XH",
@@ -210,7 +210,7 @@
           "time": "11:15",
           "by": "sudhakar",
           "text": "All reported stops are already marked done (63PS=63 Pagoda Street, 9PR=9 Penang Road, UE=UE Square, ART=ARTRA)",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
