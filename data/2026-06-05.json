@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T08:24:50.341Z",
+  "generated": "2026-06-05T08:30:40.732Z",
   "groups": [
     {
       "id": "XH",
@@ -124,7 +124,7 @@
           "pm": []
         }
       ],
-      "done": 29,
+      "done": 32,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -154,7 +154,10 @@
         "Compass One",
         "Punggol Coast Mall",
         "Rivervale Mall",
-        "Causeway Point"
+        "Causeway Point",
+        "GRID",
+        "Lazada One",
+        "Fairprice Hub"
       ],
       "outlets_outstanding": [
         "Chinatown Point",
@@ -162,10 +165,7 @@
         "The Poiz Centre",
         "New Tech Park",
         "Galaxis",
-        "Fairprice Hub",
-        "JEM",
-        "Lazada One",
-        "GRID"
+        "JEM"
       ],
       "done_detail": {
         "West Mall": {
@@ -283,6 +283,18 @@
         "Causeway Point": {
           "by": "Mr.vin",
           "time": "16:11"
+        },
+        "GRID": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "16:30"
+        },
+        "Lazada One": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "16:30"
+        },
+        "Fairprice Hub": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "16:30"
         }
       },
       "problems": [
