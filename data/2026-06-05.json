@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T09:14:55.504Z",
+  "generated": "2026-06-05T09:21:30.183Z",
   "groups": [
     {
       "id": "XH",
@@ -490,7 +490,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "CL2",
         "JP",
@@ -518,7 +518,8 @@
         "R4",
         "YS1",
         "BOB",
-        "NEX"
+        "NEX",
+        "J9"
       ],
       "outlets_outstanding": [
         "R1",
@@ -527,7 +528,6 @@
         "AP4",
         "AP1",
         "LTM",
-        "J9",
         "CCP",
         "EPT",
         "TPM",
@@ -643,6 +643,10 @@
         "NEX": {
           "by": "Sasi",
           "time": "17:10"
+        },
+        "J9": {
+          "by": "YAAKESH",
+          "time": "17:21"
         }
       },
       "problems": [],
