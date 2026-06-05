@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T04:34:58.788Z",
+  "generated": "2026-06-05T05:02:50.420Z",
   "groups": [
     {
       "id": "XH",
@@ -390,7 +390,7 @@
           ]
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "CL2",
         "JP",
@@ -408,10 +408,10 @@
         "DV",
         "BQ",
         "ART",
-        "TIO"
+        "TIO",
+        "VIVO"
       ],
       "outlets_outstanding": [
-        "VIVO",
         "R1",
         "AP2",
         "R3",
@@ -503,6 +503,10 @@
         "TIO": {
           "by": "Krishnamiyako",
           "time": "12:27"
+        },
+        "VIVO": {
+          "by": "Krishnamiyako",
+          "time": "13:02"
         }
       },
       "problems": [],
