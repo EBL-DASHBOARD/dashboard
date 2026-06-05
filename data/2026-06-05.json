@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T07:03:40.513Z",
+  "generated": "2026-06-05T07:03:44.369Z",
   "groups": [
     {
       "id": "XH",
@@ -321,7 +321,7 @@
           "time": "14:48",
           "by": "Mr.vin",
           "text": "Reported stops (Tpc, Ntp, Cwp, Gx, Epm) don't match outstanding deliveries",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
