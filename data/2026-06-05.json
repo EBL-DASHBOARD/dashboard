@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T01:13:57.539Z",
+  "generated": "2026-06-05T01:26:21.771Z",
   "groups": [
     {
       "id": "XH",
@@ -124,12 +124,16 @@
           "pm": []
         }
       ],
-      "done": 4,
+      "done": 8,
       "outlets_done": [
         "West Mall",
         "Le Quest",
         "Hillion Mall",
-        "Dairy Farm Mall"
+        "Dairy Farm Mall",
+        "63 Pagoda Street",
+        "9 Penang Road",
+        "UE Square",
+        "ARTRA"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -141,10 +145,6 @@
         "Flavours @ NUS Uptown",
         "GENEO",
         "Ngee Ann Polytechnic B",
-        "ARTRA",
-        "63 Pagoda Street",
-        "9 Penang Road",
-        "UE Square",
         "AltitudeX",
         "Vivo City",
         "Chinatown Point",
@@ -166,6 +166,22 @@
         "Dairy Farm Mall": {
           "by": "Nur Azimah",
           "time": "08:38"
+        },
+        "63 Pagoda Street": {
+          "by": "sudhakar",
+          "time": "09:26"
+        },
+        "9 Penang Road": {
+          "by": "sudhakar",
+          "time": "09:26"
+        },
+        "UE Square": {
+          "by": "sudhakar",
+          "time": "09:26"
+        },
+        "ARTRA": {
+          "by": "sudhakar",
+          "time": "09:26"
         }
       },
       "problems": [],
