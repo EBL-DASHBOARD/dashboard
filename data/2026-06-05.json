@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T09:10:37.475Z",
+  "generated": "2026-06-05T09:14:55.504Z",
   "groups": [
     {
       "id": "XH",
@@ -365,7 +365,7 @@
           "time": "16:59",
           "by": "sudhakar",
           "text": "Reported stops not on outstanding list",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
