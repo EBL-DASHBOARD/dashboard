@@ -1,44 +1,102 @@
 {
   "date": "2026-06-06",
-  "generated": "2026-06-05T00:06:12.127Z",
+  "generated": "2026-06-05T12:19:02.451Z",
   "groups": [
     {
       "id": "XH",
       "name": "Xh Delivery",
-      "total_locations": 6,
-      "am_total": 3,
-      "pm_total": 3,
+      "total_locations": 23,
+      "am_total": 14,
+      "pm_total": 9,
       "am_outlets": [
-        "PLQ Tower 1",
-        "Aperia Mall",
-        "Changi City Point"
+        "Pasir Ris Mall",
+        "White Sands",
+        "Tampines 1",
+        "Tampines Mart",
+        "Century Square",
+        "V Hotel Lavender",
+        "Citygate",
+        "Suntec City",
+        "ARTRA",
+        "Compass One",
+        "Punggol Plaza",
+        "Junction 8",
+        "The Woodleigh Mal",
+        "Hillion Mall"
       ],
       "pm_outlets": [
-        "Ngee Ann City",
-        "Tangs Plaza Kiosk 2",
-        "NUH Medical Centre"
+        "Downtown East",
+        "Causeway Point",
+        "Waterway Point",
+        "888 Plaza",
+        "100 AM Mall",
+        "Guoco Tower",
+        "SingPost Centre",
+        "i12 Katong",
+        "313 Somerset"
       ],
       "trucks": [
         {
           "name": "TRUCK 1",
           "am": [
-            "PLQ Tower 1",
-            "Aperia Mall",
-            "Changi City Point"
+            "Pasir Ris Mall",
+            "White Sands",
+            "Tampines 1",
+            "Tampines Mart",
+            "Century Square"
           ],
           "pm": [
-            "Ngee Ann City",
-            "Tangs Plaza Kiosk 2",
-            "NUH Medical Centre"
+            "Downtown East",
+            "Causeway Point",
+            "Waterway Point",
+            "888 Plaza"
           ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "V Hotel Lavender",
+            "Citygate",
+            "Suntec City",
+            "ARTRA"
+          ],
+          "pm": [
+            "100 AM Mall",
+            "Guoco Tower",
+            "SingPost Centre",
+            "i12 Katong",
+            "313 Somerset"
+          ]
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Compass One",
+            "Punggol Plaza",
+            "Junction 8",
+            "The Woodleigh Mal",
+            "Hillion Mall"
+          ],
+          "pm": []
         }
       ],
       "done": 0,
       "outlets_done": [],
       "outlets_outstanding": [
-        "PLQ Tower 1",
-        "Aperia Mall",
-        "Changi City Point"
+        "Pasir Ris Mall",
+        "White Sands",
+        "Tampines 1",
+        "Tampines Mart",
+        "Century Square",
+        "V Hotel Lavender",
+        "Citygate",
+        "Suntec City",
+        "ARTRA",
+        "Compass One",
+        "Punggol Plaza",
+        "Junction 8",
+        "The Woodleigh Mal",
+        "Hillion Mall"
       ],
       "done_detail": {},
       "problems": [],
