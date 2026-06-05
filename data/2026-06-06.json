@@ -1,0 +1,48 @@
+{
+  "date": "2026-06-06",
+  "generated": "2026-06-05T00:06:12.127Z",
+  "groups": [
+    {
+      "id": "XH",
+      "name": "Xh Delivery",
+      "total_locations": 6,
+      "am_total": 3,
+      "pm_total": 3,
+      "am_outlets": [
+        "PLQ Tower 1",
+        "Aperia Mall",
+        "Changi City Point"
+      ],
+      "pm_outlets": [
+        "Ngee Ann City",
+        "Tangs Plaza Kiosk 2",
+        "NUH Medical Centre"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "PLQ Tower 1",
+            "Aperia Mall",
+            "Changi City Point"
+          ],
+          "pm": [
+            "Ngee Ann City",
+            "Tangs Plaza Kiosk 2",
+            "NUH Medical Centre"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "PLQ Tower 1",
+        "Aperia Mall",
+        "Changi City Point"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
