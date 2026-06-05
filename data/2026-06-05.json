@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T06:49:04.500Z",
+  "generated": "2026-06-05T07:03:40.513Z",
   "groups": [
     {
       "id": "XH",
@@ -446,7 +446,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "CL2",
         "JP",
@@ -465,7 +465,8 @@
         "BQ",
         "ART",
         "TIO",
-        "VIVO"
+        "VIVO",
+        "KNX"
       ],
       "outlets_outstanding": [
         "R1",
@@ -481,7 +482,6 @@
         "CCP",
         "EPT",
         "TPM",
-        "KNX",
         "BHT",
         "BOB",
         "NTP",
@@ -563,6 +563,10 @@
         "VIVO": {
           "by": "Krishnamiyako",
           "time": "13:02"
+        },
+        "KNX": {
+          "by": "Samy Kumar Meena",
+          "time": "15:03"
         }
       },
       "problems": [],
