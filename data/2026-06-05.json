@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T10:33:15.568Z",
+  "generated": "2026-06-05T11:01:43.888Z",
   "groups": [
     {
       "id": "XH",
@@ -497,7 +497,7 @@
           ]
         }
       ],
-      "done": 33,
+      "done": 34,
       "outlets_done": [
         "CL2",
         "JP",
@@ -531,7 +531,8 @@
         "NTP",
         "LTM",
         "TPM",
-        "AP2"
+        "AP2",
+        "ACV"
       ],
       "outlets_outstanding": [
         "R1",
@@ -539,8 +540,7 @@
         "AP4",
         "AP1",
         "CCP",
-        "WWP",
-        "ACV"
+        "WWP"
       ],
       "done_detail": {
         "CL2": {
@@ -674,6 +674,10 @@
         "AP2": {
           "by": "Krishnamiyako",
           "time": "18:33"
+        },
+        "ACV": {
+          "by": "Sasi",
+          "time": "19:01"
         }
       },
       "problems": [],
