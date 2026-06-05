@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T08:14:59.178Z",
+  "generated": "2026-06-05T08:21:36.527Z",
   "groups": [
     {
       "id": "XH",
@@ -464,7 +464,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "CL2",
         "JP",
@@ -488,13 +488,13 @@
         "PAL",
         "KTB",
         "BHT",
-        "GMM"
+        "GMM",
+        "R4"
       ],
       "outlets_outstanding": [
         "R1",
         "AP2",
         "R3",
-        "R4",
         "AP4",
         "AP1",
         "LTM",
@@ -601,6 +601,10 @@
         "GMM": {
           "by": "Sasi",
           "time": "16:14"
+        },
+        "R4": {
+          "by": "Krishnamiyako",
+          "time": "16:21"
         }
       },
       "problems": [],
