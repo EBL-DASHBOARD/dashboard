@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T00:50:11.600Z",
+  "generated": "2026-06-05T01:13:57.539Z",
   "groups": [
     {
       "id": "XH",
@@ -290,10 +290,11 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "CL2",
-        "JP"
+        "JP",
+        "PS"
       ],
       "outlets_outstanding": [
         "ARC",
@@ -310,7 +311,6 @@
         "SHP",
         "KIT",
         "USQ",
-        "PS",
         "BQ"
       ],
       "done_detail": {
@@ -321,6 +321,10 @@
         "JP": {
           "by": "Samy Kumar Meena",
           "time": "08:50"
+        },
+        "PS": {
+          "by": "Sasi",
+          "time": "09:13"
         }
       },
       "problems": [],
