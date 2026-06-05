@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-06-05T02:07:10.622Z",
+  "generated": "2026-06-05T02:18:32.735Z",
   "groups": [
     {
       "id": "XH",
@@ -196,7 +196,7 @@
           "time": "10:03",
           "by": "sudhakar",
           "text": "All reported items (63PS, 9PR, UE, ART) are already marked done; nothing matched outstanding stops",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
