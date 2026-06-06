@@ -1,6 +1,6 @@
 {
   "date": "2026-06-06",
-  "generated": "2026-06-06T09:05:26.139Z",
+  "generated": "2026-06-06T09:58:31.891Z",
   "groups": [
     {
       "id": "XH",
@@ -80,12 +80,13 @@
           "pm": []
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "Pasir Ris Mall",
         "White Sands",
         "Suntec City",
-        "Guoco Tower"
+        "Guoco Tower",
+        "Causeway Point"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -100,7 +101,6 @@
         "The Woodleigh Mal",
         "Hillion Mall",
         "Downtown East",
-        "Causeway Point",
         "Waterway Point",
         "888 Plaza",
         "100 AM Mall",
@@ -124,6 +124,10 @@
         "Guoco Tower": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "17:05"
+        },
+        "Causeway Point": {
+          "by": "Diaridah Smile",
+          "time": "17:58"
         }
       },
       "problems": [],
