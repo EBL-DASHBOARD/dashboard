@@ -1,6 +1,6 @@
 {
   "date": "2026-06-06",
-  "generated": "2026-06-06T05:18:09.313Z",
+  "generated": "2026-06-06T06:00:06.184Z",
   "groups": [
     {
       "id": "XH",
@@ -97,7 +97,16 @@
         "Punggol Plaza",
         "Junction 8",
         "The Woodleigh Mal",
-        "Hillion Mall"
+        "Hillion Mall",
+        "Downtown East",
+        "Causeway Point",
+        "Waterway Point",
+        "888 Plaza",
+        "100 AM Mall",
+        "Guoco Tower",
+        "SingPost Centre",
+        "i12 Katong",
+        "313 Somerset"
       ],
       "done_detail": {
         "Pasir Ris Mall": {
