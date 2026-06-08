@@ -1,6 +1,6 @@
 {
   "date": "2026-06-08",
-  "generated": "2026-06-08T11:00:50.104Z",
+  "generated": "2026-06-08T11:08:22.065Z",
   "groups": [
     {
       "id": "EBL6",
@@ -39,16 +39,16 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "AP2",
         "LOY",
         "BOB",
         "ACV",
-        "VIVA"
+        "VIVA",
+        "PECC"
       ],
       "outlets_outstanding": [
-        "PECC",
         "R1",
         "R3",
         "AP1",
@@ -74,6 +74,10 @@
         "VIVA": {
           "by": "Samy Kumar Meena",
           "time": "19:00"
+        },
+        "PECC": {
+          "by": "ratharun87",
+          "time": "19:08"
         }
       },
       "problems": [],
