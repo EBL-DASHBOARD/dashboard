@@ -684,14 +684,29 @@ async function render() {
   document.getElementById('summary-card').style.display = 'none';
 
   if (isToday || S.period === 'CUSTOM' && from === to) {
-    const dateKey = from;
-    const data = await loadDay(dateKey);
+    let dateKey = from;
+    let data = await loadDay(dateKey);
+    let fellBack = false;
+    if (!data) {
+      // No data for the requested day (e.g. today's schedule not in yet) — fall
+      // back to the most recent available day so the dashboard never looks dead.
+      await loadIndex();
+      const latest = S.index.find(d => d <= from) || S.index[0];
+      if (latest) { dateKey = latest; data = await loadDay(latest); fellBack = latest !== from; }
+    }
     if (data) {
       discoverGroups(data);
       renderGroupPills();
       renderSummary(data.groups);
       renderCards(data.groups, dateKey);
-      document.getElementById('s-label').textContent = `locations completed · ${fmtDate(dateKey)}`;
+      document.getElementById('s-label').textContent = fellBack
+        ? `most recent day · ${fmtDate(dateKey)} — nothing for today (${fmtDate(from)}) yet`
+        : `locations completed · ${fmtDate(dateKey)}`;
+    } else {
+      document.getElementById('summary-card').style.display = 'none';
+      document.getElementById('groups-grid').style.display = 'block';
+      document.getElementById('groups-grid').innerHTML =
+        `<div style="grid-column:1/-1;text-align:center;color:var(--sub);padding:40px">No delivery data yet — waiting for the first schedule.</div>`;
     }
   } else {
     await loadIndex();
