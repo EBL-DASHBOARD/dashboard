@@ -1,6 +1,6 @@
 {
   "date": "2026-06-08",
-  "generated": "2026-06-08T11:08:38.460Z",
+  "generated": "2026-06-08T11:20:29.998Z",
   "groups": [
     {
       "id": "EBL6",
@@ -39,7 +39,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "AP2",
         "LOY",
@@ -47,12 +47,12 @@
         "ACV",
         "VIVA",
         "PECC",
-        "R3"
+        "R3",
+        "WWP"
       ],
       "outlets_outstanding": [
         "R1",
-        "AP1",
-        "WWP"
+        "AP1"
       ],
       "done_detail": {
         "AP2": {
@@ -82,6 +82,10 @@
         "R3": {
           "by": "Krishna",
           "time": "19:08"
+        },
+        "WWP": {
+          "by": "Sasi",
+          "time": "19:20"
         }
       },
       "problems": [],
