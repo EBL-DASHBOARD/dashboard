@@ -1,6 +1,6 @@
 {
   "date": "2026-06-08",
-  "generated": "2026-06-08T14:11:23.414Z",
+  "generated": "2026-06-08T14:11:39.593Z",
   "groups": [
     {
       "id": "EBL6",
@@ -106,7 +106,22 @@
         "STC",
         "BS",
         "KIT",
-        "TY"
+        "TY",
+        "AP4",
+        "R3",
+        "AP1",
+        "R1",
+        "VIVA",
+        "SSC2",
+        "MARS",
+        "J9",
+        "YS1",
+        "WNC",
+        "KEB",
+        "FEN",
+        "HRC",
+        "PDD",
+        "WWP"
       ],
       "done_detail": {},
       "problems": [],
