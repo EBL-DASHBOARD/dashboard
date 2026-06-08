@@ -1,6 +1,6 @@
 {
   "date": "2026-06-08",
-  "generated": "2026-06-08T11:08:22.065Z",
+  "generated": "2026-06-08T11:08:38.460Z",
   "groups": [
     {
       "id": "EBL6",
@@ -39,18 +39,18 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "AP2",
         "LOY",
         "BOB",
         "ACV",
         "VIVA",
-        "PECC"
+        "PECC",
+        "R3"
       ],
       "outlets_outstanding": [
         "R1",
-        "R3",
         "AP1",
         "WWP"
       ],
@@ -77,6 +77,10 @@
         },
         "PECC": {
           "by": "ratharun87",
+          "time": "19:08"
+        },
+        "R3": {
+          "by": "Krishna",
           "time": "19:08"
         }
       },
