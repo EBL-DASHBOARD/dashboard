@@ -1,6 +1,6 @@
 {
   "date": "2026-06-08",
-  "generated": "2026-06-08T10:18:18.494Z",
+  "generated": "2026-06-08T10:31:39.779Z",
   "groups": [
     {
       "id": "EBL6",
@@ -39,20 +39,20 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 4,
       "outlets_done": [
         "AP2",
-        "LOY"
+        "LOY",
+        "BOB",
+        "ACV"
       ],
       "outlets_outstanding": [
         "PECC",
         "R1",
         "R3",
         "AP1",
-        "BOB",
         "VIVA",
-        "WWP",
-        "ACV"
+        "WWP"
       ],
       "done_detail": {
         "AP2": {
@@ -62,6 +62,14 @@
         "LOY": {
           "by": "ratharun87",
           "time": "18:18"
+        },
+        "BOB": {
+          "by": "ops (pre-takeover)",
+          "time": "18:20"
+        },
+        "ACV": {
+          "by": "Sasi",
+          "time": "18:31"
         }
       },
       "problems": [],
