@@ -1,58 +1,124 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-08T12:22:09.608Z",
+  "generated": "2026-06-08T14:56:46.774Z",
   "groups": [
     {
       "id": "XH",
       "name": "Xh Delivery",
-      "total_locations": 9,
-      "am_total": 5,
-      "pm_total": 4,
+      "total_locations": 29,
+      "am_total": 17,
+      "pm_total": 12,
       "am_outlets": [
-        "Jewel",
-        "Changi T1 Transit",
-        "Changi City Point",
-        "Hougang 1",
-        "ESR BizPark @ Changi"
+        "Suntec City",
+        "Marina Square",
+        "Marina One",
+        "SUNTEC CITY MALL",
+        "Pasir Ris Mall",
+        "White Sands",
+        "Institute of Mental Health",
+        "78 Airport Blvd",
+        "Punggol Plaza",
+        "Junction 8",
+        "The Rail Mall",
+        "Hillion Mall",
+        "888 Plaza",
+        "The Woodleigh Mall",
+        "9 Penang Road",
+        "South Beach Tower",
+        "77 Robinson"
       ],
       "pm_outlets": [
-        "Coronation shopping",
-        "Westgate",
-        "The Strategy",
-        "NTU South Spine"
+        "GRID",
+        "Duo Galleria",
+        "100 AM Mall",
+        "Guoco Tower",
+        "Citylink",
+        "One Raffles Link",
+        "Plaza Singapura",
+        "Lazada One",
+        "Downtown East",
+        "Waterway Point",
+        "Compass One",
+        "Causeway Point"
       ],
       "trucks": [
         {
           "name": "TRUCK 1",
           "am": [
-            "Jewel",
-            "Changi T1 Transit"
+            "Suntec City",
+            "Marina Square",
+            "Marina One",
+            "SUNTEC CITY MALL"
           ],
-          "pm": []
+          "pm": [
+            "GRID",
+            "Duo Galleria",
+            "100 AM Mall",
+            "Guoco Tower"
+          ]
         },
         {
           "name": "TRUCK 2",
           "am": [
-            "Changi City Point",
-            "Hougang 1",
-            "ESR BizPark @ Changi"
+            "Pasir Ris Mall",
+            "White Sands",
+            "Institute of Mental Health",
+            "78 Airport Blvd"
           ],
           "pm": [
-            "Coronation shopping",
-            "Westgate",
-            "The Strategy",
-            "NTU South Spine"
+            "Citylink",
+            "One Raffles Link",
+            "Plaza Singapura",
+            "Lazada One"
           ]
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Punggol Plaza",
+            "Junction 8",
+            "The Rail Mall",
+            "Hillion Mall",
+            "888 Plaza"
+          ],
+          "pm": [
+            "Downtown East",
+            "Waterway Point",
+            "Compass One",
+            "Causeway Point"
+          ]
+        },
+        {
+          "name": "TRUCK 4",
+          "am": [
+            "The Woodleigh Mall",
+            "9 Penang Road",
+            "South Beach Tower",
+            "77 Robinson"
+          ],
+          "pm": []
         }
       ],
       "done": 0,
       "outlets_done": [],
       "outlets_outstanding": [
-        "Jewel",
-        "Changi T1 Transit",
-        "Changi City Point",
-        "Hougang 1",
-        "ESR BizPark @ Changi"
+        "Suntec City",
+        "Marina Square",
+        "Marina One",
+        "SUNTEC CITY MALL",
+        "Pasir Ris Mall",
+        "White Sands",
+        "Institute of Mental Health",
+        "78 Airport Blvd",
+        "Punggol Plaza",
+        "Junction 8",
+        "The Rail Mall",
+        "Hillion Mall",
+        "888 Plaza",
+        "The Woodleigh Mall",
+        "9 Penang Road",
+        "South Beach Tower",
+        "77 Robinson"
       ],
       "done_detail": {},
       "problems": [],
