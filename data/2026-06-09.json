@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-08T14:56:46.774Z",
+  "generated": "2026-06-08T16:08:33.083Z",
   "groups": [
     {
       "id": "XH",
@@ -119,6 +119,116 @@
         "9 Penang Road",
         "South Beach Tower",
         "77 Robinson"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 28,
+      "am_total": 13,
+      "pm_total": 15,
+      "am_outlets": [
+        "JKN",
+        "WXI",
+        "KRC",
+        "IM",
+        "KH",
+        "BPP",
+        "YTP",
+        "WSM",
+        "MBA",
+        "STC",
+        "BS",
+        "KIT",
+        "TY"
+      ],
+      "pm_outlets": [
+        "AP4",
+        "R3",
+        "AP1",
+        "R1",
+        "VIVA",
+        "SSC2",
+        "MARS",
+        "J9",
+        "YS1",
+        "WNC",
+        "KEB",
+        "FEN",
+        "HRC",
+        "PDD",
+        "WWP"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-2",
+          "am": [
+            "JKN",
+            "WXI",
+            "KRC",
+            "IM"
+          ],
+          "pm": [
+            "AP4",
+            "R3",
+            "AP1",
+            "R1",
+            "VIVA"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "KH",
+            "BPP",
+            "YTP",
+            "WSM"
+          ],
+          "pm": [
+            "SSC2",
+            "MARS",
+            "J9",
+            "YS1"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "MBA",
+            "STC",
+            "BS",
+            "KIT",
+            "TY"
+          ],
+          "pm": [
+            "WNC",
+            "KEB",
+            "FEN",
+            "HRC",
+            "PDD",
+            "WWP"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "JKN",
+        "WXI",
+        "KRC",
+        "IM",
+        "KH",
+        "BPP",
+        "YTP",
+        "WSM",
+        "MBA",
+        "STC",
+        "BS",
+        "KIT",
+        "TY"
       ],
       "done_detail": {},
       "problems": [],
