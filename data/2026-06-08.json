@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-08",
+  "generated": "2026-06-08T10:14:25.722Z",
+  "groups": [
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 10,
+      "am_total": 0,
+      "pm_total": 10,
+      "am_outlets": [],
+      "pm_outlets": [
+        "PECC",
+        "LOY",
+        "AP2",
+        "R1",
+        "R3",
+        "AP1",
+        "BOB",
+        "VIVA",
+        "WWP",
+        "ACV"
+      ],
+      "trucks": [
+        {
+          "name": "PM balance",
+          "am": [],
+          "pm": [
+            "PECC",
+            "LOY",
+            "AP2",
+            "R1",
+            "R3",
+            "AP1",
+            "BOB",
+            "VIVA",
+            "WWP",
+            "ACV"
+          ]
+        }
+      ],
+      "done": 1,
+      "outlets_done": [
+        "AP2"
+      ],
+      "outlets_outstanding": [
+        "PECC",
+        "LOY",
+        "R1",
+        "R3",
+        "AP1",
+        "BOB",
+        "VIVA",
+        "WWP",
+        "ACV"
+      ],
+      "done_detail": {
+        "AP2": {
+          "by": "Krishna",
+          "time": "18:14"
+        }
+      },
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
