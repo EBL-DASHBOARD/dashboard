@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T04:12:19.483Z",
+  "generated": "2026-06-09T06:00:01.533Z",
   "groups": [
     {
       "id": "XH",
@@ -119,7 +119,19 @@
         "Punggol Plaza",
         "Junction 8",
         "The Woodleigh Mall",
-        "9 Penang Road"
+        "9 Penang Road",
+        "GRID",
+        "Duo Galleria",
+        "100 AM Mall",
+        "Guoco Tower",
+        "Citylink",
+        "One Raffles Link",
+        "Plaza Singapura",
+        "Lazada One",
+        "Downtown East",
+        "Waterway Point",
+        "Compass One",
+        "Causeway Point"
       ],
       "done_detail": {
         "Pasir Ris Mall": {
