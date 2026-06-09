@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T01:33:15.677Z",
+  "generated": "2026-06-09T01:33:22.949Z",
   "groups": [
     {
       "id": "XH",
@@ -127,6 +127,13 @@
           "by": "Nur Azimah",
           "text": "None of the five short forms (Rm, Hm, J8, Pp, 888plaza) match any outstanding stops",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "09:33",
+          "by": "Nur Azimah",
+          "text": "None of the five abbreviations (Rm, Hm, J8, Pp, 888plaza) match any of the outstanding stops",
+          "escalated": false,
           "resolved": false
         }
       ],
