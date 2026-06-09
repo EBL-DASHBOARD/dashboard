@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T02:20:19.843Z",
+  "generated": "2026-06-09T02:34:21.067Z",
   "groups": [
     {
       "id": "XH",
@@ -99,10 +99,13 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 5,
       "outlets_done": [
         "Pasir Ris Mall",
-        "White Sands"
+        "White Sands",
+        "The Rail Mall",
+        "Hillion Mall",
+        "888 Plaza"
       ],
       "outlets_outstanding": [
         "Suntec City",
@@ -113,9 +116,6 @@
         "78 Airport Blvd",
         "Punggol Plaza",
         "Junction 8",
-        "The Rail Mall",
-        "Hillion Mall",
-        "888 Plaza",
         "The Woodleigh Mall",
         "9 Penang Road",
         "South Beach Tower",
@@ -129,6 +129,18 @@
         "White Sands": {
           "by": "boss",
           "time": "10:15"
+        },
+        "The Rail Mall": {
+          "by": "Nur Azimah",
+          "time": "10:34"
+        },
+        "Hillion Mall": {
+          "by": "Nur Azimah",
+          "time": "10:34"
+        },
+        "888 Plaza": {
+          "by": "Nur Azimah",
+          "time": "10:34"
         }
       },
       "problems": [
