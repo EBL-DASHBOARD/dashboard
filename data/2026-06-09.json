@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T01:48:23.021Z",
+  "generated": "2026-06-09T02:01:19.321Z",
   "groups": [
     {
       "id": "XH",
@@ -140,7 +140,7 @@
           "time": "09:46",
           "by": "SEENU.C",
           "text": "Message contains unclear abbreviations ('77 R', 'SBT', '9 PR', 'WlM') that do not match any outstanding stops",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
