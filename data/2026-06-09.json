@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T06:30:45.594Z",
+  "generated": "2026-06-09T06:40:56.257Z",
   "groups": [
     {
       "id": "XH",
@@ -326,7 +326,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "JKN",
         "YTP",
@@ -340,7 +340,8 @@
         "WSM",
         "IM",
         "STC",
-        "MBA"
+        "MBA",
+        "SSC2"
       ],
       "outlets_outstanding": [
         "AP4",
@@ -348,7 +349,6 @@
         "AP1",
         "R1",
         "VIVA",
-        "SSC2",
         "MARS",
         "J9",
         "YS1",
@@ -411,6 +411,10 @@
         "MBA": {
           "by": "Sasi",
           "time": "11:50"
+        },
+        "SSC2": {
+          "by": "Samy Kumar Meena",
+          "time": "14:40"
         }
       },
       "problems": [],
