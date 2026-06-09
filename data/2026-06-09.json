@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T03:57:05.228Z",
+  "generated": "2026-06-09T04:00:01.402Z",
   "groups": [
     {
       "id": "XH",
@@ -323,7 +323,23 @@
         "STC",
         "MBA"
       ],
-      "outlets_outstanding": [],
+      "outlets_outstanding": [
+        "AP4",
+        "R3",
+        "AP1",
+        "R1",
+        "VIVA",
+        "SSC2",
+        "MARS",
+        "J9",
+        "YS1",
+        "WNC",
+        "KEB",
+        "FEN",
+        "HRC",
+        "PDD",
+        "WWP"
+      ],
       "done_detail": {
         "JKN": {
           "by": "Krishna",
