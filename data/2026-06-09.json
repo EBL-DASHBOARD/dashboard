@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T07:30:53.376Z",
+  "generated": "2026-06-09T07:31:22.799Z",
   "groups": [
     {
       "id": "XH",
@@ -239,6 +239,13 @@
           "by": "boss",
           "text": "Rl, Cl, Ps, Lo do not clearly match any outstanding stops; Rl might be 'The Rail Mall' (already done); Cl, Ps, Lo are ambiguous or non-matching",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "15:31",
+          "by": "Nur Azimah",
+          "text": "DE, WP, CM1, CWP do not clearly match any outstanding stops (DE=?, WP=?, CM1=?, CWP=Causeway Point is already done)",
+          "escalated": false,
           "resolved": false
         }
       ],
