@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T04:00:01.402Z",
+  "generated": "2026-06-09T04:00:19.471Z",
   "groups": [
     {
       "id": "XH",
@@ -198,7 +198,7 @@
           "time": "11:45",
           "by": "boss",
           "text": "All four entries (78, PRM, WS, IMH) match already completed stops, not outstanding stops",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         },
         {
