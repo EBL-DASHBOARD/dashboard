@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T07:15:50.777Z",
+  "generated": "2026-06-09T07:30:53.376Z",
   "groups": [
     {
       "id": "XH",
@@ -238,7 +238,7 @@
           "time": "15:15",
           "by": "boss",
           "text": "Rl, Cl, Ps, Lo do not clearly match any outstanding stops; Rl might be 'The Rail Mall' (already done); Cl, Ps, Lo are ambiguous or non-matching",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
