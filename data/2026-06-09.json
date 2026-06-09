@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T09:00:39.302Z",
+  "generated": "2026-06-09T09:38:09.536Z",
   "groups": [
     {
       "id": "XH",
@@ -253,6 +253,13 @@
           "by": "Nur Azimah",
           "text": "DE, WP, CM1, CWP do not clearly match any outstanding stops; CWP may refer to Causeway Point (already done) but none of these abbreviations match the current outstanding list",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "17:38",
+          "by": "boss",
+          "text": "All four codes (Rl, Cl, Ps, Lo) either match already-done stops or don't match outstanding stops",
+          "escalated": false,
           "resolved": false
         }
       ],
