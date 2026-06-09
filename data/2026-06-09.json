@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T09:53:19.881Z",
+  "generated": "2026-06-09T09:57:21.616Z",
   "groups": [
     {
       "id": "XH",
@@ -361,7 +361,7 @@
           ]
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "JKN",
         "YTP",
@@ -384,12 +384,12 @@
         "J9",
         "AP4",
         "FEN",
-        "MARS"
+        "MARS",
+        "R1"
       ],
       "outlets_outstanding": [
         "R3",
         "AP1",
-        "R1",
         "HRC",
         "PDD",
         "WWP"
@@ -482,6 +482,10 @@
         "MARS": {
           "by": "Samy Kumar Meena",
           "time": "17:47"
+        },
+        "R1": {
+          "by": "Krishna",
+          "time": "17:57"
         }
       },
       "problems": [],
