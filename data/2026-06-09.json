@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T03:35:49.452Z",
+  "generated": "2026-06-09T03:37:27.942Z",
   "groups": [
     {
       "id": "XH",
@@ -184,7 +184,7 @@
           "time": "11:22",
           "by": "SEENU.C",
           "text": "77 R, SBT, and 9 PR are already done (not outstanding); WlM does not match any outstanding stop",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         },
         {
