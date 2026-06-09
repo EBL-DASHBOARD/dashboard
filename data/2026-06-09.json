@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T06:00:01.533Z",
+  "generated": "2026-06-09T06:30:45.594Z",
   "groups": [
     {
       "id": "XH",
@@ -225,6 +225,13 @@
           "by": "Nur Azimah",
           "text": "Rm, Hm, J8, Pp are unclear or don't match outstanding stops; 888plaza was already done",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "14:30",
+          "by": "Nur Azimah",
+          "text": "DE, WP, CM1, CWP do not clearly match any outstanding stops; possible matches are unclear or do not exist in the outstanding list",
+          "escalated": false,
           "resolved": false
         }
       ],
