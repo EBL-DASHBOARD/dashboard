@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-08T16:08:35.153Z",
+  "generated": "2026-06-09T00:36:41.675Z",
   "groups": [
     {
       "id": "XH",
@@ -121,7 +121,15 @@
         "77 Robinson"
       ],
       "done_detail": {},
-      "problems": [],
+      "problems": [
+        {
+          "time": "08:36",
+          "by": "Nur Azimah",
+          "text": "None of the five short forms (Rm, Hm, J8, Pp, 888plaza) match any outstanding stops",
+          "escalated": false,
+          "resolved": false
+        }
+      ],
       "customers": null
     },
     {
