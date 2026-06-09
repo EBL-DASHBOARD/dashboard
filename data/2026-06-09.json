@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T09:52:07.564Z",
+  "generated": "2026-06-09T09:53:19.881Z",
   "groups": [
     {
       "id": "XH",
@@ -259,7 +259,7 @@
           "time": "17:38",
           "by": "boss",
           "text": "All four codes (Rl, Cl, Ps, Lo) either match already-done stops or don't match outstanding stops",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         },
         {
