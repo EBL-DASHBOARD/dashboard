@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T08:41:06.222Z",
+  "generated": "2026-06-09T08:56:19.839Z",
   "groups": [
     {
       "id": "XH",
@@ -252,7 +252,7 @@
           "time": "16:41",
           "by": "Nur Azimah",
           "text": "DE, WP, CM1, CWP do not clearly match any outstanding stops; CWP may refer to Causeway Point (already done) but none of these abbreviations match the current outstanding list",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
