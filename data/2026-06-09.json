@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T03:35:42.052Z",
+  "generated": "2026-06-09T03:35:49.452Z",
   "groups": [
     {
       "id": "XH",
@@ -177,7 +177,7 @@
           "time": "11:20",
           "by": "boss",
           "text": "78✅ and PRM✅ do not match any outstanding stops; WS and Imh are ambiguous or unclear",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         },
         {
