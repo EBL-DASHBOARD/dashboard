@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T07:05:21.494Z",
+  "generated": "2026-06-09T07:15:50.777Z",
   "groups": [
     {
       "id": "XH",
@@ -232,6 +232,13 @@
           "by": "Nur Azimah",
           "text": "DE, WP, CM1, CWP do not clearly match any outstanding stops; possible matches are unclear or do not exist in the outstanding list",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "15:15",
+          "by": "boss",
+          "text": "Rl, Cl, Ps, Lo do not clearly match any outstanding stops; Rl might be 'The Rail Mall' (already done); Cl, Ps, Lo are ambiguous or non-matching",
+          "escalated": false,
           "resolved": false
         }
       ],
