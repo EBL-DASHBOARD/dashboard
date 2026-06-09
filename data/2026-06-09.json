@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T10:02:18.514Z",
+  "generated": "2026-06-09T10:07:19.896Z",
   "groups": [
     {
       "id": "XH",
@@ -266,7 +266,7 @@
           "time": "17:52",
           "by": "Nur Azimah",
           "text": "DE, WP, CM1, CWP do not clearly match any outstanding stops",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
