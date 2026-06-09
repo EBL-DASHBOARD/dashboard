@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T04:00:19.471Z",
+  "generated": "2026-06-09T04:03:49.475Z",
   "groups": [
     {
       "id": "XH",
@@ -205,7 +205,7 @@
           "time": "11:48",
           "by": "SEENU.C",
           "text": "All items reported (77R, SBT, 9PR, WlM) are already marked done; none match outstanding stops",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         },
         {
