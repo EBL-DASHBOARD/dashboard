@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T03:03:00.982Z",
+  "generated": "2026-06-10T03:04:21.200Z",
   "groups": [
     {
       "id": "XH",
@@ -192,7 +192,7 @@
           ]
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "BNV",
         "CL2",
@@ -207,12 +207,12 @@
         "HV2",
         "CT",
         "KIT",
-        "PS"
+        "PS",
+        "ART"
       ],
       "outlets_outstanding": [
         "DV",
         "TRM",
-        "ART",
         "TIO",
         "VIVO",
         "KLP",
@@ -274,6 +274,10 @@
         "PS": {
           "by": "GK",
           "time": "11:03"
+        },
+        "ART": {
+          "by": "Krishna",
+          "time": "11:04"
         }
       },
       "problems": [],
