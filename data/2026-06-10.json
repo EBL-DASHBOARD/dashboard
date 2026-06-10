@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T06:45:19.861Z",
+  "generated": "2026-06-10T07:00:21.225Z",
   "groups": [
     {
       "id": "XH",
@@ -83,7 +83,7 @@
           "time": "14:45",
           "by": "boss",
           "text": "T1, Tm, Cs, Cg do not clearly match any outstanding stops",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
