@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T03:48:59.422Z",
+  "generated": "2026-06-10T03:54:42.239Z",
   "groups": [
     {
       "id": "XH",
@@ -206,7 +206,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "BNV",
         "CL2",
@@ -225,11 +225,11 @@
         "ART",
         "TRM",
         "DV",
-        "TIO"
+        "TIO",
+        "KLP"
       ],
       "outlets_outstanding": [
         "VIVO",
-        "KLP",
         "MSQ"
       ],
       "done_detail": {
@@ -304,6 +304,10 @@
         "TIO": {
           "by": "Krishna",
           "time": "11:45"
+        },
+        "KLP": {
+          "by": "Sasi",
+          "time": "11:54"
         }
       },
       "problems": [],
