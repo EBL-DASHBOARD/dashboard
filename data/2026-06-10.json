@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T11:48:01.912Z",
+  "generated": "2026-06-10T11:56:24.453Z",
   "groups": [
     {
       "id": "XH",
@@ -224,7 +224,7 @@
           ]
         }
       ],
-      "done": 41,
+      "done": 42,
       "outlets_done": [
         "BNV",
         "CL2",
@@ -266,12 +266,12 @@
         "KTB",
         "R3",
         "LOY",
-        "PECC"
+        "PECC",
+        "WIS"
       ],
       "outlets_outstanding": [
         "R1",
-        "AP1",
-        "WIS"
+        "AP1"
       ],
       "done_detail": {
         "BNV": {
@@ -437,6 +437,10 @@
         "PECC": {
           "by": "YAAKESH",
           "time": "19:48"
+        },
+        "WIS": {
+          "by": "Sasi",
+          "time": "19:56"
         }
       },
       "problems": [],
