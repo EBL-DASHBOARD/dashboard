@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T09:04:26.576Z",
+  "generated": "2026-06-10T09:07:38.525Z",
   "groups": [
     {
       "id": "XH",
@@ -224,7 +224,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "BNV",
         "CL2",
@@ -254,7 +254,8 @@
         "R4",
         "NTP",
         "BOB",
-        "GMM"
+        "GMM",
+        "AP4"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -264,7 +265,6 @@
         "EPT",
         "CCP",
         "R1",
-        "AP4",
         "AP1",
         "AP2",
         "R3",
@@ -389,6 +389,10 @@
         "GMM": {
           "by": "Sudhakar",
           "time": "17:04"
+        },
+        "AP4": {
+          "by": "Krishna",
+          "time": "17:07"
         }
       },
       "problems": [],
