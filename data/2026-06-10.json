@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T04:40:03.296Z",
+  "generated": "2026-06-10T06:00:02.739Z",
   "groups": [
     {
       "id": "XH",
@@ -43,7 +43,11 @@
         "PLQ Tower 1",
         "Aperia Mall",
         "Tangs Plaza Kiosk 2",
-        "Ngee Ann City"
+        "Ngee Ann City",
+        "One Raffles Place Tower",
+        "Collyer Quay",
+        "Royal Group Building",
+        "NUH Medical Centre"
       ],
       "done_detail": {},
       "problems": [
