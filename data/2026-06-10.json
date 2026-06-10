@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T08:44:41.584Z",
+  "generated": "2026-06-10T09:04:26.576Z",
   "groups": [
     {
       "id": "XH",
@@ -224,7 +224,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "BNV",
         "CL2",
@@ -253,14 +253,14 @@
         "KNX",
         "R4",
         "NTP",
-        "BOB"
+        "BOB",
+        "GMM"
       ],
       "outlets_outstanding": [
         "PECC",
         "TPM",
         "LOY",
         "TNC2",
-        "GMM",
         "EPT",
         "CCP",
         "R1",
@@ -385,6 +385,10 @@
         "BOB": {
           "by": "Samy Kumar Meena",
           "time": "16:44"
+        },
+        "GMM": {
+          "by": "Sudhakar",
+          "time": "17:04"
         }
       },
       "problems": [],
