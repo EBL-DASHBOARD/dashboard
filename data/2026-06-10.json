@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T07:46:40.760Z",
+  "generated": "2026-06-10T08:06:44.543Z",
   "groups": [
     {
       "id": "XH",
@@ -224,7 +224,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "BNV",
         "CL2",
@@ -249,13 +249,13 @@
         "MSQ",
         "PAL",
         "NEX",
-        "BHT"
+        "BHT",
+        "KNX"
       ],
       "outlets_outstanding": [
         "PECC",
         "TPM",
         "LOY",
-        "KNX",
         "TNC2",
         "GMM",
         "EPT",
@@ -369,6 +369,10 @@
         "BHT": {
           "by": "Samy Kumar Meena",
           "time": "15:46"
+        },
+        "KNX": {
+          "by": "Sudhakar",
+          "time": "16:06"
         }
       },
       "problems": [],
