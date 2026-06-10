@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T07:41:38.672Z",
+  "generated": "2026-06-10T07:46:40.760Z",
   "groups": [
     {
       "id": "XH",
@@ -224,7 +224,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "BNV",
         "CL2",
@@ -248,7 +248,8 @@
         "VIVO",
         "MSQ",
         "PAL",
-        "NEX"
+        "NEX",
+        "BHT"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -260,7 +261,6 @@
         "EPT",
         "CCP",
         "BOB",
-        "BHT",
         "R1",
         "AP4",
         "AP1",
@@ -365,6 +365,10 @@
         "NEX": {
           "by": "Sasi",
           "time": "15:41"
+        },
+        "BHT": {
+          "by": "Samy Kumar Meena",
+          "time": "15:46"
         }
       },
       "problems": [],
