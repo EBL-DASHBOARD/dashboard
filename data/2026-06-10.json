@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T09:34:31.528Z",
+  "generated": "2026-06-10T09:39:50.198Z",
   "groups": [
     {
       "id": "XH",
@@ -224,7 +224,7 @@
           ]
         }
       ],
-      "done": 31,
+      "done": 32,
       "outlets_done": [
         "BNV",
         "CL2",
@@ -256,7 +256,8 @@
         "BOB",
         "GMM",
         "AP4",
-        "ACV"
+        "ACV",
+        "CCP"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -264,7 +265,6 @@
         "LOY",
         "TNC2",
         "EPT",
-        "CCP",
         "R1",
         "AP1",
         "AP2",
@@ -397,6 +397,10 @@
         "ACV": {
           "by": "Sasi",
           "time": "17:34"
+        },
+        "CCP": {
+          "by": "Samy Kumar Meena",
+          "time": "17:39"
         }
       },
       "problems": [],
