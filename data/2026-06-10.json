@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T11:11:42.245Z",
+  "generated": "2026-06-10T11:16:12.274Z",
   "groups": [
     {
       "id": "XH",
@@ -224,7 +224,7 @@
           ]
         }
       ],
-      "done": 38,
+      "done": 39,
       "outlets_done": [
         "BNV",
         "CL2",
@@ -263,14 +263,14 @@
         "EPT",
         "TNC2",
         "TPM",
-        "KTB"
+        "KTB",
+        "R3"
       ],
       "outlets_outstanding": [
         "PECC",
         "LOY",
         "R1",
         "AP1",
-        "R3",
         "WIS"
       ],
       "done_detail": {
@@ -425,6 +425,10 @@
         "KTB": {
           "by": "Sasi",
           "time": "19:11"
+        },
+        "R3": {
+          "by": "Krishna",
+          "time": "19:16"
         }
       },
       "problems": [],
