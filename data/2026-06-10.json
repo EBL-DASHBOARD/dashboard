@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T08:25:12.065Z",
+  "generated": "2026-06-10T08:26:16.961Z",
   "groups": [
     {
       "id": "XH",
@@ -224,7 +224,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "BNV",
         "CL2",
@@ -251,7 +251,8 @@
         "NEX",
         "BHT",
         "KNX",
-        "R4"
+        "R4",
+        "NTP"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -268,7 +269,6 @@
         "AP2",
         "R3",
         "WWP",
-        "NTP",
         "KTB",
         "ACV",
         "WIS"
@@ -377,6 +377,10 @@
         "R4": {
           "by": "Krishna",
           "time": "16:25"
+        },
+        "NTP": {
+          "by": "Sasi",
+          "time": "16:26"
         }
       },
       "problems": [],
