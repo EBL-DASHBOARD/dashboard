@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T01:46:59.460Z",
+  "generated": "2026-06-10T02:01:32.991Z",
   "groups": [
     {
       "id": "XH",
@@ -58,7 +58,7 @@
           "time": "09:46",
           "by": "boss",
           "text": "T1✅ matches PLQ Tower 1, but Tm, Cs, and Cg do not clearly match any outstanding stops",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
