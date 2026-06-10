@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T03:04:21.200Z",
+  "generated": "2026-06-10T03:07:29.987Z",
   "groups": [
     {
       "id": "XH",
@@ -192,7 +192,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "BNV",
         "CL2",
@@ -208,11 +208,11 @@
         "CT",
         "KIT",
         "PS",
-        "ART"
+        "ART",
+        "TRM"
       ],
       "outlets_outstanding": [
         "DV",
-        "TRM",
         "TIO",
         "VIVO",
         "KLP",
@@ -278,6 +278,10 @@
         "ART": {
           "by": "Krishna",
           "time": "11:04"
+        },
+        "TRM": {
+          "by": "Samy Kumar Meena",
+          "time": "11:07"
         }
       },
       "problems": [],
