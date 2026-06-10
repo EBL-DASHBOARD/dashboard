@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T08:26:16.961Z",
+  "generated": "2026-06-10T08:44:41.584Z",
   "groups": [
     {
       "id": "XH",
@@ -224,7 +224,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "BNV",
         "CL2",
@@ -252,7 +252,8 @@
         "BHT",
         "KNX",
         "R4",
-        "NTP"
+        "NTP",
+        "BOB"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -262,7 +263,6 @@
         "GMM",
         "EPT",
         "CCP",
-        "BOB",
         "R1",
         "AP4",
         "AP1",
@@ -381,6 +381,10 @@
         "NTP": {
           "by": "Sasi",
           "time": "16:26"
+        },
+        "BOB": {
+          "by": "Samy Kumar Meena",
+          "time": "16:44"
         }
       },
       "problems": [],
