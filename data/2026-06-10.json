@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T01:08:21.978Z",
+  "generated": "2026-06-10T01:21:16.231Z",
   "groups": [
     {
       "id": "XH",
@@ -46,7 +46,15 @@
         "Ngee Ann City"
       ],
       "done_detail": {},
-      "problems": [],
+      "problems": [
+        {
+          "time": "09:21",
+          "by": "palanivelumuthukumar",
+          "text": "None of the abbreviations (HFT1, VC, ART, ATP, GEO) match any outstanding stops",
+          "escalated": false,
+          "resolved": false
+        }
+      ],
       "customers": null
     },
     {
