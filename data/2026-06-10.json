@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T01:36:20.855Z",
+  "generated": "2026-06-10T01:45:09.890Z",
   "groups": [
     {
       "id": "XH",
@@ -185,17 +185,17 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "BNV",
         "CL2",
         "JP",
         "BQ",
         "USQ",
-        "KRC"
+        "KRC",
+        "CTP"
       ],
       "outlets_outstanding": [
-        "CTP",
         "CT",
         "PS",
         "DV",
@@ -235,6 +235,10 @@
         "KRC": {
           "by": "Krishna",
           "time": "09:35"
+        },
+        "CTP": {
+          "by": "GK",
+          "time": "09:45"
         }
       },
       "problems": [],
