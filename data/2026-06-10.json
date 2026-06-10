@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T07:00:29.412Z",
+  "generated": "2026-06-10T07:18:18.389Z",
   "groups": [
     {
       "id": "XH",
@@ -84,6 +84,13 @@
           "by": "boss",
           "text": "T1, Tm, Cs, Cg do not clearly match any outstanding stops",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "15:18",
+          "by": "boss",
+          "text": "Vel✅ matches no outstanding stop; 313, Ntp, Tpc are ambiguous or unclear abbreviations",
+          "escalated": false,
           "resolved": false
         }
       ],
