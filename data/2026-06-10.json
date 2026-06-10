@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T03:31:20.894Z",
+  "generated": "2026-06-10T03:33:55.412Z",
   "groups": [
     {
       "id": "XH",
@@ -59,6 +59,13 @@
           "by": "boss",
           "text": "T1✅ matches PLQ Tower 1, but Tm, Cs, and Cg do not clearly match any outstanding stops",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "11:33",
+          "by": "Nur Azimah",
+          "text": "No outstanding stops listed to match against the reported short forms (Wsm, Lq, Pp, Hm, Dfm)",
+          "escalated": false,
           "resolved": false
         }
       ],
