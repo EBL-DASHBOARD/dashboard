@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T01:35:42.157Z",
+  "generated": "2026-06-10T01:36:20.855Z",
   "groups": [
     {
       "id": "XH",
@@ -51,7 +51,7 @@
           "time": "09:21",
           "by": "palanivelumuthukumar",
           "text": "None of the abbreviations (HFT1, VC, ART, ATP, GEO) match any outstanding stops",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
