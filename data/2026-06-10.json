@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T03:45:52.105Z",
+  "generated": "2026-06-10T03:48:59.422Z",
   "groups": [
     {
       "id": "XH",
@@ -65,7 +65,7 @@
           "time": "11:33",
           "by": "Nur Azimah",
           "text": "No outstanding stops listed to match against the reported short forms (Wsm, Lq, Pp, Hm, Dfm)",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         },
         {
