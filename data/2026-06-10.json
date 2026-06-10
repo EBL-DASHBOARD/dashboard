@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T03:44:36.237Z",
+  "generated": "2026-06-10T03:45:52.105Z",
   "groups": [
     {
       "id": "XH",
@@ -206,7 +206,7 @@
           ]
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "BNV",
         "CL2",
@@ -224,10 +224,10 @@
         "PS",
         "ART",
         "TRM",
-        "DV"
+        "DV",
+        "TIO"
       ],
       "outlets_outstanding": [
-        "TIO",
         "VIVO",
         "KLP",
         "MSQ"
@@ -300,6 +300,10 @@
         "DV": {
           "by": "Samy Kumar Meena",
           "time": "11:31"
+        },
+        "TIO": {
+          "by": "Krishna",
+          "time": "11:45"
         }
       },
       "problems": [],
