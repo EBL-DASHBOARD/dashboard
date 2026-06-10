@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated": "2026-06-10T17:16:58.763Z",
+  "generated": "2026-06-10T20:06:52.076Z",
   "groups": [
     {
       "id": "XH",
@@ -51,6 +51,130 @@
         "Changi City Point",
         "Hougang 1",
         "ESR BizPark @ Changi"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 32,
+      "am_total": 13,
+      "pm_total": 19,
+      "am_outlets": [
+        "CCKS",
+        "JKN",
+        "BPP",
+        "YTP",
+        "KH",
+        "IM",
+        "WXI",
+        "TGCC",
+        "WSM",
+        "MBA",
+        "STC",
+        "BS",
+        "TY"
+      ],
+      "pm_outlets": [
+        "LOY",
+        "TNC2",
+        "PECC",
+        "CKCC",
+        "SSC2",
+        "LTM",
+        "MARS",
+        "YS1",
+        "J9",
+        "AP4",
+        "R3",
+        "R1",
+        "AP1",
+        "VIVA",
+        "FEN",
+        "PDD",
+        "WWP",
+        "HRC",
+        "KEB"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [],
+          "pm": [
+            "LOY",
+            "TNC2",
+            "PECC",
+            "CKCC"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "CCKS",
+            "JKN",
+            "BPP",
+            "YTP",
+            "KH"
+          ],
+          "pm": [
+            "SSC2",
+            "LTM",
+            "MARS",
+            "YS1",
+            "J9"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "IM",
+            "WXI",
+            "TGCC",
+            "WSM"
+          ],
+          "pm": [
+            "AP4",
+            "R3",
+            "R1",
+            "AP1",
+            "VIVA"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "MBA",
+            "STC",
+            "BS",
+            "TY"
+          ],
+          "pm": [
+            "FEN",
+            "PDD",
+            "WWP",
+            "HRC",
+            "KEB"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "CCKS",
+        "JKN",
+        "BPP",
+        "YTP",
+        "KH",
+        "IM",
+        "WXI",
+        "TGCC",
+        "WSM",
+        "MBA",
+        "STC",
+        "BS",
+        "TY"
       ],
       "done_detail": {},
       "problems": [],
