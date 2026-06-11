@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated": "2026-06-11T07:17:29.075Z",
+  "generated": "2026-06-11T07:21:00.379Z",
   "groups": [
     {
       "id": "XH",
@@ -198,7 +198,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "WXI",
         "JKN",
@@ -214,7 +214,8 @@
         "TGCC",
         "BS",
         "MARS",
-        "VIVA"
+        "VIVA",
+        "KEB"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -232,8 +233,7 @@
         "FEN",
         "PDD",
         "WWP",
-        "HRC",
-        "KEB"
+        "HRC"
       ],
       "done_detail": {
         "WXI": {
@@ -295,6 +295,10 @@
         "VIVA": {
           "by": "Krishna",
           "time": "15:17"
+        },
+        "KEB": {
+          "by": "Sasi",
+          "time": "15:21"
         }
       },
       "problems": [],
