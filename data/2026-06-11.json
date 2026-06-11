@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated": "2026-06-11T09:57:15.843Z",
+  "generated": "2026-06-11T10:10:27.075Z",
   "groups": [
     {
       "id": "XH",
@@ -219,7 +219,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "WXI",
         "JKN",
@@ -244,14 +244,14 @@
         "J9",
         "WWP",
         "YS1",
-        "PECC"
+        "PECC",
+        "R1"
       ],
       "outlets_outstanding": [
         "LOY",
         "CKCC",
         "LTM",
         "R3",
-        "R1",
         "AP1",
         "PDD",
         "HRC"
@@ -352,6 +352,10 @@
         "PECC": {
           "by": "Sudhakar",
           "time": "17:56"
+        },
+        "R1": {
+          "by": "Krishna",
+          "time": "18:10"
         }
       },
       "problems": [],
