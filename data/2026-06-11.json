@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated": "2026-06-11T02:01:04.579Z",
+  "generated": "2026-06-11T02:01:49.362Z",
   "groups": [
     {
       "id": "XH",
@@ -174,17 +174,17 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "WXI",
         "JKN",
         "TY",
         "YTP",
         "IM",
-        "MBA"
+        "MBA",
+        "CCKS"
       ],
       "outlets_outstanding": [
-        "CCKS",
         "BPP",
         "KH",
         "TGCC",
@@ -215,6 +215,10 @@
         },
         "MBA": {
           "by": "Sasi",
+          "time": "10:01"
+        },
+        "CCKS": {
+          "by": "Samy Kumar Meena",
           "time": "10:01"
         }
       },
