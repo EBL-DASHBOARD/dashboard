@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated": "2026-06-11T09:05:32.024Z",
+  "generated": "2026-06-11T09:13:22.393Z",
   "groups": [
     {
       "id": "XH",
@@ -97,6 +97,13 @@
           "by": "Nur Azimah",
           "text": "None of the four items reported (Wp, Cm1, Cwp, 888plaza) match any outstanding stops",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "17:13",
+          "by": "Nur Azimah",
+          "text": "WP, CM1, CWP, and 888Plaza do not clearly match any of the outstanding stops (Changi City Point, Hougang 1, ESR BizPark @ Changi, Coronation shopping p, Westgate, NTU South Spine)",
+          "escalated": false,
           "resolved": false
         }
       ],
