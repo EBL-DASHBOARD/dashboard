@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated": "2026-06-11T00:40:08.766Z",
+  "generated": "2026-06-11T00:55:11.756Z",
   "groups": [
     {
       "id": "XH",
@@ -58,7 +58,7 @@
           "time": "08:40",
           "by": "Nur Azimah",
           "text": "None of the reported short forms (Trm, Hm, J8, 888plaza) match any outstanding stops",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
