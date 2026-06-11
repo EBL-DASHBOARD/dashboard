@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated": "2026-06-11T10:27:26.855Z",
+  "generated": "2026-06-11T10:30:22.125Z",
   "groups": [
     {
       "id": "XH",
@@ -219,7 +219,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "WXI",
         "JKN",
@@ -246,14 +246,14 @@
         "YS1",
         "PECC",
         "R1",
-        "LTM"
+        "LTM",
+        "PDD"
       ],
       "outlets_outstanding": [
         "LOY",
         "CKCC",
         "R3",
         "AP1",
-        "PDD",
         "HRC"
       ],
       "done_detail": {
@@ -360,6 +360,10 @@
         "LTM": {
           "by": "Samy Kumar Meena",
           "time": "18:27"
+        },
+        "PDD": {
+          "by": "Sasi",
+          "time": "18:30"
         }
       },
       "problems": [],
