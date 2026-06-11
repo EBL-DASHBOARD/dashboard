@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated": "2026-06-11T11:30:40.109Z",
+  "generated": "2026-06-11T12:37:23.322Z",
   "groups": [
     {
       "id": "XH",
@@ -219,7 +219,7 @@
           ]
         }
       ],
-      "done": 31,
+      "done": 32,
       "outlets_done": [
         "WXI",
         "JKN",
@@ -251,11 +251,10 @@
         "R3",
         "LOY",
         "CKCC",
-        "HRC"
-      ],
-      "outlets_outstanding": [
+        "HRC",
         "AP1"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "WXI": {
           "by": "Krishna",
@@ -380,6 +379,10 @@
         "HRC": {
           "by": "Sasi",
           "time": "19:30"
+        },
+        "AP1": {
+          "by": "Krishna",
+          "time": "20:37"
         }
       },
       "problems": [],
