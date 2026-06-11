@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated": "2026-06-11T04:00:01.249Z",
+  "generated": "2026-06-11T04:09:01.256Z",
   "groups": [
     {
       "id": "XH",
@@ -79,7 +79,7 @@
           "time": "11:53",
           "by": "Nur Azimah",
           "text": "None of the reported stops (Trm, Hm, J8, 888plaza) match any outstanding stops on the list",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
