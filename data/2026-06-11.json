@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated": "2026-06-11T00:35:19.740Z",
+  "generated": "2026-06-11T00:35:44.216Z",
   "groups": [
     {
       "id": "XH",
@@ -159,13 +159,13 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "WXI"
+        "WXI",
+        "JKN"
       ],
       "outlets_outstanding": [
         "CCKS",
-        "JKN",
         "BPP",
         "YTP",
         "KH",
@@ -180,6 +180,10 @@
       "done_detail": {
         "WXI": {
           "by": "Krishna",
+          "time": "08:35"
+        },
+        "JKN": {
+          "by": "Samy Kumar Meena",
           "time": "08:35"
         }
       },
