@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated": "2026-06-11T06:00:01.430Z",
+  "generated": "2026-06-11T06:33:10.216Z",
   "groups": [
     {
       "id": "XH",
@@ -83,6 +83,13 @@
           "by": "Nur Azimah",
           "text": "None of the reported stops (Trm, Hm, J8, 888plaza) match any outstanding stops on the list",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "14:33",
+          "by": "Nur Azimah",
+          "text": "None of the four short forms (Wp, Cm1, Cwp, 888plaza) match any of the outstanding stops",
+          "escalated": false,
           "resolved": false
         }
       ],
