@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated": "2026-06-11T06:33:10.216Z",
+  "generated": "2026-06-11T06:48:12.139Z",
   "groups": [
     {
       "id": "XH",
@@ -89,7 +89,7 @@
           "time": "14:33",
           "by": "Nur Azimah",
           "text": "None of the four short forms (Wp, Cm1, Cwp, 888plaza) match any of the outstanding stops",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
