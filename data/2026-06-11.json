@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated": "2026-06-11T11:18:33.505Z",
+  "generated": "2026-06-11T11:26:43.281Z",
   "groups": [
     {
       "id": "XH",
@@ -219,7 +219,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 30,
       "outlets_done": [
         "WXI",
         "JKN",
@@ -248,11 +248,11 @@
         "R1",
         "LTM",
         "PDD",
-        "R3"
+        "R3",
+        "LOY",
+        "CKCC"
       ],
       "outlets_outstanding": [
-        "LOY",
-        "CKCC",
         "AP1",
         "HRC"
       ],
@@ -368,6 +368,14 @@
         "R3": {
           "by": "Krishna",
           "time": "19:18"
+        },
+        "LOY": {
+          "by": "YAAKESH",
+          "time": "19:26"
+        },
+        "CKCC": {
+          "by": "YAAKESH",
+          "time": "19:26"
         }
       },
       "problems": [],
