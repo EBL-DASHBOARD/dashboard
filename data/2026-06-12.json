@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T03:55:54.847Z",
+  "generated": "2026-06-12T04:00:00.456Z",
   "groups": [
     {
       "id": "XH",
@@ -176,7 +176,31 @@
         "SHP"
       ],
       "outlets_outstanding": [
-        "ART"
+        "ART",
+        "PAL",
+        "KNX",
+        "EPT",
+        "TPM",
+        "BHT",
+        "BOB",
+        "J9",
+        "LTM",
+        "YS1",
+        "KTB",
+        "SSC2",
+        "WIS",
+        "AP1",
+        "AP2",
+        "R4",
+        "AP4",
+        "R1",
+        "R3",
+        "CCP",
+        "WNC",
+        "WWP",
+        "ACV",
+        "NEX",
+        "NTP"
       ],
       "done_detail": {
         "CL2": {
