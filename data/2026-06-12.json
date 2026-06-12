@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T03:50:29.453Z",
+  "generated": "2026-06-12T03:55:54.847Z",
   "groups": [
     {
       "id": "XH",
@@ -158,7 +158,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "CL2",
         "JP",
@@ -172,11 +172,11 @@
         "TRM",
         "ARC",
         "USQ",
-        "DV"
+        "DV",
+        "SHP"
       ],
       "outlets_outstanding": [
-        "ART",
-        "SHP"
+        "ART"
       ],
       "done_detail": {
         "CL2": {
@@ -230,6 +230,10 @@
         "DV": {
           "by": "Samy Kumar Meena",
           "time": "11:50"
+        },
+        "SHP": {
+          "by": "Sasi",
+          "time": "11:55"
         }
       },
       "problems": [],
