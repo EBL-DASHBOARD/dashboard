@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-12T11:31:17.417Z",
+  "generated": "2026-06-12T15:24:38.483Z",
   "groups": [
     {
       "id": "XH",
@@ -103,6 +103,202 @@
         "The Woodleigh Mall",
         "Hillion Mall",
         "Far East Plaza Kiosk E"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 55,
+      "am_total": 25,
+      "pm_total": 30,
+      "am_outlets": [
+        "STC",
+        "BS",
+        "BQ",
+        "CT",
+        "CTP",
+        "KH",
+        "BPP",
+        "YTP",
+        "TRM",
+        "CCKS",
+        "WSM",
+        "TY",
+        "KLP",
+        "DV",
+        "MSQ",
+        "KIT",
+        "KRC",
+        "BNV",
+        "TIO",
+        "WXI",
+        "VIVO",
+        "IM",
+        "TGCC",
+        "JP",
+        "JKN"
+      ],
+      "pm_outlets": [
+        "PECC",
+        "TPM",
+        "CKCC",
+        "TNC2",
+        "LOY",
+        "AP1",
+        "EPT",
+        "CCP",
+        "KNX",
+        "PAL",
+        "PDD",
+        "WWP",
+        "KEB",
+        "HRC",
+        "FEN",
+        "R1",
+        "AP2",
+        "R4",
+        "AP4",
+        "R3",
+        "GMM",
+        "BOB",
+        "VIVA",
+        "NEX",
+        "NTP",
+        "MARS",
+        "J9",
+        "YS1",
+        "SSC2",
+        "WIS"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [
+            "STC",
+            "BS",
+            "BQ",
+            "CT",
+            "CTP"
+          ],
+          "pm": [
+            "PECC",
+            "TPM",
+            "CKCC",
+            "TNC2",
+            "LOY"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "KH",
+            "BPP",
+            "YTP",
+            "TRM",
+            "CCKS",
+            "WSM"
+          ],
+          "pm": [
+            "AP1",
+            "EPT",
+            "CCP",
+            "KNX",
+            "PAL"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "TY",
+            "KLP",
+            "DV",
+            "MSQ",
+            "KIT"
+          ],
+          "pm": [
+            "PDD",
+            "WWP",
+            "KEB",
+            "HRC",
+            "FEN"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "KRC",
+            "BNV",
+            "TIO",
+            "WXI",
+            "VIVO"
+          ],
+          "pm": [
+            "R1",
+            "AP2",
+            "R4",
+            "AP4",
+            "R3"
+          ]
+        },
+        {
+          "name": "EBL6-4",
+          "am": [
+            "IM",
+            "TGCC",
+            "JP",
+            "JKN"
+          ],
+          "pm": [
+            "GMM",
+            "BOB",
+            "VIVA",
+            "NEX",
+            "NTP"
+          ]
+        },
+        {
+          "name": "EBL6-6",
+          "am": [],
+          "pm": [
+            "MARS",
+            "J9",
+            "YS1",
+            "SSC2",
+            "WIS"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "STC",
+        "BS",
+        "BQ",
+        "CT",
+        "CTP",
+        "KH",
+        "BPP",
+        "YTP",
+        "TRM",
+        "CCKS",
+        "WSM",
+        "TY",
+        "KLP",
+        "DV",
+        "MSQ",
+        "KIT",
+        "KRC",
+        "BNV",
+        "TIO",
+        "WXI",
+        "VIVO",
+        "IM",
+        "TGCC",
+        "JP",
+        "JKN"
       ],
       "done_detail": {},
       "problems": [],
