@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T07:04:49.231Z",
+  "generated": "2026-06-12T07:18:00.878Z",
   "groups": [
     {
       "id": "XH",
@@ -169,7 +169,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "CL2",
         "JP",
@@ -186,7 +186,8 @@
         "DV",
         "SHP",
         "ART",
-        "LTM"
+        "LTM",
+        "NEX"
       ],
       "outlets_outstanding": [
         "PAL",
@@ -210,7 +211,6 @@
         "WNC",
         "WWP",
         "ACV",
-        "NEX",
         "NTP"
       ],
       "done_detail": {
@@ -277,6 +277,10 @@
         "LTM": {
           "by": "Samy Kumar Meena",
           "time": "15:04"
+        },
+        "NEX": {
+          "by": "Sasi",
+          "time": "15:18"
         }
       },
       "problems": [],
