@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T06:00:00.592Z",
+  "generated": "2026-06-12T07:04:49.231Z",
   "groups": [
     {
       "id": "XH",
@@ -169,7 +169,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "CL2",
         "JP",
@@ -185,7 +185,8 @@
         "USQ",
         "DV",
         "SHP",
-        "ART"
+        "ART",
+        "LTM"
       ],
       "outlets_outstanding": [
         "PAL",
@@ -195,7 +196,6 @@
         "BHT",
         "BOB",
         "J9",
-        "LTM",
         "YS1",
         "KTB",
         "SSC2",
@@ -273,6 +273,10 @@
         "ART": {
           "by": "Krishna",
           "time": "12:15"
+        },
+        "LTM": {
+          "by": "Samy Kumar Meena",
+          "time": "15:04"
         }
       },
       "problems": [],
