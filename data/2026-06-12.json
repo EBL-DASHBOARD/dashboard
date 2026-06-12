@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T04:15:50.455Z",
+  "generated": "2026-06-12T04:56:56.755Z",
   "groups": [
     {
       "id": "XH",
@@ -38,7 +38,15 @@
         "Aperia Mall"
       ],
       "done_detail": {},
-      "problems": [],
+      "problems": [
+        {
+          "time": "12:56",
+          "by": "boss",
+          "text": "Item damage reported but no specific stop identified",
+          "escalated": false,
+          "resolved": false
+        }
+      ],
       "customers": null
     },
     {
