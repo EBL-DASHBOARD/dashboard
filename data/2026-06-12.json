@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T08:42:37.017Z",
+  "generated": "2026-06-12T09:00:35.105Z",
   "groups": [
     {
       "id": "XH",
@@ -169,7 +169,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "CL2",
         "JP",
@@ -194,7 +194,8 @@
         "KTB",
         "R4",
         "WIS",
-        "PAL"
+        "PAL",
+        "ACV"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -210,8 +211,7 @@
         "R1",
         "R3",
         "WNC",
-        "WWP",
-        "ACV"
+        "WWP"
       ],
       "done_detail": {
         "CL2": {
@@ -309,6 +309,10 @@
         "PAL": {
           "by": "Sudhakar",
           "time": "16:42"
+        },
+        "ACV": {
+          "by": "Sasi",
+          "time": "17:00"
         }
       },
       "problems": [],
