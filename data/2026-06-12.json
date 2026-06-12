@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T11:00:18.426Z",
+  "generated": "2026-06-12T11:31:21.938Z",
   "groups": [
     {
       "id": "XH",
@@ -169,7 +169,7 @@
           ]
         }
       ],
-      "done": 35,
+      "done": 36,
       "outlets_done": [
         "CL2",
         "JP",
@@ -205,13 +205,13 @@
         "SSC2",
         "BOB",
         "EPT",
-        "AP2"
+        "AP2",
+        "WNC"
       ],
       "outlets_outstanding": [
         "TPM",
         "AP1",
-        "R3",
-        "WNC"
+        "R3"
       ],
       "done_detail": {
         "CL2": {
@@ -353,6 +353,10 @@
         "AP2": {
           "by": "Krishna",
           "time": "19:00"
+        },
+        "WNC": {
+          "by": "Sasi",
+          "time": "19:31"
         }
       },
       "problems": [],
