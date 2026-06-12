@@ -1,0 +1,112 @@
+{
+  "date": "2026-06-13",
+  "generated": "2026-06-12T11:31:17.417Z",
+  "groups": [
+    {
+      "id": "XH",
+      "name": "Xh Delivery",
+      "total_locations": 23,
+      "am_total": 14,
+      "pm_total": 9,
+      "am_outlets": [
+        "Pasir Ris Mall",
+        "White Sands",
+        "Tampines 1",
+        "Tampines Mart",
+        "V Hotel Lavender",
+        "Citygate",
+        "Suntec City",
+        "ARTRA",
+        "Compass One",
+        "Punggol Plaza",
+        "Junction 8",
+        "The Woodleigh Mall",
+        "Hillion Mall",
+        "Far East Plaza Kiosk E"
+      ],
+      "pm_outlets": [
+        "Downtown East",
+        "Causeway Point",
+        "Waterway Point",
+        "888 Plaza",
+        "100 AM Mall",
+        "Guoco Tower",
+        "SingPost Centre",
+        "i12 Katong",
+        "313 Somerset"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Pasir Ris Mall",
+            "White Sands",
+            "Tampines 1",
+            "Tampines Mart"
+          ],
+          "pm": [
+            "Downtown East",
+            "Causeway Point",
+            "Waterway Point",
+            "888 Plaza"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "V Hotel Lavender",
+            "Citygate",
+            "Suntec City",
+            "ARTRA"
+          ],
+          "pm": [
+            "100 AM Mall",
+            "Guoco Tower",
+            "SingPost Centre",
+            "i12 Katong",
+            "313 Somerset"
+          ]
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Compass One",
+            "Punggol Plaza",
+            "Junction 8",
+            "The Woodleigh Mall"
+          ],
+          "pm": []
+        },
+        {
+          "name": "TRUCK 4",
+          "am": [
+            "Hillion Mall",
+            "Far East Plaza Kiosk E"
+          ],
+          "pm": []
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Pasir Ris Mall",
+        "White Sands",
+        "Tampines 1",
+        "Tampines Mart",
+        "V Hotel Lavender",
+        "Citygate",
+        "Suntec City",
+        "ARTRA",
+        "Compass One",
+        "Punggol Plaza",
+        "Junction 8",
+        "The Woodleigh Mall",
+        "Hillion Mall",
+        "Far East Plaza Kiosk E"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
