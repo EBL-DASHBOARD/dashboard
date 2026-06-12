@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T08:36:24.601Z",
+  "generated": "2026-06-12T08:42:37.017Z",
   "groups": [
     {
       "id": "XH",
@@ -169,7 +169,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "CL2",
         "JP",
@@ -193,10 +193,10 @@
         "CCP",
         "KTB",
         "R4",
-        "WIS"
+        "WIS",
+        "PAL"
       ],
       "outlets_outstanding": [
-        "PAL",
         "EPT",
         "TPM",
         "BHT",
@@ -305,6 +305,10 @@
         "WIS": {
           "by": "Samy Kumar Meena",
           "time": "16:36"
+        },
+        "PAL": {
+          "by": "Sudhakar",
+          "time": "16:42"
         }
       },
       "problems": [],
