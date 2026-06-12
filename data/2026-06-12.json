@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T11:34:32.579Z",
+  "generated": "2026-06-12T11:38:07.882Z",
   "groups": [
     {
       "id": "XH",
@@ -169,7 +169,7 @@
           ]
         }
       ],
-      "done": 37,
+      "done": 38,
       "outlets_done": [
         "CL2",
         "JP",
@@ -207,10 +207,10 @@
         "EPT",
         "AP2",
         "WNC",
-        "R3"
+        "R3",
+        "TPM"
       ],
       "outlets_outstanding": [
-        "TPM",
         "AP1"
       ],
       "done_detail": {
@@ -361,6 +361,10 @@
         "R3": {
           "by": "Krishna",
           "time": "19:34"
+        },
+        "TPM": {
+          "by": "YAAKESH",
+          "time": "19:38"
         }
       },
       "problems": [],
