@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T08:04:55.288Z",
+  "generated": "2026-06-12T08:30:01.927Z",
   "groups": [
     {
       "id": "XH",
@@ -169,7 +169,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "CL2",
         "JP",
@@ -191,7 +191,8 @@
         "KNX",
         "NTP",
         "CCP",
-        "KTB"
+        "KTB",
+        "R4"
       ],
       "outlets_outstanding": [
         "PAL",
@@ -205,7 +206,6 @@
         "WIS",
         "AP1",
         "AP2",
-        "R4",
         "AP4",
         "R1",
         "R3",
@@ -297,6 +297,10 @@
         "KTB": {
           "by": "Samy Kumar Meena",
           "time": "16:04"
+        },
+        "R4": {
+          "by": "Krishna",
+          "time": "16:30"
         }
       },
       "problems": [],
