@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T04:56:56.755Z",
+  "generated": "2026-06-12T05:11:56.557Z",
   "groups": [
     {
       "id": "XH",
@@ -43,7 +43,7 @@
           "time": "12:56",
           "by": "boss",
           "text": "Item damage reported but no specific stop identified",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
