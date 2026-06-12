@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T04:00:00.456Z",
+  "generated": "2026-06-12T04:15:50.455Z",
   "groups": [
     {
       "id": "XH",
@@ -158,7 +158,7 @@
           ]
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "CL2",
         "JP",
@@ -173,10 +173,10 @@
         "ARC",
         "USQ",
         "DV",
-        "SHP"
+        "SHP",
+        "ART"
       ],
       "outlets_outstanding": [
-        "ART",
         "PAL",
         "KNX",
         "EPT",
@@ -258,6 +258,10 @@
         "SHP": {
           "by": "Sasi",
           "time": "11:55"
+        },
+        "ART": {
+          "by": "Krishna",
+          "time": "12:15"
         }
       },
       "problems": [],
