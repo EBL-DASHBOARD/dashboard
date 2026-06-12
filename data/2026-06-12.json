@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T00:56:11.832Z",
+  "generated": "2026-06-12T00:56:55.813Z",
   "groups": [
     {
       "id": "XH",
@@ -158,16 +158,16 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "CL2"
+        "CL2",
+        "JP"
       ],
       "outlets_outstanding": [
         "HV2",
         "TRM",
         "DV",
         "CCKS",
-        "JP",
         "BNV",
         "KRC",
         "ARC",
@@ -181,6 +181,10 @@
       "done_detail": {
         "CL2": {
           "by": "Krishna",
+          "time": "08:56"
+        },
+        "JP": {
+          "by": "Samy Kumar Meena",
           "time": "08:56"
         }
       },
