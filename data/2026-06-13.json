@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-12T21:22:41.161Z",
+  "generated": "2026-06-12T23:05:22.405Z",
   "groups": [
     {
       "id": "XH",
@@ -105,7 +105,15 @@
         "Far East Plaza Kiosk E"
       ],
       "done_detail": {},
-      "problems": [],
+      "problems": [
+        {
+          "time": "07:05",
+          "by": "boss",
+          "text": "Epm, Tpc, Ntp, Gx do not match any outstanding stops",
+          "escalated": false,
+          "resolved": false
+        }
+      ],
       "customers": null
     },
     {
