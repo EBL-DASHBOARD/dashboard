@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T01:49:40.988Z",
+  "generated": "2026-06-12T01:52:59.825Z",
   "groups": [
     {
       "id": "XH",
@@ -158,18 +158,18 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "CL2",
         "JP",
         "KIT",
-        "KRC"
+        "KRC",
+        "CCKS"
       ],
       "outlets_outstanding": [
         "HV2",
         "TRM",
         "DV",
-        "CCKS",
         "BNV",
         "ARC",
         "ART",
@@ -194,6 +194,10 @@
         "KRC": {
           "by": "Krishna",
           "time": "09:49"
+        },
+        "CCKS": {
+          "by": "Samy Kumar Meena",
+          "time": "09:52"
         }
       },
       "problems": [],
