@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T03:18:59.215Z",
+  "generated": "2026-06-12T03:20:23.624Z",
   "groups": [
     {
       "id": "XH",
@@ -158,7 +158,7 @@
           ]
         }
       ],
-      "done": 10,
+      "done": 11,
       "outlets_done": [
         "CL2",
         "JP",
@@ -169,11 +169,11 @@
         "BNV",
         "PS",
         "HV2",
-        "TRM"
+        "TRM",
+        "ARC"
       ],
       "outlets_outstanding": [
         "DV",
-        "ARC",
         "ART",
         "USQ",
         "SHP"
@@ -218,6 +218,10 @@
         "TRM": {
           "by": "Samy Kumar Meena",
           "time": "11:18"
+        },
+        "ARC": {
+          "by": "Krishna",
+          "time": "11:20"
         }
       },
       "problems": [],
