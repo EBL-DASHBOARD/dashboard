@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T02:50:28.408Z",
+  "generated": "2026-06-12T02:56:22.694Z",
   "groups": [
     {
       "id": "XH",
@@ -158,7 +158,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "CL2",
         "JP",
@@ -167,10 +167,10 @@
         "CCKS",
         "BQ",
         "BNV",
-        "PS"
+        "PS",
+        "HV2"
       ],
       "outlets_outstanding": [
-        "HV2",
         "TRM",
         "DV",
         "ARC",
@@ -210,6 +210,10 @@
         "PS": {
           "by": "Sasi",
           "time": "10:50"
+        },
+        "HV2": {
+          "by": "Samy Kumar Meena",
+          "time": "10:56"
         }
       },
       "problems": [],
