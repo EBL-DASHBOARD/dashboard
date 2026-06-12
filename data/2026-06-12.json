@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T07:55:28.549Z",
+  "generated": "2026-06-12T07:55:44.660Z",
   "groups": [
     {
       "id": "XH",
@@ -169,7 +169,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "CL2",
         "JP",
@@ -189,7 +189,8 @@
         "LTM",
         "NEX",
         "KNX",
-        "NTP"
+        "NTP",
+        "CCP"
       ],
       "outlets_outstanding": [
         "PAL",
@@ -208,7 +209,6 @@
         "AP4",
         "R1",
         "R3",
-        "CCP",
         "WNC",
         "WWP",
         "ACV"
@@ -288,6 +288,10 @@
         },
         "NTP": {
           "by": "Sasi",
+          "time": "15:55"
+        },
+        "CCP": {
+          "by": "Krishna",
           "time": "15:55"
         }
       },
