@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated": "2026-06-12T07:18:00.878Z",
+  "generated": "2026-06-12T07:52:11.404Z",
   "groups": [
     {
       "id": "XH",
@@ -169,7 +169,7 @@
           ]
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "CL2",
         "JP",
@@ -187,11 +187,11 @@
         "SHP",
         "ART",
         "LTM",
-        "NEX"
+        "NEX",
+        "KNX"
       ],
       "outlets_outstanding": [
         "PAL",
-        "KNX",
         "EPT",
         "TPM",
         "BHT",
@@ -281,6 +281,10 @@
         "NEX": {
           "by": "Sasi",
           "time": "15:18"
+        },
+        "KNX": {
+          "by": "YAAKESH",
+          "time": "15:52"
         }
       },
       "problems": [],
