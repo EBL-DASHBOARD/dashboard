@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T10:00:14.064Z",
+  "generated": "2026-06-13T10:20:33.120Z",
   "groups": [
     {
       "id": "XH",
@@ -367,7 +367,7 @@
           ]
         }
       ],
-      "done": 43,
+      "done": 44,
       "outlets_done": [
         "BS",
         "JKN",
@@ -411,7 +411,8 @@
         "SSC2",
         "CCP",
         "PECC",
-        "PDD"
+        "PDD",
+        "AP2"
       ],
       "outlets_outstanding": [
         "CKCC",
@@ -419,7 +420,6 @@
         "AP1",
         "HRC",
         "R1",
-        "AP2",
         "R3",
         "BOB",
         "VIVA",
@@ -599,6 +599,10 @@
         "PDD": {
           "by": "Sasi",
           "time": "18:00"
+        },
+        "AP2": {
+          "by": "Krishna",
+          "time": "18:20"
         }
       },
       "problems": [],
