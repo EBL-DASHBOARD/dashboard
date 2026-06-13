@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T06:56:00.865Z",
+  "generated": "2026-06-13T07:02:01.817Z",
   "groups": [
     {
       "id": "XH",
@@ -356,7 +356,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "BS",
         "JKN",
@@ -383,7 +383,8 @@
         "VIVO",
         "MSQ",
         "WSM",
-        "NTP"
+        "NTP",
+        "PAL"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -395,7 +396,6 @@
         "EPT",
         "CCP",
         "KNX",
-        "PAL",
         "PDD",
         "WWP",
         "KEB",
@@ -520,6 +520,10 @@
         "NTP": {
           "by": "Kishanthsuresh",
           "time": "14:55"
+        },
+        "PAL": {
+          "by": "Samy Kumar Meena",
+          "time": "15:02"
         }
       },
       "problems": [],
