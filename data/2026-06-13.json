@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T00:43:33.255Z",
+  "generated": "2026-06-13T00:46:09.049Z",
   "groups": [
     {
       "id": "XH",
@@ -279,10 +279,11 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "BS",
-        "JKN"
+        "JKN",
+        "WXI"
       ],
       "outlets_outstanding": [
         "STC",
@@ -303,7 +304,6 @@
         "KRC",
         "BNV",
         "TIO",
-        "WXI",
         "VIVO",
         "IM",
         "TGCC",
@@ -317,6 +317,10 @@
         "JKN": {
           "by": "Kishanthsuresh",
           "time": "08:43"
+        },
+        "WXI": {
+          "by": "Krishna",
+          "time": "08:46"
         }
       },
       "problems": [],
