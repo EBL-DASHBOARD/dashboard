@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T08:39:45.301Z",
+  "generated": "2026-06-13T08:40:49.445Z",
   "groups": [
     {
       "id": "XH",
@@ -363,7 +363,7 @@
           ]
         }
       ],
-      "done": 34,
+      "done": 35,
       "outlets_done": [
         "BS",
         "JKN",
@@ -398,7 +398,8 @@
         "FEN",
         "R4",
         "MARS",
-        "TPM"
+        "TPM",
+        "EPT"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -406,7 +407,6 @@
         "TNC2",
         "LOY",
         "AP1",
-        "EPT",
         "CCP",
         "PDD",
         "WWP",
@@ -559,6 +559,10 @@
         "TPM": {
           "by": "viknesh3029n",
           "time": "16:39"
+        },
+        "EPT": {
+          "by": "Samy Kumar Meena",
+          "time": "16:40"
         }
       },
       "problems": [],
