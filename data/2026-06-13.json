@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T02:07:27.380Z",
+  "generated": "2026-06-13T02:17:50.433Z",
   "groups": [
     {
       "id": "XH",
@@ -304,7 +304,7 @@
           ]
         }
       ],
-      "done": 10,
+      "done": 11,
       "outlets_done": [
         "BS",
         "JKN",
@@ -315,11 +315,11 @@
         "CCKS",
         "TY",
         "KRC",
-        "JP"
+        "JP",
+        "CT"
       ],
       "outlets_outstanding": [
         "STC",
-        "CT",
         "CTP",
         "KH",
         "BPP",
@@ -374,6 +374,10 @@
         "JP": {
           "by": "Kishanthsuresh",
           "time": "10:07"
+        },
+        "CT": {
+          "by": "viknesh3029n",
+          "time": "10:17"
         }
       },
       "problems": [],
