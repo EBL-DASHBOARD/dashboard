@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T04:28:31.879Z",
+  "generated": "2026-06-13T04:32:30.105Z",
   "groups": [
     {
       "id": "XH",
@@ -165,6 +165,13 @@
           "by": "Nur Azimah",
           "text": "None of the four abbreviations (Pp, Cm1, J8, Twm) match any outstanding stops",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "12:32",
+          "by": "#நVin🇮🇹🚀🔥",
+          "text": "None of the reported short forms (Artra, Sc, Cg, Vel) match the outstanding stops (Punggol Plaza, Junction 8, The Woodleigh Mall)",
+          "escalated": false,
           "resolved": false
         }
       ],
