@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T08:19:11.328Z",
+  "generated": "2026-06-13T08:19:20.783Z",
   "groups": [
     {
       "id": "XH",
@@ -363,7 +363,7 @@
           ]
         }
       ],
-      "done": 32,
+      "done": 33,
       "outlets_done": [
         "BS",
         "JKN",
@@ -396,7 +396,8 @@
         "KNX",
         "NEX",
         "FEN",
-        "R4"
+        "R4",
+        "MARS"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -417,7 +418,6 @@
         "GMM",
         "BOB",
         "VIVA",
-        "MARS",
         "J9",
         "YS1",
         "SSC2",
@@ -551,6 +551,10 @@
         "R4": {
           "by": "Krishna",
           "time": "16:03"
+        },
+        "MARS": {
+          "by": "Sudhakar",
+          "time": "16:19"
         }
       },
       "problems": [],
