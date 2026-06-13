@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T03:21:29.625Z",
+  "generated": "2026-06-13T03:26:35.182Z",
   "groups": [
     {
       "id": "XH",
@@ -312,7 +312,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "BS",
         "JKN",
@@ -331,10 +331,10 @@
         "KIT",
         "BPP",
         "TGCC",
-        "TIO"
+        "TIO",
+        "CTP"
       ],
       "outlets_outstanding": [
-        "CTP",
         "TRM",
         "WSM",
         "KLP",
@@ -414,6 +414,10 @@
         "TIO": {
           "by": "Krishna",
           "time": "11:21"
+        },
+        "CTP": {
+          "by": "viknesh3029n",
+          "time": "11:26"
         }
       },
       "problems": [],
