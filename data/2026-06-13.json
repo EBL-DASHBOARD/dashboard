@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-12T23:20:21.815Z",
+  "generated": "2026-06-13T00:41:01.909Z",
   "groups": [
     {
       "id": "XH",
@@ -279,11 +279,12 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "BS"
+      ],
       "outlets_outstanding": [
         "STC",
-        "BS",
         "BQ",
         "CT",
         "CTP",
@@ -308,7 +309,12 @@
         "JP",
         "JKN"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "BS": {
+          "by": "viknesh3029n",
+          "time": "08:41"
+        }
+      },
       "problems": [],
       "customers": null
     }
