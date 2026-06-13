@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T04:24:39.484Z",
+  "generated": "2026-06-13T04:24:54.784Z",
   "groups": [
     {
       "id": "XH",
@@ -333,7 +333,7 @@
           ]
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "BS",
         "JKN",
@@ -356,12 +356,12 @@
         "CTP",
         "KLP",
         "TRM",
-        "IM"
+        "IM",
+        "VIVO"
       ],
       "outlets_outstanding": [
         "WSM",
         "MSQ",
-        "VIVO",
         "PECC",
         "TPM",
         "CKCC",
@@ -480,6 +480,10 @@
         },
         "IM": {
           "by": "Kishanthsuresh",
+          "time": "12:24"
+        },
+        "VIVO": {
+          "by": "Krishna",
           "time": "12:24"
         }
       },
