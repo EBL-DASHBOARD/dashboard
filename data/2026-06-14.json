@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-14",
+  "generated": "2026-06-13T11:25:34.942Z",
+  "groups": [
+    {
+      "id": "XH",
+      "name": "Xh Delivery",
+      "total_locations": 9,
+      "am_total": 5,
+      "pm_total": 4,
+      "am_outlets": [
+        "Jewel",
+        "Changi T1 Transit",
+        "Changi City Point",
+        "Hougang 1",
+        "ESR BizPark @ Changi"
+      ],
+      "pm_outlets": [
+        "Coronation shopping",
+        "Westgate",
+        "The Strategy",
+        "NTU South Spine"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Jewel",
+            "Changi T1 Transit"
+          ],
+          "pm": []
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "Changi City Point",
+            "Hougang 1",
+            "ESR BizPark @ Changi"
+          ],
+          "pm": [
+            "Coronation shopping",
+            "Westgate",
+            "The Strategy",
+            "NTU South Spine"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Jewel",
+        "Changi T1 Transit",
+        "Changi City Point",
+        "Hougang 1",
+        "ESR BizPark @ Changi"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
