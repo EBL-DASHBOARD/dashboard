@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T11:31:38.200Z",
+  "generated": "2026-06-13T11:32:27.016Z",
   "groups": [
     {
       "id": "XH",
@@ -367,7 +367,7 @@
           ]
         }
       ],
-      "done": 51,
+      "done": 52,
       "outlets_done": [
         "BS",
         "JKN",
@@ -419,12 +419,12 @@
         "LOY",
         "BOB",
         "AP1",
-        "HRC"
+        "HRC",
+        "VIVA"
       ],
       "outlets_outstanding": [
         "R1",
         "R3",
-        "VIVA",
         "WIS"
       ],
       "done_detail": {
@@ -631,6 +631,10 @@
         "HRC": {
           "by": "Sasi",
           "time": "19:31"
+        },
+        "VIVA": {
+          "by": "Kishanthsuresh",
+          "time": "19:32"
         }
       },
       "problems": [],
