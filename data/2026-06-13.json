@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T01:42:07.006Z",
+  "generated": "2026-06-13T01:59:20.459Z",
   "groups": [
     {
       "id": "XH",
@@ -86,13 +86,14 @@
           "pm": []
         }
       ],
-      "done": 0,
-      "outlets_done": [],
-      "outlets_outstanding": [
+      "done": 4,
+      "outlets_done": [
         "Pasir Ris Mall",
         "White Sands",
         "Tampines 1",
-        "Tampines Mart",
+        "Tampines Mart"
+      ],
+      "outlets_outstanding": [
         "V Hotel Lavender",
         "Citygate",
         "Suntec City",
@@ -104,7 +105,24 @@
         "Hillion Mall",
         "Far East Plaza Kiosk E"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "Pasir Ris Mall": {
+          "by": "boss",
+          "time": "09:59"
+        },
+        "White Sands": {
+          "by": "boss",
+          "time": "09:59"
+        },
+        "Tampines 1": {
+          "by": "boss",
+          "time": "09:59"
+        },
+        "Tampines Mart": {
+          "by": "boss",
+          "time": "09:59"
+        }
+      },
       "problems": [
         {
           "time": "07:05",
