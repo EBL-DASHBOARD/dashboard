@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T03:08:05.338Z",
+  "generated": "2026-06-13T03:09:55.921Z",
   "groups": [
     {
       "id": "XH",
@@ -312,7 +312,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "BS",
         "JKN",
@@ -329,7 +329,8 @@
         "BNV",
         "STC",
         "KIT",
-        "BPP"
+        "BPP",
+        "TGCC"
       ],
       "outlets_outstanding": [
         "CTP",
@@ -339,8 +340,7 @@
         "MSQ",
         "TIO",
         "VIVO",
-        "IM",
-        "TGCC"
+        "IM"
       ],
       "done_detail": {
         "BS": {
@@ -406,6 +406,10 @@
         "BPP": {
           "by": "Samy Kumar Meena",
           "time": "11:08"
+        },
+        "TGCC": {
+          "by": "Kishanthsuresh",
+          "time": "11:09"
         }
       },
       "problems": [],
