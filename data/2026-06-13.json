@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T10:49:59.309Z",
+  "generated": "2026-06-13T11:31:38.200Z",
   "groups": [
     {
       "id": "XH",
@@ -367,7 +367,7 @@
           ]
         }
       ],
-      "done": 50,
+      "done": 51,
       "outlets_done": [
         "BS",
         "JKN",
@@ -418,10 +418,10 @@
         "YS1",
         "LOY",
         "BOB",
-        "AP1"
+        "AP1",
+        "HRC"
       ],
       "outlets_outstanding": [
-        "HRC",
         "R1",
         "R3",
         "VIVA",
@@ -627,6 +627,10 @@
         "AP1": {
           "by": "Samy Kumar Meena",
           "time": "18:49"
+        },
+        "HRC": {
+          "by": "Sasi",
+          "time": "19:31"
         }
       },
       "problems": [],
