@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T08:40:49.445Z",
+  "generated": "2026-06-13T08:43:14.818Z",
   "groups": [
     {
       "id": "XH",
@@ -363,7 +363,7 @@
           ]
         }
       ],
-      "done": 35,
+      "done": 36,
       "outlets_done": [
         "BS",
         "JKN",
@@ -399,7 +399,8 @@
         "R4",
         "MARS",
         "TPM",
-        "EPT"
+        "EPT",
+        "GMM"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -415,7 +416,6 @@
         "AP2",
         "AP4",
         "R3",
-        "GMM",
         "BOB",
         "VIVA",
         "J9",
@@ -563,6 +563,10 @@
         "EPT": {
           "by": "Samy Kumar Meena",
           "time": "16:40"
+        },
+        "GMM": {
+          "by": "Kishanthsuresh",
+          "time": "16:43"
         }
       },
       "problems": [],
