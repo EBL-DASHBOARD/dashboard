@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T03:52:55.063Z",
+  "generated": "2026-06-13T04:00:00.036Z",
   "groups": [
     {
       "id": "XH",
@@ -347,7 +347,37 @@
         "WSM",
         "MSQ",
         "VIVO",
-        "IM"
+        "IM",
+        "PECC",
+        "TPM",
+        "CKCC",
+        "TNC2",
+        "LOY",
+        "AP1",
+        "EPT",
+        "CCP",
+        "KNX",
+        "PAL",
+        "PDD",
+        "WWP",
+        "KEB",
+        "HRC",
+        "FEN",
+        "R1",
+        "AP2",
+        "R4",
+        "AP4",
+        "R3",
+        "GMM",
+        "BOB",
+        "VIVA",
+        "NEX",
+        "NTP",
+        "MARS",
+        "J9",
+        "YS1",
+        "SSC2",
+        "WIS"
       ],
       "done_detail": {
         "BS": {
