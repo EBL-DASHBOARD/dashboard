@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T09:06:45.027Z",
+  "generated": "2026-06-13T09:31:20.344Z",
   "groups": [
     {
       "id": "XH",
@@ -367,7 +367,7 @@
           ]
         }
       ],
-      "done": 40,
+      "done": 41,
       "outlets_done": [
         "BS",
         "JKN",
@@ -408,14 +408,14 @@
         "TNC2",
         "AP4",
         "WWP",
-        "SSC2"
+        "SSC2",
+        "CCP"
       ],
       "outlets_outstanding": [
         "PECC",
         "CKCC",
         "LOY",
         "AP1",
-        "CCP",
         "PDD",
         "HRC",
         "R1",
@@ -587,6 +587,10 @@
         "SSC2": {
           "by": "YAAKESH",
           "time": "17:06"
+        },
+        "CCP": {
+          "by": "Samy Kumar Meena",
+          "time": "17:31"
         }
       },
       "problems": [],
