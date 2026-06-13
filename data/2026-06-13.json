@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T08:03:28.006Z",
+  "generated": "2026-06-13T08:19:11.328Z",
   "groups": [
     {
       "id": "XH",
@@ -188,6 +188,13 @@
           "by": "boss",
           "text": "All four stops reported (PRM, WS, T1, Tm) are already marked done, not outstanding",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "16:19",
+          "by": "boss",
+          "text": "Driver forked wrong pallet (15/6 cwp) - accidentally took it from PM pallet storage; AM and PM pallets now mixed at front",
+          "escalated": false,
           "resolved": false
         }
       ],
