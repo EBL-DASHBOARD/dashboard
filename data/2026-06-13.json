@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T08:53:17.242Z",
+  "generated": "2026-06-13T08:59:33.439Z",
   "groups": [
     {
       "id": "XH",
@@ -367,7 +367,7 @@
           ]
         }
       ],
-      "done": 37,
+      "done": 38,
       "outlets_done": [
         "BS",
         "JKN",
@@ -405,7 +405,8 @@
         "TPM",
         "EPT",
         "GMM",
-        "TNC2"
+        "TNC2",
+        "AP4"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -418,7 +419,6 @@
         "HRC",
         "R1",
         "AP2",
-        "AP4",
         "R3",
         "BOB",
         "VIVA",
@@ -575,6 +575,10 @@
         "TNC2": {
           "by": "viknesh3029n",
           "time": "16:53"
+        },
+        "AP4": {
+          "by": "Krishna",
+          "time": "16:59"
         }
       },
       "problems": [],
