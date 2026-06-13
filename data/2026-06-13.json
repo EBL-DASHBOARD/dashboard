@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T03:04:12.520Z",
+  "generated": "2026-06-13T03:05:00.810Z",
   "groups": [
     {
       "id": "XH",
@@ -312,7 +312,7 @@
           ]
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "BS",
         "JKN",
@@ -327,7 +327,8 @@
         "CT",
         "KH",
         "BNV",
-        "STC"
+        "STC",
+        "KIT"
       ],
       "outlets_outstanding": [
         "CTP",
@@ -336,7 +337,6 @@
         "WSM",
         "KLP",
         "MSQ",
-        "KIT",
         "TIO",
         "VIVO",
         "IM",
@@ -398,6 +398,10 @@
         "STC": {
           "by": "viknesh3029n",
           "time": "10:53"
+        },
+        "KIT": {
+          "by": "Sasi",
+          "time": "11:05"
         }
       },
       "problems": [],
