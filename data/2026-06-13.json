@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T02:24:43.287Z",
+  "generated": "2026-06-13T02:33:53.916Z",
   "groups": [
     {
       "id": "XH",
@@ -304,7 +304,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "BS",
         "JKN",
@@ -317,7 +317,8 @@
         "KRC",
         "JP",
         "CT",
-        "KH"
+        "KH",
+        "BNV"
       ],
       "outlets_outstanding": [
         "STC",
@@ -328,7 +329,6 @@
         "KLP",
         "MSQ",
         "KIT",
-        "BNV",
         "TIO",
         "VIVO",
         "IM",
@@ -382,6 +382,10 @@
         "KH": {
           "by": "Samy Kumar Meena",
           "time": "10:24"
+        },
+        "BNV": {
+          "by": "Krishna",
+          "time": "10:33"
         }
       },
       "problems": [],
