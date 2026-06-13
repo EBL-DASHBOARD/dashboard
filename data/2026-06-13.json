@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T08:34:15.383Z",
+  "generated": "2026-06-13T08:39:45.301Z",
   "groups": [
     {
       "id": "XH",
@@ -363,7 +363,7 @@
           ]
         }
       ],
-      "done": 33,
+      "done": 34,
       "outlets_done": [
         "BS",
         "JKN",
@@ -397,11 +397,11 @@
         "NEX",
         "FEN",
         "R4",
-        "MARS"
+        "MARS",
+        "TPM"
       ],
       "outlets_outstanding": [
         "PECC",
-        "TPM",
         "CKCC",
         "TNC2",
         "LOY",
@@ -555,6 +555,10 @@
         "MARS": {
           "by": "Sudhakar",
           "time": "16:19"
+        },
+        "TPM": {
+          "by": "viknesh3029n",
+          "time": "16:39"
         }
       },
       "problems": [],
