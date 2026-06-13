@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T02:44:29.011Z",
+  "generated": "2026-06-13T02:53:30.268Z",
   "groups": [
     {
       "id": "XH",
@@ -308,7 +308,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "BS",
         "JKN",
@@ -322,10 +322,10 @@
         "JP",
         "CT",
         "KH",
-        "BNV"
+        "BNV",
+        "STC"
       ],
       "outlets_outstanding": [
-        "STC",
         "CTP",
         "BPP",
         "TRM",
@@ -390,6 +390,10 @@
         "BNV": {
           "by": "Krishna",
           "time": "10:33"
+        },
+        "STC": {
+          "by": "viknesh3029n",
+          "time": "10:53"
         }
       },
       "problems": [],
