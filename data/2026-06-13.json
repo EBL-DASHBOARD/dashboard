@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T04:25:23.562Z",
+  "generated": "2026-06-13T04:28:31.879Z",
   "groups": [
     {
       "id": "XH",
@@ -333,7 +333,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "BS",
         "JKN",
@@ -358,10 +358,10 @@
         "TRM",
         "IM",
         "VIVO",
-        "MSQ"
+        "MSQ",
+        "WSM"
       ],
       "outlets_outstanding": [
-        "WSM",
         "PECC",
         "TPM",
         "CKCC",
@@ -489,6 +489,10 @@
         "MSQ": {
           "by": "Sasi",
           "time": "12:25"
+        },
+        "WSM": {
+          "by": "Samy Kumar Meena",
+          "time": "12:28"
         }
       },
       "problems": [],
