@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T07:13:06.950Z",
+  "generated": "2026-06-13T07:50:30.652Z",
   "groups": [
     {
       "id": "XH",
@@ -356,7 +356,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "BS",
         "JKN",
@@ -385,7 +385,8 @@
         "WSM",
         "NTP",
         "PAL",
-        "KEB"
+        "KEB",
+        "KNX"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -396,7 +397,6 @@
         "AP1",
         "EPT",
         "CCP",
-        "KNX",
         "PDD",
         "WWP",
         "HRC",
@@ -528,6 +528,10 @@
         "KEB": {
           "by": "Sasi",
           "time": "15:13"
+        },
+        "KNX": {
+          "by": "Samy Kumar Meena",
+          "time": "15:50"
         }
       },
       "problems": [],
