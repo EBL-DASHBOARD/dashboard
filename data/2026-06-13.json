@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T11:33:58.126Z",
+  "generated": "2026-06-13T12:15:38.767Z",
   "groups": [
     {
       "id": "XH",
@@ -367,7 +367,7 @@
           ]
         }
       ],
-      "done": 54,
+      "done": 55,
       "outlets_done": [
         "BS",
         "JKN",
@@ -422,11 +422,10 @@
         "HRC",
         "VIVA",
         "WIS",
-        "R3"
-      ],
-      "outlets_outstanding": [
+        "R3",
         "R1"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "BS": {
           "by": "viknesh3029n",
@@ -643,6 +642,10 @@
         "R3": {
           "by": "Krishna",
           "time": "19:33"
+        },
+        "R1": {
+          "by": "Krishna",
+          "time": "20:15"
         }
       },
       "problems": [],
