@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T07:50:30.652Z",
+  "generated": "2026-06-13T07:53:05.280Z",
   "groups": [
     {
       "id": "XH",
@@ -356,7 +356,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "BS",
         "JKN",
@@ -386,7 +386,8 @@
         "NTP",
         "PAL",
         "KEB",
-        "KNX"
+        "KNX",
+        "NEX"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -409,7 +410,6 @@
         "GMM",
         "BOB",
         "VIVA",
-        "NEX",
         "MARS",
         "J9",
         "YS1",
@@ -532,6 +532,10 @@
         "KNX": {
           "by": "Samy Kumar Meena",
           "time": "15:50"
+        },
+        "NEX": {
+          "by": "Kishanthsuresh",
+          "time": "15:53"
         }
       },
       "problems": [],
