@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T11:32:32.164Z",
+  "generated": "2026-06-13T11:33:58.126Z",
   "groups": [
     {
       "id": "XH",
@@ -367,7 +367,7 @@
           ]
         }
       ],
-      "done": 53,
+      "done": 54,
       "outlets_done": [
         "BS",
         "JKN",
@@ -421,11 +421,11 @@
         "AP1",
         "HRC",
         "VIVA",
-        "WIS"
+        "WIS",
+        "R3"
       ],
       "outlets_outstanding": [
-        "R1",
-        "R3"
+        "R1"
       ],
       "done_detail": {
         "BS": {
@@ -639,6 +639,10 @@
         "WIS": {
           "by": "YAAKESH",
           "time": "19:32"
+        },
+        "R3": {
+          "by": "Krishna",
+          "time": "19:33"
         }
       },
       "problems": [],
