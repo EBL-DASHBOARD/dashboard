@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T01:59:20.459Z",
+  "generated": "2026-06-13T02:07:27.380Z",
   "groups": [
     {
       "id": "XH",
@@ -304,7 +304,7 @@
           ]
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "BS",
         "JKN",
@@ -314,7 +314,8 @@
         "BQ",
         "CCKS",
         "TY",
-        "KRC"
+        "KRC",
+        "JP"
       ],
       "outlets_outstanding": [
         "STC",
@@ -331,8 +332,7 @@
         "TIO",
         "VIVO",
         "IM",
-        "TGCC",
-        "JP"
+        "TGCC"
       ],
       "done_detail": {
         "BS": {
@@ -370,6 +370,10 @@
         "KRC": {
           "by": "Krishna",
           "time": "09:42"
+        },
+        "JP": {
+          "by": "Kishanthsuresh",
+          "time": "10:07"
         }
       },
       "problems": [],
