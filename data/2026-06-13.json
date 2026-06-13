@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T01:41:51.664Z",
+  "generated": "2026-06-13T01:42:07.006Z",
   "groups": [
     {
       "id": "XH",
@@ -286,7 +286,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "BS",
         "JKN",
@@ -295,7 +295,8 @@
         "YTP",
         "BQ",
         "CCKS",
-        "TY"
+        "TY",
+        "KRC"
       ],
       "outlets_outstanding": [
         "STC",
@@ -308,7 +309,6 @@
         "KLP",
         "MSQ",
         "KIT",
-        "KRC",
         "BNV",
         "TIO",
         "VIVO",
@@ -348,6 +348,10 @@
         "TY": {
           "by": "Sasi",
           "time": "09:41"
+        },
+        "KRC": {
+          "by": "Krishna",
+          "time": "09:42"
         }
       },
       "problems": [],
