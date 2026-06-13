@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T06:00:00.188Z",
+  "generated": "2026-06-13T06:35:36.010Z",
   "groups": [
     {
       "id": "XH",
@@ -181,6 +181,13 @@
           "by": "#நVin🇮🇹🚀🔥",
           "text": "None of the reported short forms (Artra, Sc, Cg, Vel) match the outstanding stops (Punggol Plaza, Junction 8, The Woodleigh Mall)",
           "escalated": true,
+          "resolved": false
+        },
+        {
+          "time": "14:35",
+          "by": "boss",
+          "text": "All four stops reported (PRM, WS, T1, Tm) are already marked done, not outstanding",
+          "escalated": false,
           "resolved": false
         }
       ],
