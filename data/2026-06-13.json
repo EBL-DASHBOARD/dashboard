@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T04:05:33.966Z",
+  "generated": "2026-06-13T04:07:55.672Z",
   "groups": [
     {
       "id": "XH",
@@ -150,7 +150,7 @@
           "time": "11:52",
           "by": "Nur Azimah",
           "text": "All abbreviations (Pp, Cm1, J8, Twm) do not match any outstanding stops; Twm appears incomplete/unclear",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         },
         {
