@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T00:41:01.909Z",
+  "generated": "2026-06-13T00:43:33.255Z",
   "groups": [
     {
       "id": "XH",
@@ -279,9 +279,10 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "BS"
+        "BS",
+        "JKN"
       ],
       "outlets_outstanding": [
         "STC",
@@ -306,13 +307,16 @@
         "VIVO",
         "IM",
         "TGCC",
-        "JP",
-        "JKN"
+        "JP"
       ],
       "done_detail": {
         "BS": {
           "by": "viknesh3029n",
           "time": "08:41"
+        },
+        "JKN": {
+          "by": "Kishanthsuresh",
+          "time": "08:43"
         }
       },
       "problems": [],
