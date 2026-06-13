@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated": "2026-06-13T09:00:09.255Z",
+  "generated": "2026-06-13T09:06:45.027Z",
   "groups": [
     {
       "id": "XH",
@@ -367,7 +367,7 @@
           ]
         }
       ],
-      "done": 39,
+      "done": 40,
       "outlets_done": [
         "BS",
         "JKN",
@@ -407,7 +407,8 @@
         "GMM",
         "TNC2",
         "AP4",
-        "WWP"
+        "WWP",
+        "SSC2"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -424,7 +425,6 @@
         "VIVA",
         "J9",
         "YS1",
-        "SSC2",
         "WIS"
       ],
       "done_detail": {
@@ -583,6 +583,10 @@
         "WWP": {
           "by": "Sasi",
           "time": "17:00"
+        },
+        "SSC2": {
+          "by": "YAAKESH",
+          "time": "17:06"
         }
       },
       "problems": [],
