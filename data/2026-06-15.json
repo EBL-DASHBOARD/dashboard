@@ -1,0 +1,182 @@
+{
+  "date": "2026-06-15",
+  "generated": "2026-06-14T11:57:27.170Z",
+  "groups": [
+    {
+      "id": "XH",
+      "name": "Xh Delivery",
+      "total_locations": 45,
+      "am_total": 25,
+      "pm_total": 20,
+      "am_outlets": [
+        "Tanah Merah Ferry Terminal",
+        "Royal Square",
+        "Zhongshan Mall",
+        "The Woodleigh Mall",
+        "UE Square",
+        "Tampines Mart",
+        "Century Square",
+        "Tampines 1",
+        "Dairy Farm Mall",
+        "Hillion Mall",
+        "Le Quest",
+        "West Mall",
+        "Hougang Mall",
+        "Junction 9",
+        "Northpoint City",
+        "Woods Square",
+        "Vivocity",
+        "AltitudeX",
+        "HarbourFront Tower 1",
+        "ARTRA",
+        "GENEO",
+        "63 Pagoda Street",
+        "Ngee Ann Polytechnic Block 1",
+        "Parc Point",
+        "Alexandra Technopark B"
+      ],
+      "pm_outlets": [
+        "Parkway Parade",
+        "Punggol Coast Mall",
+        "The Poiz Centre",
+        "New Tech Park",
+        "Eastpoint Mall",
+        "313 Somerset",
+        "V Hotel Lavender",
+        "120 Robinson",
+        "Compass One",
+        "Rivervale Mall",
+        "Causeway Point",
+        "Waterway Point",
+        "Chinatown Point",
+        "Icon Link",
+        "Galaxis",
+        "Mapletree Business City",
+        "Westgate Tower",
+        "JEM",
+        "Fairprice Hub",
+        "Flavours @ NUS Uptown"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Tanah Merah Ferry Terminal",
+            "Royal Square",
+            "Zhongshan Mall",
+            "The Woodleigh Mall"
+          ],
+          "pm": [
+            "Parkway Parade",
+            "Punggol Coast Mall",
+            "The Poiz Centre",
+            "New Tech Park"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "UE Square",
+            "Tampines Mart",
+            "Century Square",
+            "Tampines 1"
+          ],
+          "pm": [
+            "Eastpoint Mall",
+            "313 Somerset",
+            "V Hotel Lavender",
+            "120 Robinson"
+          ]
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Dairy Farm Mall",
+            "Hillion Mall",
+            "Le Quest",
+            "West Mall"
+          ],
+          "pm": [
+            "Compass One",
+            "Rivervale Mall",
+            "Causeway Point",
+            "Waterway Point"
+          ]
+        },
+        {
+          "name": "TRUCK 4",
+          "am": [
+            "Hougang Mall",
+            "Junction 9",
+            "Northpoint City",
+            "Woods Square"
+          ],
+          "pm": [
+            "Chinatown Point",
+            "Icon Link",
+            "Galaxis",
+            "Mapletree Business City"
+          ]
+        },
+        {
+          "name": "TRUCK 5",
+          "am": [
+            "Vivocity",
+            "AltitudeX",
+            "HarbourFront Tower 1",
+            "ARTRA",
+            "GENEO"
+          ],
+          "pm": [
+            "Westgate Tower",
+            "JEM",
+            "Fairprice Hub",
+            "Flavours @ NUS Uptown"
+          ]
+        },
+        {
+          "name": "TRUCK 6",
+          "am": [
+            "63 Pagoda Street",
+            "Ngee Ann Polytechnic Block 1",
+            "Parc Point",
+            "Alexandra Technopark B"
+          ],
+          "pm": []
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Tanah Merah Ferry Terminal",
+        "Royal Square",
+        "Zhongshan Mall",
+        "The Woodleigh Mall",
+        "UE Square",
+        "Tampines Mart",
+        "Century Square",
+        "Tampines 1",
+        "Dairy Farm Mall",
+        "Hillion Mall",
+        "Le Quest",
+        "West Mall",
+        "Hougang Mall",
+        "Junction 9",
+        "Northpoint City",
+        "Woods Square",
+        "Vivocity",
+        "AltitudeX",
+        "HarbourFront Tower 1",
+        "ARTRA",
+        "GENEO",
+        "63 Pagoda Street",
+        "Ngee Ann Polytechnic Block 1",
+        "Parc Point",
+        "Alexandra Technopark B"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
