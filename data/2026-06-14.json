@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-14T08:51:19.071Z",
+  "generated": "2026-06-14T08:51:32.531Z",
   "groups": [
     {
       "id": "XH",
@@ -205,14 +205,14 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 4,
       "outlets_done": [
         "Tanah Merah Ferry Terminal",
-        "The Woodleigh Mall"
+        "The Woodleigh Mall",
+        "Royal Square",
+        "Zhongshan Mall"
       ],
       "outlets_outstanding": [
-        "Royal Square",
-        "Zhongshan Mall",
         "UE Square",
         "Tampines Mart",
         "Century Square",
@@ -233,7 +233,11 @@
         "63 Pagoda Street",
         "Ngee Ann Polytechnic Block 1",
         "Parc Point",
-        "Alexandra Technopark B"
+        "Alexandra Technopark B",
+        "Parkway Parade",
+        "Punggol Coast Mall",
+        "The Poiz Centre",
+        "New Tech Park"
       ],
       "done_detail": {
         "Tanah Merah Ferry Terminal": {
@@ -241,6 +245,14 @@
           "time": "16:51"
         },
         "The Woodleigh Mall": {
+          "by": "Samson Kim",
+          "time": "16:51"
+        },
+        "Royal Square": {
+          "by": "Samson Kim",
+          "time": "16:51"
+        },
+        "Zhongshan Mall": {
           "by": "Samson Kim",
           "time": "16:51"
         }
