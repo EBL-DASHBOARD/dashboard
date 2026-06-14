@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-14T08:51:34.396Z",
+  "generated": "2026-06-14T08:52:08.718Z",
   "groups": [
     {
       "id": "XH",
@@ -205,12 +205,16 @@
           "pm": []
         }
       ],
-      "done": 4,
+      "done": 8,
       "outlets_done": [
         "Tanah Merah Ferry Terminal",
         "The Woodleigh Mall",
         "Royal Square",
-        "Zhongshan Mall"
+        "Zhongshan Mall",
+        "63 Pagoda Street",
+        "Ngee Ann Polytechnic Block 1",
+        "Parc Point",
+        "Alexandra Technopark B"
       ],
       "outlets_outstanding": [
         "UE Square",
@@ -230,10 +234,6 @@
         "HarbourFront Tower 1",
         "ARTRA",
         "GENEO",
-        "63 Pagoda Street",
-        "Ngee Ann Polytechnic Block 1",
-        "Parc Point",
-        "Alexandra Technopark B",
         "Parkway Parade",
         "Punggol Coast Mall",
         "The Poiz Centre",
@@ -255,6 +255,22 @@
         "Zhongshan Mall": {
           "by": "Samson Kim",
           "time": "16:51"
+        },
+        "63 Pagoda Street": {
+          "by": "Samson Kim",
+          "time": "16:52"
+        },
+        "Ngee Ann Polytechnic Block 1": {
+          "by": "Samson Kim",
+          "time": "16:52"
+        },
+        "Parc Point": {
+          "by": "Samson Kim",
+          "time": "16:52"
+        },
+        "Alexandra Technopark B": {
+          "by": "Samson Kim",
+          "time": "16:52"
         }
       },
       "problems": [],
