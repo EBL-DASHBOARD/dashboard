@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-13T23:00:00.954Z",
+  "generated": "2026-06-14T06:00:01.488Z",
   "groups": [
     {
       "id": "XH",
@@ -52,7 +52,11 @@
         "Changi T1 Transit",
         "Changi City Point",
         "Hougang 1",
-        "ESR BizPark @ Changi"
+        "ESR BizPark @ Changi",
+        "Coronation shopping",
+        "Westgate",
+        "The Strategy",
+        "NTU South Spine"
       ],
       "done_detail": {},
       "problems": [],
