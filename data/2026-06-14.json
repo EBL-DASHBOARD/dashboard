@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-14T08:45:29.698Z",
+  "generated": "2026-06-14T08:51:19.071Z",
   "groups": [
     {
       "id": "XH",
@@ -81,19 +81,19 @@
         "Hillion Mall",
         "Le Quest",
         "West Mall",
-        "Hougang Mall (9am)",
+        "Hougang Mall",
         "Junction 9",
         "Northpoint City",
         "Woods Square",
-        "Vivocity (9am onwrds)",
-        "AltitudeX (9am onwrds)",
+        "Vivocity",
+        "AltitudeX",
         "HarbourFront Tower 1",
         "ARTRA",
-        "GENEO (9am onwards)",
+        "GENEO",
         "63 Pagoda Street",
-        "Ngee Ann Polytechnic Block",
+        "Ngee Ann Polytechnic Block 1",
         "Parc Point",
-        "Alexandra Technopark B (730am)"
+        "Alexandra Technopark B"
       ],
       "pm_outlets": [
         "Parkway Parade",
@@ -103,7 +103,7 @@
         "Eastpoint Mall",
         "313 Somerset",
         "V Hotel Lavender",
-        "120 Robinson (close 630)",
+        "120 Robinson",
         "Compass One",
         "Rivervale Mall",
         "Causeway Point",
@@ -145,7 +145,7 @@
             "Eastpoint Mall",
             "313 Somerset",
             "V Hotel Lavender",
-            "120 Robinson (close 630)"
+            "120 Robinson"
           ]
         },
         {
@@ -166,7 +166,7 @@
         {
           "name": "TRUCK 4",
           "am": [
-            "Hougang Mall (9am)",
+            "Hougang Mall",
             "Junction 9",
             "Northpoint City",
             "Woods Square"
@@ -181,11 +181,11 @@
         {
           "name": "TRUCK 5",
           "am": [
-            "Vivocity (9am onwrds)",
-            "AltitudeX (9am onwrds)",
+            "Vivocity",
+            "AltitudeX",
             "HarbourFront Tower 1",
             "ARTRA",
-            "GENEO (9am onwards)"
+            "GENEO"
           ],
           "pm": [
             "Westgate Tower",
@@ -198,20 +198,21 @@
           "name": "TRUCK 6",
           "am": [
             "63 Pagoda Street",
-            "Ngee Ann Polytechnic Block",
+            "Ngee Ann Polytechnic Block 1",
             "Parc Point",
-            "Alexandra Technopark B (730am)"
+            "Alexandra Technopark B"
           ],
           "pm": []
         }
       ],
-      "done": 0,
-      "outlets_done": [],
-      "outlets_outstanding": [
+      "done": 2,
+      "outlets_done": [
         "Tanah Merah Ferry Terminal",
+        "The Woodleigh Mall"
+      ],
+      "outlets_outstanding": [
         "Royal Square",
         "Zhongshan Mall",
-        "The Woodleigh Mall",
         "UE Square",
         "Tampines Mart",
         "Century Square",
@@ -220,21 +221,30 @@
         "Hillion Mall",
         "Le Quest",
         "West Mall",
-        "Hougang Mall (9am)",
+        "Hougang Mall",
         "Junction 9",
         "Northpoint City",
         "Woods Square",
-        "Vivocity (9am onwrds)",
-        "AltitudeX (9am onwrds)",
+        "Vivocity",
+        "AltitudeX",
         "HarbourFront Tower 1",
         "ARTRA",
-        "GENEO (9am onwards)",
+        "GENEO",
         "63 Pagoda Street",
-        "Ngee Ann Polytechnic Block",
+        "Ngee Ann Polytechnic Block 1",
         "Parc Point",
-        "Alexandra Technopark B (730am)"
+        "Alexandra Technopark B"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "Tanah Merah Ferry Terminal": {
+          "by": "Samson Kim",
+          "time": "16:51"
+        },
+        "The Woodleigh Mall": {
+          "by": "Samson Kim",
+          "time": "16:51"
+        }
+      },
       "problems": [],
       "customers": null
     }
