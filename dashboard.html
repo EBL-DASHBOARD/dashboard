@@ -710,8 +710,12 @@ async function render() {
     }
   } else {
     await loadIndex();
-    const data = await loadDay(to); // load most recent for group discovery
-    if (data) { discoverGroups(data); renderGroupPills(); }
+    // Discover groups across the WHOLE range, not just the latest day — otherwise
+    // a group that didn't run on the most recent day (e.g. EBL-6 on a Sunday)
+    // gets left out of the pills and the period totals.
+    const entries = await loadRange(from, to);
+    entries.forEach(e => discoverGroups(e.data));
+    renderGroupPills();
     await renderPeriodTable(from, to);
   }
 }
