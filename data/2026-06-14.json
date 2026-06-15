@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T07:52:43.696Z",
+  "generated": "2026-06-15T08:03:44.973Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "JKN",
         "DV",
@@ -449,7 +449,8 @@
         "GMM",
         "ACV",
         "KNX",
-        "BHT"
+        "BHT",
+        "R4"
       ],
       "outlets_outstanding": [
         "CCP",
@@ -467,7 +468,6 @@
         "WWP",
         "AP2",
         "R3",
-        "R4",
         "AP1",
         "R1",
         "YS1",
@@ -583,6 +583,10 @@
         "BHT": {
           "by": "Samy Kumar Meena",
           "time": "15:52"
+        },
+        "R4": {
+          "by": "Krishna",
+          "time": "16:03"
         }
       },
       "problems": [],
