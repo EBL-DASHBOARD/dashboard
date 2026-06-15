@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T01:18:33.560Z",
+  "generated": "2026-06-15T01:38:56.124Z",
   "groups": [
     {
       "id": "XH",
@@ -145,12 +145,13 @@
           "pm": []
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
         "Woods Square",
-        "Parc Point"
+        "Parc Point",
+        "Tampines 1"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -160,7 +161,6 @@
         "UE Square",
         "Tampines Mart",
         "Century Square",
-        "Tampines 1",
         "Dairy Farm Mall",
         "Hillion Mall",
         "Le Quest",
@@ -191,6 +191,10 @@
         "Parc Point": {
           "by": "SEENU.C",
           "time": "09:18"
+        },
+        "Tampines 1": {
+          "by": "boss",
+          "time": "09:38"
         }
       },
       "problems": [],
