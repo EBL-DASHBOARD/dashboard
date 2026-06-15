@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T01:52:04.441Z",
+  "generated": "2026-06-15T02:00:50.347Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "JKN",
         "DV",
@@ -430,7 +430,8 @@
         "CCKS",
         "USQ",
         "TRM",
-        "HV2"
+        "HV2",
+        "BPP"
       ],
       "outlets_outstanding": [
         "CT",
@@ -440,7 +441,6 @@
         "CL2",
         "IM",
         "WSM",
-        "BPP",
         "KIT",
         "KLP",
         "SHP",
@@ -507,6 +507,10 @@
         "HV2": {
           "by": "Mani 6 EBL",
           "time": "09:52"
+        },
+        "BPP": {
+          "by": "Samy Kumar Meena",
+          "time": "10:00"
         }
       },
       "problems": [],
