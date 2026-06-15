@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-14T22:00:09.943Z",
+  "generated": "2026-06-15T01:08:17.991Z",
   "groups": [
     {
       "id": "XH",
@@ -145,8 +145,10 @@
           "pm": []
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "West Mall"
+      ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "Royal Square",
@@ -159,7 +161,6 @@
         "Dairy Farm Mall",
         "Hillion Mall",
         "Le Quest",
-        "West Mall",
         "Hougang Mall",
         "Junction 9",
         "Northpoint City",
@@ -174,7 +175,12 @@
         "Parc Point",
         "Alexandra Technopark B"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "West Mall": {
+          "by": "🚬Let's Chill🚬",
+          "time": "09:08"
+        }
+      },
       "problems": [],
       "customers": null
     }
