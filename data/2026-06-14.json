@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T00:22:16.489Z",
+  "generated": "2026-06-15T00:35:43.392Z",
   "groups": [
     {
       "id": "XH",
@@ -421,9 +421,10 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "JKN"
+        "JKN",
+        "DV"
       ],
       "outlets_outstanding": [
         "CT",
@@ -439,7 +440,6 @@
         "KLP",
         "SHP",
         "USQ",
-        "DV",
         "ART",
         "VIVO",
         "TIO",
@@ -479,6 +479,10 @@
         "JKN": {
           "by": "Samy Kumar Meena",
           "time": "08:22"
+        },
+        "DV": {
+          "by": "Sasi",
+          "time": "08:35"
         }
       },
       "problems": [],
