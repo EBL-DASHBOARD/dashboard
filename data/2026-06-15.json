@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T01:15:59.483Z",
+  "generated": "2026-06-15T01:16:59.949Z",
   "groups": [
     {
       "id": "XH",
@@ -145,10 +145,11 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "West Mall",
-        "HarbourFront Tower 1"
+        "HarbourFront Tower 1",
+        "Woods Square"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -165,7 +166,6 @@
         "Hougang Mall",
         "Junction 9",
         "Northpoint City",
-        "Woods Square",
         "Vivocity",
         "AltitudeX",
         "ARTRA",
@@ -183,6 +183,10 @@
         "HarbourFront Tower 1": {
           "by": "palanivelumuthukumar",
           "time": "09:15"
+        },
+        "Woods Square": {
+          "by": "Gopal",
+          "time": "09:16"
         }
       },
       "problems": [],
