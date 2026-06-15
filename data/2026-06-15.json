@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T03:44:04.283Z",
+  "generated": "2026-06-15T03:46:19.141Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 19,
+      "done": 21,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -165,14 +165,14 @@
         "Hillion Mall",
         "Tampines Mart",
         "Alexandra Technopark B",
-        "Dairy Farm Mall"
+        "Dairy Farm Mall",
+        "AltitudeX",
+        "ARTRA"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "UE Square",
         "Hougang Mall",
-        "AltitudeX",
-        "ARTRA",
         "GENEO",
         "Compass One",
         "Rivervale Mall",
@@ -255,6 +255,14 @@
         "Dairy Farm Mall": {
           "by": "Nur Azimah",
           "time": "11:44"
+        },
+        "AltitudeX": {
+          "by": "palanivelumuthukumar",
+          "time": "11:46"
+        },
+        "ARTRA": {
+          "by": "palanivelumuthukumar",
+          "time": "11:46"
         }
       },
       "problems": [],
