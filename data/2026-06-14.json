@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T10:27:29.494Z",
+  "generated": "2026-06-15T10:30:07.303Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 40,
+      "done": 41,
       "outlets_done": [
         "JKN",
         "DV",
@@ -462,13 +462,13 @@
         "WIS",
         "YS1",
         "CKCC",
-        "EPT"
+        "EPT",
+        "KEB"
       ],
       "outlets_outstanding": [
         "CCP",
         "LOY",
         "AP4",
-        "KEB",
         "WWP",
         "AP2",
         "R3",
@@ -635,6 +635,10 @@
         "EPT": {
           "by": "Samy Kumar Meena",
           "time": "18:27"
+        },
+        "KEB": {
+          "by": "Sasi",
+          "time": "18:30"
         }
       },
       "problems": [],
