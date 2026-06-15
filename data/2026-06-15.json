@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T03:09:33.860Z",
+  "generated": "2026-06-15T03:22:30.769Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -162,12 +162,12 @@
         "63 Pagoda Street",
         "Junction 9",
         "Zhongshan Mall",
-        "Hillion Mall"
+        "Hillion Mall",
+        "Tampines Mart"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "UE Square",
-        "Tampines Mart",
         "Dairy Farm Mall",
         "Hougang Mall",
         "AltitudeX",
@@ -239,6 +239,10 @@
         "Hillion Mall": {
           "by": "Nur Azimah",
           "time": "11:09"
+        },
+        "Tampines Mart": {
+          "by": "boss",
+          "time": "11:22"
         }
       },
       "problems": [],
