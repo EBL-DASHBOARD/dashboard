@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T08:35:29.755Z",
+  "generated": "2026-06-15T08:54:10.661Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 36,
+      "done": 37,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -182,14 +182,14 @@
         "Mapletree Business City",
         "Galaxis",
         "Rivervale Mall",
-        "Fairprice Hub"
+        "Fairprice Hub",
+        "Icon Link"
       ],
       "outlets_outstanding": [
         "Causeway Point",
         "V Hotel Lavender",
         "120 Robinson",
         "Chinatown Point",
-        "Icon Link",
         "Flavours @ NUS Uptown",
         "Punggol Coast Mall",
         "The Poiz Centre",
@@ -339,6 +339,10 @@
         "Fairprice Hub": {
           "by": "palanivelumuthukumar",
           "time": "16:35"
+        },
+        "Icon Link": {
+          "by": "Gopal",
+          "time": "16:54"
         }
       },
       "problems": [],
