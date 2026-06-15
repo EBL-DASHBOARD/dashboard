@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T09:48:38.117Z",
+  "generated": "2026-06-15T11:31:23.086Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 44,
+      "done": 45,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -190,11 +190,10 @@
         "New Tech Park",
         "Chinatown Point",
         "V Hotel Lavender",
-        "120 Robinson"
-      ],
-      "outlets_outstanding": [
+        "120 Robinson",
         "The Poiz Centre"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "West Mall": {
           "by": "🚬Let's Chill🚬",
@@ -371,6 +370,10 @@
         "120 Robinson": {
           "by": "boss",
           "time": "17:48"
+        },
+        "The Poiz Centre": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "19:31"
         }
       },
       "problems": [],
