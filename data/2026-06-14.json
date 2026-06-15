@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T10:55:19.012Z",
+  "generated": "2026-06-15T10:58:02.467Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 43,
+      "done": 44,
       "outlets_done": [
         "JKN",
         "DV",
@@ -465,15 +465,15 @@
         "EPT",
         "KEB",
         "AP2",
-        "LOY"
+        "LOY",
+        "MARS"
       ],
       "outlets_outstanding": [
         "CCP",
         "AP4",
         "WWP",
         "R3",
-        "AP1",
-        "MARS"
+        "AP1"
       ],
       "done_detail": {
         "JKN": {
@@ -647,6 +647,10 @@
         "LOY": {
           "by": "viknesh3029n",
           "time": "18:55"
+        },
+        "MARS": {
+          "by": "YAAKESH",
+          "time": "18:58"
         }
       },
       "problems": [],
