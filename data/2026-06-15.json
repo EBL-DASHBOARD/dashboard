@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T01:38:56.124Z",
+  "generated": "2026-06-15T01:48:26.899Z",
   "groups": [
     {
       "id": "XH",
@@ -145,13 +145,14 @@
           "pm": []
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
         "Woods Square",
         "Parc Point",
-        "Tampines 1"
+        "Tampines 1",
+        "Le Quest"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -163,7 +164,6 @@
         "Century Square",
         "Dairy Farm Mall",
         "Hillion Mall",
-        "Le Quest",
         "Hougang Mall",
         "Junction 9",
         "Northpoint City",
@@ -195,6 +195,10 @@
         "Tampines 1": {
           "by": "boss",
           "time": "09:38"
+        },
+        "Le Quest": {
+          "by": "Nur Azimah",
+          "time": "09:48"
         }
       },
       "problems": [],
