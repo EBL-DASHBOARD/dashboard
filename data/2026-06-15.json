@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T02:34:39.938Z",
+  "generated": "2026-06-15T02:35:48.941Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -158,7 +158,8 @@
         "Royal Square",
         "Northpoint City",
         "Century Square",
-        "Vivocity"
+        "Vivocity",
+        "63 Pagoda Street"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -172,7 +173,6 @@
         "AltitudeX",
         "ARTRA",
         "GENEO",
-        "63 Pagoda Street",
         "Alexandra Technopark B"
       ],
       "done_detail": {
@@ -223,6 +223,10 @@
         "Vivocity": {
           "by": "palanivelumuthukumar",
           "time": "10:34"
+        },
+        "63 Pagoda Street": {
+          "by": "SEENU.C",
+          "time": "10:35"
         }
       },
       "problems": [],
