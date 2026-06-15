@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T03:03:28.258Z",
+  "generated": "2026-06-15T03:09:33.860Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -161,14 +161,14 @@
         "Vivocity",
         "63 Pagoda Street",
         "Junction 9",
-        "Zhongshan Mall"
+        "Zhongshan Mall",
+        "Hillion Mall"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "UE Square",
         "Tampines Mart",
         "Dairy Farm Mall",
-        "Hillion Mall",
         "Hougang Mall",
         "AltitudeX",
         "ARTRA",
@@ -235,6 +235,10 @@
         "Zhongshan Mall": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "11:03"
+        },
+        "Hillion Mall": {
+          "by": "Nur Azimah",
+          "time": "11:09"
         }
       },
       "problems": [],
