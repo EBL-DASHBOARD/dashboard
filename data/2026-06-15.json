@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T09:24:10.228Z",
+  "generated": "2026-06-15T09:48:38.117Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 42,
+      "done": 44,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -188,11 +188,11 @@
         "Causeway Point",
         "Punggol Coast Mall",
         "New Tech Park",
-        "Chinatown Point"
+        "Chinatown Point",
+        "V Hotel Lavender",
+        "120 Robinson"
       ],
       "outlets_outstanding": [
-        "V Hotel Lavender",
-        "120 Robinson",
         "The Poiz Centre"
       ],
       "done_detail": {
@@ -363,6 +363,14 @@
         "Chinatown Point": {
           "by": "Gopal",
           "time": "17:24"
+        },
+        "V Hotel Lavender": {
+          "by": "boss",
+          "time": "17:48"
+        },
+        "120 Robinson": {
+          "by": "boss",
+          "time": "17:48"
         }
       },
       "problems": [],
