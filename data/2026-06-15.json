@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T06:30:03.361Z",
+  "generated": "2026-06-15T06:36:06.198Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -172,13 +172,13 @@
         "Hougang Mall",
         "GENEO",
         "Tanah Merah Ferry Terminal",
-        "Waterway Point"
+        "Waterway Point",
+        "Eastpoint Mall"
       ],
       "outlets_outstanding": [
         "Compass One",
         "Rivervale Mall",
         "Causeway Point",
-        "Eastpoint Mall",
         "313 Somerset",
         "V Hotel Lavender",
         "120 Robinson",
@@ -299,6 +299,10 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "14:30"
+        },
+        "Eastpoint Mall": {
+          "by": "boss",
+          "time": "14:36"
         }
       },
       "problems": [],
