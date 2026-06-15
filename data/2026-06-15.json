@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T06:36:06.198Z",
+  "generated": "2026-06-15T06:40:52.829Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -173,7 +173,8 @@
         "GENEO",
         "Tanah Merah Ferry Terminal",
         "Waterway Point",
-        "Eastpoint Mall"
+        "Eastpoint Mall",
+        "JEM"
       ],
       "outlets_outstanding": [
         "Compass One",
@@ -187,7 +188,6 @@
         "Galaxis",
         "Mapletree Business City",
         "Westgate Tower",
-        "JEM",
         "Fairprice Hub",
         "Flavours @ NUS Uptown",
         "Parkway Parade",
@@ -303,6 +303,10 @@
         "Eastpoint Mall": {
           "by": "boss",
           "time": "14:36"
+        },
+        "JEM": {
+          "by": "palanivelumuthukumar",
+          "time": "14:40"
         }
       },
       "problems": [],
