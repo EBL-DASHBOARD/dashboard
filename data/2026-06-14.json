@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T09:16:10.098Z",
+  "generated": "2026-06-15T09:19:53.517Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 32,
+      "done": 33,
       "outlets_done": [
         "JKN",
         "DV",
@@ -454,12 +454,12 @@
         "NEX",
         "BOB",
         "KTB",
-        "NTP"
+        "NTP",
+        "PECC"
       ],
       "outlets_outstanding": [
         "CCP",
         "LOY",
-        "PECC",
         "CKCC",
         "TNC2",
         "VIVA",
@@ -603,6 +603,10 @@
         "NTP": {
           "by": "Sasi",
           "time": "17:16"
+        },
+        "PECC": {
+          "by": "viknesh3029n",
+          "time": "17:19"
         }
       },
       "problems": [],
