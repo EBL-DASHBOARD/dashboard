@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T07:51:15.848Z",
+  "generated": "2026-06-15T07:51:42.171Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 25,
+      "done": 26,
       "outlets_done": [
         "JKN",
         "DV",
@@ -447,7 +447,8 @@
         "BNV",
         "PAL",
         "GMM",
-        "ACV"
+        "ACV",
+        "KNX"
       ],
       "outlets_outstanding": [
         "CCP",
@@ -455,7 +456,6 @@
         "PECC",
         "CKCC",
         "TNC2",
-        "KNX",
         "VIVA",
         "BOB",
         "BHT",
@@ -574,6 +574,10 @@
         },
         "ACV": {
           "by": "Sudhakar",
+          "time": "15:51"
+        },
+        "KNX": {
+          "by": "viknesh3029n",
           "time": "15:51"
         }
       },
