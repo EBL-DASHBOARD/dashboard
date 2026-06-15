@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-15T11:32:34.593Z",
+  "generated": "2026-06-15T15:35:38.074Z",
   "groups": [
     {
       "id": "XH",
@@ -107,6 +107,118 @@
         "888 Plaza",
         "The Rail Mall",
         "Hillion Mall"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 29,
+      "am_total": 13,
+      "pm_total": 16,
+      "am_outlets": [
+        "KRC",
+        "IM",
+        "WXI",
+        "JKN",
+        "YTP",
+        "TGCC",
+        "BPP",
+        "KH",
+        "STC",
+        "MBA",
+        "TY",
+        "KIT",
+        "BS"
+      ],
+      "pm_outlets": [
+        "R3",
+        "AP4",
+        "R1",
+        "AP1",
+        "VIVA",
+        "SSC2",
+        "LTM",
+        "WNC",
+        "YS1",
+        "J9",
+        "MARS",
+        "HRC",
+        "PDD",
+        "FEN",
+        "WWP",
+        "KEB"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-2",
+          "am": [
+            "KRC",
+            "IM",
+            "WXI",
+            "JKN"
+          ],
+          "pm": [
+            "R3",
+            "AP4",
+            "R1",
+            "AP1",
+            "VIVA"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "YTP",
+            "TGCC",
+            "BPP",
+            "KH"
+          ],
+          "pm": [
+            "SSC2",
+            "LTM",
+            "WNC",
+            "YS1",
+            "J9",
+            "MARS"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "STC",
+            "MBA",
+            "TY",
+            "KIT",
+            "BS"
+          ],
+          "pm": [
+            "HRC",
+            "PDD",
+            "FEN",
+            "WWP",
+            "KEB"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "KRC",
+        "IM",
+        "WXI",
+        "JKN",
+        "YTP",
+        "TGCC",
+        "BPP",
+        "KH",
+        "STC",
+        "MBA",
+        "TY",
+        "KIT",
+        "BS"
       ],
       "done_detail": {},
       "problems": [],
