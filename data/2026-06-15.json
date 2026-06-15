@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T03:22:30.769Z",
+  "generated": "2026-06-15T03:29:03.552Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -163,7 +163,8 @@
         "Junction 9",
         "Zhongshan Mall",
         "Hillion Mall",
-        "Tampines Mart"
+        "Tampines Mart",
+        "Alexandra Technopark B"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -172,8 +173,7 @@
         "Hougang Mall",
         "AltitudeX",
         "ARTRA",
-        "GENEO",
-        "Alexandra Technopark B"
+        "GENEO"
       ],
       "done_detail": {
         "West Mall": {
@@ -243,6 +243,10 @@
         "Tampines Mart": {
           "by": "boss",
           "time": "11:22"
+        },
+        "Alexandra Technopark B": {
+          "by": "SEENU.C",
+          "time": "11:29"
         }
       },
       "problems": [],
