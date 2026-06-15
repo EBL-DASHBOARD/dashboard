@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T01:48:26.899Z",
+  "generated": "2026-06-15T01:51:24.268Z",
   "groups": [
     {
       "id": "XH",
@@ -145,20 +145,20 @@
           "pm": []
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
         "Woods Square",
         "Parc Point",
         "Tampines 1",
-        "Le Quest"
+        "Le Quest",
+        "The Woodleigh Mall"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "Royal Square",
         "Zhongshan Mall",
-        "The Woodleigh Mall",
         "UE Square",
         "Tampines Mart",
         "Century Square",
@@ -199,6 +199,10 @@
         "Le Quest": {
           "by": "Nur Azimah",
           "time": "09:48"
+        },
+        "The Woodleigh Mall": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "09:51"
         }
       },
       "problems": [],
