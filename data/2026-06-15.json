@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T03:46:19.141Z",
+  "generated": "2026-06-15T04:00:22.002Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -167,17 +167,21 @@
         "Alexandra Technopark B",
         "Dairy Farm Mall",
         "AltitudeX",
-        "ARTRA"
+        "ARTRA",
+        "UE Square"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
-        "UE Square",
         "Hougang Mall",
         "GENEO",
         "Compass One",
         "Rivervale Mall",
         "Causeway Point",
-        "Waterway Point"
+        "Waterway Point",
+        "Eastpoint Mall",
+        "313 Somerset",
+        "V Hotel Lavender",
+        "120 Robinson"
       ],
       "done_detail": {
         "West Mall": {
@@ -263,6 +267,10 @@
         "ARTRA": {
           "by": "palanivelumuthukumar",
           "time": "11:46"
+        },
+        "UE Square": {
+          "by": "boss",
+          "time": "12:00"
         }
       },
       "problems": [],
