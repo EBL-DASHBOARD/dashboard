@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T11:30:21.347Z",
+  "generated": "2026-06-15T11:46:49.848Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 47,
+      "done": 48,
       "outlets_done": [
         "JKN",
         "DV",
@@ -469,10 +469,10 @@
         "MARS",
         "AP4",
         "CCP",
-        "WWP"
+        "WWP",
+        "R3"
       ],
       "outlets_outstanding": [
-        "R3",
         "AP1"
       ],
       "done_detail": {
@@ -663,6 +663,10 @@
         "WWP": {
           "by": "Sasi",
           "time": "19:30"
+        },
+        "R3": {
+          "by": "Krishna",
+          "time": "19:46"
         }
       },
       "problems": [],
