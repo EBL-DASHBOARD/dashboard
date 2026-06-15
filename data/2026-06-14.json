@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T11:46:49.848Z",
+  "generated": "2026-06-15T12:31:15.114Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 48,
+      "done": 49,
       "outlets_done": [
         "JKN",
         "DV",
@@ -470,11 +470,10 @@
         "AP4",
         "CCP",
         "WWP",
-        "R3"
-      ],
-      "outlets_outstanding": [
+        "R3",
         "AP1"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "JKN": {
           "by": "Samy Kumar Meena",
@@ -667,6 +666,10 @@
         "R3": {
           "by": "Krishna",
           "time": "19:46"
+        },
+        "AP1": {
+          "by": "Krishna",
+          "time": "20:31"
         }
       },
       "problems": [],
