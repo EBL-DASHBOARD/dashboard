@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T09:19:53.517Z",
+  "generated": "2026-06-15T09:29:00.660Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 33,
+      "done": 34,
       "outlets_done": [
         "JKN",
         "DV",
@@ -455,7 +455,8 @@
         "BOB",
         "KTB",
         "NTP",
-        "PECC"
+        "PECC",
+        "R1"
       ],
       "outlets_outstanding": [
         "CCP",
@@ -470,7 +471,6 @@
         "AP2",
         "R3",
         "AP1",
-        "R1",
         "YS1",
         "MARS",
         "WIS"
@@ -607,6 +607,10 @@
         "PECC": {
           "by": "viknesh3029n",
           "time": "17:19"
+        },
+        "R1": {
+          "by": "Krishna",
+          "time": "17:29"
         }
       },
       "problems": [],
