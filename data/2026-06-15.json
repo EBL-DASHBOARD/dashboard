@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T08:21:35.711Z",
+  "generated": "2026-06-15T08:26:13.567Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 34,
+      "done": 35,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -180,10 +180,10 @@
         "313 Somerset",
         "Westgate Tower",
         "Mapletree Business City",
-        "Galaxis"
+        "Galaxis",
+        "Rivervale Mall"
       ],
       "outlets_outstanding": [
-        "Rivervale Mall",
         "Causeway Point",
         "V Hotel Lavender",
         "120 Robinson",
@@ -331,6 +331,10 @@
         "Galaxis": {
           "by": "Gopal",
           "time": "16:21"
+        },
+        "Rivervale Mall": {
+          "by": "Nur Azimah",
+          "time": "16:26"
         }
       },
       "problems": [],
