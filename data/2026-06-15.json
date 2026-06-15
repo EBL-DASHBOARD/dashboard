@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T02:32:58.490Z",
+  "generated": "2026-06-15T02:34:39.938Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -157,7 +157,8 @@
         "Ngee Ann Polytechnic Block 1",
         "Royal Square",
         "Northpoint City",
-        "Century Square"
+        "Century Square",
+        "Vivocity"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -168,7 +169,6 @@
         "Hillion Mall",
         "Hougang Mall",
         "Junction 9",
-        "Vivocity",
         "AltitudeX",
         "ARTRA",
         "GENEO",
@@ -219,6 +219,10 @@
         "Century Square": {
           "by": "boss",
           "time": "10:32"
+        },
+        "Vivocity": {
+          "by": "palanivelumuthukumar",
+          "time": "10:34"
         }
       },
       "problems": [],
