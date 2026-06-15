@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T01:14:32.206Z",
+  "generated": "2026-06-15T01:20:42.928Z",
   "groups": [
     {
       "id": "XH",
@@ -421,13 +421,14 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "JKN",
         "DV",
         "JP",
         "KH",
-        "CCKS"
+        "CCKS",
+        "USQ"
       ],
       "outlets_outstanding": [
         "CT",
@@ -441,7 +442,6 @@
         "KIT",
         "KLP",
         "SHP",
-        "USQ",
         "ART",
         "VIVO",
         "TIO",
@@ -495,6 +495,10 @@
         "CCKS": {
           "by": "Mani 6 EBL",
           "time": "09:14"
+        },
+        "USQ": {
+          "by": "Sasi",
+          "time": "09:20"
         }
       },
       "problems": [],
