@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T02:24:02.344Z",
+  "generated": "2026-06-15T02:32:58.490Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 10,
+      "done": 11,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -156,14 +156,14 @@
         "The Woodleigh Mall",
         "Ngee Ann Polytechnic Block 1",
         "Royal Square",
-        "Northpoint City"
+        "Northpoint City",
+        "Century Square"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "Zhongshan Mall",
         "UE Square",
         "Tampines Mart",
-        "Century Square",
         "Dairy Farm Mall",
         "Hillion Mall",
         "Hougang Mall",
@@ -215,6 +215,10 @@
         "Northpoint City": {
           "by": "```Muthukumar```",
           "time": "10:24"
+        },
+        "Century Square": {
+          "by": "boss",
+          "time": "10:32"
         }
       },
       "problems": [],
