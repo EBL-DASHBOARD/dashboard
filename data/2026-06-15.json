@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T06:40:52.829Z",
+  "generated": "2026-06-15T07:17:02.755Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -174,7 +174,8 @@
         "Tanah Merah Ferry Terminal",
         "Waterway Point",
         "Eastpoint Mall",
-        "JEM"
+        "JEM",
+        "Parkway Parade"
       ],
       "outlets_outstanding": [
         "Compass One",
@@ -190,7 +191,6 @@
         "Westgate Tower",
         "Fairprice Hub",
         "Flavours @ NUS Uptown",
-        "Parkway Parade",
         "Punggol Coast Mall",
         "The Poiz Centre",
         "New Tech Park"
@@ -307,6 +307,10 @@
         "JEM": {
           "by": "palanivelumuthukumar",
           "time": "14:40"
+        },
+        "Parkway Parade": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "15:17"
         }
       },
       "problems": [],
