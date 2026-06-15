@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T02:59:21.761Z",
+  "generated": "2026-06-15T03:03:28.258Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -160,11 +160,11 @@
         "Century Square",
         "Vivocity",
         "63 Pagoda Street",
-        "Junction 9"
+        "Junction 9",
+        "Zhongshan Mall"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
-        "Zhongshan Mall",
         "UE Square",
         "Tampines Mart",
         "Dairy Farm Mall",
@@ -231,6 +231,10 @@
         "Junction 9": {
           "by": "```Muthukumar```",
           "time": "10:59"
+        },
+        "Zhongshan Mall": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "11:03"
         }
       },
       "problems": [],
