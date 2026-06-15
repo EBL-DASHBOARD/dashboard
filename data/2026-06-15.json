@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T01:55:30.438Z",
+  "generated": "2026-06-15T02:09:20.111Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -154,11 +154,11 @@
         "Tampines 1",
         "Le Quest",
         "The Woodleigh Mall",
-        "Ngee Ann Polytechnic Block 1"
+        "Ngee Ann Polytechnic Block 1",
+        "Royal Square"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
-        "Royal Square",
         "Zhongshan Mall",
         "UE Square",
         "Tampines Mart",
@@ -207,6 +207,10 @@
         "Ngee Ann Polytechnic Block 1": {
           "by": "SEENU.C",
           "time": "09:55"
+        },
+        "Royal Square": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "10:09"
         }
       },
       "problems": [],
