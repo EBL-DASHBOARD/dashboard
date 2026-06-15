@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T08:26:10.051Z",
+  "generated": "2026-06-15T08:57:25.235Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "JKN",
         "DV",
@@ -451,7 +451,8 @@
         "KNX",
         "BHT",
         "R4",
-        "NEX"
+        "NEX",
+        "BOB"
       ],
       "outlets_outstanding": [
         "CCP",
@@ -460,7 +461,6 @@
         "CKCC",
         "TNC2",
         "VIVA",
-        "BOB",
         "AP4",
         "EPT",
         "KEB",
@@ -591,6 +591,10 @@
         "NEX": {
           "by": "Sasi",
           "time": "16:26"
+        },
+        "BOB": {
+          "by": "Samy Kumar Meena",
+          "time": "16:57"
         }
       },
       "problems": [],
