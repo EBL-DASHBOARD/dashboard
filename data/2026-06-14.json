@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T01:10:22.955Z",
+  "generated": "2026-06-15T01:14:32.206Z",
   "groups": [
     {
       "id": "XH",
@@ -421,12 +421,13 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "JKN",
         "DV",
         "JP",
-        "KH"
+        "KH",
+        "CCKS"
       ],
       "outlets_outstanding": [
         "CT",
@@ -445,7 +446,6 @@
         "VIVO",
         "TIO",
         "HV2",
-        "CCKS",
         "TRM",
         "CCP",
         "LOY",
@@ -491,6 +491,10 @@
         "KH": {
           "by": "Samy Kumar Meena",
           "time": "09:10"
+        },
+        "CCKS": {
+          "by": "Mani 6 EBL",
+          "time": "09:14"
         }
       },
       "problems": [],
