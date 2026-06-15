@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-14T14:30:41.706Z",
+  "generated": "2026-06-15T00:22:16.489Z",
   "groups": [
     {
       "id": "XH",
@@ -421,8 +421,10 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "JKN"
+      ],
       "outlets_outstanding": [
         "CT",
         "KRC",
@@ -430,7 +432,6 @@
         "BNV",
         "CL2",
         "IM",
-        "JKN",
         "WSM",
         "BPP",
         "KH",
@@ -474,7 +475,12 @@
         "KTB",
         "ACV"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "JKN": {
+          "by": "Samy Kumar Meena",
+          "time": "08:22"
+        }
+      },
       "problems": [],
       "customers": null
     }
