@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T10:15:58.349Z",
+  "generated": "2026-06-15T10:27:29.494Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 39,
+      "done": 40,
       "outlets_done": [
         "JKN",
         "DV",
@@ -461,13 +461,13 @@
         "VIVA",
         "WIS",
         "YS1",
-        "CKCC"
+        "CKCC",
+        "EPT"
       ],
       "outlets_outstanding": [
         "CCP",
         "LOY",
         "AP4",
-        "EPT",
         "KEB",
         "WWP",
         "AP2",
@@ -631,6 +631,10 @@
         "CKCC": {
           "by": "viknesh3029n",
           "time": "18:15"
+        },
+        "EPT": {
+          "by": "Samy Kumar Meena",
+          "time": "18:27"
         }
       },
       "problems": [],
