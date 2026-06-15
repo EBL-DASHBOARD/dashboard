@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T01:51:24.268Z",
+  "generated": "2026-06-15T01:55:30.438Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -153,7 +153,8 @@
         "Parc Point",
         "Tampines 1",
         "Le Quest",
-        "The Woodleigh Mall"
+        "The Woodleigh Mall",
+        "Ngee Ann Polytechnic Block 1"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -172,7 +173,6 @@
         "ARTRA",
         "GENEO",
         "63 Pagoda Street",
-        "Ngee Ann Polytechnic Block 1",
         "Alexandra Technopark B"
       ],
       "done_detail": {
@@ -203,6 +203,10 @@
         "The Woodleigh Mall": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "09:51"
+        },
+        "Ngee Ann Polytechnic Block 1": {
+          "by": "SEENU.C",
+          "time": "09:55"
         }
       },
       "problems": [],
