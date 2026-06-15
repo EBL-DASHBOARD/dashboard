@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T07:42:07.444Z",
+  "generated": "2026-06-15T07:51:15.848Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "JKN",
         "DV",
@@ -446,7 +446,8 @@
         "CT",
         "BNV",
         "PAL",
-        "GMM"
+        "GMM",
+        "ACV"
       ],
       "outlets_outstanding": [
         "CCP",
@@ -472,8 +473,7 @@
         "YS1",
         "MARS",
         "WIS",
-        "KTB",
-        "ACV"
+        "KTB"
       ],
       "done_detail": {
         "JKN": {
@@ -571,6 +571,10 @@
         "GMM": {
           "by": "Sasi",
           "time": "15:42"
+        },
+        "ACV": {
+          "by": "Sudhakar",
+          "time": "15:51"
         }
       },
       "problems": [],
