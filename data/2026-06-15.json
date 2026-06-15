@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T04:03:03.495Z",
+  "generated": "2026-06-15T04:05:45.190Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -169,11 +169,11 @@
         "AltitudeX",
         "ARTRA",
         "UE Square",
-        "Hougang Mall"
+        "Hougang Mall",
+        "GENEO"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
-        "GENEO",
         "Compass One",
         "Rivervale Mall",
         "Causeway Point",
@@ -185,7 +185,11 @@
         "Chinatown Point",
         "Icon Link",
         "Galaxis",
-        "Mapletree Business City"
+        "Mapletree Business City",
+        "Westgate Tower",
+        "JEM",
+        "Fairprice Hub",
+        "Flavours @ NUS Uptown"
       ],
       "done_detail": {
         "West Mall": {
@@ -279,6 +283,10 @@
         "Hougang Mall": {
           "by": "```Muthukumar```",
           "time": "12:03"
+        },
+        "GENEO": {
+          "by": "palanivelumuthukumar",
+          "time": "12:05"
         }
       },
       "problems": [],
