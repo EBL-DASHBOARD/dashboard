@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T04:06:18.798Z",
+  "generated": "2026-06-15T04:19:41.899Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "JKN",
         "DV",
@@ -441,11 +441,11 @@
         "KIT",
         "IM",
         "KLP",
-        "VIVO"
+        "VIVO",
+        "BQ"
       ],
       "outlets_outstanding": [
         "CT",
-        "BQ",
         "BNV",
         "CCP",
         "LOY",
@@ -551,6 +551,10 @@
         "VIVO": {
           "by": "Krishna",
           "time": "12:06"
+        },
+        "BQ": {
+          "by": "viknesh3029n",
+          "time": "12:19"
         }
       },
       "problems": [],
