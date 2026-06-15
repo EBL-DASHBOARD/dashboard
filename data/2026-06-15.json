@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T01:08:17.991Z",
+  "generated": "2026-06-15T01:15:59.483Z",
   "groups": [
     {
       "id": "XH",
@@ -145,9 +145,10 @@
           "pm": []
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "West Mall"
+        "West Mall",
+        "HarbourFront Tower 1"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -167,7 +168,6 @@
         "Woods Square",
         "Vivocity",
         "AltitudeX",
-        "HarbourFront Tower 1",
         "ARTRA",
         "GENEO",
         "63 Pagoda Street",
@@ -179,6 +179,10 @@
         "West Mall": {
           "by": "🚬Let's Chill🚬",
           "time": "09:08"
+        },
+        "HarbourFront Tower 1": {
+          "by": "palanivelumuthukumar",
+          "time": "09:15"
         }
       },
       "problems": [],
