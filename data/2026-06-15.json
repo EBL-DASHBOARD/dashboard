@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T07:32:54.092Z",
+  "generated": "2026-06-15T07:36:59.420Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 30,
+      "done": 31,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -176,12 +176,12 @@
         "Eastpoint Mall",
         "JEM",
         "Parkway Parade",
-        "Compass One"
+        "Compass One",
+        "313 Somerset"
       ],
       "outlets_outstanding": [
         "Rivervale Mall",
         "Causeway Point",
-        "313 Somerset",
         "V Hotel Lavender",
         "120 Robinson",
         "Chinatown Point",
@@ -315,6 +315,10 @@
         "Compass One": {
           "by": "Nur Azimah",
           "time": "15:32"
+        },
+        "313 Somerset": {
+          "by": "boss",
+          "time": "15:36"
         }
       },
       "problems": [],
