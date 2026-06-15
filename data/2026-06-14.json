@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T08:57:25.235Z",
+  "generated": "2026-06-15T09:05:45.287Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 31,
       "outlets_done": [
         "JKN",
         "DV",
@@ -452,7 +452,8 @@
         "BHT",
         "R4",
         "NEX",
-        "BOB"
+        "BOB",
+        "KTB"
       ],
       "outlets_outstanding": [
         "CCP",
@@ -472,8 +473,7 @@
         "R1",
         "YS1",
         "MARS",
-        "WIS",
-        "KTB"
+        "WIS"
       ],
       "done_detail": {
         "JKN": {
@@ -595,6 +595,10 @@
         "BOB": {
           "by": "Samy Kumar Meena",
           "time": "16:57"
+        },
+        "KTB": {
+          "by": "Sudhakar",
+          "time": "17:05"
         }
       },
       "problems": [],
