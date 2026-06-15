@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T02:45:59.748Z",
+  "generated": "2026-06-15T03:00:49.388Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "JKN",
         "DV",
@@ -435,14 +435,14 @@
         "CL2",
         "ART",
         "SHP",
-        "KRC"
+        "KRC",
+        "WSM"
       ],
       "outlets_outstanding": [
         "CT",
         "BQ",
         "BNV",
         "IM",
-        "WSM",
         "KIT",
         "KLP",
         "VIVO",
@@ -527,6 +527,10 @@
         "KRC": {
           "by": "viknesh3029n",
           "time": "10:45"
+        },
+        "WSM": {
+          "by": "Samy Kumar Meena",
+          "time": "11:00"
         }
       },
       "problems": [],
