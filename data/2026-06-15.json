@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T07:17:02.755Z",
+  "generated": "2026-06-15T07:32:54.092Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -175,10 +175,10 @@
         "Waterway Point",
         "Eastpoint Mall",
         "JEM",
-        "Parkway Parade"
+        "Parkway Parade",
+        "Compass One"
       ],
       "outlets_outstanding": [
-        "Compass One",
         "Rivervale Mall",
         "Causeway Point",
         "313 Somerset",
@@ -311,6 +311,10 @@
         "Parkway Parade": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "15:17"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "15:32"
         }
       },
       "problems": [],
