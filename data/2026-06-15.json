@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T04:00:24.064Z",
+  "generated": "2026-06-15T04:03:02.088Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -168,11 +168,11 @@
         "Dairy Farm Mall",
         "AltitudeX",
         "ARTRA",
-        "UE Square"
+        "UE Square",
+        "Hougang Mall"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
-        "Hougang Mall",
         "GENEO",
         "Compass One",
         "Rivervale Mall",
@@ -181,7 +181,11 @@
         "Eastpoint Mall",
         "313 Somerset",
         "V Hotel Lavender",
-        "120 Robinson"
+        "120 Robinson",
+        "Chinatown Point",
+        "Icon Link",
+        "Galaxis",
+        "Mapletree Business City"
       ],
       "done_detail": {
         "West Mall": {
@@ -271,6 +275,10 @@
         "UE Square": {
           "by": "boss",
           "time": "12:00"
+        },
+        "Hougang Mall": {
+          "by": "```Muthukumar```",
+          "time": "12:03"
         }
       },
       "problems": [],
