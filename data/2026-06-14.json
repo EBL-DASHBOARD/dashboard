@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T07:51:42.171Z",
+  "generated": "2026-06-15T07:52:43.696Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "JKN",
         "DV",
@@ -448,7 +448,8 @@
         "PAL",
         "GMM",
         "ACV",
-        "KNX"
+        "KNX",
+        "BHT"
       ],
       "outlets_outstanding": [
         "CCP",
@@ -458,7 +459,6 @@
         "TNC2",
         "VIVA",
         "BOB",
-        "BHT",
         "AP4",
         "EPT",
         "NEX",
@@ -579,6 +579,10 @@
         "KNX": {
           "by": "viknesh3029n",
           "time": "15:51"
+        },
+        "BHT": {
+          "by": "Samy Kumar Meena",
+          "time": "15:52"
         }
       },
       "problems": [],
