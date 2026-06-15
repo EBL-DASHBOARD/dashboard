@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T01:16:59.949Z",
+  "generated": "2026-06-15T01:18:33.560Z",
   "groups": [
     {
       "id": "XH",
@@ -145,11 +145,12 @@
           "pm": []
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
-        "Woods Square"
+        "Woods Square",
+        "Parc Point"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -172,7 +173,6 @@
         "GENEO",
         "63 Pagoda Street",
         "Ngee Ann Polytechnic Block 1",
-        "Parc Point",
         "Alexandra Technopark B"
       ],
       "done_detail": {
@@ -187,6 +187,10 @@
         "Woods Square": {
           "by": "Gopal",
           "time": "09:16"
+        },
+        "Parc Point": {
+          "by": "SEENU.C",
+          "time": "09:18"
         }
       },
       "problems": [],
