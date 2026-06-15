@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T03:02:30.556Z",
+  "generated": "2026-06-15T03:10:22.146Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "JKN",
         "DV",
@@ -437,14 +437,14 @@
         "SHP",
         "KRC",
         "WSM",
-        "TIO"
+        "TIO",
+        "KIT"
       ],
       "outlets_outstanding": [
         "CT",
         "BQ",
         "BNV",
         "IM",
-        "KIT",
         "KLP",
         "VIVO",
         "CCP",
@@ -535,6 +535,10 @@
         "TIO": {
           "by": "Krishna",
           "time": "11:02"
+        },
+        "KIT": {
+          "by": "Sasi",
+          "time": "11:10"
         }
       },
       "problems": [],
