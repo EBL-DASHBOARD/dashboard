@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T02:17:29.225Z",
+  "generated": "2026-06-15T02:45:59.748Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "JKN",
         "DV",
@@ -434,11 +434,11 @@
         "BPP",
         "CL2",
         "ART",
-        "SHP"
+        "SHP",
+        "KRC"
       ],
       "outlets_outstanding": [
         "CT",
-        "KRC",
         "BQ",
         "BNV",
         "IM",
@@ -523,6 +523,10 @@
         "SHP": {
           "by": "Sasi",
           "time": "10:17"
+        },
+        "KRC": {
+          "by": "viknesh3029n",
+          "time": "10:45"
         }
       },
       "problems": [],
