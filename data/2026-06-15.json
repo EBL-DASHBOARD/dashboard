@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T09:02:46.027Z",
+  "generated": "2026-06-15T09:03:24.136Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 38,
+      "done": 39,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -184,10 +184,10 @@
         "Rivervale Mall",
         "Fairprice Hub",
         "Icon Link",
-        "Flavours @ NUS Uptown"
+        "Flavours @ NUS Uptown",
+        "Causeway Point"
       ],
       "outlets_outstanding": [
-        "Causeway Point",
         "V Hotel Lavender",
         "120 Robinson",
         "Chinatown Point",
@@ -347,6 +347,10 @@
         "Flavours @ NUS Uptown": {
           "by": "palanivelumuthukumar",
           "time": "17:02"
+        },
+        "Causeway Point": {
+          "by": "Nur Azimah",
+          "time": "17:03"
         }
       },
       "problems": [],
