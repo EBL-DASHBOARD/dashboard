@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T01:51:18.879Z",
+  "generated": "2026-06-15T01:52:04.441Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "JKN",
         "DV",
@@ -429,7 +429,8 @@
         "KH",
         "CCKS",
         "USQ",
-        "TRM"
+        "TRM",
+        "HV2"
       ],
       "outlets_outstanding": [
         "CT",
@@ -446,7 +447,6 @@
         "ART",
         "VIVO",
         "TIO",
-        "HV2",
         "CCP",
         "LOY",
         "PECC",
@@ -503,6 +503,10 @@
         "TRM": {
           "by": "Mani 6 EBL",
           "time": "09:51"
+        },
+        "HV2": {
+          "by": "Mani 6 EBL",
+          "time": "09:52"
         }
       },
       "problems": [],
