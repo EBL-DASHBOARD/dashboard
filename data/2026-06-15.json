@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T02:09:20.111Z",
+  "generated": "2026-06-15T02:24:02.344Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -155,7 +155,8 @@
         "Le Quest",
         "The Woodleigh Mall",
         "Ngee Ann Polytechnic Block 1",
-        "Royal Square"
+        "Royal Square",
+        "Northpoint City"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -167,7 +168,6 @@
         "Hillion Mall",
         "Hougang Mall",
         "Junction 9",
-        "Northpoint City",
         "Vivocity",
         "AltitudeX",
         "ARTRA",
@@ -211,6 +211,10 @@
         "Royal Square": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "10:09"
+        },
+        "Northpoint City": {
+          "by": "```Muthukumar```",
+          "time": "10:24"
         }
       },
       "problems": [],
