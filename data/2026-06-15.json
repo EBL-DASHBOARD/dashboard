@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T07:40:57.593Z",
+  "generated": "2026-06-15T07:50:21.519Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 32,
+      "done": 33,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -178,7 +178,8 @@
         "Parkway Parade",
         "Compass One",
         "313 Somerset",
-        "Westgate Tower"
+        "Westgate Tower",
+        "Mapletree Business City"
       ],
       "outlets_outstanding": [
         "Rivervale Mall",
@@ -188,7 +189,6 @@
         "Chinatown Point",
         "Icon Link",
         "Galaxis",
-        "Mapletree Business City",
         "Fairprice Hub",
         "Flavours @ NUS Uptown",
         "Punggol Coast Mall",
@@ -323,6 +323,10 @@
         "Westgate Tower": {
           "by": "palanivelumuthukumar",
           "time": "15:40"
+        },
+        "Mapletree Business City": {
+          "by": "Gopal",
+          "time": "15:50"
         }
       },
       "problems": [],
