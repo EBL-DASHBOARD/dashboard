@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T09:03:26.133Z",
+  "generated": "2026-06-15T09:24:10.228Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 41,
+      "done": 42,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -187,12 +187,12 @@
         "Flavours @ NUS Uptown",
         "Causeway Point",
         "Punggol Coast Mall",
-        "New Tech Park"
+        "New Tech Park",
+        "Chinatown Point"
       ],
       "outlets_outstanding": [
         "V Hotel Lavender",
         "120 Robinson",
-        "Chinatown Point",
         "The Poiz Centre"
       ],
       "done_detail": {
@@ -359,6 +359,10 @@
         "New Tech Park": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "17:03"
+        },
+        "Chinatown Point": {
+          "by": "Gopal",
+          "time": "17:24"
         }
       },
       "problems": [],
