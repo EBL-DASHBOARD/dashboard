@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T09:03:24.136Z",
+  "generated": "2026-06-15T09:03:26.133Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 39,
+      "done": 41,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -185,15 +185,15 @@
         "Fairprice Hub",
         "Icon Link",
         "Flavours @ NUS Uptown",
-        "Causeway Point"
+        "Causeway Point",
+        "Punggol Coast Mall",
+        "New Tech Park"
       ],
       "outlets_outstanding": [
         "V Hotel Lavender",
         "120 Robinson",
         "Chinatown Point",
-        "Punggol Coast Mall",
-        "The Poiz Centre",
-        "New Tech Park"
+        "The Poiz Centre"
       ],
       "done_detail": {
         "West Mall": {
@@ -350,6 +350,14 @@
         },
         "Causeway Point": {
           "by": "Nur Azimah",
+          "time": "17:03"
+        },
+        "Punggol Coast Mall": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "17:03"
+        },
+        "New Tech Park": {
+          "by": "#நVin🇮🇹🚀🔥",
           "time": "17:03"
         }
       },
