@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-06-15T02:35:48.941Z",
+  "generated": "2026-06-15T02:59:21.761Z",
   "groups": [
     {
       "id": "XH",
@@ -145,7 +145,7 @@
           "pm": []
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -159,7 +159,8 @@
         "Northpoint City",
         "Century Square",
         "Vivocity",
-        "63 Pagoda Street"
+        "63 Pagoda Street",
+        "Junction 9"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -169,7 +170,6 @@
         "Dairy Farm Mall",
         "Hillion Mall",
         "Hougang Mall",
-        "Junction 9",
         "AltitudeX",
         "ARTRA",
         "GENEO",
@@ -227,6 +227,10 @@
         "63 Pagoda Street": {
           "by": "SEENU.C",
           "time": "10:35"
+        },
+        "Junction 9": {
+          "by": "```Muthukumar```",
+          "time": "10:59"
         }
       },
       "problems": [],
