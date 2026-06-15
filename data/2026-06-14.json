@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T00:35:43.392Z",
+  "generated": "2026-06-15T00:51:27.251Z",
   "groups": [
     {
       "id": "XH",
@@ -421,10 +421,11 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "JKN",
-        "DV"
+        "DV",
+        "JP"
       ],
       "outlets_outstanding": [
         "CT",
@@ -443,7 +444,6 @@
         "ART",
         "VIVO",
         "TIO",
-        "JP",
         "HV2",
         "CCKS",
         "TRM",
@@ -483,6 +483,10 @@
         "DV": {
           "by": "Sasi",
           "time": "08:35"
+        },
+        "JP": {
+          "by": "Krishna",
+          "time": "08:51"
         }
       },
       "problems": [],
