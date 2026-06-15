@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T09:46:58.194Z",
+  "generated": "2026-06-15T10:08:28.555Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 36,
+      "done": 38,
       "outlets_done": [
         "JKN",
         "DV",
@@ -458,7 +458,9 @@
         "PECC",
         "R1",
         "TNC2",
-        "VIVA"
+        "VIVA",
+        "WIS",
+        "YS1"
       ],
       "outlets_outstanding": [
         "CCP",
@@ -471,9 +473,7 @@
         "AP2",
         "R3",
         "AP1",
-        "YS1",
-        "MARS",
-        "WIS"
+        "MARS"
       ],
       "done_detail": {
         "JKN": {
@@ -619,6 +619,14 @@
         "VIVA": {
           "by": "Samy Kumar Meena",
           "time": "17:46"
+        },
+        "WIS": {
+          "by": "YAAKESH",
+          "time": "18:08"
+        },
+        "YS1": {
+          "by": "YAAKESH",
+          "time": "18:08"
         }
       },
       "problems": [],
