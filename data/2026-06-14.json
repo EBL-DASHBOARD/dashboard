@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated": "2026-06-15T10:30:07.303Z",
+  "generated": "2026-06-15T10:54:50.944Z",
   "groups": [
     {
       "id": "XH",
@@ -421,7 +421,7 @@
           ]
         }
       ],
-      "done": 41,
+      "done": 42,
       "outlets_done": [
         "JKN",
         "DV",
@@ -463,14 +463,14 @@
         "YS1",
         "CKCC",
         "EPT",
-        "KEB"
+        "KEB",
+        "AP2"
       ],
       "outlets_outstanding": [
         "CCP",
         "LOY",
         "AP4",
         "WWP",
-        "AP2",
         "R3",
         "AP1",
         "MARS"
@@ -639,6 +639,10 @@
         "KEB": {
           "by": "Sasi",
           "time": "18:30"
+        },
+        "AP2": {
+          "by": "Krishna",
+          "time": "18:54"
         }
       },
       "problems": [],
