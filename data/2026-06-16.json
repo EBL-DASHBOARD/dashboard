@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-16T09:46:52.600Z",
+  "generated": "2026-06-16T09:48:38.890Z",
   "groups": [
     {
       "id": "XH",
@@ -89,7 +89,7 @@
           ]
         }
       ],
-      "done": 25,
+      "done": 27,
       "outlets_done": [
         "The Rail Mall",
         "Suntec City",
@@ -115,12 +115,11 @@
         "Causeway Point",
         "Compass One",
         "Citylink",
-        "One Raffles Link"
-      ],
-      "outlets_outstanding": [
+        "One Raffles Link",
         "100 AM Mall",
         "Guoco Tower"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "The Rail Mall": {
           "by": "Nur Azimah",
@@ -221,6 +220,14 @@
         "One Raffles Link": {
           "by": "jvparthiban7",
           "time": "17:46"
+        },
+        "100 AM Mall": {
+          "by": "boss",
+          "time": "17:48"
+        },
+        "Guoco Tower": {
+          "by": "boss",
+          "time": "17:48"
         }
       },
       "problems": [],
