@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-15T21:34:49.216Z",
+  "generated": "2026-06-16T00:29:50.142Z",
   "groups": [
     {
       "id": "XH",
@@ -203,14 +203,15 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "YTP"
+      ],
       "outlets_outstanding": [
         "KRC",
         "IM",
         "WXI",
         "JKN",
-        "YTP",
         "TGCC",
         "BPP",
         "KH",
@@ -220,7 +221,12 @@
         "KIT",
         "BS"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "YTP": {
+          "by": "Samy Kumar Meena",
+          "time": "08:29"
+        }
+      },
       "problems": [],
       "customers": null
     }
