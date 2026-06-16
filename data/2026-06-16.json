@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-16T02:33:27.327Z",
+  "generated": "2026-06-16T02:34:16.467Z",
   "groups": [
     {
       "id": "XH",
@@ -89,7 +89,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "The Rail Mall",
         "Suntec City",
@@ -97,10 +97,10 @@
         "Hillion Mall",
         "Marina One",
         "Punggol Plaza",
-        "Junction 8"
+        "Junction 8",
+        "Marina Square"
       ],
       "outlets_outstanding": [
-        "Marina Square",
         "77 Robinson",
         "9 Penang Road",
         "Pasir Ris Mall",
@@ -137,6 +137,10 @@
         "Junction 8": {
           "by": "Nur Azimah",
           "time": "10:33"
+        },
+        "Marina Square": {
+          "by": "boss",
+          "time": "10:34"
         }
       },
       "problems": [],
