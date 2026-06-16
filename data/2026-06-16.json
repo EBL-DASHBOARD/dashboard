@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-16T07:58:03.593Z",
+  "generated": "2026-06-16T08:00:08.293Z",
   "groups": [
     {
       "id": "XH",
@@ -89,7 +89,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 20,
       "outlets_done": [
         "The Rail Mall",
         "Suntec City",
@@ -108,14 +108,14 @@
         "888 Plaza",
         "Downtown East",
         "Waterway Point",
-        "GRID"
+        "GRID",
+        "Plaza Singapura",
+        "Lazada One"
       ],
       "outlets_outstanding": [
         "Duo Galleria",
         "100 AM Mall",
         "Guoco Tower",
-        "Plaza Singapura",
-        "Lazada One",
         "Citylink",
         "One Raffles Link",
         "Causeway Point",
@@ -193,6 +193,14 @@
         "GRID": {
           "by": "boss",
           "time": "15:33"
+        },
+        "Plaza Singapura": {
+          "by": "jvparthiban7",
+          "time": "16:00"
+        },
+        "Lazada One": {
+          "by": "jvparthiban7",
+          "time": "16:00"
         }
       },
       "problems": [],
