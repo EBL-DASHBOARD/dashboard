@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-16T07:32:24.641Z",
+  "generated": "2026-06-16T07:33:10.390Z",
   "groups": [
     {
       "id": "XH",
@@ -89,7 +89,7 @@
           ]
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "The Rail Mall",
         "Suntec City",
@@ -107,10 +107,10 @@
         "South Beach Tower",
         "888 Plaza",
         "Downtown East",
-        "Waterway Point"
+        "Waterway Point",
+        "GRID"
       ],
       "outlets_outstanding": [
-        "GRID",
         "Duo Galleria",
         "100 AM Mall",
         "Guoco Tower",
@@ -189,6 +189,10 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "15:32"
+        },
+        "GRID": {
+          "by": "boss",
+          "time": "15:33"
         }
       },
       "problems": [],
