@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-16T08:07:57.319Z",
+  "generated": "2026-06-16T08:20:04.329Z",
   "groups": [
     {
       "id": "XH",
@@ -301,7 +301,7 @@
           ]
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -319,7 +319,8 @@
         "MARS",
         "VIVA",
         "KEB",
-        "WNC"
+        "WNC",
+        "FEN"
       ],
       "outlets_outstanding": [
         "R3",
@@ -332,7 +333,6 @@
         "J9",
         "HRC",
         "PDD",
-        "FEN",
         "WWP"
       ],
       "done_detail": {
@@ -403,6 +403,10 @@
         "WNC": {
           "by": "Samy Kumar Meena",
           "time": "15:58"
+        },
+        "FEN": {
+          "by": "Sasi",
+          "time": "16:20"
         }
       },
       "problems": [],
