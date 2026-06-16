@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-16T00:48:51.110Z",
+  "generated": "2026-06-16T01:01:43.329Z",
   "groups": [
     {
       "id": "XH",
@@ -89,12 +89,12 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "The Rail Mall"
+        "The Rail Mall",
+        "Suntec City"
       ],
       "outlets_outstanding": [
-        "Suntec City",
         "Marina One",
         "Marina Square",
         "77 Robinson",
@@ -113,6 +113,10 @@
         "The Rail Mall": {
           "by": "Nur Azimah",
           "time": "08:30"
+        },
+        "Suntec City": {
+          "by": "boss",
+          "time": "09:01"
         }
       },
       "problems": [],
