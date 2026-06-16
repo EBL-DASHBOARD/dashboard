@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-16T10:11:52.487Z",
+  "generated": "2026-06-16T10:40:06.304Z",
   "groups": [
     {
       "id": "XH",
@@ -324,7 +324,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -349,10 +349,10 @@
         "WWP",
         "YS1",
         "R1",
-        "PDD"
+        "PDD",
+        "R3"
       ],
       "outlets_outstanding": [
-        "R3",
         "AP1",
         "LTM",
         "J9",
@@ -454,6 +454,10 @@
         "PDD": {
           "by": "Sasi",
           "time": "18:11"
+        },
+        "R3": {
+          "by": "Krishna",
+          "time": "18:40"
         }
       },
       "problems": [],
