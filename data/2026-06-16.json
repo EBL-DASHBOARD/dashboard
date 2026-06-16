@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-16T01:31:11.754Z",
+  "generated": "2026-06-16T01:34:39.870Z",
   "groups": [
     {
       "id": "XH",
@@ -89,11 +89,12 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "The Rail Mall",
         "Suntec City",
-        "Institute of Mental Health"
+        "Institute of Mental Health",
+        "Hillion Mall"
       ],
       "outlets_outstanding": [
         "Marina One",
@@ -106,8 +107,7 @@
         "South Beach Tower",
         "The Woodleigh Mall",
         "Junction 8",
-        "888 Plaza",
-        "Hillion Mall"
+        "888 Plaza"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -121,6 +121,10 @@
         "Institute of Mental Health": {
           "by": "jvparthiban7",
           "time": "09:28"
+        },
+        "Hillion Mall": {
+          "by": "Nur Azimah",
+          "time": "09:34"
         }
       },
       "problems": [],
