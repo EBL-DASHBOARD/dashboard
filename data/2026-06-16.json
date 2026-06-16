@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-16T03:03:23.291Z",
+  "generated": "2026-06-16T03:04:31.602Z",
   "groups": [
     {
       "id": "XH",
@@ -89,7 +89,7 @@
           ]
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "The Rail Mall",
         "Suntec City",
@@ -99,14 +99,14 @@
         "Punggol Plaza",
         "Junction 8",
         "Marina Square",
-        "Pasir Ris Mall"
+        "Pasir Ris Mall",
+        "The Woodleigh Mall"
       ],
       "outlets_outstanding": [
         "77 Robinson",
         "9 Penang Road",
         "White Sands",
         "South Beach Tower",
-        "The Woodleigh Mall",
         "888 Plaza"
       ],
       "done_detail": {
@@ -145,6 +145,10 @@
         "Pasir Ris Mall": {
           "by": "jvparthiban7",
           "time": "11:03"
+        },
+        "The Woodleigh Mall": {
+          "by": "Nur Azimah",
+          "time": "11:04"
         }
       },
       "problems": [],
