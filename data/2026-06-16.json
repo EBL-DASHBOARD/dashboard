@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-16T01:34:39.870Z",
+  "generated": "2026-06-16T02:06:48.654Z",
   "groups": [
     {
       "id": "XH",
@@ -89,15 +89,15 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "The Rail Mall",
         "Suntec City",
         "Institute of Mental Health",
-        "Hillion Mall"
+        "Hillion Mall",
+        "Marina One"
       ],
       "outlets_outstanding": [
-        "Marina One",
         "Marina Square",
         "77 Robinson",
         "9 Penang Road",
@@ -125,6 +125,10 @@
         "Hillion Mall": {
           "by": "Nur Azimah",
           "time": "09:34"
+        },
+        "Marina One": {
+          "by": "boss",
+          "time": "10:06"
         }
       },
       "problems": [],
