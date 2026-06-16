@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-16T03:16:26.562Z",
+  "generated": "2026-06-16T03:34:18.542Z",
   "groups": [
     {
       "id": "XH",
@@ -89,7 +89,7 @@
           ]
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "The Rail Mall",
         "Suntec City",
@@ -104,10 +104,10 @@
         "77 Robinson",
         "9 Penang Road",
         "White Sands",
-        "South Beach Tower"
+        "South Beach Tower",
+        "888 Plaza"
       ],
       "outlets_outstanding": [
-        "888 Plaza",
         "GRID",
         "Duo Galleria",
         "100 AM Mall",
@@ -115,7 +115,11 @@
         "Plaza Singapura",
         "Lazada One",
         "Citylink",
-        "One Raffles Link"
+        "One Raffles Link",
+        "Downtown East",
+        "Waterway Point",
+        "Causeway Point",
+        "Compass One"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -173,6 +177,10 @@
         "South Beach Tower": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "11:16"
+        },
+        "888 Plaza": {
+          "by": "Nur Azimah",
+          "time": "11:34"
         }
       },
       "problems": [],
