@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-16T08:00:08.293Z",
+  "generated": "2026-06-16T08:07:57.319Z",
   "groups": [
     {
       "id": "XH",
@@ -89,7 +89,7 @@
           ]
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "The Rail Mall",
         "Suntec City",
@@ -110,10 +110,10 @@
         "Waterway Point",
         "GRID",
         "Plaza Singapura",
-        "Lazada One"
+        "Lazada One",
+        "Duo Galleria"
       ],
       "outlets_outstanding": [
-        "Duo Galleria",
         "100 AM Mall",
         "Guoco Tower",
         "Citylink",
@@ -201,6 +201,10 @@
         "Lazada One": {
           "by": "jvparthiban7",
           "time": "16:00"
+        },
+        "Duo Galleria": {
+          "by": "boss",
+          "time": "16:07"
         }
       },
       "problems": [],
