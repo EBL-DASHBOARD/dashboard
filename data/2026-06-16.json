@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-16T01:28:40.128Z",
+  "generated": "2026-06-16T01:31:11.754Z",
   "groups": [
     {
       "id": "XH",
@@ -217,13 +217,14 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "YTP",
         "JKN",
         "TY",
         "KH",
-        "IM"
+        "IM",
+        "KIT"
       ],
       "outlets_outstanding": [
         "KRC",
@@ -232,7 +233,6 @@
         "BPP",
         "STC",
         "MBA",
-        "KIT",
         "BS"
       ],
       "done_detail": {
@@ -255,6 +255,10 @@
         "IM": {
           "by": "Krishna",
           "time": "09:28"
+        },
+        "KIT": {
+          "by": "Sasi",
+          "time": "09:31"
         }
       },
       "problems": [],
