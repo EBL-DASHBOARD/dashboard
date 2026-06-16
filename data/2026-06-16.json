@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-16T00:29:50.142Z",
+  "generated": "2026-06-16T00:30:01.919Z",
   "groups": [
     {
       "id": "XH",
@@ -89,8 +89,10 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "The Rail Mall"
+      ],
       "outlets_outstanding": [
         "Suntec City",
         "Marina One",
@@ -105,10 +107,14 @@
         "The Woodleigh Mall",
         "Junction 8",
         "888 Plaza",
-        "The Rail Mall",
         "Hillion Mall"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "The Rail Mall": {
+          "by": "Nur Azimah",
+          "time": "08:30"
+        }
+      },
       "problems": [],
       "customers": null
     },
