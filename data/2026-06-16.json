@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-16T09:30:30.446Z",
+  "generated": "2026-06-16T09:37:23.242Z",
   "groups": [
     {
       "id": "XH",
@@ -89,7 +89,7 @@
           ]
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "The Rail Mall",
         "Suntec City",
@@ -112,14 +112,14 @@
         "Plaza Singapura",
         "Lazada One",
         "Duo Galleria",
-        "Causeway Point"
+        "Causeway Point",
+        "Compass One"
       ],
       "outlets_outstanding": [
         "100 AM Mall",
         "Guoco Tower",
         "Citylink",
-        "One Raffles Link",
-        "Compass One"
+        "One Raffles Link"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -209,6 +209,10 @@
         "Causeway Point": {
           "by": "Nur Azimah",
           "time": "17:05"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "17:37"
         }
       },
       "problems": [],
