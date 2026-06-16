@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-16T01:28:15.365Z",
+  "generated": "2026-06-16T01:28:40.128Z",
   "groups": [
     {
       "id": "XH",
@@ -89,10 +89,11 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "The Rail Mall",
-        "Suntec City"
+        "Suntec City",
+        "Institute of Mental Health"
       ],
       "outlets_outstanding": [
         "Marina One",
@@ -101,7 +102,6 @@
         "9 Penang Road",
         "Pasir Ris Mall",
         "White Sands",
-        "Institute of Mental Health",
         "Punggol Plaza",
         "South Beach Tower",
         "The Woodleigh Mall",
@@ -117,6 +117,10 @@
         "Suntec City": {
           "by": "boss",
           "time": "09:01"
+        },
+        "Institute of Mental Health": {
+          "by": "jvparthiban7",
+          "time": "09:28"
         }
       },
       "problems": [],
