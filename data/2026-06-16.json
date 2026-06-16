@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated": "2026-06-16T02:27:28.097Z",
+  "generated": "2026-06-16T02:33:27.327Z",
   "groups": [
     {
       "id": "XH",
@@ -89,14 +89,15 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "The Rail Mall",
         "Suntec City",
         "Institute of Mental Health",
         "Hillion Mall",
         "Marina One",
-        "Punggol Plaza"
+        "Punggol Plaza",
+        "Junction 8"
       ],
       "outlets_outstanding": [
         "Marina Square",
@@ -106,7 +107,6 @@
         "White Sands",
         "South Beach Tower",
         "The Woodleigh Mall",
-        "Junction 8",
         "888 Plaza"
       ],
       "done_detail": {
@@ -133,6 +133,10 @@
         "Punggol Plaza": {
           "by": "jvparthiban7",
           "time": "10:22"
+        },
+        "Junction 8": {
+          "by": "Nur Azimah",
+          "time": "10:33"
         }
       },
       "problems": [],
