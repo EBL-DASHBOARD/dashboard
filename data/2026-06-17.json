@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T03:46:22.124Z",
+  "generated": "2026-06-17T03:50:23.690Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -136,10 +136,10 @@
         "Junction 9",
         "GENEO",
         "Dairy Farm Mall",
-        "Hillion Mall"
+        "Hillion Mall",
+        "Tampines 1"
       ],
       "outlets_outstanding": [
-        "Tampines 1",
         "Century Square",
         "Far East Plaza Kiosk E",
         "Alexandra Technopark B",
@@ -201,6 +201,10 @@
         "Hillion Mall": {
           "by": "Nur Azimah",
           "time": "11:35"
+        },
+        "Tampines 1": {
+          "by": "boss",
+          "time": "11:50"
         }
       },
       "problems": [],
