@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T03:50:23.690Z",
+  "generated": "2026-06-17T03:54:26.316Z",
   "groups": [
     {
       "id": "XH",
@@ -336,7 +336,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "KRC",
         "ARC",
@@ -353,10 +353,10 @@
         "TRM",
         "VIVO",
         "CTP",
-        "SHP"
+        "SHP",
+        "DV"
       ],
       "outlets_outstanding": [
-        "DV",
         "WSM",
         "KIT",
         "KLP",
@@ -426,6 +426,10 @@
         "SHP": {
           "by": "Sasi",
           "time": "11:46"
+        },
+        "DV": {
+          "by": "Samy Kumar Meena",
+          "time": "11:54"
         }
       },
       "problems": [],
