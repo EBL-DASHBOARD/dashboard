@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T08:08:06.276Z",
+  "generated": "2026-06-17T08:20:22.964Z",
   "groups": [
     {
       "id": "XH",
@@ -399,7 +399,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "KRC",
         "ARC",
@@ -426,7 +426,8 @@
         "R4",
         "NEX",
         "BHT",
-        "KNX"
+        "KNX",
+        "NTP"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -444,7 +445,6 @@
         "WIS",
         "ACV",
         "KTB",
-        "NTP",
         "WWP"
       ],
       "done_detail": {
@@ -551,6 +551,10 @@
         "KNX": {
           "by": "Sudhakar",
           "time": "16:05"
+        },
+        "NTP": {
+          "by": "Sasi",
+          "time": "16:20"
         }
       },
       "problems": [],
