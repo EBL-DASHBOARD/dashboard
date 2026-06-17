@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T01:30:56.412Z",
+  "generated": "2026-06-17T01:35:27.917Z",
   "groups": [
     {
       "id": "XH",
@@ -122,11 +122,12 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
-        "Le Quest"
+        "Le Quest",
+        "The Woodleigh Mall"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -140,7 +141,6 @@
         "ARTRA",
         "GENEO",
         "Alexandra Technopark B",
-        "The Woodleigh Mall",
         "Junction 9",
         "Northpoint City",
         "Ngee Ann Polytechnic Block 1"
@@ -157,6 +157,10 @@
         "Le Quest": {
           "by": "Nur Azimah",
           "time": "09:30"
+        },
+        "The Woodleigh Mall": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "09:35"
         }
       },
       "problems": [],
