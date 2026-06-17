@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T08:50:53.023Z",
+  "generated": "2026-06-17T08:57:11.416Z",
   "groups": [
     {
       "id": "XH",
@@ -407,7 +407,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "KRC",
         "ARC",
@@ -435,10 +435,10 @@
         "NEX",
         "BHT",
         "KNX",
-        "NTP"
+        "NTP",
+        "TNC2"
       ],
       "outlets_outstanding": [
-        "TNC2",
         "PECC",
         "LOY",
         "TPM",
@@ -563,6 +563,10 @@
         "NTP": {
           "by": "Sasi",
           "time": "16:20"
+        },
+        "TNC2": {
+          "by": "YAAKESH",
+          "time": "16:57"
         }
       },
       "problems": [],
