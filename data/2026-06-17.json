@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T02:17:25.959Z",
+  "generated": "2026-06-17T02:19:57.130Z",
   "groups": [
     {
       "id": "XH",
@@ -122,18 +122,18 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
         "Le Quest",
         "The Woodleigh Mall",
-        "Vivocity"
+        "Vivocity",
+        "Citygate"
       ],
       "outlets_outstanding": [
         "Tampines 1",
         "Century Square",
-        "Citygate",
         "Far East Plaza Kiosk E",
         "Dairy Farm Mall",
         "Hillion Mall",
@@ -165,6 +165,10 @@
         "Vivocity": {
           "by": "palanivelumuthukumar",
           "time": "09:46"
+        },
+        "Citygate": {
+          "by": "boss",
+          "time": "10:19"
         }
       },
       "problems": [],
