@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T04:20:34.247Z",
+  "generated": "2026-06-17T04:25:37.845Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -139,10 +139,10 @@
         "Hillion Mall",
         "Tampines 1",
         "Alexandra Technopark B",
-        "Ngee Ann Polytechnic Block 1"
+        "Ngee Ann Polytechnic Block 1",
+        "Century Square"
       ],
       "outlets_outstanding": [
-        "Century Square",
         "Far East Plaza Kiosk E",
         "Rivervale Mall",
         "Compass One",
@@ -224,6 +224,10 @@
         "Ngee Ann Polytechnic Block 1": {
           "by": "jvparthiban7",
           "time": "12:20"
+        },
+        "Century Square": {
+          "by": "boss",
+          "time": "12:25"
         }
       },
       "problems": [],
