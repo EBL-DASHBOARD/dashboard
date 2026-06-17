@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T05:06:09.180Z",
+  "generated": "2026-06-17T06:46:18.647Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -141,12 +141,12 @@
         "Alexandra Technopark B",
         "Ngee Ann Polytechnic Block 1",
         "Century Square",
-        "Far East Plaza Kiosk E"
+        "Far East Plaza Kiosk E",
+        "Punggol Coast Mall"
       ],
       "outlets_outstanding": [
         "Rivervale Mall",
         "Compass One",
-        "Punggol Coast Mall",
         "Waterway Point",
         "Westgate Tower",
         "JEM",
@@ -236,6 +236,10 @@
         "Far East Plaza Kiosk E": {
           "by": "boss",
           "time": "13:04"
+        },
+        "Punggol Coast Mall": {
+          "by": "Nur Azimah",
+          "time": "14:46"
         }
       },
       "problems": [],
