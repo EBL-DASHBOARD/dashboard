@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-16T16:38:36.082Z",
+  "generated": "2026-06-17T00:35:43.322Z",
   "groups": [
     {
       "id": "XH",
@@ -274,12 +274,13 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "KRC"
+      ],
       "outlets_outstanding": [
         "BNV",
         "BQ",
-        "KRC",
         "CT",
         "CTP",
         "CCKS",
@@ -299,7 +300,12 @@
         "USQ",
         "SHP"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "KRC": {
+          "by": "GK",
+          "time": "08:35"
+        }
+      },
       "problems": [],
       "customers": null
     }
