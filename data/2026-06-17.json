@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T03:29:56.980Z",
+  "generated": "2026-06-17T03:34:32.336Z",
   "groups": [
     {
       "id": "XH",
@@ -320,7 +320,7 @@
           ]
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "KRC",
         "ARC",
@@ -335,10 +335,10 @@
         "CT",
         "HV2",
         "TRM",
-        "VIVO"
+        "VIVO",
+        "CTP"
       ],
       "outlets_outstanding": [
-        "CTP",
         "DV",
         "WSM",
         "KIT",
@@ -402,6 +402,10 @@
         "VIVO": {
           "by": "Krishna",
           "time": "11:29"
+        },
+        "CTP": {
+          "by": "GK",
+          "time": "11:34"
         }
       },
       "problems": [],
