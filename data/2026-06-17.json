@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T03:22:30.864Z",
+  "generated": "2026-06-17T03:29:51.506Z",
   "groups": [
     {
       "id": "XH",
@@ -320,7 +320,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "KRC",
         "ARC",
@@ -333,11 +333,11 @@
         "TIO",
         "USQ",
         "CT",
-        "HV2"
+        "HV2",
+        "TRM"
       ],
       "outlets_outstanding": [
         "CTP",
-        "TRM",
         "DV",
         "WSM",
         "VIVO",
@@ -394,6 +394,10 @@
         "HV2": {
           "by": "Samy Kumar Meena",
           "time": "11:11"
+        },
+        "TRM": {
+          "by": "Samy Kumar Meena",
+          "time": "11:29"
         }
       },
       "problems": [],
