@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T03:54:26.316Z",
+  "generated": "2026-06-17T04:00:02.384Z",
   "groups": [
     {
       "id": "XH",
@@ -360,7 +360,29 @@
         "WSM",
         "KIT",
         "KLP",
-        "MSQ"
+        "MSQ",
+        "TNC2",
+        "KNX",
+        "PECC",
+        "LOY",
+        "TPM",
+        "PAL",
+        "BHT",
+        "BOB",
+        "EPT",
+        "CCP",
+        "R4",
+        "R1",
+        "AP4",
+        "AP1",
+        "R3",
+        "AP2",
+        "WIS",
+        "ACV",
+        "KTB",
+        "NTP",
+        "WWP",
+        "NEX"
       ],
       "done_detail": {
         "KRC": {
