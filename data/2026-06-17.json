@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T02:34:37.995Z",
+  "generated": "2026-06-17T02:43:10.927Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -130,7 +130,8 @@
         "The Woodleigh Mall",
         "Vivocity",
         "Citygate",
-        "Parc Point"
+        "Parc Point",
+        "ARTRA"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -138,7 +139,6 @@
         "Far East Plaza Kiosk E",
         "Dairy Farm Mall",
         "Hillion Mall",
-        "ARTRA",
         "GENEO",
         "Alexandra Technopark B",
         "Junction 9",
@@ -173,6 +173,10 @@
         "Parc Point": {
           "by": "Nur Azimah",
           "time": "10:33"
+        },
+        "ARTRA": {
+          "by": "palanivelumuthukumar",
+          "time": "10:43"
         }
       },
       "problems": [],
