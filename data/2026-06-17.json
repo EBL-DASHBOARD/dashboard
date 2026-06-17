@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T09:05:47.946Z",
+  "generated": "2026-06-17T09:07:07.655Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           ]
         }
       ],
-      "done": 31,
+      "done": 32,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -154,10 +154,10 @@
         "Eastpoint Mall",
         "New Tech Park",
         "313 Somerset",
-        "Mapletree Business City"
+        "Mapletree Business City",
+        "Rivervale Mall"
       ],
       "outlets_outstanding": [
-        "Rivervale Mall",
         "Westgate Tower",
         "Fairprice Hub",
         "Chinatown Point",
@@ -288,6 +288,10 @@
         "Mapletree Business City": {
           "by": "jvparthiban7",
           "time": "17:05"
+        },
+        "Rivervale Mall": {
+          "by": "Nur Azimah",
+          "time": "17:07"
         }
       },
       "problems": [],
