@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T01:43:56.478Z",
+  "generated": "2026-06-17T01:46:40.964Z",
   "groups": [
     {
       "id": "XH",
@@ -122,12 +122,13 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
         "Le Quest",
-        "The Woodleigh Mall"
+        "The Woodleigh Mall",
+        "Vivocity"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -137,7 +138,6 @@
         "Dairy Farm Mall",
         "Hillion Mall",
         "Parc Point",
-        "Vivocity",
         "ARTRA",
         "GENEO",
         "Alexandra Technopark B",
@@ -161,6 +161,10 @@
         "The Woodleigh Mall": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "09:35"
+        },
+        "Vivocity": {
+          "by": "palanivelumuthukumar",
+          "time": "09:46"
         }
       },
       "problems": [],
