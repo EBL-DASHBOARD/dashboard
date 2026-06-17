@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T08:01:36.283Z",
+  "generated": "2026-06-17T08:05:50.345Z",
   "groups": [
     {
       "id": "XH",
@@ -391,7 +391,7 @@
           ]
         }
       ],
-      "done": 25,
+      "done": 26,
       "outlets_done": [
         "KRC",
         "ARC",
@@ -417,11 +417,11 @@
         "PAL",
         "R4",
         "NEX",
-        "BHT"
+        "BHT",
+        "KNX"
       ],
       "outlets_outstanding": [
         "TNC2",
-        "KNX",
         "PECC",
         "LOY",
         "TPM",
@@ -539,6 +539,10 @@
         "BHT": {
           "by": "Samy Kumar Meena",
           "time": "16:00"
+        },
+        "KNX": {
+          "by": "Sudhakar",
+          "time": "16:05"
         }
       },
       "problems": [],
