@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T08:20:22.964Z",
+  "generated": "2026-06-17T08:32:27.222Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -149,11 +149,11 @@
         "The Poiz Centre",
         "Galaxis",
         "i12 Katong",
-        "SingPost Centre"
+        "SingPost Centre",
+        "Compass One"
       ],
       "outlets_outstanding": [
         "Rivervale Mall",
-        "Compass One",
         "Westgate Tower",
         "Fairprice Hub",
         "Eastpoint Mall",
@@ -268,6 +268,10 @@
         "SingPost Centre": {
           "by": "palanivelumuthukumar",
           "time": "16:08"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "16:32"
         }
       },
       "problems": [],
