@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T08:57:11.416Z",
+  "generated": "2026-06-17T08:57:18.942Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -151,7 +151,8 @@
         "i12 Katong",
         "SingPost Centre",
         "Compass One",
-        "Eastpoint Mall"
+        "Eastpoint Mall",
+        "New Tech Park"
       ],
       "outlets_outstanding": [
         "Rivervale Mall",
@@ -161,7 +162,6 @@
         "Icon Link",
         "Mapletree Business City",
         "Flavours @ NUS Utown",
-        "New Tech Park",
         "313 Somerset"
       ],
       "done_detail": {
@@ -276,6 +276,10 @@
         "Eastpoint Mall": {
           "by": "palanivelumuthukumar",
           "time": "16:50"
+        },
+        "New Tech Park": {
+          "by": "boss",
+          "time": "16:57"
         }
       },
       "problems": [],
