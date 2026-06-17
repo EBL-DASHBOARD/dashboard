@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T09:36:18.030Z",
+  "generated": "2026-06-17T10:15:49.913Z",
   "groups": [
     {
       "id": "XH",
@@ -427,7 +427,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "KRC",
         "ARC",
@@ -457,7 +457,8 @@
         "KNX",
         "NTP",
         "TNC2",
-        "ACV"
+        "ACV",
+        "WWP"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -472,8 +473,7 @@
         "R3",
         "AP2",
         "WIS",
-        "KTB",
-        "WWP"
+        "KTB"
       ],
       "done_detail": {
         "KRC": {
@@ -591,6 +591,10 @@
         "ACV": {
           "by": "ashok",
           "time": "17:01"
+        },
+        "WWP": {
+          "by": "Sasi",
+          "time": "18:15"
         }
       },
       "problems": [],
