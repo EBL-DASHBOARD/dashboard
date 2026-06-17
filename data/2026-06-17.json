@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T05:04:40.465Z",
+  "generated": "2026-06-17T05:06:09.180Z",
   "groups": [
     {
       "id": "XH",
@@ -367,7 +367,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 21,
       "outlets_done": [
         "KRC",
         "ARC",
@@ -387,11 +387,11 @@
         "SHP",
         "DV",
         "KIT",
-        "WSM"
+        "WSM",
+        "KLP",
+        "MSQ"
       ],
       "outlets_outstanding": [
-        "KLP",
-        "MSQ",
         "TNC2",
         "KNX",
         "PECC",
@@ -491,6 +491,14 @@
         "WSM": {
           "by": "Samy Kumar Meena",
           "time": "12:32"
+        },
+        "KLP": {
+          "by": "Sasi",
+          "time": "13:06"
+        },
+        "MSQ": {
+          "by": "Sasi",
+          "time": "13:06"
         }
       },
       "problems": [],
