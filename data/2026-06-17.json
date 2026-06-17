@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T07:00:52.868Z",
+  "generated": "2026-06-17T07:18:31.594Z",
   "groups": [
     {
       "id": "XH",
@@ -375,7 +375,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "KRC",
         "ARC",
@@ -397,7 +397,8 @@
         "KIT",
         "WSM",
         "KLP",
-        "MSQ"
+        "MSQ",
+        "PAL"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -405,7 +406,6 @@
         "PECC",
         "LOY",
         "TPM",
-        "PAL",
         "BHT",
         "BOB",
         "EPT",
@@ -507,6 +507,10 @@
         "MSQ": {
           "by": "Sasi",
           "time": "13:06"
+        },
+        "PAL": {
+          "by": "Samy Kumar Meena",
+          "time": "15:18"
         }
       },
       "problems": [],
