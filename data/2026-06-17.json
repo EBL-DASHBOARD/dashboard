@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T06:46:18.647Z",
+  "generated": "2026-06-17T07:00:52.868Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -142,7 +142,8 @@
         "Ngee Ann Polytechnic Block 1",
         "Century Square",
         "Far East Plaza Kiosk E",
-        "Punggol Coast Mall"
+        "Punggol Coast Mall",
+        "V Hotel Lavender"
       ],
       "outlets_outstanding": [
         "Rivervale Mall",
@@ -159,7 +160,6 @@
         "Mapletree Business City",
         "Galaxis",
         "Flavours @ NUS Utown",
-        "V Hotel Lavender",
         "The Poiz Centre",
         "New Tech Park",
         "313 Somerset"
@@ -240,6 +240,10 @@
         "Punggol Coast Mall": {
           "by": "Nur Azimah",
           "time": "14:46"
+        },
+        "V Hotel Lavender": {
+          "by": "boss",
+          "time": "15:00"
         }
       },
       "problems": [],
