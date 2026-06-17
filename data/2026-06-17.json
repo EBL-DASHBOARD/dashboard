@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T01:20:00.192Z",
+  "generated": "2026-06-17T01:30:56.412Z",
   "groups": [
     {
       "id": "XH",
@@ -122,17 +122,17 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "West Mall",
-        "HarbourFront Tower 1"
+        "HarbourFront Tower 1",
+        "Le Quest"
       ],
       "outlets_outstanding": [
         "Tampines 1",
         "Century Square",
         "Citygate",
         "Far East Plaza Kiosk E",
-        "Le Quest",
         "Dairy Farm Mall",
         "Hillion Mall",
         "Parc Point",
@@ -153,6 +153,10 @@
         "HarbourFront Tower 1": {
           "by": "palanivelumuthukumar",
           "time": "09:12"
+        },
+        "Le Quest": {
+          "by": "Nur Azimah",
+          "time": "09:30"
         }
       },
       "problems": [],
