@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T04:19:51.398Z",
+  "generated": "2026-06-17T04:20:32.393Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -138,12 +138,12 @@
         "Dairy Farm Mall",
         "Hillion Mall",
         "Tampines 1",
-        "Alexandra Technopark B"
+        "Alexandra Technopark B",
+        "Ngee Ann Polytechnic Block 1"
       ],
       "outlets_outstanding": [
         "Century Square",
         "Far East Plaza Kiosk E",
-        "Ngee Ann Polytechnic Block 1",
         "Rivervale Mall",
         "Compass One",
         "Punggol Coast Mall",
@@ -154,7 +154,11 @@
         "Eastpoint Mall",
         "i12 Katong",
         "SingPost Centre",
-        "Chinatown Point"
+        "Chinatown Point",
+        "Icon Link",
+        "Mapletree Business City",
+        "Galaxis",
+        "Flavours @ NUS Utown"
       ],
       "done_detail": {
         "West Mall": {
@@ -216,6 +220,10 @@
         "Alexandra Technopark B": {
           "by": "palanivelumuthukumar",
           "time": "12:19"
+        },
+        "Ngee Ann Polytechnic Block 1": {
+          "by": "jvparthiban7",
+          "time": "12:20"
         }
       },
       "problems": [],
