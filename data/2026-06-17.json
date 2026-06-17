@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T07:50:03.648Z",
+  "generated": "2026-06-17T07:58:34.294Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           ]
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -145,7 +145,8 @@
         "Punggol Coast Mall",
         "V Hotel Lavender",
         "JEM",
-        "Waterway Point"
+        "Waterway Point",
+        "The Poiz Centre"
       ],
       "outlets_outstanding": [
         "Rivervale Mall",
@@ -160,7 +161,6 @@
         "Mapletree Business City",
         "Galaxis",
         "Flavours @ NUS Utown",
-        "The Poiz Centre",
         "New Tech Park",
         "313 Somerset"
       ],
@@ -252,6 +252,10 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "15:40"
+        },
+        "The Poiz Centre": {
+          "by": "boss",
+          "time": "15:58"
         }
       },
       "problems": [],
