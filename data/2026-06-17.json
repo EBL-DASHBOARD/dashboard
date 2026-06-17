@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T09:01:09.499Z",
+  "generated": "2026-06-17T09:05:47.946Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 31,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -153,7 +153,8 @@
         "Compass One",
         "Eastpoint Mall",
         "New Tech Park",
-        "313 Somerset"
+        "313 Somerset",
+        "Mapletree Business City"
       ],
       "outlets_outstanding": [
         "Rivervale Mall",
@@ -161,7 +162,6 @@
         "Fairprice Hub",
         "Chinatown Point",
         "Icon Link",
-        "Mapletree Business City",
         "Flavours @ NUS Utown"
       ],
       "done_detail": {
@@ -284,6 +284,10 @@
         "313 Somerset": {
           "by": "boss",
           "time": "16:59"
+        },
+        "Mapletree Business City": {
+          "by": "jvparthiban7",
+          "time": "17:05"
         }
       },
       "problems": [],
