@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T07:48:19.338Z",
+  "generated": "2026-06-17T07:50:03.648Z",
   "groups": [
     {
       "id": "XH",
@@ -383,7 +383,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "KRC",
         "ARC",
@@ -407,7 +407,8 @@
         "KLP",
         "MSQ",
         "PAL",
-        "R4"
+        "R4",
+        "NEX"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -428,8 +429,7 @@
         "ACV",
         "KTB",
         "NTP",
-        "WWP",
-        "NEX"
+        "WWP"
       ],
       "done_detail": {
         "KRC": {
@@ -523,6 +523,10 @@
         "R4": {
           "by": "Krishna",
           "time": "15:48"
+        },
+        "NEX": {
+          "by": "Sasi",
+          "time": "15:50"
         }
       },
       "problems": [],
