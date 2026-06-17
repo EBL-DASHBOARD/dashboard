@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T09:07:07.655Z",
+  "generated": "2026-06-17T09:36:18.030Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           ]
         }
       ],
-      "done": 32,
+      "done": 33,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -155,12 +155,12 @@
         "New Tech Park",
         "313 Somerset",
         "Mapletree Business City",
-        "Rivervale Mall"
+        "Rivervale Mall",
+        "Chinatown Point"
       ],
       "outlets_outstanding": [
         "Westgate Tower",
         "Fairprice Hub",
-        "Chinatown Point",
         "Icon Link",
         "Flavours @ NUS Utown"
       ],
@@ -292,6 +292,10 @@
         "Rivervale Mall": {
           "by": "Nur Azimah",
           "time": "17:07"
+        },
+        "Chinatown Point": {
+          "by": "palanivelumuthukumar",
+          "time": "17:36"
         }
       },
       "problems": [],
