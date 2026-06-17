@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T11:03:58.139Z",
+  "generated": "2026-06-17T11:13:44.110Z",
   "groups": [
     {
       "id": "XH",
@@ -431,7 +431,7 @@
           ]
         }
       ],
-      "done": 34,
+      "done": 35,
       "outlets_done": [
         "KRC",
         "ARC",
@@ -466,7 +466,8 @@
         "PECC",
         "EPT",
         "BOB",
-        "CCP"
+        "CCP",
+        "KTB"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -476,8 +477,7 @@
         "AP1",
         "R3",
         "AP2",
-        "WIS",
-        "KTB"
+        "WIS"
       ],
       "done_detail": {
         "KRC": {
@@ -615,6 +615,10 @@
         "CCP": {
           "by": "Samy Kumar Meena",
           "time": "19:03"
+        },
+        "KTB": {
+          "by": "ashok",
+          "time": "19:13"
         }
       },
       "problems": [],
