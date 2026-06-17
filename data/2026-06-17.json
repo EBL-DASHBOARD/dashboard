@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T00:48:04.785Z",
+  "generated": "2026-06-17T01:12:06.222Z",
   "groups": [
     {
       "id": "XH",
@@ -122,9 +122,10 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "West Mall"
+        "West Mall",
+        "HarbourFront Tower 1"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -135,7 +136,6 @@
         "Dairy Farm Mall",
         "Hillion Mall",
         "Parc Point",
-        "HarbourFront Tower 1",
         "Vivocity",
         "ARTRA",
         "GENEO",
@@ -149,6 +149,10 @@
         "West Mall": {
           "by": "Nur Azimah",
           "time": "08:38"
+        },
+        "HarbourFront Tower 1": {
+          "by": "palanivelumuthukumar",
+          "time": "09:12"
         }
       },
       "problems": [],
