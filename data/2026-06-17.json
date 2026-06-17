@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T08:05:50.345Z",
+  "generated": "2026-06-17T08:08:06.276Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 26,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -147,7 +147,9 @@
         "JEM",
         "Waterway Point",
         "The Poiz Centre",
-        "Galaxis"
+        "Galaxis",
+        "i12 Katong",
+        "SingPost Centre"
       ],
       "outlets_outstanding": [
         "Rivervale Mall",
@@ -155,8 +157,6 @@
         "Westgate Tower",
         "Fairprice Hub",
         "Eastpoint Mall",
-        "i12 Katong",
-        "SingPost Centre",
         "Chinatown Point",
         "Icon Link",
         "Mapletree Business City",
@@ -260,6 +260,14 @@
         "Galaxis": {
           "by": "jvparthiban7",
           "time": "16:01"
+        },
+        "i12 Katong": {
+          "by": "palanivelumuthukumar",
+          "time": "16:08"
+        },
+        "SingPost Centre": {
+          "by": "palanivelumuthukumar",
+          "time": "16:08"
         }
       },
       "problems": [],
