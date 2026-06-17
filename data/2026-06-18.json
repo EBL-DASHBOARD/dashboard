@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated": "2026-06-17T13:14:59.682Z",
+  "generated": "2026-06-17T14:10:39.532Z",
   "groups": [
     {
       "id": "XH",
@@ -102,6 +102,129 @@
         "South Beach Tower",
         "77 Robinson",
         "Far East Plaza Kiosk E"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 32,
+      "am_total": 12,
+      "pm_total": 20,
+      "am_outlets": [
+        "KH",
+        "CCKS",
+        "YTP",
+        "BPP",
+        "TGCC",
+        "IM",
+        "WXI",
+        "JKN",
+        "BS",
+        "STC",
+        "TY",
+        "MBA"
+      ],
+      "pm_outlets": [
+        "PECC",
+        "CKCC",
+        "TNC2",
+        "LOY",
+        "LTM",
+        "J9",
+        "WNC",
+        "MARS",
+        "SSC2",
+        "YS1",
+        "R3",
+        "R1",
+        "AP4",
+        "AP1",
+        "VIVA",
+        "PDD",
+        "FEN",
+        "WWP",
+        "HRC",
+        "KEB"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [],
+          "pm": [
+            "PECC",
+            "CKCC",
+            "TNC2",
+            "LOY"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "KH",
+            "CCKS",
+            "YTP",
+            "BPP",
+            "TGCC"
+          ],
+          "pm": [
+            "LTM",
+            "J9",
+            "WNC",
+            "MARS",
+            "SSC2",
+            "YS1"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "IM",
+            "WXI",
+            "JKN"
+          ],
+          "pm": [
+            "R3",
+            "R1",
+            "AP4",
+            "AP1",
+            "VIVA"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "BS",
+            "STC",
+            "TY",
+            "MBA"
+          ],
+          "pm": [
+            "PDD",
+            "FEN",
+            "WWP",
+            "HRC",
+            "KEB"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "KH",
+        "CCKS",
+        "YTP",
+        "BPP",
+        "TGCC",
+        "IM",
+        "WXI",
+        "JKN",
+        "BS",
+        "STC",
+        "TY",
+        "MBA"
       ],
       "done_detail": {},
       "problems": [],
