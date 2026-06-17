@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-06-17T08:32:27.222Z",
+  "generated": "2026-06-17T08:50:53.023Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "West Mall",
         "HarbourFront Tower 1",
@@ -150,13 +150,13 @@
         "Galaxis",
         "i12 Katong",
         "SingPost Centre",
-        "Compass One"
+        "Compass One",
+        "Eastpoint Mall"
       ],
       "outlets_outstanding": [
         "Rivervale Mall",
         "Westgate Tower",
         "Fairprice Hub",
-        "Eastpoint Mall",
         "Chinatown Point",
         "Icon Link",
         "Mapletree Business City",
@@ -272,6 +272,10 @@
         "Compass One": {
           "by": "Nur Azimah",
           "time": "16:32"
+        },
+        "Eastpoint Mall": {
+          "by": "palanivelumuthukumar",
+          "time": "16:50"
         }
       },
       "problems": [],
