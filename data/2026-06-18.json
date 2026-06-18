@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated": "2026-06-18T03:42:49.967Z",
+  "generated": "2026-06-18T03:51:52.345Z",
   "groups": [
     {
       "id": "XH",
@@ -85,7 +85,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -99,10 +99,10 @@
         "South Beach Tower",
         "Punggol Plaza",
         "Woods Square",
-        "Far East Plaza Kiosk E"
+        "Far East Plaza Kiosk E",
+        "Tanah Merah Ferry Terminal"
       ],
       "outlets_outstanding": [
-        "Tanah Merah Ferry Terminal",
         "Waterway Point",
         "Compass One",
         "Causeway Point",
@@ -110,7 +110,10 @@
         "White Sands",
         "Parkway Parade",
         "Duo Galleria",
-        "120 Robinson"
+        "120 Robinson",
+        "Downtown East",
+        "Pasir Ris Mall",
+        "Guoco Tower"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -164,6 +167,10 @@
         "Far East Plaza Kiosk E": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "11:42"
+        },
+        "Tanah Merah Ferry Terminal": {
+          "by": "boss",
+          "time": "11:51"
         }
       },
       "problems": [],
