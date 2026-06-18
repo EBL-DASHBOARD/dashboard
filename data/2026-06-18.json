@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated": "2026-06-18T00:34:34.254Z",
+  "generated": "2026-06-18T00:36:36.500Z",
   "groups": [
     {
       "id": "XH",
@@ -216,8 +216,10 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "TY"
+      ],
       "outlets_outstanding": [
         "KH",
         "CCKS",
@@ -229,10 +231,14 @@
         "JKN",
         "BS",
         "STC",
-        "TY",
         "MBA"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "TY": {
+          "by": "Sasi",
+          "time": "08:36"
+        }
+      },
       "problems": [],
       "customers": null
     }
