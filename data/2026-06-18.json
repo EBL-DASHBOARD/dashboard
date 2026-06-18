@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated": "2026-06-18T06:54:16.576Z",
+  "generated": "2026-06-18T06:58:06.864Z",
   "groups": [
     {
       "id": "XH",
@@ -85,7 +85,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -101,7 +101,8 @@
         "Woods Square",
         "Far East Plaza Kiosk E",
         "Tanah Merah Ferry Terminal",
-        "Waterway Point"
+        "Waterway Point",
+        "Guoco Tower"
       ],
       "outlets_outstanding": [
         "Compass One",
@@ -112,8 +113,7 @@
         "Duo Galleria",
         "120 Robinson",
         "Downtown East",
-        "Pasir Ris Mall",
-        "Guoco Tower"
+        "Pasir Ris Mall"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -175,6 +175,10 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "14:44"
+        },
+        "Guoco Tower": {
+          "by": "boss",
+          "time": "14:58"
         }
       },
       "problems": [],
