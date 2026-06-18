@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated": "2026-06-18T11:01:55.296Z",
+  "generated": "2026-06-18T12:11:18.739Z",
   "groups": [
     {
       "id": "XH",
@@ -85,7 +85,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -110,11 +110,10 @@
         "Causeway Point",
         "White Sands",
         "Parkway Parade",
-        "888 Plaza"
-      ],
-      "outlets_outstanding": [
+        "888 Plaza",
         "Duo Galleria"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "The Rail Mall": {
           "by": "Nur Azimah",
@@ -211,6 +210,10 @@
         "888 Plaza": {
           "by": "Nur Azimah",
           "time": "17:34"
+        },
+        "Duo Galleria": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "20:11"
         }
       },
       "problems": [],
