@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated": "2026-06-18T08:49:39.226Z",
+  "generated": "2026-06-18T08:50:08.454Z",
   "groups": [
     {
       "id": "XH",
@@ -85,7 +85,7 @@
           ]
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -106,10 +106,10 @@
         "120 Robinson",
         "Compass One",
         "Pasir Ris Mall",
-        "Downtown East"
+        "Downtown East",
+        "Causeway Point"
       ],
       "outlets_outstanding": [
-        "Causeway Point",
         "888 Plaza",
         "White Sands",
         "Parkway Parade",
@@ -195,6 +195,10 @@
         "Downtown East": {
           "by": "boss",
           "time": "16:49"
+        },
+        "Causeway Point": {
+          "by": "Nur Azimah",
+          "time": "16:50"
         }
       },
       "problems": [],
