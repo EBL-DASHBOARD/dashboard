@@ -580,13 +580,21 @@ function buildModal(g, dateKey) {
   document.getElementById('overlay').classList.add('open');
 }
 
-// Breakdown by truck/route from the schedule. Each truck shows its AM and PM
-// outlets; a done outlet shows ✓ with who cleared it and when, outstanding ones
+// Column labels per shift: night groups show "1st Wave / 2nd Wave" instead of
+// "AM / PM". Detected from the group id/name (night ids contain NIGHT).
+function waveLabels(g) {
+  const night = /NIGHT/i.test(g?.id || '') || /night/i.test(g?.name || '');
+  return night ? { am: '1st Wave', pm: '2nd Wave' } : { am: 'AM', pm: 'PM' };
+}
+
+// Breakdown by truck/route from the schedule. Each truck shows its two waves;
+// a done outlet shows ✓ with who cleared it and when, outstanding ones
 // stay plain. The truck assignment is known up front from the schedule photo.
 function buildTruckBreakdown(g) {
   const detail  = g.done_detail ?? {};
   const doneSet = new Set(g.outlets_done ?? []);
   const trucks  = g.trucks ?? [];
+  const wl = waveLabels(g);
   if (!trucks.length) return '<div class="no-data">No truck breakdown for this day</div>';
 
   const chip = code => {
@@ -611,8 +619,8 @@ function buildTruckBreakdown(g) {
         <span class="trk-name">${t.name}</span>
         <span class="trk-count ${complete ? 'trk-complete' : ''}">${done}/${all.length} done${complete ? ' ✅' : ''}</span>
       </div>
-      ${waveRow('AM', 'am', am)}
-      ${waveRow('PM', 'pm', pm)}
+      ${waveRow(wl.am, 'am', am)}
+      ${waveRow(wl.pm, 'pm', pm)}
     </div>`;
   }).join('');
 }
@@ -623,6 +631,7 @@ function buildTruckBreakdown(g) {
 // are present, otherwise stops are shown in a single list.
 function buildDriverBreakdown(g) {
   const detail   = g.done_detail ?? {};
+  const wl       = waveLabels(g);
   const amList   = g.am_outlets ?? [];
   const pmList   = g.pm_outlets ?? [];
   const haveWaves = amList.length > 0 || pmList.length > 0;
@@ -663,8 +672,8 @@ function buildDriverBreakdown(g) {
     const isUnknown = name === UNKNOWN;
     return `<div class="drv ${isUnknown ? 'drv-unknown' : ''}">
       <div class="drv-head"><span class="drv-name">${isUnknown ? '❓ ' + name : name}</span><span class="drv-count">${total(d)} stop${total(d) > 1 ? 's' : ''}</span></div>
-      ${waveRow('AM', 'am', d.am)}
-      ${waveRow('PM', 'pm', d.pm)}
+      ${waveRow(wl.am, 'am', d.am)}
+      ${waveRow(wl.pm, 'pm', d.pm)}
       ${waveRow('STOPS', 'all', d.all)}
     </div>`;
   }).join('');
