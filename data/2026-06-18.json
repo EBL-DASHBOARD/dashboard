@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated": "2026-06-18T09:32:48.402Z",
+  "generated": "2026-06-18T09:34:25.366Z",
   "groups": [
     {
       "id": "XH",
@@ -85,7 +85,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 23,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -107,12 +107,12 @@
         "Compass One",
         "Pasir Ris Mall",
         "Downtown East",
-        "Causeway Point"
+        "Causeway Point",
+        "White Sands",
+        "Parkway Parade"
       ],
       "outlets_outstanding": [
         "888 Plaza",
-        "White Sands",
-        "Parkway Parade",
         "Duo Galleria"
       ],
       "done_detail": {
@@ -199,6 +199,14 @@
         "Causeway Point": {
           "by": "Nur Azimah",
           "time": "16:50"
+        },
+        "White Sands": {
+          "by": "jvparthiban7",
+          "time": "17:34"
+        },
+        "Parkway Parade": {
+          "by": "jvparthiban7",
+          "time": "17:34"
         }
       },
       "problems": [],
