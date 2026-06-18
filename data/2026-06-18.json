@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated": "2026-06-18T09:21:07.592Z",
+  "generated": "2026-06-18T09:29:45.161Z",
   "groups": [
     {
       "id": "XH",
@@ -307,7 +307,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "TY",
         "YTP",
@@ -332,14 +332,14 @@
         "SSC2",
         "WWP",
         "FEN",
-        "LOY"
+        "LOY",
+        "R1"
       ],
       "outlets_outstanding": [
         "PECC",
         "LTM",
         "J9",
         "YS1",
-        "R1",
         "AP1",
         "HRC",
         "KEB"
@@ -440,6 +440,10 @@
         "LOY": {
           "by": "Sudhakar",
           "time": "17:21"
+        },
+        "R1": {
+          "by": "Krishna",
+          "time": "17:29"
         }
       },
       "problems": [],
