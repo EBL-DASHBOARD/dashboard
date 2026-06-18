@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated": "2026-06-18T03:36:22.485Z",
+  "generated": "2026-06-18T03:42:48.180Z",
   "groups": [
     {
       "id": "XH",
@@ -85,7 +85,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -98,15 +98,19 @@
         "Suntec City",
         "South Beach Tower",
         "Punggol Plaza",
-        "Woods Square"
+        "Woods Square",
+        "Far East Plaza Kiosk E"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
-        "Far East Plaza Kiosk E",
         "Waterway Point",
         "Compass One",
         "Causeway Point",
-        "888 Plaza"
+        "888 Plaza",
+        "White Sands",
+        "Parkway Parade",
+        "Duo Galleria",
+        "120 Robinson"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -156,6 +160,10 @@
         "Woods Square": {
           "by": "Nur Azimah",
           "time": "11:36"
+        },
+        "Far East Plaza Kiosk E": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "11:42"
         }
       },
       "problems": [],
