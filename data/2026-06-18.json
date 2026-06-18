@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated": "2026-06-18T03:04:45.908Z",
+  "generated": "2026-06-18T03:05:19.030Z",
   "groups": [
     {
       "id": "XH",
@@ -85,7 +85,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 10,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -94,14 +94,14 @@
         "Junction 8",
         "Hougang Mall",
         "Zhongshan Mall",
-        "Royal Square"
+        "Royal Square",
+        "Suntec City",
+        "South Beach Tower"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "Punggol Plaza",
         "Woods Square",
-        "Suntec City",
-        "South Beach Tower",
         "Far East Plaza Kiosk E"
       ],
       "done_detail": {
@@ -136,6 +136,14 @@
         "Royal Square": {
           "by": "boss",
           "time": "10:47"
+        },
+        "Suntec City": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "11:05"
+        },
+        "South Beach Tower": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "11:05"
         }
       },
       "problems": [],
