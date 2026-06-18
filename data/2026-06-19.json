@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-18T17:40:41.021Z",
+  "generated": "2026-06-18T19:45:01.796Z",
   "groups": [
     {
       "id": "XH",
@@ -195,6 +195,149 @@
       "outlets_outstanding": [
         "PLQ Tower 1",
         "Aperia Mall"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 40,
+      "am_total": 16,
+      "pm_total": 24,
+      "am_outlets": [
+        "HV2",
+        "JP",
+        "CCKS",
+        "TRM",
+        "YTP",
+        "CL2",
+        "ART",
+        "ARC",
+        "BNV",
+        "BQ",
+        "KRC",
+        "DV",
+        "USQ",
+        "PS",
+        "SHP",
+        "KIT"
+      ],
+      "pm_outlets": [
+        "J9",
+        "KTB",
+        "WIS",
+        "SSC2",
+        "YS1",
+        "PAL",
+        "EPT",
+        "CCP",
+        "BHT",
+        "BOB",
+        "KNX",
+        "TPM",
+        "AP2",
+        "R1",
+        "R4",
+        "R3",
+        "AP4",
+        "AP1",
+        "WWP",
+        "ACV",
+        "GMM",
+        "NTP",
+        "NEX",
+        "LTM"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [],
+          "pm": [
+            "J9",
+            "KTB",
+            "WIS",
+            "SSC2",
+            "YS1"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "HV2",
+            "JP",
+            "CCKS",
+            "TRM",
+            "YTP"
+          ],
+          "pm": [
+            "PAL",
+            "EPT",
+            "CCP",
+            "BHT",
+            "BOB",
+            "KNX",
+            "TPM"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "CL2",
+            "ART",
+            "ARC",
+            "BNV",
+            "BQ",
+            "KRC"
+          ],
+          "pm": [
+            "AP2",
+            "R1",
+            "R4",
+            "R3",
+            "AP4",
+            "AP1"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "DV",
+            "USQ",
+            "PS",
+            "SHP",
+            "KIT"
+          ],
+          "pm": [
+            "WWP",
+            "ACV",
+            "GMM",
+            "NTP",
+            "NEX",
+            "LTM"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "HV2",
+        "JP",
+        "CCKS",
+        "TRM",
+        "YTP",
+        "CL2",
+        "ART",
+        "ARC",
+        "BNV",
+        "BQ",
+        "KRC",
+        "DV",
+        "USQ",
+        "PS",
+        "SHP",
+        "KIT"
       ],
       "done_detail": {},
       "problems": [],
