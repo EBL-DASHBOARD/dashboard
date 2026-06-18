@@ -191,6 +191,8 @@
     <div class="ctrl-label">Period</div>
     <div id="period-pills">
       <span class="pill active" data-p="TODAY">Today</span>
+      <span class="pill" data-p="TMR">Tomorrow</span>
+      <span class="pill" data-p="UPCOMING">Upcoming</span>
       <span class="pill" data-p="1W">1 Week</span>
       <span class="pill" data-p="1M">1 Month</span>
       <span class="pill" data-p="3M">3 Months</span>
@@ -294,6 +296,8 @@ function offsetDate(days) {
 function periodRange() {
   const t = todayKey();
   if (S.period === 'TODAY') return [t, t];
+  if (S.period === 'TMR')   return [offsetDate(1), offsetDate(1)];        // tomorrow only
+  if (S.period === 'UPCOMING') return [t, offsetDate(13)];               // today + next ~2 weeks
   if (S.period === '1W')    return [offsetDate(-6), t];
   if (S.period === '1M')    return [offsetDate(-29), t];
   if (S.period === '3M')    return [offsetDate(-89), t];
@@ -709,7 +713,7 @@ async function render() {
       renderSummary(data.groups);
       renderCards(data.groups, dateKey);
       document.getElementById('s-label').textContent = fellBack
-        ? `most recent day · ${fmtDate(dateKey)} — nothing for today (${fmtDate(from)}) yet`
+        ? `most recent day · ${fmtDate(dateKey)} — nothing for ${fmtDate(from)} yet`
         : `locations completed · ${fmtDate(dateKey)}`;
     } else {
       document.getElementById('summary-card').style.display = 'none';
