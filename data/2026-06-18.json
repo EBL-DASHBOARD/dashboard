@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated": "2026-06-18T09:34:25.366Z",
+  "generated": "2026-06-18T09:34:42.380Z",
   "groups": [
     {
       "id": "XH",
@@ -85,7 +85,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -109,10 +109,10 @@
         "Downtown East",
         "Causeway Point",
         "White Sands",
-        "Parkway Parade"
+        "Parkway Parade",
+        "888 Plaza"
       ],
       "outlets_outstanding": [
-        "888 Plaza",
         "Duo Galleria"
       ],
       "done_detail": {
@@ -206,6 +206,10 @@
         },
         "Parkway Parade": {
           "by": "jvparthiban7",
+          "time": "17:34"
+        },
+        "888 Plaza": {
+          "by": "Nur Azimah",
           "time": "17:34"
         }
       },
