@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated": "2026-06-18T07:06:04.420Z",
+  "generated": "2026-06-18T07:21:45.514Z",
   "groups": [
     {
       "id": "XH",
@@ -291,7 +291,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "TY",
         "YTP",
@@ -307,7 +307,8 @@
         "BS",
         "MARS",
         "PDD",
-        "CKCC"
+        "CKCC",
+        "AP4"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -320,7 +321,6 @@
         "YS1",
         "R3",
         "R1",
-        "AP4",
         "AP1",
         "VIVA",
         "FEN",
@@ -388,6 +388,10 @@
         "CKCC": {
           "by": "Sudhakar",
           "time": "15:06"
+        },
+        "AP4": {
+          "by": "Krishna",
+          "time": "15:21"
         }
       },
       "problems": [],
