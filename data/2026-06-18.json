@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated": "2026-06-18T07:46:46.498Z",
+  "generated": "2026-06-18T07:52:49.181Z",
   "groups": [
     {
       "id": "XH",
@@ -85,7 +85,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -104,7 +104,8 @@
         "Waterway Point",
         "Guoco Tower",
         "120 Robinson",
-        "Compass One"
+        "Compass One",
+        "Pasir Ris Mall"
       ],
       "outlets_outstanding": [
         "Causeway Point",
@@ -112,8 +113,7 @@
         "White Sands",
         "Parkway Parade",
         "Duo Galleria",
-        "Downtown East",
-        "Pasir Ris Mall"
+        "Downtown East"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -187,6 +187,10 @@
         "Compass One": {
           "by": "Nur Azimah",
           "time": "15:46"
+        },
+        "Pasir Ris Mall": {
+          "by": "boss",
+          "time": "15:52"
         }
       },
       "problems": [],
