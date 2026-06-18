@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated": "2026-06-18T08:50:08.454Z",
+  "generated": "2026-06-18T09:16:03.030Z",
   "groups": [
     {
       "id": "XH",
@@ -307,7 +307,7 @@
           ]
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "TY",
         "YTP",
@@ -330,7 +330,8 @@
         "VIVA",
         "TNC2",
         "SSC2",
-        "WWP"
+        "WWP",
+        "FEN"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -340,7 +341,6 @@
         "YS1",
         "R1",
         "AP1",
-        "FEN",
         "HRC",
         "KEB"
       ],
@@ -432,6 +432,10 @@
         "WWP": {
           "by": "Sasi",
           "time": "16:38"
+        },
+        "FEN": {
+          "by": "Sasi",
+          "time": "17:16"
         }
       },
       "problems": [],
