@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated": "2026-06-18T03:51:54.416Z",
+  "generated": "2026-06-18T04:00:03.496Z",
   "groups": [
     {
       "id": "XH",
@@ -294,7 +294,28 @@
         "TGCC",
         "BS"
       ],
-      "outlets_outstanding": [],
+      "outlets_outstanding": [
+        "PECC",
+        "CKCC",
+        "TNC2",
+        "LOY",
+        "LTM",
+        "J9",
+        "WNC",
+        "MARS",
+        "SSC2",
+        "YS1",
+        "R3",
+        "R1",
+        "AP4",
+        "AP1",
+        "VIVA",
+        "PDD",
+        "FEN",
+        "WWP",
+        "HRC",
+        "KEB"
+      ],
       "done_detail": {
         "TY": {
           "by": "Sasi",
