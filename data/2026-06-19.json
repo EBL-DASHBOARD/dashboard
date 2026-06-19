@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T02:39:06.067Z",
+  "generated": "2026-06-19T02:49:54.882Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -142,10 +142,10 @@
         "Junction 9",
         "Parc Point",
         "9 Penang Road",
-        "GENEO"
+        "GENEO",
+        "Century Square"
       ],
       "outlets_outstanding": [
-        "Century Square",
         "Tampines Mart",
         "Hillion Mall",
         "Dairy Farm Mall",
@@ -202,6 +202,10 @@
         "GENEO": {
           "by": "jvparthiban7",
           "time": "10:39"
+        },
+        "Century Square": {
+          "by": "boss",
+          "time": "10:49"
         }
       },
       "problems": [],
