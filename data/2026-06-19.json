@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T08:01:10.958Z",
+  "generated": "2026-06-19T08:19:15.048Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 31,
+      "done": 32,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -162,7 +162,8 @@
         "JEM",
         "Waterway Point",
         "The Poiz Centre",
-        "New Tech Park"
+        "New Tech Park",
+        "Plaza Singapura"
       ],
       "outlets_outstanding": [
         "Vivo City",
@@ -173,8 +174,7 @@
         "Causeway Point",
         "Galaxis",
         "Far East Plaza Kiosk E",
-        "313 Somerset",
-        "Plaza Singapura"
+        "313 Somerset"
       ],
       "done_detail": {
         "West Mall": {
@@ -300,6 +300,10 @@
         "New Tech Park": {
           "by": "boss",
           "time": "15:42"
+        },
+        "Plaza Singapura": {
+          "by": "Gopal",
+          "time": "16:19"
         }
       },
       "problems": [],
