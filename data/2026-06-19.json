@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T02:56:14.354Z",
+  "generated": "2026-06-19T03:01:26.287Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -144,11 +144,11 @@
         "9 Penang Road",
         "GENEO",
         "Century Square",
-        "63 Pagoda Street"
+        "63 Pagoda Street",
+        "Hillion Mall"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
-        "Hillion Mall",
         "Dairy Farm Mall",
         "Flavours @ NUS Uptown",
         "Ngee Ann Polytechnic Block 1",
@@ -210,6 +210,10 @@
         "63 Pagoda Street": {
           "by": "Gopal",
           "time": "10:56"
+        },
+        "Hillion Mall": {
+          "by": "Nur Azimah",
+          "time": "11:01"
         }
       },
       "problems": [],
