@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T02:54:41.549Z",
+  "generated": "2026-06-19T02:56:14.354Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -143,7 +143,8 @@
         "Parc Point",
         "9 Penang Road",
         "GENEO",
-        "Century Square"
+        "Century Square",
+        "63 Pagoda Street"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
@@ -152,7 +153,6 @@
         "Flavours @ NUS Uptown",
         "Ngee Ann Polytechnic Block 1",
         "ARTRA",
-        "63 Pagoda Street",
         "The Woodleigh Mall",
         "Vivo City",
         "Chinatown Point",
@@ -206,6 +206,10 @@
         "Century Square": {
           "by": "boss",
           "time": "10:49"
+        },
+        "63 Pagoda Street": {
+          "by": "Gopal",
+          "time": "10:56"
         }
       },
       "problems": [],
