@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T07:18:54.296Z",
+  "generated": "2026-06-19T07:21:11.312Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 24,
+      "done": 26,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -155,7 +155,9 @@
         "Marina Square",
         "ARTRA",
         "Punggol Coast Mall",
-        "Eastpoint Mall"
+        "Eastpoint Mall",
+        "Citylink",
+        "One Raffles Link"
       ],
       "outlets_outstanding": [
         "Vivo City",
@@ -172,9 +174,7 @@
         "Galaxis",
         "Far East Plaza Kiosk E",
         "313 Somerset",
-        "Plaza Singapura",
-        "Citylink",
-        "One Raffles Link"
+        "Plaza Singapura"
       ],
       "done_detail": {
         "West Mall": {
@@ -272,6 +272,14 @@
         "Eastpoint Mall": {
           "by": "boss",
           "time": "15:06"
+        },
+        "Citylink": {
+          "by": "Gopal",
+          "time": "15:21"
+        },
+        "One Raffles Link": {
+          "by": "Gopal",
+          "time": "15:21"
         }
       },
       "problems": [],
