@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T08:37:35.606Z",
+  "generated": "2026-06-19T08:40:06.225Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 33,
+      "done": 35,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -164,13 +164,13 @@
         "The Poiz Centre",
         "New Tech Park",
         "Plaza Singapura",
-        "Compass One"
+        "Compass One",
+        "Lazada One",
+        "GRID"
       ],
       "outlets_outstanding": [
         "Vivo City",
         "Rivervale Mall",
-        "Lazada One",
-        "GRID",
         "Causeway Point",
         "Galaxis",
         "Far East Plaza Kiosk E",
@@ -308,6 +308,14 @@
         "Compass One": {
           "by": "Nur Azimah",
           "time": "16:27"
+        },
+        "Lazada One": {
+          "by": "jvparthiban7",
+          "time": "16:40"
+        },
+        "GRID": {
+          "by": "jvparthiban7",
+          "time": "16:40"
         }
       },
       "problems": [],
