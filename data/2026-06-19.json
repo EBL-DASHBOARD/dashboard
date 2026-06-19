@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T07:42:06.062Z",
+  "generated": "2026-06-19T07:51:12.150Z",
   "groups": [
     {
       "id": "XH",
@@ -463,7 +463,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "CL2",
         "JP",
@@ -482,7 +482,8 @@
         "PS",
         "SHP",
         "PAL",
-        "LTM"
+        "LTM",
+        "ACV"
       ],
       "outlets_outstanding": [
         "J9",
@@ -503,7 +504,6 @@
         "AP4",
         "AP1",
         "WWP",
-        "ACV",
         "GMM",
         "NTP",
         "NEX"
@@ -580,6 +580,10 @@
         "LTM": {
           "by": "Sudhakar",
           "time": "15:18"
+        },
+        "ACV": {
+          "by": "Sasi",
+          "time": "15:51"
         }
       },
       "problems": [],
