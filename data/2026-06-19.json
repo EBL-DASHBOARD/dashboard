@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T01:08:29.212Z",
+  "generated": "2026-06-19T01:29:44.202Z",
   "groups": [
     {
       "id": "XH",
@@ -130,10 +130,11 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "West Mall",
-        "Institute of Mental Health"
+        "Institute of Mental Health",
+        "AltitudeX"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -153,7 +154,6 @@
         "9 Penang Road",
         "UE Square",
         "The Woodleigh Mall",
-        "AltitudeX",
         "Vivo City",
         "Chinatown Point",
         "Marina Square"
@@ -166,6 +166,10 @@
         "Institute of Mental Health": {
           "by": "boss",
           "time": "09:02"
+        },
+        "AltitudeX": {
+          "by": "SEENU.C",
+          "time": "09:29"
         }
       },
       "problems": [],
