@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T09:36:35.078Z",
+  "generated": "2026-06-19T09:40:34.796Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 37,
+      "done": 38,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -168,13 +168,13 @@
         "Lazada One",
         "GRID",
         "313 Somerset",
-        "Rivervale Mall"
+        "Rivervale Mall",
+        "Far East Plaza Kiosk E"
       ],
       "outlets_outstanding": [
         "Vivo City",
         "Causeway Point",
-        "Galaxis",
-        "Far East Plaza Kiosk E"
+        "Galaxis"
       ],
       "done_detail": {
         "West Mall": {
@@ -324,6 +324,10 @@
         "Rivervale Mall": {
           "by": "Nur Azimah",
           "time": "17:16"
+        },
+        "Far East Plaza Kiosk E": {
+          "by": "Gopal",
+          "time": "17:40"
         }
       },
       "problems": [],
