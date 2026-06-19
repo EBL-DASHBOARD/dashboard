@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T10:47:24.877Z",
+  "generated": "2026-06-19T11:02:25.668Z",
   "groups": [
     {
       "id": "XH",
@@ -499,7 +499,7 @@
           ]
         }
       ],
-      "done": 33,
+      "done": 34,
       "outlets_done": [
         "CL2",
         "JP",
@@ -533,11 +533,11 @@
         "CCP",
         "AP2",
         "EPT",
-        "NEX"
+        "NEX",
+        "SSC2"
       ],
       "outlets_outstanding": [
         "KTB",
-        "SSC2",
         "TPM",
         "R1",
         "R3",
@@ -676,6 +676,10 @@
         "NEX": {
           "by": "Sasi",
           "time": "18:47"
+        },
+        "SSC2": {
+          "by": "Sudhakar",
+          "time": "19:02"
         }
       },
       "problems": [],
