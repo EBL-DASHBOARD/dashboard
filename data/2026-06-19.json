@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T11:07:27.894Z",
+  "generated": "2026-06-19T11:20:50.156Z",
   "groups": [
     {
       "id": "XH",
@@ -499,7 +499,7 @@
           ]
         }
       ],
-      "done": 35,
+      "done": 36,
       "outlets_done": [
         "CL2",
         "JP",
@@ -535,11 +535,11 @@
         "EPT",
         "NEX",
         "SSC2",
-        "R3"
+        "R3",
+        "TPM"
       ],
       "outlets_outstanding": [
         "KTB",
-        "TPM",
         "R1",
         "AP1",
         "GMM"
@@ -684,6 +684,10 @@
         "R3": {
           "by": "Krishna",
           "time": "19:07"
+        },
+        "TPM": {
+          "by": "Samy Kumar Meena",
+          "time": "19:20"
         }
       },
       "problems": [],
