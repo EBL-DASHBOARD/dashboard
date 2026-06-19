@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T07:25:53.863Z",
+  "generated": "2026-06-19T07:28:12.545Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -159,12 +159,12 @@
         "Citylink",
         "One Raffles Link",
         "Fairprice Hub",
-        "JEM"
+        "JEM",
+        "Waterway Point"
       ],
       "outlets_outstanding": [
         "Vivo City",
         "Compass One",
-        "Waterway Point",
         "Rivervale Mall",
         "Lazada One",
         "GRID",
@@ -288,6 +288,10 @@
         "JEM": {
           "by": "jvparthiban7",
           "time": "15:25"
+        },
+        "Waterway Point": {
+          "by": "Nur Azimah",
+          "time": "15:28"
         }
       },
       "problems": [],
