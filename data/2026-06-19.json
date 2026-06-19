@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T01:46:37.618Z",
+  "generated": "2026-06-19T01:58:15.654Z",
   "groups": [
     {
       "id": "XH",
@@ -130,14 +130,15 @@
           "pm": []
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
         "AltitudeX",
         "Le Quest",
         "Tampines 1",
-        "Northpoint City"
+        "Northpoint City",
+        "UE Square"
       ],
       "outlets_outstanding": [
         "Century Square",
@@ -152,7 +153,6 @@
         "ARTRA",
         "63 Pagoda Street",
         "9 Penang Road",
-        "UE Square",
         "The Woodleigh Mall",
         "Vivo City",
         "Chinatown Point",
@@ -182,6 +182,10 @@
         "Northpoint City": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "09:46"
+        },
+        "UE Square": {
+          "by": "Gopal",
+          "time": "09:58"
         }
       },
       "problems": [],
