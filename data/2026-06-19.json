@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T02:31:20.045Z",
+  "generated": "2026-06-19T02:31:34.730Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -140,7 +140,8 @@
         "Northpoint City",
         "UE Square",
         "Junction 9",
-        "Parc Point"
+        "Parc Point",
+        "9 Penang Road"
       ],
       "outlets_outstanding": [
         "Century Square",
@@ -152,7 +153,6 @@
         "Ngee Ann Polytechnic Block 1",
         "ARTRA",
         "63 Pagoda Street",
-        "9 Penang Road",
         "The Woodleigh Mall",
         "Vivo City",
         "Chinatown Point",
@@ -194,6 +194,10 @@
         "Parc Point": {
           "by": "Nur Azimah",
           "time": "10:30"
+        },
+        "9 Penang Road": {
+          "by": "Gopal",
+          "time": "10:31"
         }
       },
       "problems": [],
