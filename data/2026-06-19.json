@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T07:09:26.433Z",
+  "generated": "2026-06-19T07:18:54.296Z",
   "groups": [
     {
       "id": "XH",
@@ -435,7 +435,7 @@
           ]
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "CL2",
         "JP",
@@ -453,7 +453,8 @@
         "ART",
         "PS",
         "SHP",
-        "PAL"
+        "PAL",
+        "LTM"
       ],
       "outlets_outstanding": [
         "J9",
@@ -477,8 +478,7 @@
         "ACV",
         "GMM",
         "NTP",
-        "NEX",
-        "LTM"
+        "NEX"
       ],
       "done_detail": {
         "CL2": {
@@ -548,6 +548,10 @@
         "PAL": {
           "by": "Samy Kumar Meena",
           "time": "15:09"
+        },
+        "LTM": {
+          "by": "Sudhakar",
+          "time": "15:18"
         }
       },
       "problems": [],
