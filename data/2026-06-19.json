@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T07:51:12.150Z",
+  "generated": "2026-06-19T08:01:10.958Z",
   "groups": [
     {
       "id": "XH",
@@ -463,7 +463,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "CL2",
         "JP",
@@ -483,7 +483,8 @@
         "SHP",
         "PAL",
         "LTM",
-        "ACV"
+        "ACV",
+        "KNX"
       ],
       "outlets_outstanding": [
         "J9",
@@ -495,7 +496,6 @@
         "CCP",
         "BHT",
         "BOB",
-        "KNX",
         "TPM",
         "AP2",
         "R1",
@@ -584,6 +584,10 @@
         "ACV": {
           "by": "Sasi",
           "time": "15:51"
+        },
+        "KNX": {
+          "by": "Samy Kumar Meena",
+          "time": "16:01"
         }
       },
       "problems": [],
