@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T09:59:04.857Z",
+  "generated": "2026-06-19T10:00:32.336Z",
   "groups": [
     {
       "id": "XH",
@@ -499,7 +499,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 31,
       "outlets_done": [
         "CL2",
         "JP",
@@ -530,14 +530,14 @@
         "YS1",
         "NTP",
         "J9",
-        "CCP"
+        "CCP",
+        "AP2"
       ],
       "outlets_outstanding": [
         "KTB",
         "SSC2",
         "EPT",
         "TPM",
-        "AP2",
         "R1",
         "R3",
         "AP1",
@@ -664,6 +664,10 @@
         "CCP": {
           "by": "Samy Kumar Meena",
           "time": "17:59"
+        },
+        "AP2": {
+          "by": "Krishna",
+          "time": "18:00"
         }
       },
       "problems": [],
