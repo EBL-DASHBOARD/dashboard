@@ -1,0 +1,88 @@
+{
+  "date": "2026-06-20",
+  "generated": "2026-06-19T14:40:47.068Z",
+  "groups": [
+    {
+      "id": "XH",
+      "name": "Xh Delivery",
+      "total_locations": 19,
+      "am_total": 10,
+      "pm_total": 9,
+      "am_outlets": [
+        "Pasir Ris Mall",
+        "White Sands",
+        "Compass One",
+        "Punggol Plaza",
+        "Junction 8",
+        "V Hotel Lavender",
+        "Citygate",
+        "Suntec City",
+        "Hillion Mall",
+        "Far East Plaza Kiosk E"
+      ],
+      "pm_outlets": [
+        "Downtown East",
+        "Causeway Point",
+        "Waterway Point",
+        "888 Plaza",
+        "100 AM Mall",
+        "Guoco Tower",
+        "SingPost Centre",
+        "i12 Katong",
+        "313 Somerset"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Pasir Ris Mall",
+            "White Sands",
+            "Compass One",
+            "Punggol Plaza",
+            "Junction 8"
+          ],
+          "pm": [
+            "Downtown East",
+            "Causeway Point",
+            "Waterway Point",
+            "888 Plaza"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "V Hotel Lavender",
+            "Citygate",
+            "Suntec City",
+            "Hillion Mall",
+            "Far East Plaza Kiosk E"
+          ],
+          "pm": [
+            "100 AM Mall",
+            "Guoco Tower",
+            "SingPost Centre",
+            "i12 Katong",
+            "313 Somerset"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Pasir Ris Mall",
+        "White Sands",
+        "Compass One",
+        "Punggol Plaza",
+        "Junction 8",
+        "V Hotel Lavender",
+        "Citygate",
+        "Suntec City",
+        "Hillion Mall",
+        "Far East Plaza Kiosk E"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
