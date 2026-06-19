@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T02:27:19.458Z",
+  "generated": "2026-06-19T02:30:25.194Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -139,14 +139,14 @@
         "Tampines 1",
         "Northpoint City",
         "UE Square",
-        "Junction 9"
+        "Junction 9",
+        "Parc Point"
       ],
       "outlets_outstanding": [
         "Century Square",
         "Tampines Mart",
         "Hillion Mall",
         "Dairy Farm Mall",
-        "Parc Point",
         "Flavours @ NUS Uptown",
         "GENEO",
         "Ngee Ann Polytechnic Block 1",
@@ -190,6 +190,10 @@
         "Junction 9": {
           "by": "jvparthiban7",
           "time": "10:05"
+        },
+        "Parc Point": {
+          "by": "Nur Azimah",
+          "time": "10:30"
         }
       },
       "problems": [],
