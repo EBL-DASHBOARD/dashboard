@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T04:27:17.902Z",
+  "generated": "2026-06-19T04:39:00.431Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -152,10 +152,10 @@
         "Flavours @ NUS Uptown",
         "Ngee Ann Polytechnic Block 1",
         "Tampines Mart",
-        "Marina Square"
+        "Marina Square",
+        "ARTRA"
       ],
       "outlets_outstanding": [
-        "ARTRA",
         "Vivo City",
         "Compass One",
         "Punggol Coast Mall",
@@ -169,7 +169,12 @@
         "The Poiz Centre",
         "New Tech Park",
         "Causeway Point",
-        "Galaxis"
+        "Galaxis",
+        "Far East Plaza Kiosk E",
+        "313 Somerset",
+        "Plaza Singapura",
+        "Citylink",
+        "One Raffles Link"
       ],
       "done_detail": {
         "West Mall": {
@@ -255,6 +260,10 @@
         "Marina Square": {
           "by": "SEENU.C",
           "time": "12:02"
+        },
+        "ARTRA": {
+          "by": "Gopal",
+          "time": "12:39"
         }
       },
       "problems": [],
