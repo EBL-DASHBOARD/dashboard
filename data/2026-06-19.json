@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T07:28:12.545Z",
+  "generated": "2026-06-19T07:42:06.062Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 29,
+      "done": 31,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -160,7 +160,9 @@
         "One Raffles Link",
         "Fairprice Hub",
         "JEM",
-        "Waterway Point"
+        "Waterway Point",
+        "The Poiz Centre",
+        "New Tech Park"
       ],
       "outlets_outstanding": [
         "Vivo City",
@@ -168,8 +170,6 @@
         "Rivervale Mall",
         "Lazada One",
         "GRID",
-        "The Poiz Centre",
-        "New Tech Park",
         "Causeway Point",
         "Galaxis",
         "Far East Plaza Kiosk E",
@@ -292,6 +292,14 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "15:28"
+        },
+        "The Poiz Centre": {
+          "by": "boss",
+          "time": "15:42"
+        },
+        "New Tech Park": {
+          "by": "boss",
+          "time": "15:42"
         }
       },
       "problems": [],
