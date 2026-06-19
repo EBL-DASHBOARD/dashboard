@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T00:32:48.251Z",
+  "generated": "2026-06-19T00:54:23.095Z",
   "groups": [
     {
       "id": "XH",
@@ -325,15 +325,16 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "CL2"
+      ],
       "outlets_outstanding": [
         "HV2",
         "JP",
         "CCKS",
         "TRM",
         "YTP",
-        "CL2",
         "ART",
         "ARC",
         "BNV",
@@ -345,7 +346,12 @@
         "SHP",
         "KIT"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "CL2": {
+          "by": "Krishna",
+          "time": "08:54"
+        }
+      },
       "problems": [],
       "customers": null
     }
