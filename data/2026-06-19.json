@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T11:41:06.456Z",
+  "generated": "2026-06-19T11:50:31.524Z",
   "groups": [
     {
       "id": "XH",
@@ -499,7 +499,7 @@
           ]
         }
       ],
-      "done": 37,
+      "done": 38,
       "outlets_done": [
         "CL2",
         "JP",
@@ -537,11 +537,11 @@
         "SSC2",
         "R3",
         "TPM",
-        "GMM"
+        "GMM",
+        "R1"
       ],
       "outlets_outstanding": [
         "KTB",
-        "R1",
         "AP1"
       ],
       "done_detail": {
@@ -692,6 +692,10 @@
         "GMM": {
           "by": "Sasi",
           "time": "19:41"
+        },
+        "R1": {
+          "by": "Krishna",
+          "time": "19:50"
         }
       },
       "problems": [],
