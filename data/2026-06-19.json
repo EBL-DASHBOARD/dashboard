@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T01:46:16.573Z",
+  "generated": "2026-06-19T01:46:37.618Z",
   "groups": [
     {
       "id": "XH",
@@ -130,13 +130,14 @@
           "pm": []
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
         "AltitudeX",
         "Le Quest",
-        "Tampines 1"
+        "Tampines 1",
+        "Northpoint City"
       ],
       "outlets_outstanding": [
         "Century Square",
@@ -145,7 +146,6 @@
         "Dairy Farm Mall",
         "Parc Point",
         "Junction 9",
-        "Northpoint City",
         "Flavours @ NUS Uptown",
         "GENEO",
         "Ngee Ann Polytechnic Block 1",
@@ -177,6 +177,10 @@
         },
         "Tampines 1": {
           "by": "boss",
+          "time": "09:46"
+        },
+        "Northpoint City": {
+          "by": "#நVin🇮🇹🚀🔥",
           "time": "09:46"
         }
       },
