@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T04:39:02.078Z",
+  "generated": "2026-06-19T06:35:38.489Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -153,12 +153,12 @@
         "Ngee Ann Polytechnic Block 1",
         "Tampines Mart",
         "Marina Square",
-        "ARTRA"
+        "ARTRA",
+        "Punggol Coast Mall"
       ],
       "outlets_outstanding": [
         "Vivo City",
         "Compass One",
-        "Punggol Coast Mall",
         "Waterway Point",
         "Rivervale Mall",
         "Fairprice Hub",
@@ -264,6 +264,10 @@
         "ARTRA": {
           "by": "Gopal",
           "time": "12:39"
+        },
+        "Punggol Coast Mall": {
+          "by": "Nur Azimah",
+          "time": "14:35"
         }
       },
       "problems": [],
