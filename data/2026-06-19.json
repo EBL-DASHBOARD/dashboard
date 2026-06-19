@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T07:21:11.312Z",
+  "generated": "2026-06-19T07:25:53.863Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 26,
+      "done": 28,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -157,15 +157,15 @@
         "Punggol Coast Mall",
         "Eastpoint Mall",
         "Citylink",
-        "One Raffles Link"
+        "One Raffles Link",
+        "Fairprice Hub",
+        "JEM"
       ],
       "outlets_outstanding": [
         "Vivo City",
         "Compass One",
         "Waterway Point",
         "Rivervale Mall",
-        "Fairprice Hub",
-        "JEM",
         "Lazada One",
         "GRID",
         "The Poiz Centre",
@@ -280,6 +280,14 @@
         "One Raffles Link": {
           "by": "Gopal",
           "time": "15:21"
+        },
+        "Fairprice Hub": {
+          "by": "jvparthiban7",
+          "time": "15:25"
+        },
+        "JEM": {
+          "by": "jvparthiban7",
+          "time": "15:25"
         }
       },
       "problems": [],
