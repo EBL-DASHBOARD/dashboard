@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T06:35:38.489Z",
+  "generated": "2026-06-19T07:06:38.584Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -154,7 +154,8 @@
         "Tampines Mart",
         "Marina Square",
         "ARTRA",
-        "Punggol Coast Mall"
+        "Punggol Coast Mall",
+        "Eastpoint Mall"
       ],
       "outlets_outstanding": [
         "Vivo City",
@@ -165,7 +166,6 @@
         "JEM",
         "Lazada One",
         "GRID",
-        "Eastpoint Mall",
         "The Poiz Centre",
         "New Tech Park",
         "Causeway Point",
@@ -268,6 +268,10 @@
         "Punggol Coast Mall": {
           "by": "Nur Azimah",
           "time": "14:35"
+        },
+        "Eastpoint Mall": {
+          "by": "boss",
+          "time": "15:06"
         }
       },
       "problems": [],
