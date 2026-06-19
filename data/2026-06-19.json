@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T02:31:34.730Z",
+  "generated": "2026-06-19T02:39:06.067Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 10,
+      "done": 11,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -141,7 +141,8 @@
         "UE Square",
         "Junction 9",
         "Parc Point",
-        "9 Penang Road"
+        "9 Penang Road",
+        "GENEO"
       ],
       "outlets_outstanding": [
         "Century Square",
@@ -149,7 +150,6 @@
         "Hillion Mall",
         "Dairy Farm Mall",
         "Flavours @ NUS Uptown",
-        "GENEO",
         "Ngee Ann Polytechnic Block 1",
         "ARTRA",
         "63 Pagoda Street",
@@ -198,6 +198,10 @@
         "9 Penang Road": {
           "by": "Gopal",
           "time": "10:31"
+        },
+        "GENEO": {
+          "by": "jvparthiban7",
+          "time": "10:39"
         }
       },
       "problems": [],
