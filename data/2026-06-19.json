@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T04:00:00.644Z",
+  "generated": "2026-06-19T04:01:20.057Z",
   "groups": [
     {
       "id": "XH",
@@ -414,7 +414,7 @@
           ]
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "CL2",
         "JP",
@@ -429,10 +429,10 @@
         "HV2",
         "TRM",
         "BQ",
-        "ART"
+        "ART",
+        "PS"
       ],
       "outlets_outstanding": [
-        "PS",
         "SHP",
         "J9",
         "KTB",
@@ -515,6 +515,10 @@
         "ART": {
           "by": "Krishna",
           "time": "11:48"
+        },
+        "PS": {
+          "by": "Sasi",
+          "time": "12:01"
         }
       },
       "problems": [],
