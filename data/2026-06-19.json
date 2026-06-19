@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T03:45:54.737Z",
+  "generated": "2026-06-19T03:46:55.844Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -150,10 +150,10 @@
         "Dairy Farm Mall",
         "The Woodleigh Mall",
         "Flavours @ NUS Uptown",
-        "Ngee Ann Polytechnic Block 1"
+        "Ngee Ann Polytechnic Block 1",
+        "Tampines Mart"
       ],
       "outlets_outstanding": [
-        "Tampines Mart",
         "ARTRA",
         "Vivo City",
         "Marina Square",
@@ -164,7 +164,12 @@
         "Fairprice Hub",
         "JEM",
         "Lazada One",
-        "GRID"
+        "GRID",
+        "Eastpoint Mall",
+        "The Poiz Centre",
+        "New Tech Park",
+        "Causeway Point",
+        "Galaxis"
       ],
       "done_detail": {
         "West Mall": {
@@ -242,6 +247,10 @@
         "Ngee Ann Polytechnic Block 1": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "11:45"
+        },
+        "Tampines Mart": {
+          "by": "boss",
+          "time": "11:46"
         }
       },
       "problems": [],
