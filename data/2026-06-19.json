@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T03:45:28.592Z",
+  "generated": "2026-06-19T03:45:52.601Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 17,
+      "done": 19,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -148,19 +148,23 @@
         "Hillion Mall",
         "Chinatown Point",
         "Dairy Farm Mall",
-        "The Woodleigh Mall"
+        "The Woodleigh Mall",
+        "Flavours @ NUS Uptown",
+        "Ngee Ann Polytechnic Block 1"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
-        "Flavours @ NUS Uptown",
-        "Ngee Ann Polytechnic Block 1",
         "ARTRA",
         "Vivo City",
         "Marina Square",
         "Compass One",
         "Punggol Coast Mall",
         "Waterway Point",
-        "Rivervale Mall"
+        "Rivervale Mall",
+        "Fairprice Hub",
+        "JEM",
+        "Lazada One",
+        "GRID"
       ],
       "done_detail": {
         "West Mall": {
@@ -229,6 +233,14 @@
         },
         "The Woodleigh Mall": {
           "by": "Gopal",
+          "time": "11:45"
+        },
+        "Flavours @ NUS Uptown": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "11:45"
+        },
+        "Ngee Ann Polytechnic Block 1": {
+          "by": "#நVin🇮🇹🚀🔥",
           "time": "11:45"
         }
       },
