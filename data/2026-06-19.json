@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T04:01:20.057Z",
+  "generated": "2026-06-19T04:02:55.875Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -151,12 +151,12 @@
         "The Woodleigh Mall",
         "Flavours @ NUS Uptown",
         "Ngee Ann Polytechnic Block 1",
-        "Tampines Mart"
+        "Tampines Mart",
+        "Marina Square"
       ],
       "outlets_outstanding": [
         "ARTRA",
         "Vivo City",
-        "Marina Square",
         "Compass One",
         "Punggol Coast Mall",
         "Waterway Point",
@@ -251,6 +251,10 @@
         "Tampines Mart": {
           "by": "boss",
           "time": "11:46"
+        },
+        "Marina Square": {
+          "by": "SEENU.C",
+          "time": "12:02"
         }
       },
       "problems": [],
