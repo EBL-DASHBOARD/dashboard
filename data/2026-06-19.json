@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T08:19:15.048Z",
+  "generated": "2026-06-19T08:24:20.936Z",
   "groups": [
     {
       "id": "XH",
@@ -467,7 +467,7 @@
           ]
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "CL2",
         "JP",
@@ -488,7 +488,8 @@
         "PAL",
         "LTM",
         "ACV",
-        "KNX"
+        "KNX",
+        "R4"
       ],
       "outlets_outstanding": [
         "J9",
@@ -503,7 +504,6 @@
         "TPM",
         "AP2",
         "R1",
-        "R4",
         "R3",
         "AP4",
         "AP1",
@@ -592,6 +592,10 @@
         "KNX": {
           "by": "Samy Kumar Meena",
           "time": "16:01"
+        },
+        "R4": {
+          "by": "Krishna",
+          "time": "16:24"
         }
       },
       "problems": [],
