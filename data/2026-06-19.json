@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-06-19T03:16:35.206Z",
+  "generated": "2026-06-19T03:17:11.809Z",
   "groups": [
     {
       "id": "XH",
@@ -130,7 +130,7 @@
           "pm": []
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "West Mall",
         "Institute of Mental Health",
@@ -145,7 +145,8 @@
         "GENEO",
         "Century Square",
         "63 Pagoda Street",
-        "Hillion Mall"
+        "Hillion Mall",
+        "Chinatown Point"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
@@ -155,7 +156,6 @@
         "ARTRA",
         "The Woodleigh Mall",
         "Vivo City",
-        "Chinatown Point",
         "Marina Square"
       ],
       "done_detail": {
@@ -214,6 +214,10 @@
         "Hillion Mall": {
           "by": "Nur Azimah",
           "time": "11:01"
+        },
+        "Chinatown Point": {
+          "by": "SEENU.C",
+          "time": "11:17"
         }
       },
       "problems": [],
