@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T07:49:06.295Z",
+  "generated": "2026-06-20T07:51:28.587Z",
   "groups": [
     {
       "id": "XH",
@@ -314,7 +314,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -342,13 +342,13 @@
         "PAL",
         "KEB",
         "MARS",
-        "EPT"
+        "EPT",
+        "PECC"
       ],
       "outlets_outstanding": [
         "JKN",
         "JP",
         "IM",
-        "PECC",
         "TPM",
         "TNC2",
         "CKCC",
@@ -484,6 +484,10 @@
         "EPT": {
           "by": "Samy Kumar Meena",
           "time": "15:49"
+        },
+        "PECC": {
+          "by": "viknesh3029n",
+          "time": "15:51"
         }
       },
       "problems": [],
