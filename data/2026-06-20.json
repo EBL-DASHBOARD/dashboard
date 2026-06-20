@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T01:05:16.675Z",
+  "generated": "2026-06-20T01:10:28.786Z",
   "groups": [
     {
       "id": "XH",
@@ -66,10 +66,11 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "Pasir Ris Mall",
-        "White Sands"
+        "White Sands",
+        "Hillion Mall"
       ],
       "outlets_outstanding": [
         "Compass One",
@@ -78,7 +79,6 @@
         "V Hotel Lavender",
         "Citygate",
         "Suntec City",
-        "Hillion Mall",
         "Far East Plaza Kiosk E"
       ],
       "done_detail": {
@@ -89,6 +89,10 @@
         "White Sands": {
           "by": "boss",
           "time": "09:02"
+        },
+        "Hillion Mall": {
+          "by": "jvparthiban7",
+          "time": "09:10"
         }
       },
       "problems": [],
