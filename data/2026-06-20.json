@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T02:08:29.896Z",
+  "generated": "2026-06-20T02:12:48.193Z",
   "groups": [
     {
       "id": "XH",
@@ -265,13 +265,14 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "YTP",
         "WXI",
         "DV",
         "CCKS",
-        "WSM"
+        "WSM",
+        "TY"
       ],
       "outlets_outstanding": [
         "STC",
@@ -284,7 +285,6 @@
         "KH",
         "TRM",
         "KIT",
-        "TY",
         "KLP",
         "SHP",
         "BNV",
@@ -315,6 +315,10 @@
         "WSM": {
           "by": "Kishanthsuresh",
           "time": "10:08"
+        },
+        "TY": {
+          "by": "Sasi",
+          "time": "10:12"
         }
       },
       "problems": [],
