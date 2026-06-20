@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T03:26:48.885Z",
+  "generated": "2026-06-20T03:28:07.461Z",
   "groups": [
     {
       "id": "XH",
@@ -66,7 +66,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "Pasir Ris Mall",
         "White Sands",
@@ -75,11 +75,16 @@
         "Suntec City",
         "Compass One",
         "Punggol Plaza",
-        "Citygate"
+        "Citygate",
+        "Far East Plaza Kiosk E"
       ],
       "outlets_outstanding": [
         "Junction 8",
-        "Far East Plaza Kiosk E"
+        "100 AM Mall",
+        "Guoco Tower",
+        "SingPost Centre",
+        "i12 Katong",
+        "313 Somerset"
       ],
       "done_detail": {
         "Pasir Ris Mall": {
@@ -113,6 +118,10 @@
         "Citygate": {
           "by": "jvparthiban7",
           "time": "11:13"
+        },
+        "Far East Plaza Kiosk E": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "11:28"
         }
       },
       "problems": [],
