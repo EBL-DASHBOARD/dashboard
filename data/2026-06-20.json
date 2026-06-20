@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T07:02:43.820Z",
+  "generated": "2026-06-20T07:04:55.319Z",
   "groups": [
     {
       "id": "XH",
@@ -310,7 +310,7 @@
           ]
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -333,7 +333,8 @@
         "VIVO",
         "KRC",
         "MSQ",
-        "KIT"
+        "KIT",
+        "KNX"
       ],
       "outlets_outstanding": [
         "JKN",
@@ -343,7 +344,6 @@
         "TPM",
         "TNC2",
         "CKCC",
-        "KNX",
         "EPT",
         "CCP",
         "PAL",
@@ -460,6 +460,10 @@
         "KIT": {
           "by": "Sasi",
           "time": "12:42"
+        },
+        "KNX": {
+          "by": "viknesh3029n",
+          "time": "15:04"
         }
       },
       "problems": [],
