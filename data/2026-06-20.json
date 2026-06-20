@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T10:53:31.042Z",
+  "generated": "2026-06-20T11:11:52.675Z",
   "groups": [
     {
       "id": "XH",
@@ -66,7 +66,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 17,
       "outlets_done": [
         "Pasir Ris Mall",
         "White Sands",
@@ -82,11 +82,11 @@
         "313 Somerset",
         "100 AM Mall",
         "Downtown East",
-        "Waterway Point"
+        "Waterway Point",
+        "Guoco Tower",
+        "SingPost Centre"
       ],
       "outlets_outstanding": [
-        "Guoco Tower",
-        "SingPost Centre",
         "Causeway Point",
         "888 Plaza"
       ],
@@ -150,6 +150,14 @@
         "Waterway Point": {
           "by": "boss",
           "time": "15:56"
+        },
+        "Guoco Tower": {
+          "by": "jvparthiban7",
+          "time": "19:11"
+        },
+        "SingPost Centre": {
+          "by": "jvparthiban7",
+          "time": "19:11"
         }
       },
       "problems": [],
