@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T04:11:03.951Z",
+  "generated": "2026-06-20T04:11:51.801Z",
   "groups": [
     {
       "id": "XH",
@@ -294,7 +294,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -313,13 +313,13 @@
         "TRM",
         "BQ",
         "KLP",
-        "TGCC"
+        "TGCC",
+        "VIVO"
       ],
       "outlets_outstanding": [
         "MSQ",
         "KIT",
         "KRC",
-        "VIVO",
         "JKN",
         "JP",
         "IM",
@@ -427,6 +427,10 @@
         },
         "TGCC": {
           "by": "Samy Kumar Meena",
+          "time": "12:11"
+        },
+        "VIVO": {
+          "by": "Krishna",
           "time": "12:11"
         }
       },
