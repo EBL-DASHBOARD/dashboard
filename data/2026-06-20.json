@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T11:13:27.813Z",
+  "generated": "2026-06-20T11:16:43.533Z",
   "groups": [
     {
       "id": "XH",
@@ -337,7 +337,7 @@
           ]
         }
       ],
-      "done": 44,
+      "done": 45,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -382,14 +382,14 @@
         "TPM",
         "AP2",
         "LOY",
-        "WIS"
+        "WIS",
+        "PDD"
       ],
       "outlets_outstanding": [
         "JKN",
         "JP",
         "IM",
         "HRC",
-        "PDD",
         "R3",
         "R1",
         "NTP",
@@ -575,6 +575,10 @@
         "WIS": {
           "by": "Sudhakar",
           "time": "18:53"
+        },
+        "PDD": {
+          "by": "Sasi",
+          "time": "19:16"
         }
       },
       "problems": [],
