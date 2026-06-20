@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T02:55:01.408Z",
+  "generated": "2026-06-20T02:55:51.493Z",
   "groups": [
     {
       "id": "XH",
@@ -66,17 +66,17 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 7,
       "outlets_done": [
         "Pasir Ris Mall",
         "White Sands",
         "Hillion Mall",
         "V Hotel Lavender",
-        "Suntec City"
+        "Suntec City",
+        "Compass One",
+        "Punggol Plaza"
       ],
       "outlets_outstanding": [
-        "Compass One",
-        "Punggol Plaza",
         "Junction 8",
         "Citygate",
         "Far East Plaza Kiosk E"
@@ -101,6 +101,14 @@
         "Suntec City": {
           "by": "jvparthiban7",
           "time": "10:53"
+        },
+        "Compass One": {
+          "by": "boss",
+          "time": "10:55"
+        },
+        "Punggol Plaza": {
+          "by": "boss",
+          "time": "10:55"
         }
       },
       "problems": [],
