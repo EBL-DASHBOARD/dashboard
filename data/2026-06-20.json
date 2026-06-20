@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T07:04:55.319Z",
+  "generated": "2026-06-20T07:06:44.340Z",
   "groups": [
     {
       "id": "XH",
@@ -310,7 +310,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -334,7 +334,8 @@
         "KRC",
         "MSQ",
         "KIT",
-        "KNX"
+        "KNX",
+        "PAL"
       ],
       "outlets_outstanding": [
         "JKN",
@@ -346,7 +347,6 @@
         "CKCC",
         "EPT",
         "CCP",
-        "PAL",
         "AP1",
         "LOY",
         "HRC",
@@ -464,6 +464,10 @@
         "KNX": {
           "by": "viknesh3029n",
           "time": "15:04"
+        },
+        "PAL": {
+          "by": "Samy Kumar Meena",
+          "time": "15:06"
         }
       },
       "problems": [],
