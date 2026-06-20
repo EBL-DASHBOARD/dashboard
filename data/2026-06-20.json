@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T01:36:39.478Z",
+  "generated": "2026-06-20T02:08:29.896Z",
   "groups": [
     {
       "id": "XH",
@@ -265,12 +265,13 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "YTP",
         "WXI",
         "DV",
-        "CCKS"
+        "CCKS",
+        "WSM"
       ],
       "outlets_outstanding": [
         "STC",
@@ -292,7 +293,6 @@
         "TIO",
         "JKN",
         "JP",
-        "WSM",
         "IM"
       ],
       "done_detail": {
@@ -311,6 +311,10 @@
         "CCKS": {
           "by": "Samy Kumar Meena",
           "time": "09:36"
+        },
+        "WSM": {
+          "by": "Kishanthsuresh",
+          "time": "10:08"
         }
       },
       "problems": [],
