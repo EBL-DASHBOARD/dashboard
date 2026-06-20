@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T08:40:30.075Z",
+  "generated": "2026-06-20T09:02:38.900Z",
   "groups": [
     {
       "id": "XH",
@@ -322,7 +322,7 @@
           ]
         }
       ],
-      "done": 31,
+      "done": 32,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -354,7 +354,8 @@
         "PECC",
         "R4",
         "FEN",
-        "SSC2"
+        "SSC2",
+        "AP1"
       ],
       "outlets_outstanding": [
         "JKN",
@@ -364,7 +365,6 @@
         "TNC2",
         "CKCC",
         "CCP",
-        "AP1",
         "LOY",
         "HRC",
         "PDD",
@@ -508,6 +508,10 @@
         "SSC2": {
           "by": "Sudhakar",
           "time": "16:40"
+        },
+        "AP1": {
+          "by": "Samy Kumar Meena",
+          "time": "17:02"
         }
       },
       "problems": [],
