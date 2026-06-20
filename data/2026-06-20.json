@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T07:27:41.567Z",
+  "generated": "2026-06-20T07:33:48.761Z",
   "groups": [
     {
       "id": "XH",
@@ -66,7 +66,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "Pasir Ris Mall",
         "White Sands",
@@ -79,10 +79,10 @@
         "Far East Plaza Kiosk E",
         "Junction 8",
         "i12 Katong",
-        "313 Somerset"
+        "313 Somerset",
+        "100 AM Mall"
       ],
       "outlets_outstanding": [
-        "100 AM Mall",
         "Guoco Tower",
         "SingPost Centre",
         "Downtown East",
@@ -138,6 +138,10 @@
         "313 Somerset": {
           "by": "jvparthiban7",
           "time": "15:02"
+        },
+        "100 AM Mall": {
+          "by": "jvparthiban7",
+          "time": "15:33"
         }
       },
       "problems": [],
