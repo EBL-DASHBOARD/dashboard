@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T10:34:46.099Z",
+  "generated": "2026-06-20T10:53:31.042Z",
   "groups": [
     {
       "id": "XH",
@@ -322,7 +322,7 @@
           ]
         }
       ],
-      "done": 43,
+      "done": 44,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -366,7 +366,8 @@
         "WWP",
         "TPM",
         "AP2",
-        "LOY"
+        "LOY",
+        "WIS"
       ],
       "outlets_outstanding": [
         "JKN",
@@ -381,7 +382,6 @@
         "BOB",
         "BHT",
         "VIVA",
-        "WIS",
         "LTM"
       ],
       "done_detail": {
@@ -556,6 +556,10 @@
         "LOY": {
           "by": "Samy Kumar Meena",
           "time": "18:34"
+        },
+        "WIS": {
+          "by": "Sudhakar",
+          "time": "18:53"
         }
       },
       "problems": [],
