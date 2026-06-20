@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T10:21:33.784Z",
+  "generated": "2026-06-20T10:33:50.215Z",
   "groups": [
     {
       "id": "XH",
@@ -322,7 +322,7 @@
           ]
         }
       ],
-      "done": 41,
+      "done": 42,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -364,7 +364,8 @@
         "TNC2",
         "J9",
         "WWP",
-        "TPM"
+        "TPM",
+        "AP2"
       ],
       "outlets_outstanding": [
         "JKN",
@@ -373,7 +374,6 @@
         "LOY",
         "HRC",
         "PDD",
-        "AP2",
         "R3",
         "R1",
         "NTP",
@@ -548,6 +548,10 @@
         "TPM": {
           "by": "viknesh3029n",
           "time": "18:21"
+        },
+        "AP2": {
+          "by": "Krishna",
+          "time": "18:33"
         }
       },
       "problems": [],
