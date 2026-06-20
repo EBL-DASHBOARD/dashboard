@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T08:20:26.817Z",
+  "generated": "2026-06-20T08:40:30.075Z",
   "groups": [
     {
       "id": "XH",
@@ -322,7 +322,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 31,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -353,7 +353,8 @@
         "EPT",
         "PECC",
         "R4",
-        "FEN"
+        "FEN",
+        "SSC2"
       ],
       "outlets_outstanding": [
         "JKN",
@@ -380,7 +381,6 @@
         "VIVA",
         "YS1",
         "J9",
-        "SSC2",
         "WIS",
         "LTM"
       ],
@@ -504,6 +504,10 @@
         "FEN": {
           "by": "Sasi",
           "time": "16:20"
+        },
+        "SSC2": {
+          "by": "Sudhakar",
+          "time": "16:40"
         }
       },
       "problems": [],
