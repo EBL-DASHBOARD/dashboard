@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T02:30:54.596Z",
+  "generated": "2026-06-20T02:53:09.198Z",
   "groups": [
     {
       "id": "XH",
@@ -66,19 +66,19 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 5,
       "outlets_done": [
         "Pasir Ris Mall",
         "White Sands",
-        "Hillion Mall"
+        "Hillion Mall",
+        "V Hotel Lavender",
+        "Suntec City"
       ],
       "outlets_outstanding": [
         "Compass One",
         "Punggol Plaza",
         "Junction 8",
-        "V Hotel Lavender",
         "Citygate",
-        "Suntec City",
         "Far East Plaza Kiosk E"
       ],
       "done_detail": {
@@ -93,6 +93,14 @@
         "Hillion Mall": {
           "by": "jvparthiban7",
           "time": "09:10"
+        },
+        "V Hotel Lavender": {
+          "by": "jvparthiban7",
+          "time": "10:53"
+        },
+        "Suntec City": {
+          "by": "jvparthiban7",
+          "time": "10:53"
         }
       },
       "problems": [],
