@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T03:20:11.814Z",
+  "generated": "2026-06-20T03:26:48.885Z",
   "groups": [
     {
       "id": "XH",
@@ -285,7 +285,7 @@
           ]
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -300,13 +300,13 @@
         "STC",
         "CT",
         "BS",
-        "TIO"
+        "TIO",
+        "TRM"
       ],
       "outlets_outstanding": [
         "MSQ",
         "BQ",
         "TGCC",
-        "TRM",
         "KIT",
         "KLP",
         "KRC",
@@ -371,6 +371,10 @@
         "TIO": {
           "by": "Krishna",
           "time": "11:20"
+        },
+        "TRM": {
+          "by": "Samy Kumar Meena",
+          "time": "11:26"
         }
       },
       "problems": [],
