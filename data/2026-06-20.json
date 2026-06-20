@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T02:55:51.493Z",
+  "generated": "2026-06-20T02:59:54.416Z",
   "groups": [
     {
       "id": "XH",
@@ -281,7 +281,7 @@
           ]
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -291,7 +291,8 @@
         "TY",
         "KH",
         "BNV",
-        "SHP"
+        "SHP",
+        "BPP"
       ],
       "outlets_outstanding": [
         "STC",
@@ -299,7 +300,6 @@
         "BS",
         "MSQ",
         "BQ",
-        "BPP",
         "TGCC",
         "TRM",
         "KIT",
@@ -347,6 +347,10 @@
         "SHP": {
           "by": "Sasi",
           "time": "10:55"
+        },
+        "BPP": {
+          "by": "Samy Kumar Meena",
+          "time": "10:59"
         }
       },
       "problems": [],
