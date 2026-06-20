@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T07:42:21.267Z",
+  "generated": "2026-06-20T07:49:06.295Z",
   "groups": [
     {
       "id": "XH",
@@ -314,7 +314,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -341,7 +341,8 @@
         "KNX",
         "PAL",
         "KEB",
-        "MARS"
+        "MARS",
+        "EPT"
       ],
       "outlets_outstanding": [
         "JKN",
@@ -351,7 +352,6 @@
         "TPM",
         "TNC2",
         "CKCC",
-        "EPT",
         "CCP",
         "AP1",
         "LOY",
@@ -480,6 +480,10 @@
         "MARS": {
           "by": "Sudhakar",
           "time": "15:42"
+        },
+        "EPT": {
+          "by": "Samy Kumar Meena",
+          "time": "15:49"
         }
       },
       "problems": [],
