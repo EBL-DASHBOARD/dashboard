@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T03:16:43.610Z",
+  "generated": "2026-06-20T03:16:51.304Z",
   "groups": [
     {
       "id": "XH",
@@ -285,7 +285,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -298,10 +298,10 @@
         "SHP",
         "BPP",
         "STC",
-        "CT"
+        "CT",
+        "BS"
       ],
       "outlets_outstanding": [
-        "BS",
         "MSQ",
         "BQ",
         "TGCC",
@@ -361,6 +361,10 @@
           "time": "11:16"
         },
         "CT": {
+          "by": "viknesh3029n",
+          "time": "11:16"
+        },
+        "BS": {
           "by": "viknesh3029n",
           "time": "11:16"
         }
