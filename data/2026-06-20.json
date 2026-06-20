@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T07:33:48.761Z",
+  "generated": "2026-06-20T07:42:21.267Z",
   "groups": [
     {
       "id": "XH",
@@ -314,7 +314,7 @@
           ]
         }
       ],
-      "done": 25,
+      "done": 26,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -340,7 +340,8 @@
         "KIT",
         "KNX",
         "PAL",
-        "KEB"
+        "KEB",
+        "MARS"
       ],
       "outlets_outstanding": [
         "JKN",
@@ -371,7 +372,6 @@
         "VIVA",
         "YS1",
         "J9",
-        "MARS",
         "SSC2",
         "WIS",
         "LTM"
@@ -476,6 +476,10 @@
         "KEB": {
           "by": "Sasi",
           "time": "15:27"
+        },
+        "MARS": {
+          "by": "Sudhakar",
+          "time": "15:42"
         }
       },
       "problems": [],
