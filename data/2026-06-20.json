@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T11:42:45.709Z",
+  "generated": "2026-06-20T11:52:44.943Z",
   "groups": [
     {
       "id": "XH",
@@ -337,7 +337,7 @@
           ]
         }
       ],
-      "done": 46,
+      "done": 47,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -384,7 +384,8 @@
         "LOY",
         "WIS",
         "PDD",
-        "R3"
+        "R3",
+        "LTM"
       ],
       "outlets_outstanding": [
         "JKN",
@@ -396,8 +397,7 @@
         "NEX",
         "BOB",
         "BHT",
-        "VIVA",
-        "LTM"
+        "VIVA"
       ],
       "done_detail": {
         "YTP": {
@@ -583,6 +583,10 @@
         "R3": {
           "by": "Krishna",
           "time": "19:42"
+        },
+        "LTM": {
+          "by": "Sudhakar",
+          "time": "19:52"
         }
       },
       "problems": [],
