@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-06-20T03:55:19.379Z",
+  "generated": "2026-06-20T04:00:02.399Z",
   "groups": [
     {
       "id": "XH",
@@ -322,7 +322,39 @@
         "VIVO",
         "JKN",
         "JP",
-        "IM"
+        "IM",
+        "PECC",
+        "TPM",
+        "TNC2",
+        "CKCC",
+        "KNX",
+        "EPT",
+        "CCP",
+        "PAL",
+        "AP1",
+        "LOY",
+        "HRC",
+        "PDD",
+        "KEB",
+        "WWP",
+        "FEN",
+        "ACV",
+        "AP2",
+        "R4",
+        "AP4",
+        "R3",
+        "R1",
+        "NTP",
+        "NEX",
+        "BOB",
+        "BHT",
+        "VIVA",
+        "YS1",
+        "J9",
+        "MARS",
+        "SSC2",
+        "WIS",
+        "LTM"
       ],
       "done_detail": {
         "YTP": {
