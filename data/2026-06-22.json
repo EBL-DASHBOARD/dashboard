@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-21T12:39:48.448Z",
+  "generated": "2026-06-21T12:41:29.356Z",
   "groups": [
     {
       "id": "XH",
@@ -175,6 +175,53 @@
         "Ngee Ann Polytechnic Block 1",
         "Parc Point",
         "Alexandra Technopark B"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "XHNIGHT",
+      "name": "Xh Delivery (Night)",
+      "total_locations": 8,
+      "am_total": 4,
+      "pm_total": 4,
+      "am_outlets": [
+        "PLQ Tower 1",
+        "Aperia Mall",
+        "Ngee Ann City",
+        "Tangs Plaza Kiosk 2"
+      ],
+      "pm_outlets": [
+        "One Raffles Place Tower 2",
+        "Collyer Quay",
+        "Royal Group Building",
+        "NUH Medical Centre"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "PLQ Tower 1",
+            "Aperia Mall",
+            "Ngee Ann City",
+            "Tangs Plaza Kiosk 2"
+          ],
+          "pm": [
+            "One Raffles Place Tower 2",
+            "Collyer Quay",
+            "Royal Group Building",
+            "NUH Medical Centre"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "PLQ Tower 1",
+        "Aperia Mall",
+        "Ngee Ann City",
+        "Tangs Plaza Kiosk 2"
       ],
       "done_detail": {},
       "problems": [],
