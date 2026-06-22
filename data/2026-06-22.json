@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T08:53:11.085Z",
+  "generated": "2026-06-22T09:08:23.984Z",
   "groups": [
     {
       "id": "XH",
@@ -547,7 +547,7 @@
           ]
         }
       ],
-      "done": 32,
+      "done": 33,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -580,7 +580,8 @@
         "BOB",
         "NTP",
         "CKCC",
-        "TPM"
+        "TPM",
+        "AP4"
       ],
       "outlets_outstanding": [
         "KH",
@@ -598,7 +599,6 @@
         "AP2",
         "R3",
         "AP1",
-        "AP4",
         "R1",
         "YS1",
         "WIS"
@@ -731,6 +731,10 @@
         "TPM": {
           "by": "Rajesh",
           "time": "16:53"
+        },
+        "AP4": {
+          "by": "Krishna",
+          "time": "17:08"
         }
       },
       "problems": [],
