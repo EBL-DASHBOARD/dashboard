@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T02:35:08.430Z",
+  "generated": "2026-06-22T02:41:58.568Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 10,
+      "done": 11,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -158,7 +158,8 @@
         "Hougang Mall",
         "63 Pagoda Street",
         "Hillion Mall",
-        "Tampines 1"
+        "Tampines 1",
+        "AltitudeX"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -170,7 +171,6 @@
         "Northpoint City",
         "Woods Square",
         "Vivocity",
-        "AltitudeX",
         "HarbourFront Tower 1",
         "ARTRA",
         "GENEO",
@@ -217,6 +217,10 @@
         "Tampines 1": {
           "by": "boss",
           "time": "10:32"
+        },
+        "AltitudeX": {
+          "by": "Rsathiyaselvi",
+          "time": "10:41"
         }
       },
       "problems": [],
