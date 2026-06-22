@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T06:34:39.206Z",
+  "generated": "2026-06-22T06:51:05.788Z",
   "groups": [
     {
       "id": "XH",
@@ -507,7 +507,7 @@
           ]
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -528,7 +528,8 @@
         "KRC",
         "TIO",
         "KIT",
-        "ART"
+        "ART",
+        "PAL"
       ],
       "outlets_outstanding": [
         "KH",
@@ -542,7 +543,6 @@
         "KNX",
         "VIVA",
         "BOB",
-        "PAL",
         "BHT",
         "EPT",
         "CCP",
@@ -643,6 +643,10 @@
         "ART": {
           "by": "Krishna",
           "time": "12:53"
+        },
+        "PAL": {
+          "by": "Samy Kumar Meena",
+          "time": "14:51"
         }
       },
       "problems": [],
