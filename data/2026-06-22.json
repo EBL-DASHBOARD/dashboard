@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T02:09:43.521Z",
+  "generated": "2026-06-22T02:23:04.794Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -155,7 +155,8 @@
         "Zhongshan Mall",
         "Le Quest",
         "Alexandra Technopark B",
-        "Hougang Mall"
+        "Hougang Mall",
+        "63 Pagoda Street"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -173,7 +174,6 @@
         "HarbourFront Tower 1",
         "ARTRA",
         "GENEO",
-        "63 Pagoda Street",
         "Ngee Ann Polytechnic Block 1",
         "Parc Point"
       ],
@@ -205,6 +205,10 @@
         "Hougang Mall": {
           "by": "Manikandan.P",
           "time": "09:52"
+        },
+        "63 Pagoda Street": {
+          "by": "SEENU.C",
+          "time": "10:23"
         }
       },
       "problems": [],
