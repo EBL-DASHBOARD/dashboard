@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T03:00:48.141Z",
+  "generated": "2026-06-22T03:01:27.567Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -159,11 +159,11 @@
         "63 Pagoda Street",
         "Hillion Mall",
         "Tampines 1",
-        "AltitudeX"
+        "AltitudeX",
+        "The Woodleigh Mall"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
-        "The Woodleigh Mall",
         "Tampines Mart",
         "Century Square",
         "Dairy Farm Mall",
@@ -221,6 +221,10 @@
         "AltitudeX": {
           "by": "Rsathiyaselvi",
           "time": "10:41"
+        },
+        "The Woodleigh Mall": {
+          "by": "jvparthiban7",
+          "time": "11:01"
         }
       },
       "problems": [],
