@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T03:18:50.481Z",
+  "generated": "2026-06-22T03:34:30.376Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -164,7 +164,8 @@
         "Northpoint City",
         "Ngee Ann Polytechnic Block 1",
         "Vivocity",
-        "Dairy Farm Mall"
+        "Dairy Farm Mall",
+        "Parc Point"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -175,7 +176,6 @@
         "HarbourFront Tower 1",
         "ARTRA",
         "GENEO",
-        "Parc Point",
         "Compass One",
         "Rivervale Mall",
         "Causeway Point",
@@ -245,6 +245,10 @@
         "Dairy Farm Mall": {
           "by": "Nur Azimah",
           "time": "11:18"
+        },
+        "Parc Point": {
+          "by": "SEENU.C",
+          "time": "11:34"
         }
       },
       "problems": [],
