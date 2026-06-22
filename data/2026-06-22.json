@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T04:57:17.060Z",
+  "generated": "2026-06-22T05:00:12.151Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -172,10 +172,10 @@
         "Junction 9",
         "Tanah Merah Ferry Terminal",
         "ARTRA",
-        "GENEO"
+        "GENEO",
+        "Woods Square"
       ],
       "outlets_outstanding": [
-        "Woods Square",
         "Compass One",
         "Rivervale Mall",
         "Causeway Point",
@@ -192,7 +192,11 @@
         "Westgate Tower",
         "JEM",
         "Fairprice Hub",
-        "Flavours @ NUS Uptown"
+        "Flavours @ NUS Uptown",
+        "Chinatown Point",
+        "Icon Link",
+        "Galaxis",
+        "Mapletree Business City"
       ],
       "done_detail": {
         "West Mall": {
@@ -290,6 +294,10 @@
         "GENEO": {
           "by": "Rsathiyaselvi",
           "time": "12:57"
+        },
+        "Woods Square": {
+          "by": "Manikandan.P",
+          "time": "13:00"
         }
       },
       "problems": [],
