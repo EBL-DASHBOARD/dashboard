@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T03:51:23.789Z",
+  "generated": "2026-06-22T03:59:16.381Z",
   "groups": [
     {
       "id": "XH",
@@ -467,7 +467,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -484,10 +484,10 @@
         "BNV",
         "VIVO",
         "WSM",
-        "PS"
+        "PS",
+        "KRC"
       ],
       "outlets_outstanding": [
-        "KRC",
         "KH",
         "KIT",
         "TIO",
@@ -559,6 +559,10 @@
         "PS": {
           "by": "Sasi",
           "time": "11:45"
+        },
+        "KRC": {
+          "by": "Rajesh",
+          "time": "11:59"
         }
       },
       "problems": [],
