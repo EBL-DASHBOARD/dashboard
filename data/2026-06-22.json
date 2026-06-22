@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T03:18:20.872Z",
+  "generated": "2026-06-22T03:18:48.775Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -163,19 +163,23 @@
         "The Woodleigh Mall",
         "Northpoint City",
         "Ngee Ann Polytechnic Block 1",
-        "Vivocity"
+        "Vivocity",
+        "Dairy Farm Mall"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "Tampines Mart",
         "Century Square",
-        "Dairy Farm Mall",
         "Junction 9",
         "Woods Square",
         "HarbourFront Tower 1",
         "ARTRA",
         "GENEO",
-        "Parc Point"
+        "Parc Point",
+        "Compass One",
+        "Rivervale Mall",
+        "Causeway Point",
+        "Waterway Point"
       ],
       "done_detail": {
         "West Mall": {
@@ -236,6 +240,10 @@
         },
         "Vivocity": {
           "by": "Rsathiyaselvi",
+          "time": "11:18"
+        },
+        "Dairy Farm Mall": {
+          "by": "Nur Azimah",
           "time": "11:18"
         }
       },
