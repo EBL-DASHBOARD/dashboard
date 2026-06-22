@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T09:30:26.467Z",
+  "generated": "2026-06-22T09:38:53.070Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 42,
+      "done": 43,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -190,13 +190,13 @@
         "Punggol Coast Mall",
         "Far East Plaza Kiosk E",
         "V Hotel Lavender",
-        "Causeway Point"
+        "Causeway Point",
+        "Flavours @ NUS Uptown"
       ],
       "outlets_outstanding": [
         "Eastpoint Mall",
         "313 Somerset",
-        "New Tech Park",
-        "Flavours @ NUS Uptown"
+        "New Tech Park"
       ],
       "done_detail": {
         "West Mall": {
@@ -366,6 +366,10 @@
         "Causeway Point": {
           "by": "Nur Azimah",
           "time": "17:30"
+        },
+        "Flavours @ NUS Uptown": {
+          "by": "Rsathiyaselvi",
+          "time": "17:38"
         }
       },
       "problems": [],
