@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T03:10:42.990Z",
+  "generated": "2026-06-22T03:18:01.326Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -162,7 +162,8 @@
         "AltitudeX",
         "The Woodleigh Mall",
         "Northpoint City",
-        "Ngee Ann Polytechnic Block 1"
+        "Ngee Ann Polytechnic Block 1",
+        "Vivocity"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -171,7 +172,6 @@
         "Dairy Farm Mall",
         "Junction 9",
         "Woods Square",
-        "Vivocity",
         "HarbourFront Tower 1",
         "ARTRA",
         "GENEO",
@@ -233,6 +233,10 @@
         "Ngee Ann Polytechnic Block 1": {
           "by": "SEENU.C",
           "time": "11:06"
+        },
+        "Vivocity": {
+          "by": "Rsathiyaselvi",
+          "time": "11:18"
         }
       },
       "problems": [],
