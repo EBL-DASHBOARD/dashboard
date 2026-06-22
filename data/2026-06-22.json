@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T07:44:52.740Z",
+  "generated": "2026-06-22T07:57:12.321Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 31,
+      "done": 32,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -179,7 +179,8 @@
         "Westgate Tower",
         "The Poiz Centre",
         "Mapletree Business City",
-        "Compass One"
+        "Compass One",
+        "JEM"
       ],
       "outlets_outstanding": [
         "Rivervale Mall",
@@ -191,7 +192,6 @@
         "Parkway Parade",
         "Punggol Coast Mall",
         "New Tech Park",
-        "JEM",
         "Fairprice Hub",
         "Flavours @ NUS Uptown",
         "Chinatown Point",
@@ -322,6 +322,10 @@
         "Compass One": {
           "by": "Nur Azimah",
           "time": "15:30"
+        },
+        "JEM": {
+          "by": "Rsathiyaselvi",
+          "time": "15:57"
         }
       },
       "problems": [],
