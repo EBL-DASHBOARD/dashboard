@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T03:03:56.093Z",
+  "generated": "2026-06-22T03:04:00.381Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -160,7 +160,8 @@
         "Hillion Mall",
         "Tampines 1",
         "AltitudeX",
-        "The Woodleigh Mall"
+        "The Woodleigh Mall",
+        "Northpoint City"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -168,7 +169,6 @@
         "Century Square",
         "Dairy Farm Mall",
         "Junction 9",
-        "Northpoint City",
         "Woods Square",
         "Vivocity",
         "HarbourFront Tower 1",
@@ -225,6 +225,10 @@
         "The Woodleigh Mall": {
           "by": "jvparthiban7",
           "time": "11:01"
+        },
+        "Northpoint City": {
+          "by": "Manikandan.P",
+          "time": "11:04"
         }
       },
       "problems": [],
