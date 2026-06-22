@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T07:09:42.300Z",
+  "generated": "2026-06-22T07:15:55.172Z",
   "groups": [
     {
       "id": "XH",
@@ -515,7 +515,7 @@
           ]
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -538,7 +538,8 @@
         "KIT",
         "ART",
         "PAL",
-        "KEB"
+        "KEB",
+        "GMM"
       ],
       "outlets_outstanding": [
         "KH",
@@ -555,7 +556,6 @@
         "BHT",
         "EPT",
         "CCP",
-        "GMM",
         "NEX",
         "NTP",
         "HRC",
@@ -659,6 +659,10 @@
         "KEB": {
           "by": "Sudhakar",
           "time": "15:09"
+        },
+        "GMM": {
+          "by": "Sasi",
+          "time": "15:15"
         }
       },
       "problems": [],
