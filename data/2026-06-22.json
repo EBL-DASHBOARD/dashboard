@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T07:01:32.271Z",
+  "generated": "2026-06-22T07:09:42.300Z",
   "groups": [
     {
       "id": "XH",
@@ -515,7 +515,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -537,7 +537,8 @@
         "TIO",
         "KIT",
         "ART",
-        "PAL"
+        "PAL",
+        "KEB"
       ],
       "outlets_outstanding": [
         "KH",
@@ -555,7 +556,6 @@
         "EPT",
         "CCP",
         "GMM",
-        "KEB",
         "NEX",
         "NTP",
         "HRC",
@@ -655,6 +655,10 @@
         "PAL": {
           "by": "Samy Kumar Meena",
           "time": "14:51"
+        },
+        "KEB": {
+          "by": "Sudhakar",
+          "time": "15:09"
         }
       },
       "problems": [],
