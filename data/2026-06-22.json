@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T06:51:05.788Z",
+  "generated": "2026-06-22T06:53:21.318Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -175,7 +175,8 @@
         "GENEO",
         "Woods Square",
         "Waterway Point",
-        "120 Robinson"
+        "120 Robinson",
+        "Westgate Tower"
       ],
       "outlets_outstanding": [
         "Compass One",
@@ -189,7 +190,6 @@
         "Punggol Coast Mall",
         "The Poiz Centre",
         "New Tech Park",
-        "Westgate Tower",
         "JEM",
         "Fairprice Hub",
         "Flavours @ NUS Uptown",
@@ -306,6 +306,10 @@
         "120 Robinson": {
           "by": "boss",
           "time": "14:34"
+        },
+        "Westgate Tower": {
+          "by": "Rsathiyaselvi",
+          "time": "14:53"
         }
       },
       "problems": [],
