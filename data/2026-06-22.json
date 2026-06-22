@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T02:31:37.547Z",
+  "generated": "2026-06-22T02:31:49.297Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -156,7 +156,8 @@
         "Le Quest",
         "Alexandra Technopark B",
         "Hougang Mall",
-        "63 Pagoda Street"
+        "63 Pagoda Street",
+        "Hillion Mall"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -165,7 +166,6 @@
         "Century Square",
         "Tampines 1",
         "Dairy Farm Mall",
-        "Hillion Mall",
         "Junction 9",
         "Northpoint City",
         "Woods Square",
@@ -209,6 +209,10 @@
         "63 Pagoda Street": {
           "by": "SEENU.C",
           "time": "10:23"
+        },
+        "Hillion Mall": {
+          "by": "Nur Azimah",
+          "time": "10:31"
         }
       },
       "problems": [],
