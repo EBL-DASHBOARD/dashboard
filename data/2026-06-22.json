@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T03:18:01.326Z",
+  "generated": "2026-06-22T03:18:20.872Z",
   "groups": [
     {
       "id": "XH",
@@ -438,7 +438,7 @@
           ]
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -453,7 +453,8 @@
         "KLP",
         "TRM",
         "BNV",
-        "VIVO"
+        "VIVO",
+        "WSM"
       ],
       "outlets_outstanding": [
         "KRC",
@@ -462,7 +463,6 @@
         "KIT",
         "TIO",
         "ART",
-        "WSM",
         "JP",
         "DV"
       ],
@@ -522,6 +522,10 @@
         "VIVO": {
           "by": "Krishna",
           "time": "11:10"
+        },
+        "WSM": {
+          "by": "Mani 6 EBL",
+          "time": "11:18"
         }
       },
       "problems": [],
