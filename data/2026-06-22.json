@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T12:00:03.632Z",
+  "generated": "2026-06-22T12:04:00.923Z",
   "groups": [
     {
       "id": "XH",
@@ -575,7 +575,7 @@
           ]
         }
       ],
-      "done": 46,
+      "done": 47,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -622,14 +622,14 @@
         "WWP",
         "R3",
         "LOY",
-        "HRC"
+        "HRC",
+        "R1"
       ],
       "outlets_outstanding": [
         "KH",
         "JP",
         "DV",
-        "AP1",
-        "R1"
+        "AP1"
       ],
       "done_detail": {
         "CCKS": {
@@ -815,6 +815,10 @@
         "HRC": {
           "by": "Sasi",
           "time": "19:41"
+        },
+        "R1": {
+          "by": "Krishna",
+          "time": "20:04"
         }
       },
       "problems": [],
