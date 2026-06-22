@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T06:31:26.908Z",
+  "generated": "2026-06-22T06:34:39.206Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -174,7 +174,8 @@
         "ARTRA",
         "GENEO",
         "Woods Square",
-        "Waterway Point"
+        "Waterway Point",
+        "120 Robinson"
       ],
       "outlets_outstanding": [
         "Compass One",
@@ -184,7 +185,6 @@
         "313 Somerset",
         "Far East Plaza Kiosk E",
         "V Hotel Lavender",
-        "120 Robinson",
         "Parkway Parade",
         "Punggol Coast Mall",
         "The Poiz Centre",
@@ -302,6 +302,10 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "14:31"
+        },
+        "120 Robinson": {
+          "by": "boss",
+          "time": "14:34"
         }
       },
       "problems": [],
