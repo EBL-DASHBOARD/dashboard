@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T01:22:48.642Z",
+  "generated": "2026-06-22T01:23:29.975Z",
   "groups": [
     {
       "id": "XH",
@@ -386,16 +386,16 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "CCKS",
         "CL2",
-        "USQ"
+        "USQ",
+        "BQ"
       ],
       "outlets_outstanding": [
         "KRC",
         "CT",
-        "BQ",
         "BNV",
         "HV2",
         "BPP",
@@ -426,6 +426,10 @@
         "USQ": {
           "by": "Sasi",
           "time": "09:22"
+        },
+        "BQ": {
+          "by": "Rajesh",
+          "time": "09:23"
         }
       },
       "problems": [],
