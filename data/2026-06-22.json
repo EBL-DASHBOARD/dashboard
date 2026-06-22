@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T02:31:49.297Z",
+  "generated": "2026-06-22T02:32:17.856Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -157,14 +157,14 @@
         "Alexandra Technopark B",
         "Hougang Mall",
         "63 Pagoda Street",
-        "Hillion Mall"
+        "Hillion Mall",
+        "Tampines 1"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "The Woodleigh Mall",
         "Tampines Mart",
         "Century Square",
-        "Tampines 1",
         "Dairy Farm Mall",
         "Junction 9",
         "Northpoint City",
@@ -213,6 +213,10 @@
         "Hillion Mall": {
           "by": "Nur Azimah",
           "time": "10:31"
+        },
+        "Tampines 1": {
+          "by": "boss",
+          "time": "10:32"
         }
       },
       "problems": [],
