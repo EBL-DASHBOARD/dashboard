@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T07:30:33.063Z",
+  "generated": "2026-06-22T07:44:16.561Z",
   "groups": [
     {
       "id": "XH",
@@ -523,7 +523,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -547,7 +547,8 @@
         "ART",
         "PAL",
         "KEB",
-        "GMM"
+        "GMM",
+        "KNX"
       ],
       "outlets_outstanding": [
         "KH",
@@ -558,7 +559,6 @@
         "PECC",
         "TPM",
         "LOY",
-        "KNX",
         "VIVA",
         "BOB",
         "BHT",
@@ -671,6 +671,10 @@
         "GMM": {
           "by": "Sasi",
           "time": "15:15"
+        },
+        "KNX": {
+          "by": "Rajesh",
+          "time": "15:44"
         }
       },
       "problems": [],
