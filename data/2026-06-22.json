@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T08:51:24.579Z",
+  "generated": "2026-06-22T08:52:48.459Z",
   "groups": [
     {
       "id": "XH",
@@ -547,7 +547,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 31,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -578,13 +578,13 @@
         "R4",
         "KTB",
         "BOB",
-        "NTP"
+        "NTP",
+        "CKCC"
       ],
       "outlets_outstanding": [
         "KH",
         "JP",
         "DV",
-        "CKCC",
         "TNC2",
         "PECC",
         "TPM",
@@ -723,6 +723,10 @@
         "NTP": {
           "by": "Sasi",
           "time": "16:50"
+        },
+        "CKCC": {
+          "by": "Rajesh",
+          "time": "16:52"
         }
       },
       "problems": [],
