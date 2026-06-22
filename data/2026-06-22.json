@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T07:15:55.172Z",
+  "generated": "2026-06-22T07:29:08.477Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -177,7 +177,8 @@
         "Waterway Point",
         "120 Robinson",
         "Westgate Tower",
-        "The Poiz Centre"
+        "The Poiz Centre",
+        "Mapletree Business City"
       ],
       "outlets_outstanding": [
         "Compass One",
@@ -195,8 +196,7 @@
         "Flavours @ NUS Uptown",
         "Chinatown Point",
         "Icon Link",
-        "Galaxis",
-        "Mapletree Business City"
+        "Galaxis"
       ],
       "done_detail": {
         "West Mall": {
@@ -314,6 +314,10 @@
         "The Poiz Centre": {
           "by": "jvparthiban7",
           "time": "15:01"
+        },
+        "Mapletree Business City": {
+          "by": "Manikandan.P",
+          "time": "15:29"
         }
       },
       "problems": [],
