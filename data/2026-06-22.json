@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T05:00:12.151Z",
+  "generated": "2026-06-22T06:31:26.908Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 25,
+      "done": 26,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -173,13 +173,13 @@
         "Tanah Merah Ferry Terminal",
         "ARTRA",
         "GENEO",
-        "Woods Square"
+        "Woods Square",
+        "Waterway Point"
       ],
       "outlets_outstanding": [
         "Compass One",
         "Rivervale Mall",
         "Causeway Point",
-        "Waterway Point",
         "Eastpoint Mall",
         "313 Somerset",
         "Far East Plaza Kiosk E",
@@ -298,6 +298,10 @@
         "Woods Square": {
           "by": "Manikandan.P",
           "time": "13:00"
+        },
+        "Waterway Point": {
+          "by": "Nur Azimah",
+          "time": "14:31"
         }
       },
       "problems": [],
