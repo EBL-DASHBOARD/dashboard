@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T09:11:48.325Z",
+  "generated": "2026-06-22T09:13:03.951Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 38,
+      "done": 39,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -186,7 +186,8 @@
         "Rivervale Mall",
         "Chinatown Point",
         "Fairprice Hub",
-        "Galaxis"
+        "Galaxis",
+        "Punggol Coast Mall"
       ],
       "outlets_outstanding": [
         "Causeway Point",
@@ -194,7 +195,6 @@
         "313 Somerset",
         "Far East Plaza Kiosk E",
         "V Hotel Lavender",
-        "Punggol Coast Mall",
         "New Tech Park",
         "Flavours @ NUS Uptown"
       ],
@@ -350,6 +350,10 @@
         "Galaxis": {
           "by": "Manikandan.P",
           "time": "17:11"
+        },
+        "Punggol Coast Mall": {
+          "by": "jvparthiban7",
+          "time": "17:13"
         }
       },
       "problems": [],
