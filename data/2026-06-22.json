@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T01:48:02.456Z",
+  "generated": "2026-06-22T01:52:57.328Z",
   "groups": [
     {
       "id": "XH",
@@ -147,14 +147,15 @@
           "pm": []
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "West Mall",
         "UE Square",
         "Royal Square",
         "Zhongshan Mall",
         "Le Quest",
-        "Alexandra Technopark B"
+        "Alexandra Technopark B",
+        "Hougang Mall"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -164,7 +165,6 @@
         "Tampines 1",
         "Dairy Farm Mall",
         "Hillion Mall",
-        "Hougang Mall",
         "Junction 9",
         "Northpoint City",
         "Woods Square",
@@ -201,6 +201,10 @@
         "Alexandra Technopark B": {
           "by": "SEENU.C",
           "time": "09:34"
+        },
+        "Hougang Mall": {
+          "by": "Manikandan.P",
+          "time": "09:52"
         }
       },
       "problems": [],
