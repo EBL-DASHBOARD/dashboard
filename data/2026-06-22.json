@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T03:59:16.381Z",
+  "generated": "2026-06-22T04:00:01.874Z",
   "groups": [
     {
       "id": "XH",
@@ -493,7 +493,35 @@
         "TIO",
         "ART",
         "JP",
-        "DV"
+        "DV",
+        "CKCC",
+        "TNC2",
+        "PECC",
+        "TPM",
+        "LOY",
+        "KNX",
+        "VIVA",
+        "BOB",
+        "PAL",
+        "BHT",
+        "EPT",
+        "CCP",
+        "GMM",
+        "KEB",
+        "NEX",
+        "NTP",
+        "HRC",
+        "WWP",
+        "ACV",
+        "AP2",
+        "R3",
+        "AP1",
+        "AP4",
+        "R4",
+        "R1",
+        "KTB",
+        "YS1",
+        "WIS"
       ],
       "done_detail": {
         "CCKS": {
