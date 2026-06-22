@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T03:45:39.044Z",
+  "generated": "2026-06-22T03:45:56.185Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -165,7 +165,8 @@
         "Ngee Ann Polytechnic Block 1",
         "Vivocity",
         "Dairy Farm Mall",
-        "Parc Point"
+        "Parc Point",
+        "HarbourFront Tower 1"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -173,7 +174,6 @@
         "Century Square",
         "Junction 9",
         "Woods Square",
-        "HarbourFront Tower 1",
         "ARTRA",
         "GENEO",
         "Compass One",
@@ -249,6 +249,10 @@
         "Parc Point": {
           "by": "SEENU.C",
           "time": "11:34"
+        },
+        "HarbourFront Tower 1": {
+          "by": "Rsathiyaselvi",
+          "time": "11:45"
         }
       },
       "problems": [],
