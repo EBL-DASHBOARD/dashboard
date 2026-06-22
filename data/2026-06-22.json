@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T02:41:58.568Z",
+  "generated": "2026-06-22T02:56:48.881Z",
   "groups": [
     {
       "id": "XH",
@@ -422,7 +422,7 @@
           ]
         }
       ],
-      "done": 10,
+      "done": 11,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -433,7 +433,8 @@
         "ARC",
         "SHP",
         "HV2",
-        "IM"
+        "IM",
+        "KLP"
       ],
       "outlets_outstanding": [
         "KRC",
@@ -442,7 +443,6 @@
         "KH",
         "PS",
         "KIT",
-        "KLP",
         "TIO",
         "VIVO",
         "ART",
@@ -490,6 +490,10 @@
         "IM": {
           "by": "Mani 6 EBL",
           "time": "10:35"
+        },
+        "KLP": {
+          "by": "Sasi",
+          "time": "10:56"
         }
       },
       "problems": [],
