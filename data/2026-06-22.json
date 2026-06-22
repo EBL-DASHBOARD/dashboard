@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T03:06:34.588Z",
+  "generated": "2026-06-22T03:10:42.990Z",
   "groups": [
     {
       "id": "XH",
@@ -434,7 +434,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -448,7 +448,8 @@
         "IM",
         "KLP",
         "TRM",
-        "BNV"
+        "BNV",
+        "VIVO"
       ],
       "outlets_outstanding": [
         "KRC",
@@ -456,7 +457,6 @@
         "PS",
         "KIT",
         "TIO",
-        "VIVO",
         "ART",
         "WSM",
         "JP",
@@ -514,6 +514,10 @@
         "BNV": {
           "by": "Rajesh",
           "time": "11:03"
+        },
+        "VIVO": {
+          "by": "Krishna",
+          "time": "11:10"
         }
       },
       "problems": [],
