@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T08:37:07.958Z",
+  "generated": "2026-06-22T08:40:43.313Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 35,
+      "done": 36,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -183,7 +183,8 @@
         "JEM",
         "Icon Link",
         "Parkway Parade",
-        "Rivervale Mall"
+        "Rivervale Mall",
+        "Chinatown Point"
       ],
       "outlets_outstanding": [
         "Causeway Point",
@@ -195,7 +196,6 @@
         "New Tech Park",
         "Fairprice Hub",
         "Flavours @ NUS Uptown",
-        "Chinatown Point",
         "Galaxis"
       ],
       "done_detail": {
@@ -338,6 +338,10 @@
         "Rivervale Mall": {
           "by": "Nur Azimah",
           "time": "16:37"
+        },
+        "Chinatown Point": {
+          "by": "Manikandan.P",
+          "time": "16:40"
         }
       },
       "problems": [],
