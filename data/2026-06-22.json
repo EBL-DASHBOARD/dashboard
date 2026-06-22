@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T07:57:12.321Z",
+  "generated": "2026-06-22T07:58:31.791Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 32,
+      "done": 33,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -180,7 +180,8 @@
         "The Poiz Centre",
         "Mapletree Business City",
         "Compass One",
-        "JEM"
+        "JEM",
+        "Icon Link"
       ],
       "outlets_outstanding": [
         "Rivervale Mall",
@@ -195,7 +196,6 @@
         "Fairprice Hub",
         "Flavours @ NUS Uptown",
         "Chinatown Point",
-        "Icon Link",
         "Galaxis"
       ],
       "done_detail": {
@@ -326,6 +326,10 @@
         "JEM": {
           "by": "Rsathiyaselvi",
           "time": "15:57"
+        },
+        "Icon Link": {
+          "by": "Manikandan.P",
+          "time": "15:58"
         }
       },
       "problems": [],
