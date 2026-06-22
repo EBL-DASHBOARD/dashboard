@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T01:23:29.975Z",
+  "generated": "2026-06-22T01:23:59.102Z",
   "groups": [
     {
       "id": "XH",
@@ -147,15 +147,15 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 4,
       "outlets_done": [
         "West Mall",
-        "UE Square"
+        "UE Square",
+        "Royal Square",
+        "Zhongshan Mall"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
-        "Royal Square",
-        "Zhongshan Mall",
         "The Woodleigh Mall",
         "Tampines Mart",
         "Century Square",
@@ -185,6 +185,14 @@
         "UE Square": {
           "by": "boss",
           "time": "09:22"
+        },
+        "Royal Square": {
+          "by": "jvparthiban7",
+          "time": "09:23"
+        },
+        "Zhongshan Mall": {
+          "by": "jvparthiban7",
+          "time": "09:23"
         }
       },
       "problems": [],
