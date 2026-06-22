@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T03:34:30.376Z",
+  "generated": "2026-06-22T03:45:39.044Z",
   "groups": [
     {
       "id": "XH",
@@ -450,7 +450,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -466,12 +466,12 @@
         "TRM",
         "BNV",
         "VIVO",
-        "WSM"
+        "WSM",
+        "PS"
       ],
       "outlets_outstanding": [
         "KRC",
         "KH",
-        "PS",
         "KIT",
         "TIO",
         "ART",
@@ -538,6 +538,10 @@
         "WSM": {
           "by": "Mani 6 EBL",
           "time": "11:18"
+        },
+        "PS": {
+          "by": "Sasi",
+          "time": "11:45"
         }
       },
       "problems": [],
