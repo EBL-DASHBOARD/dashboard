@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T04:15:03.002Z",
+  "generated": "2026-06-22T04:20:46.677Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -169,10 +169,10 @@
         "HarbourFront Tower 1",
         "Tampines Mart",
         "Century Square",
-        "Junction 9"
+        "Junction 9",
+        "Tanah Merah Ferry Terminal"
       ],
       "outlets_outstanding": [
-        "Tanah Merah Ferry Terminal",
         "Woods Square",
         "ARTRA",
         "GENEO",
@@ -184,7 +184,11 @@
         "313 Somerset",
         "Far East Plaza Kiosk E",
         "V Hotel Lavender",
-        "120 Robinson"
+        "120 Robinson",
+        "Parkway Parade",
+        "Punggol Coast Mall",
+        "The Poiz Centre",
+        "New Tech Park"
       ],
       "done_detail": {
         "West Mall": {
@@ -270,6 +274,10 @@
         "Junction 9": {
           "by": "Manikandan.P",
           "time": "12:15"
+        },
+        "Tanah Merah Ferry Terminal": {
+          "by": "jvparthiban7",
+          "time": "12:20"
         }
       },
       "problems": [],
