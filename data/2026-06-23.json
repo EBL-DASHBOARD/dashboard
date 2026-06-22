@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-23",
+  "generated": "2026-06-22T13:14:07.897Z",
+  "groups": [
+    {
+      "id": "XH",
+      "name": "Xh Delivery",
+      "total_locations": 29,
+      "am_total": 17,
+      "pm_total": 12,
+      "am_outlets": [
+        "Suntec City",
+        "Marina Square",
+        "Marina One",
+        "Suntec City",
+        "Pasir Ris Mall",
+        "White Sands",
+        "Institute of Mental Health",
+        "78 Airport Blvd",
+        "Punggol Plaza",
+        "Junction 8",
+        "The Rail Mall",
+        "Hillion Mall",
+        "888 Plaza",
+        "9 Penang Road",
+        "South Beach Tower",
+        "77 Robinson",
+        "Margaret Market"
+      ],
+      "pm_outlets": [
+        "GRID",
+        "Duo Galleria",
+        "100 AM Mall",
+        "Guoco Tower",
+        "Citylink",
+        "One Raffles Link",
+        "Plaza Singapura",
+        "Lazada One",
+        "Downtown East",
+        "Waterway Point",
+        "Compass One",
+        "Causeway Point"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Suntec City",
+            "Marina Square",
+            "Marina One",
+            "Suntec City"
+          ],
+          "pm": [
+            "GRID",
+            "Duo Galleria",
+            "100 AM Mall",
+            "Guoco Tower"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "Pasir Ris Mall",
+            "White Sands",
+            "Institute of Mental Health",
+            "78 Airport Blvd"
+          ],
+          "pm": [
+            "Citylink",
+            "One Raffles Link",
+            "Plaza Singapura",
+            "Lazada One"
+          ]
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Punggol Plaza",
+            "Junction 8",
+            "The Rail Mall",
+            "Hillion Mall",
+            "888 Plaza"
+          ],
+          "pm": [
+            "Downtown East",
+            "Waterway Point",
+            "Compass One",
+            "Causeway Point"
+          ]
+        },
+        {
+          "name": "TRUCK 4",
+          "am": [
+            "9 Penang Road",
+            "South Beach Tower",
+            "77 Robinson",
+            "Margaret Market"
+          ],
+          "pm": []
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Suntec City",
+        "Marina Square",
+        "Marina One",
+        "Pasir Ris Mall",
+        "White Sands",
+        "Institute of Mental Health",
+        "78 Airport Blvd",
+        "Punggol Plaza",
+        "Junction 8",
+        "The Rail Mall",
+        "Hillion Mall",
+        "888 Plaza",
+        "9 Penang Road",
+        "South Beach Tower",
+        "77 Robinson",
+        "Margaret Market"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
