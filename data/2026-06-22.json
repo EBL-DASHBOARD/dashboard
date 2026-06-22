@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T03:01:27.567Z",
+  "generated": "2026-06-22T03:03:56.093Z",
   "groups": [
     {
       "id": "XH",
@@ -426,7 +426,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -439,11 +439,11 @@
         "HV2",
         "IM",
         "KLP",
-        "TRM"
+        "TRM",
+        "BNV"
       ],
       "outlets_outstanding": [
         "KRC",
-        "BNV",
         "KH",
         "PS",
         "KIT",
@@ -502,6 +502,10 @@
         "TRM": {
           "by": "Samy Kumar Meena",
           "time": "11:00"
+        },
+        "BNV": {
+          "by": "Rajesh",
+          "time": "11:03"
         }
       },
       "problems": [],
