@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T08:09:39.630Z",
+  "generated": "2026-06-22T08:24:29.759Z",
   "groups": [
     {
       "id": "XH",
@@ -535,7 +535,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -562,7 +562,8 @@
         "GMM",
         "KNX",
         "BHT",
-        "NEX"
+        "NEX",
+        "R4"
       ],
       "outlets_outstanding": [
         "KH",
@@ -585,7 +586,6 @@
         "R3",
         "AP1",
         "AP4",
-        "R4",
         "R1",
         "KTB",
         "YS1",
@@ -695,6 +695,10 @@
         "NEX": {
           "by": "Sasi",
           "time": "16:09"
+        },
+        "R4": {
+          "by": "Krishna",
+          "time": "16:24"
         }
       },
       "problems": [],
