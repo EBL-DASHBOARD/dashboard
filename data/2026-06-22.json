@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T09:13:03.951Z",
+  "generated": "2026-06-22T09:17:18.945Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 39,
+      "done": 41,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -187,14 +187,14 @@
         "Chinatown Point",
         "Fairprice Hub",
         "Galaxis",
-        "Punggol Coast Mall"
+        "Punggol Coast Mall",
+        "Far East Plaza Kiosk E",
+        "V Hotel Lavender"
       ],
       "outlets_outstanding": [
         "Causeway Point",
         "Eastpoint Mall",
         "313 Somerset",
-        "Far East Plaza Kiosk E",
-        "V Hotel Lavender",
         "New Tech Park",
         "Flavours @ NUS Uptown"
       ],
@@ -354,6 +354,14 @@
         "Punggol Coast Mall": {
           "by": "jvparthiban7",
           "time": "17:13"
+        },
+        "Far East Plaza Kiosk E": {
+          "by": "boss",
+          "time": "17:17"
+        },
+        "V Hotel Lavender": {
+          "by": "boss",
+          "time": "17:17"
         }
       },
       "problems": [],
