@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T09:29:15.196Z",
+  "generated": "2026-06-22T09:30:26.467Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 41,
+      "done": 42,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -189,10 +189,10 @@
         "Galaxis",
         "Punggol Coast Mall",
         "Far East Plaza Kiosk E",
-        "V Hotel Lavender"
+        "V Hotel Lavender",
+        "Causeway Point"
       ],
       "outlets_outstanding": [
-        "Causeway Point",
         "Eastpoint Mall",
         "313 Somerset",
         "New Tech Park",
@@ -362,6 +362,10 @@
         "V Hotel Lavender": {
           "by": "boss",
           "time": "17:17"
+        },
+        "Causeway Point": {
+          "by": "Nur Azimah",
+          "time": "17:30"
         }
       },
       "problems": [],
