@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T04:22:49.779Z",
+  "generated": "2026-06-22T04:34:36.353Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -170,11 +170,11 @@
         "Tampines Mart",
         "Century Square",
         "Junction 9",
-        "Tanah Merah Ferry Terminal"
+        "Tanah Merah Ferry Terminal",
+        "ARTRA"
       ],
       "outlets_outstanding": [
         "Woods Square",
-        "ARTRA",
         "GENEO",
         "Compass One",
         "Rivervale Mall",
@@ -278,6 +278,10 @@
         "Tanah Merah Ferry Terminal": {
           "by": "jvparthiban7",
           "time": "12:20"
+        },
+        "ARTRA": {
+          "by": "Rsathiyaselvi",
+          "time": "12:34"
         }
       },
       "problems": [],
