@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T03:04:00.381Z",
+  "generated": "2026-06-22T03:06:34.588Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -161,7 +161,8 @@
         "Tampines 1",
         "AltitudeX",
         "The Woodleigh Mall",
-        "Northpoint City"
+        "Northpoint City",
+        "Ngee Ann Polytechnic Block 1"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -174,7 +175,6 @@
         "HarbourFront Tower 1",
         "ARTRA",
         "GENEO",
-        "Ngee Ann Polytechnic Block 1",
         "Parc Point"
       ],
       "done_detail": {
@@ -229,6 +229,10 @@
         "Northpoint City": {
           "by": "Manikandan.P",
           "time": "11:04"
+        },
+        "Ngee Ann Polytechnic Block 1": {
+          "by": "SEENU.C",
+          "time": "11:06"
         }
       },
       "problems": [],
