@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T00:52:07.168Z",
+  "generated": "2026-06-22T01:22:06.105Z",
   "groups": [
     {
       "id": "XH",
@@ -382,10 +382,11 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "CCKS",
-        "CL2"
+        "CL2",
+        "USQ"
       ],
       "outlets_outstanding": [
         "KRC",
@@ -397,7 +398,6 @@
         "TRM",
         "KH",
         "PS",
-        "USQ",
         "KIT",
         "KLP",
         "SHP",
@@ -418,6 +418,10 @@
         "CL2": {
           "by": "Krishna",
           "time": "08:52"
+        },
+        "USQ": {
+          "by": "Sasi",
+          "time": "09:22"
         }
       },
       "problems": [],
