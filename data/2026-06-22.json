@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T01:23:59.102Z",
+  "generated": "2026-06-22T01:32:13.631Z",
   "groups": [
     {
       "id": "XH",
@@ -147,12 +147,13 @@
           "pm": []
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "West Mall",
         "UE Square",
         "Royal Square",
-        "Zhongshan Mall"
+        "Zhongshan Mall",
+        "Le Quest"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -162,7 +163,6 @@
         "Tampines 1",
         "Dairy Farm Mall",
         "Hillion Mall",
-        "Le Quest",
         "Hougang Mall",
         "Junction 9",
         "Northpoint City",
@@ -193,6 +193,10 @@
         "Zhongshan Mall": {
           "by": "jvparthiban7",
           "time": "09:23"
+        },
+        "Le Quest": {
+          "by": "Nur Azimah",
+          "time": "09:32"
         }
       },
       "problems": [],
