@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T10:54:44.599Z",
+  "generated": "2026-06-22T10:54:59.586Z",
   "groups": [
     {
       "id": "XH",
@@ -575,7 +575,7 @@
           ]
         }
       ],
-      "done": 42,
+      "done": 43,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -618,7 +618,8 @@
         "CCP",
         "EPT",
         "YS1",
-        "PECC"
+        "PECC",
+        "WWP"
       ],
       "outlets_outstanding": [
         "KH",
@@ -626,7 +627,6 @@
         "DV",
         "LOY",
         "HRC",
-        "WWP",
         "R3",
         "AP1",
         "R1"
@@ -798,6 +798,10 @@
         },
         "PECC": {
           "by": "Rajesh",
+          "time": "18:54"
+        },
+        "WWP": {
+          "by": "Sasi",
           "time": "18:54"
         }
       },
