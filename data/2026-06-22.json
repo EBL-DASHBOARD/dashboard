@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T07:29:08.477Z",
+  "generated": "2026-06-22T07:30:33.063Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 30,
+      "done": 31,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -178,10 +178,10 @@
         "120 Robinson",
         "Westgate Tower",
         "The Poiz Centre",
-        "Mapletree Business City"
+        "Mapletree Business City",
+        "Compass One"
       ],
       "outlets_outstanding": [
-        "Compass One",
         "Rivervale Mall",
         "Causeway Point",
         "Eastpoint Mall",
@@ -318,6 +318,10 @@
         "Mapletree Business City": {
           "by": "Manikandan.P",
           "time": "15:29"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "15:30"
         }
       },
       "problems": [],
