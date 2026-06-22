@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T06:53:21.318Z",
+  "generated": "2026-06-22T07:01:32.271Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -176,7 +176,8 @@
         "Woods Square",
         "Waterway Point",
         "120 Robinson",
-        "Westgate Tower"
+        "Westgate Tower",
+        "The Poiz Centre"
       ],
       "outlets_outstanding": [
         "Compass One",
@@ -188,7 +189,6 @@
         "V Hotel Lavender",
         "Parkway Parade",
         "Punggol Coast Mall",
-        "The Poiz Centre",
         "New Tech Park",
         "JEM",
         "Fairprice Hub",
@@ -310,6 +310,10 @@
         "Westgate Tower": {
           "by": "Rsathiyaselvi",
           "time": "14:53"
+        },
+        "The Poiz Centre": {
+          "by": "jvparthiban7",
+          "time": "15:01"
         }
       },
       "problems": [],
