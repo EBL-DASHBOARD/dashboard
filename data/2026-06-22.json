@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T09:46:46.074Z",
+  "generated": "2026-06-22T10:03:11.313Z",
   "groups": [
     {
       "id": "XH",
@@ -571,7 +571,7 @@
           ]
         }
       ],
-      "done": 36,
+      "done": 37,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -608,7 +608,8 @@
         "AP4",
         "VIVA",
         "WIS",
-        "TNC2"
+        "TNC2",
+        "AP2"
       ],
       "outlets_outstanding": [
         "KH",
@@ -621,7 +622,6 @@
         "HRC",
         "WWP",
         "ACV",
-        "AP2",
         "R3",
         "AP1",
         "R1",
@@ -771,6 +771,10 @@
         "TNC2": {
           "by": "Rajesh",
           "time": "17:46"
+        },
+        "AP2": {
+          "by": "Krishna",
+          "time": "18:03"
         }
       },
       "problems": [],
