@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T01:32:13.631Z",
+  "generated": "2026-06-22T01:34:11.206Z",
   "groups": [
     {
       "id": "XH",
@@ -147,13 +147,14 @@
           "pm": []
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "West Mall",
         "UE Square",
         "Royal Square",
         "Zhongshan Mall",
-        "Le Quest"
+        "Le Quest",
+        "Alexandra Technopark B"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -174,8 +175,7 @@
         "GENEO",
         "63 Pagoda Street",
         "Ngee Ann Polytechnic Block 1",
-        "Parc Point",
-        "Alexandra Technopark B"
+        "Parc Point"
       ],
       "done_detail": {
         "West Mall": {
@@ -197,6 +197,10 @@
         "Le Quest": {
           "by": "Nur Azimah",
           "time": "09:32"
+        },
+        "Alexandra Technopark B": {
+          "by": "SEENU.C",
+          "time": "09:34"
         }
       },
       "problems": [],
