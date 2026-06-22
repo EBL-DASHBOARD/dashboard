@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T03:45:56.185Z",
+  "generated": "2026-06-22T03:51:23.789Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 18,
+      "done": 20,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -166,12 +166,12 @@
         "Vivocity",
         "Dairy Farm Mall",
         "Parc Point",
-        "HarbourFront Tower 1"
+        "HarbourFront Tower 1",
+        "Tampines Mart",
+        "Century Square"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
-        "Tampines Mart",
-        "Century Square",
         "Junction 9",
         "Woods Square",
         "ARTRA",
@@ -179,7 +179,12 @@
         "Compass One",
         "Rivervale Mall",
         "Causeway Point",
-        "Waterway Point"
+        "Waterway Point",
+        "Eastpoint Mall",
+        "313 Somerset",
+        "Far East Plaza Kiosk E",
+        "V Hotel Lavender",
+        "120 Robinson"
       ],
       "done_detail": {
         "West Mall": {
@@ -253,6 +258,14 @@
         "HarbourFront Tower 1": {
           "by": "Rsathiyaselvi",
           "time": "11:45"
+        },
+        "Tampines Mart": {
+          "by": "boss",
+          "time": "11:51"
+        },
+        "Century Square": {
+          "by": "boss",
+          "time": "11:51"
         }
       },
       "problems": [],
