@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T04:05:20.574Z",
+  "generated": "2026-06-22T04:15:03.002Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -168,11 +168,11 @@
         "Parc Point",
         "HarbourFront Tower 1",
         "Tampines Mart",
-        "Century Square"
+        "Century Square",
+        "Junction 9"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
-        "Junction 9",
         "Woods Square",
         "ARTRA",
         "GENEO",
@@ -266,6 +266,10 @@
         "Century Square": {
           "by": "boss",
           "time": "11:51"
+        },
+        "Junction 9": {
+          "by": "Manikandan.P",
+          "time": "12:15"
         }
       },
       "problems": [],
