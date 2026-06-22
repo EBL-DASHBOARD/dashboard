@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T09:08:23.984Z",
+  "generated": "2026-06-22T09:11:48.325Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 37,
+      "done": 38,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -185,7 +185,8 @@
         "Parkway Parade",
         "Rivervale Mall",
         "Chinatown Point",
-        "Fairprice Hub"
+        "Fairprice Hub",
+        "Galaxis"
       ],
       "outlets_outstanding": [
         "Causeway Point",
@@ -195,8 +196,7 @@
         "V Hotel Lavender",
         "Punggol Coast Mall",
         "New Tech Park",
-        "Flavours @ NUS Uptown",
-        "Galaxis"
+        "Flavours @ NUS Uptown"
       ],
       "done_detail": {
         "West Mall": {
@@ -346,6 +346,10 @@
         "Fairprice Hub": {
           "by": "Rsathiyaselvi",
           "time": "16:51"
+        },
+        "Galaxis": {
+          "by": "Manikandan.P",
+          "time": "17:11"
         }
       },
       "problems": [],
