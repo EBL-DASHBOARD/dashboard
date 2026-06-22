@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T08:27:19.099Z",
+  "generated": "2026-06-22T08:37:07.958Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 34,
+      "done": 35,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -182,10 +182,10 @@
         "Compass One",
         "JEM",
         "Icon Link",
-        "Parkway Parade"
+        "Parkway Parade",
+        "Rivervale Mall"
       ],
       "outlets_outstanding": [
-        "Rivervale Mall",
         "Causeway Point",
         "Eastpoint Mall",
         "313 Somerset",
@@ -334,6 +334,10 @@
         "Parkway Parade": {
           "by": "jvparthiban7",
           "time": "16:06"
+        },
+        "Rivervale Mall": {
+          "by": "Nur Azimah",
+          "time": "16:37"
         }
       },
       "problems": [],
