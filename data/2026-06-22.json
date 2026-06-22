@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T11:36:24.445Z",
+  "generated": "2026-06-22T11:41:11.626Z",
   "groups": [
     {
       "id": "XH",
@@ -575,7 +575,7 @@
           ]
         }
       ],
-      "done": 45,
+      "done": 46,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -621,13 +621,13 @@
         "PECC",
         "WWP",
         "R3",
-        "LOY"
+        "LOY",
+        "HRC"
       ],
       "outlets_outstanding": [
         "KH",
         "JP",
         "DV",
-        "HRC",
         "AP1",
         "R1"
       ],
@@ -811,6 +811,10 @@
         "LOY": {
           "by": "Rajesh",
           "time": "19:36"
+        },
+        "HRC": {
+          "by": "Sasi",
+          "time": "19:41"
         }
       },
       "problems": [],
