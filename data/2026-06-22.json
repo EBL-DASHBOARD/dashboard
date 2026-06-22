@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T07:58:31.791Z",
+  "generated": "2026-06-22T08:06:16.141Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 33,
+      "done": 34,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -181,7 +181,8 @@
         "Mapletree Business City",
         "Compass One",
         "JEM",
-        "Icon Link"
+        "Icon Link",
+        "Parkway Parade"
       ],
       "outlets_outstanding": [
         "Rivervale Mall",
@@ -190,7 +191,6 @@
         "313 Somerset",
         "Far East Plaza Kiosk E",
         "V Hotel Lavender",
-        "Parkway Parade",
         "Punggol Coast Mall",
         "New Tech Park",
         "Fairprice Hub",
@@ -330,6 +330,10 @@
         "Icon Link": {
           "by": "Manikandan.P",
           "time": "15:58"
+        },
+        "Parkway Parade": {
+          "by": "jvparthiban7",
+          "time": "16:06"
         }
       },
       "problems": [],
