@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-06-22T04:53:05.993Z",
+  "generated": "2026-06-22T04:57:15.338Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "West Mall",
         "UE Square",
@@ -171,11 +171,11 @@
         "Century Square",
         "Junction 9",
         "Tanah Merah Ferry Terminal",
-        "ARTRA"
+        "ARTRA",
+        "GENEO"
       ],
       "outlets_outstanding": [
         "Woods Square",
-        "GENEO",
         "Compass One",
         "Rivervale Mall",
         "Causeway Point",
@@ -188,7 +188,11 @@
         "Parkway Parade",
         "Punggol Coast Mall",
         "The Poiz Centre",
-        "New Tech Park"
+        "New Tech Park",
+        "Westgate Tower",
+        "JEM",
+        "Fairprice Hub",
+        "Flavours @ NUS Uptown"
       ],
       "done_detail": {
         "West Mall": {
@@ -282,6 +286,10 @@
         "ARTRA": {
           "by": "Rsathiyaselvi",
           "time": "12:34"
+        },
+        "GENEO": {
+          "by": "Rsathiyaselvi",
+          "time": "12:57"
         }
       },
       "problems": [],
