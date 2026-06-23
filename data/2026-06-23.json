@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T09:11:35.550Z",
+  "generated": "2026-06-23T09:16:51.428Z",
   "groups": [
     {
       "id": "XH",
@@ -99,7 +99,7 @@
           "pm": []
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -121,12 +121,12 @@
         "100 AM Mall",
         "78 Airport Blvd",
         "Margaret Market",
-        "Compass One"
+        "Compass One",
+        "Duo Galleria"
       ],
       "outlets_outstanding": [
         "Causeway Point",
         "GRID",
-        "Duo Galleria",
         "Citylink",
         "One Raffles Link",
         "Plaza Singapura",
@@ -216,6 +216,10 @@
         "Compass One": {
           "by": "Nur Azimah",
           "time": "17:01"
+        },
+        "Duo Galleria": {
+          "by": "jvparthiban7",
+          "time": "17:16"
         }
       },
       "problems": [],
