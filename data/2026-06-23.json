@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T01:29:08.052Z",
+  "generated": "2026-06-23T01:32:37.614Z",
   "groups": [
     {
       "id": "XH",
@@ -99,13 +99,13 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "The Rail Mall",
-        "77 Robinson"
+        "77 Robinson",
+        "Suntec City"
       ],
       "outlets_outstanding": [
-        "Suntec City",
         "Marina Square",
         "Marina One",
         "Pasir Ris Mall",
@@ -128,6 +128,10 @@
         "77 Robinson": {
           "by": "SEENU.C",
           "time": "09:29"
+        },
+        "Suntec City": {
+          "by": "jvparthiban7",
+          "time": "09:32"
         }
       },
       "problems": [],
