@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T07:48:49.930Z",
+  "generated": "2026-06-23T08:00:39.145Z",
   "groups": [
     {
       "id": "XH",
@@ -99,7 +99,7 @@
           "pm": []
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -118,15 +118,19 @@
         "Downtown East",
         "Guoco Tower",
         "Waterway Point",
-        "100 AM Mall"
+        "100 AM Mall",
+        "78 Airport Blvd"
       ],
       "outlets_outstanding": [
-        "78 Airport Blvd",
         "Margaret Market",
         "Compass One",
         "Causeway Point",
         "GRID",
-        "Duo Galleria"
+        "Duo Galleria",
+        "Citylink",
+        "One Raffles Link",
+        "Plaza Singapura",
+        "Lazada One"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -200,6 +204,10 @@
         "100 AM Mall": {
           "by": "jvparthiban7",
           "time": "15:43"
+        },
+        "78 Airport Blvd": {
+          "by": "ops (Samson)",
+          "time": "12:40"
         }
       },
       "problems": [],
