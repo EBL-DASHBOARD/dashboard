@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T01:33:27.938Z",
+  "generated": "2026-06-23T01:35:25.701Z",
   "groups": [
     {
       "id": "XH",
@@ -292,17 +292,17 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "YTP",
         "JKN",
-        "TY"
+        "TY",
+        "IM"
       ],
       "outlets_outstanding": [
         "KRC",
         "CT",
         "WXI",
-        "IM",
         "KH",
         "BPP",
         "TGCC",
@@ -324,6 +324,10 @@
         "TY": {
           "by": "Sasi",
           "time": "09:02"
+        },
+        "IM": {
+          "by": "Krishna",
+          "time": "09:35"
         }
       },
       "problems": [],
