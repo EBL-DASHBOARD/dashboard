@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T07:39:31.645Z",
+  "generated": "2026-06-23T07:43:21.494Z",
   "groups": [
     {
       "id": "XH",
@@ -99,7 +99,7 @@
           "pm": []
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -117,7 +117,8 @@
         "Institute of Mental Health",
         "Downtown East",
         "Guoco Tower",
-        "Waterway Point"
+        "Waterway Point",
+        "100 AM Mall"
       ],
       "outlets_outstanding": [
         "78 Airport Blvd",
@@ -125,8 +126,7 @@
         "Compass One",
         "Causeway Point",
         "GRID",
-        "Duo Galleria",
-        "100 AM Mall"
+        "Duo Galleria"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -196,6 +196,10 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "15:39"
+        },
+        "100 AM Mall": {
+          "by": "jvparthiban7",
+          "time": "15:43"
         }
       },
       "problems": [],
