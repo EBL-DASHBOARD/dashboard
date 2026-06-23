@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T09:21:22.693Z",
+  "generated": "2026-06-23T09:34:02.240Z",
   "groups": [
     {
       "id": "XH",
@@ -99,7 +99,7 @@
           "pm": []
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -124,10 +124,10 @@
         "Compass One",
         "Duo Galleria",
         "Citylink",
-        "One Raffles Link"
+        "One Raffles Link",
+        "Causeway Point"
       ],
       "outlets_outstanding": [
-        "Causeway Point",
         "GRID",
         "Plaza Singapura",
         "Lazada One"
@@ -228,6 +228,10 @@
         "One Raffles Link": {
           "by": "boss",
           "time": "17:21"
+        },
+        "Causeway Point": {
+          "by": "Nur Azimah",
+          "time": "17:34"
         }
       },
       "problems": [],
