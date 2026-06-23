@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T15:32:29.232Z",
+  "generated": "2026-06-23T16:15:25.981Z",
   "groups": [
     {
       "id": "XH",
@@ -291,15 +291,19 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "Changi City Point",
         "Changi T1 Transit",
-        "ESR BizPark @ Changi"
+        "ESR BizPark @ Changi",
+        "Hougang 1"
       ],
       "outlets_outstanding": [
         "Jewel",
-        "Hougang 1"
+        "Coronation Shopping Plaza",
+        "Westgate",
+        "The Strategy",
+        "NTU South Spine"
       ],
       "done_detail": {
         "Changi City Point": {
@@ -313,6 +317,10 @@
         "ESR BizPark @ Changi": {
           "by": "SEENU.C",
           "time": "23:32"
+        },
+        "Hougang 1": {
+          "by": "SEENU.C",
+          "time": "00:15"
         }
       },
       "problems": [],
