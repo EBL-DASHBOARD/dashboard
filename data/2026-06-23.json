@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T03:50:49.498Z",
+  "generated": "2026-06-23T04:00:00.306Z",
   "groups": [
     {
       "id": "XH",
@@ -346,7 +346,24 @@
         "WXI",
         "STC"
       ],
-      "outlets_outstanding": [],
+      "outlets_outstanding": [
+        "VIVA",
+        "R1",
+        "R3",
+        "AP4",
+        "AP1",
+        "J9",
+        "MARS",
+        "YS1",
+        "SSC2",
+        "WNC",
+        "LTM",
+        "HRC",
+        "WWP",
+        "FEN",
+        "KEB",
+        "PDD"
+      ],
       "done_detail": {
         "YTP": {
           "by": "Samy Kumar Meena",
