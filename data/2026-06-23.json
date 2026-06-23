@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T01:58:43.087Z",
+  "generated": "2026-06-23T02:20:40.263Z",
   "groups": [
     {
       "id": "XH",
@@ -99,13 +99,14 @@
           "pm": []
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
         "Suntec City",
         "Hillion Mall",
-        "South Beach Tower"
+        "South Beach Tower",
+        "9 Penang Road"
       ],
       "outlets_outstanding": [
         "Marina Square",
@@ -117,7 +118,6 @@
         "Punggol Plaza",
         "Junction 8",
         "888 Plaza",
-        "9 Penang Road",
         "Margaret Market"
       ],
       "done_detail": {
@@ -140,6 +140,10 @@
         "South Beach Tower": {
           "by": "SEENU.C",
           "time": "09:58"
+        },
+        "9 Penang Road": {
+          "by": "SEENU.C",
+          "time": "10:20"
         }
       },
       "problems": [],
