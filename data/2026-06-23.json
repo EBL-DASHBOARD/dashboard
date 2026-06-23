@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T07:18:06.900Z",
+  "generated": "2026-06-23T07:39:31.645Z",
   "groups": [
     {
       "id": "XH",
@@ -99,7 +99,7 @@
           "pm": []
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -116,12 +116,12 @@
         "Marina Square",
         "Institute of Mental Health",
         "Downtown East",
-        "Guoco Tower"
+        "Guoco Tower",
+        "Waterway Point"
       ],
       "outlets_outstanding": [
         "78 Airport Blvd",
         "Margaret Market",
-        "Waterway Point",
         "Compass One",
         "Causeway Point",
         "GRID",
@@ -192,6 +192,10 @@
         "Guoco Tower": {
           "by": "jvparthiban7",
           "time": "14:49"
+        },
+        "Waterway Point": {
+          "by": "Nur Azimah",
+          "time": "15:39"
         }
       },
       "problems": [],
