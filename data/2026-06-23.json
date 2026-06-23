@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T04:30:43.536Z",
+  "generated": "2026-06-23T04:40:36.854Z",
   "groups": [
     {
       "id": "XH",
@@ -99,7 +99,7 @@
           "pm": []
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -113,10 +113,10 @@
         "Marina One",
         "Punggol Plaza",
         "888 Plaza",
-        "Marina Square"
+        "Marina Square",
+        "Institute of Mental Health"
       ],
       "outlets_outstanding": [
-        "Institute of Mental Health",
         "78 Airport Blvd",
         "Margaret Market",
         "Downtown East",
@@ -180,6 +180,10 @@
         "Marina Square": {
           "by": "jvparthiban7",
           "time": "12:30"
+        },
+        "Institute of Mental Health": {
+          "by": "boss",
+          "time": "12:40"
         }
       },
       "problems": [],
