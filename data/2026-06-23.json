@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T08:56:10.205Z",
+  "generated": "2026-06-23T09:01:28.143Z",
   "groups": [
     {
       "id": "XH",
@@ -99,7 +99,7 @@
           "pm": []
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -120,10 +120,10 @@
         "Waterway Point",
         "100 AM Mall",
         "78 Airport Blvd",
-        "Margaret Market"
+        "Margaret Market",
+        "Compass One"
       ],
       "outlets_outstanding": [
-        "Compass One",
         "Causeway Point",
         "GRID",
         "Duo Galleria",
@@ -212,6 +212,10 @@
         "Margaret Market": {
           "by": "ops (Samson)",
           "time": ""
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "17:01"
         }
       },
       "problems": [],
