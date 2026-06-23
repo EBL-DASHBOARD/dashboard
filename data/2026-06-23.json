@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T10:42:26.915Z",
+  "generated": "2026-06-23T10:43:51.732Z",
   "groups": [
     {
       "id": "XH",
@@ -399,7 +399,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -428,11 +428,11 @@
         "R1",
         "J9",
         "PDD",
-        "HRC"
+        "HRC",
+        "AP1"
       ],
       "outlets_outstanding": [
         "R3",
-        "AP1",
         "YS1"
       ],
       "done_detail": {
@@ -547,6 +547,10 @@
         "HRC": {
           "by": "Sasi",
           "time": "18:42"
+        },
+        "AP1": {
+          "by": "Krishna",
+          "time": "18:43"
         }
       },
       "problems": [],
