@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T06:49:30.134Z",
+  "generated": "2026-06-23T06:59:16.036Z",
   "groups": [
     {
       "id": "XH",
@@ -348,7 +348,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -364,10 +364,10 @@
         "MBA",
         "TGCC",
         "WXI",
-        "STC"
+        "STC",
+        "VIVA"
       ],
       "outlets_outstanding": [
-        "VIVA",
         "R1",
         "R3",
         "AP4",
@@ -444,6 +444,10 @@
         "STC": {
           "by": "Sasi",
           "time": "11:50"
+        },
+        "VIVA": {
+          "by": "Krishna",
+          "time": "14:59"
         }
       },
       "problems": [],
