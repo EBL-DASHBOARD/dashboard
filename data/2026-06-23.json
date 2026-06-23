@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T02:54:04.868Z",
+  "generated": "2026-06-23T02:58:47.769Z",
   "groups": [
     {
       "id": "XH",
@@ -99,7 +99,7 @@
           "pm": []
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -109,11 +109,11 @@
         "9 Penang Road",
         "Junction 8",
         "Pasir Ris Mall",
-        "White Sands"
+        "White Sands",
+        "Marina One"
       ],
       "outlets_outstanding": [
         "Marina Square",
-        "Marina One",
         "Institute of Mental Health",
         "78 Airport Blvd",
         "Punggol Plaza",
@@ -156,6 +156,10 @@
         "White Sands": {
           "by": "boss",
           "time": "10:54"
+        },
+        "Marina One": {
+          "by": "jvparthiban7",
+          "time": "10:58"
         }
       },
       "problems": [],
