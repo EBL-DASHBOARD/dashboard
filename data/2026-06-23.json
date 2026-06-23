@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T08:18:21.147Z",
+  "generated": "2026-06-23T08:56:10.205Z",
   "groups": [
     {
       "id": "XH",
@@ -368,7 +368,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -390,7 +390,8 @@
         "MARS",
         "LTM",
         "WNC",
-        "AP4"
+        "AP4",
+        "FEN"
       ],
       "outlets_outstanding": [
         "R1",
@@ -401,7 +402,6 @@
         "SSC2",
         "HRC",
         "WWP",
-        "FEN",
         "PDD"
       ],
       "done_detail": {
@@ -488,6 +488,10 @@
         "AP4": {
           "by": "Krishna",
           "time": "16:10"
+        },
+        "FEN": {
+          "by": "Sasi",
+          "time": "16:56"
         }
       },
       "problems": [],
