@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T02:22:46.758Z",
+  "generated": "2026-06-23T02:27:28.388Z",
   "groups": [
     {
       "id": "XH",
@@ -300,7 +300,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -308,12 +308,12 @@
         "IM",
         "KH",
         "KIT",
-        "KRC"
+        "KRC",
+        "BPP"
       ],
       "outlets_outstanding": [
         "CT",
         "WXI",
-        "BPP",
         "TGCC",
         "WSM",
         "BS",
@@ -348,6 +348,10 @@
         "KRC": {
           "by": "Krishna",
           "time": "10:22"
+        },
+        "BPP": {
+          "by": "Samy Kumar Meena",
+          "time": "10:27"
         }
       },
       "problems": [],
