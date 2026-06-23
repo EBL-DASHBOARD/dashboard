@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T04:40:36.854Z",
+  "generated": "2026-06-23T06:45:33.452Z",
   "groups": [
     {
       "id": "XH",
@@ -99,7 +99,7 @@
           "pm": []
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -114,12 +114,12 @@
         "Punggol Plaza",
         "888 Plaza",
         "Marina Square",
-        "Institute of Mental Health"
+        "Institute of Mental Health",
+        "Downtown East"
       ],
       "outlets_outstanding": [
         "78 Airport Blvd",
         "Margaret Market",
-        "Downtown East",
         "Waterway Point",
         "Compass One",
         "Causeway Point",
@@ -184,6 +184,10 @@
         "Institute of Mental Health": {
           "by": "boss",
           "time": "12:40"
+        },
+        "Downtown East": {
+          "by": "Nur Azimah",
+          "time": "14:45"
         }
       },
       "problems": [],
