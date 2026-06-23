@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T01:02:34.701Z",
+  "generated": "2026-06-23T01:29:08.052Z",
   "groups": [
     {
       "id": "XH",
@@ -99,9 +99,10 @@
           "pm": []
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "The Rail Mall"
+        "The Rail Mall",
+        "77 Robinson"
       ],
       "outlets_outstanding": [
         "Suntec City",
@@ -117,13 +118,16 @@
         "888 Plaza",
         "9 Penang Road",
         "South Beach Tower",
-        "77 Robinson",
         "Margaret Market"
       ],
       "done_detail": {
         "The Rail Mall": {
           "by": "Nur Azimah",
           "time": "08:30"
+        },
+        "77 Robinson": {
+          "by": "SEENU.C",
+          "time": "09:29"
         }
       },
       "problems": [],
