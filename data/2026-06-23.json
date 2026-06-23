@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T02:36:11.464Z",
+  "generated": "2026-06-23T02:53:26.460Z",
   "groups": [
     {
       "id": "XH",
@@ -99,14 +99,15 @@
           "pm": []
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
         "Suntec City",
         "Hillion Mall",
         "South Beach Tower",
-        "9 Penang Road"
+        "9 Penang Road",
+        "Junction 8"
       ],
       "outlets_outstanding": [
         "Marina Square",
@@ -116,7 +117,6 @@
         "Institute of Mental Health",
         "78 Airport Blvd",
         "Punggol Plaza",
-        "Junction 8",
         "888 Plaza",
         "Margaret Market"
       ],
@@ -144,6 +144,10 @@
         "9 Penang Road": {
           "by": "SEENU.C",
           "time": "10:20"
+        },
+        "Junction 8": {
+          "by": "Nur Azimah",
+          "time": "10:53"
         }
       },
       "problems": [],
