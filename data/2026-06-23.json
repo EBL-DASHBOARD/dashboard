@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T10:16:15.247Z",
+  "generated": "2026-06-23T10:30:09.185Z",
   "groups": [
     {
       "id": "XH",
@@ -99,7 +99,7 @@
           "pm": []
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -127,11 +127,10 @@
         "One Raffles Link",
         "Causeway Point",
         "Plaza Singapura",
-        "Lazada One"
-      ],
-      "outlets_outstanding": [
+        "Lazada One",
         "GRID"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "The Rail Mall": {
           "by": "Nur Azimah",
@@ -240,6 +239,10 @@
         "Lazada One": {
           "by": "boss",
           "time": "18:12"
+        },
+        "GRID": {
+          "by": "jvparthiban7",
+          "time": "18:30"
         }
       },
       "problems": [],
