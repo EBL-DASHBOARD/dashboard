@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-06-23T01:32:37.614Z",
+  "generated": "2026-06-23T01:33:27.938Z",
   "groups": [
     {
       "id": "XH",
@@ -99,11 +99,12 @@
           "pm": []
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
-        "Suntec City"
+        "Suntec City",
+        "Hillion Mall"
       ],
       "outlets_outstanding": [
         "Marina Square",
@@ -114,7 +115,6 @@
         "78 Airport Blvd",
         "Punggol Plaza",
         "Junction 8",
-        "Hillion Mall",
         "888 Plaza",
         "9 Penang Road",
         "South Beach Tower",
@@ -132,6 +132,10 @@
         "Suntec City": {
           "by": "jvparthiban7",
           "time": "09:32"
+        },
+        "Hillion Mall": {
+          "by": "Nur Azimah",
+          "time": "09:33"
         }
       },
       "problems": [],
