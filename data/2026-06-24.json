@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T02:44:58.854Z",
+  "generated": "2026-06-24T02:49:26.250Z",
   "groups": [
     {
       "id": "EBL6",
@@ -317,7 +317,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -325,7 +325,8 @@
         "Le Quest",
         "HarbourFront Tower 1",
         "Ngee Ann Polytechnic Block 1",
-        "Hillion Mall"
+        "Hillion Mall",
+        "Vivocity"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -333,7 +334,6 @@
         "Century Square",
         "Dairy Farm Mall",
         "Parc Point",
-        "Vivocity",
         "ARTRA",
         "GENEO",
         "The Woodleigh Mall",
@@ -368,6 +368,10 @@
         "Hillion Mall": {
           "by": "Nur Azimah",
           "time": "10:33"
+        },
+        "Vivocity": {
+          "by": "palanivelumuthukumar",
+          "time": "10:49"
         }
       },
       "problems": [],
