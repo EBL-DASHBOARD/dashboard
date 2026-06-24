@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T07:44:04.837Z",
+  "generated": "2026-06-24T07:44:21.368Z",
   "groups": [
     {
       "id": "EBL6",
@@ -400,7 +400,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -427,14 +427,14 @@
         "V Hotel Lavender",
         "JEM",
         "Mapletree Business City",
-        "Compass One"
+        "Compass One",
+        "SingPost Centre"
       ],
       "outlets_outstanding": [
         "Punggol Coast Mall",
         "Waterway Point",
         "Fairprice Hub",
         "Eastpoint Mall",
-        "SingPost Centre",
         "Chinatown Point",
         "Icon Link",
         "Flavours @ NUS Uptown",
@@ -547,6 +547,10 @@
         "Compass One": {
           "by": "GK",
           "time": "15:21"
+        },
+        "SingPost Centre": {
+          "by": "palanivelumuthukumar",
+          "time": "15:44"
         }
       },
       "problems": [],
