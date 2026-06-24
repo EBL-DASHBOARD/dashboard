@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T01:37:05.339Z",
+  "generated": "2026-06-24T01:38:31.374Z",
   "groups": [
     {
       "id": "EBL6",
@@ -297,17 +297,17 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
-        "Citygate"
+        "Citygate",
+        "Le Quest"
       ],
       "outlets_outstanding": [
         "Tampines 1",
         "Tampines Mart",
         "Century Square",
-        "Le Quest",
         "Dairy Farm Mall",
         "Hillion Mall",
         "Parc Point",
@@ -332,6 +332,10 @@
         "Citygate": {
           "by": "boss",
           "time": "09:15"
+        },
+        "Le Quest": {
+          "by": "Nur Azimah",
+          "time": "09:38"
         }
       },
       "problems": [],
