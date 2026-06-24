@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T01:59:53.638Z",
+  "generated": "2026-06-24T02:20:06.753Z",
   "groups": [
     {
       "id": "EBL6",
@@ -305,13 +305,14 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
         "Citygate",
         "Le Quest",
-        "HarbourFront Tower 1"
+        "HarbourFront Tower 1",
+        "Ngee Ann Polytechnic Block 1"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -325,8 +326,7 @@
         "GENEO",
         "The Woodleigh Mall",
         "Junction 9",
-        "Northpoint City",
-        "Ngee Ann Polytechnic Block 1"
+        "Northpoint City"
       ],
       "done_detail": {
         "West Mall": {
@@ -348,6 +348,10 @@
         "HarbourFront Tower 1": {
           "by": "palanivelumuthukumar",
           "time": "09:59"
+        },
+        "Ngee Ann Polytechnic Block 1": {
+          "by": "jvparthiban7",
+          "time": "10:20"
         }
       },
       "problems": [],
