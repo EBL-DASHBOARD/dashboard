@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T00:37:14.281Z",
+  "generated": "2026-06-24T00:45:15.093Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,8 +126,10 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "DV"
+      ],
       "outlets_outstanding": [
         "BNV",
         "BQ",
@@ -146,10 +148,14 @@
         "SHP",
         "KIT",
         "KLP",
-        "DV",
         "MSQ"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "DV": {
+          "by": "Sasi",
+          "time": "08:45"
+        }
+      },
       "problems": [],
       "customers": null
     },
