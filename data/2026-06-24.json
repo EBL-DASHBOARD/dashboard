@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T04:00:05.398Z",
+  "generated": "2026-06-24T04:00:07.646Z",
   "groups": [
     {
       "id": "EBL6",
@@ -389,7 +389,10 @@
         "Rivervale Mall",
         "Compass One",
         "Punggol Coast Mall",
-        "Waterway Point"
+        "Waterway Point",
+        "Westgate Tower",
+        "JEM",
+        "Fairprice Hub"
       ],
       "done_detail": {
         "West Mall": {
