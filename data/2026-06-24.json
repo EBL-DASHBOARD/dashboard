@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T06:45:54.827Z",
+  "generated": "2026-06-24T06:50:38.792Z",
   "groups": [
     {
       "id": "EBL6",
@@ -380,7 +380,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -402,7 +402,8 @@
         "Tampines Mart",
         "Galaxis",
         "Westgate Tower",
-        "Rivervale Mall"
+        "Rivervale Mall",
+        "i12 Katong"
       ],
       "outlets_outstanding": [
         "Compass One",
@@ -411,7 +412,6 @@
         "JEM",
         "Fairprice Hub",
         "Eastpoint Mall",
-        "i12 Katong",
         "SingPost Centre",
         "Chinatown Point",
         "Icon Link",
@@ -507,6 +507,10 @@
         "Rivervale Mall": {
           "by": "GK",
           "time": "14:34"
+        },
+        "i12 Katong": {
+          "by": "palanivelumuthukumar",
+          "time": "14:50"
         }
       },
       "problems": [],
