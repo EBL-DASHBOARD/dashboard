@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T08:05:50.483Z",
+  "generated": "2026-06-24T08:10:07.809Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 25,
+      "done": 26,
       "outlets_done": [
         "DV",
         "KRC",
@@ -152,14 +152,14 @@
         "NEX",
         "AP4",
         "NTP",
-        "GMM"
+        "GMM",
+        "CKCC"
       ],
       "outlets_outstanding": [
         "TNC2",
         "LOY",
         "TPM",
         "PECC",
-        "CKCC",
         "CCP",
         "EPT",
         "BHT",
@@ -273,6 +273,10 @@
         "GMM": {
           "by": "Samy Kumar Meena",
           "time": "15:44"
+        },
+        "CKCC": {
+          "by": "Rsathiyaselvi",
+          "time": "16:10"
         }
       },
       "problems": [],
