@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T06:50:38.792Z",
+  "generated": "2026-06-24T07:01:16.826Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "DV",
         "KRC",
@@ -147,14 +147,14 @@
         "BNV",
         "MSQ",
         "VIVO",
-        "PAL"
+        "PAL",
+        "KNX"
       ],
       "outlets_outstanding": [
         "TNC2",
         "LOY",
         "TPM",
         "PECC",
-        "KNX",
         "CKCC",
         "CCP",
         "EPT",
@@ -253,6 +253,10 @@
         "PAL": {
           "by": "Samy Kumar Meena",
           "time": "14:45"
+        },
+        "KNX": {
+          "by": "Rsathiyaselvi",
+          "time": "15:01"
         }
       },
       "problems": [],
