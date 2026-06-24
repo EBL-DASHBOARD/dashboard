@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T08:40:35.098Z",
+  "generated": "2026-06-24T08:45:52.144Z",
   "groups": [
     {
       "id": "EBL6",
@@ -408,7 +408,7 @@
           ]
         }
       ],
-      "done": 31,
+      "done": 32,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -440,10 +440,10 @@
         "Waterway Point",
         "Fairprice Hub",
         "The Poiz Centre",
-        "New Tech Park"
+        "New Tech Park",
+        "Punggol Coast Mall"
       ],
       "outlets_outstanding": [
-        "Punggol Coast Mall",
         "Eastpoint Mall",
         "Chinatown Point",
         "Icon Link",
@@ -575,6 +575,10 @@
         "New Tech Park": {
           "by": "boss",
           "time": "16:40"
+        },
+        "Punggol Coast Mall": {
+          "by": "GK",
+          "time": "16:45"
         }
       },
       "problems": [],
