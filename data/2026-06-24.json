@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T10:29:17.790Z",
+  "generated": "2026-06-24T10:32:58.996Z",
   "groups": [
     {
       "id": "EBL6",
@@ -440,7 +440,7 @@
           ]
         }
       ],
-      "done": 35,
+      "done": 36,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -476,10 +476,10 @@
         "Punggol Coast Mall",
         "Eastpoint Mall",
         "Flavours @ NUS Uptown",
-        "Chinatown Point"
+        "Chinatown Point",
+        "Icon Link"
       ],
       "outlets_outstanding": [
-        "Icon Link",
         "313 Somerset",
         "Far East Plaza Kiosk E"
       ],
@@ -623,6 +623,10 @@
         "Chinatown Point": {
           "by": "palanivelumuthukumar",
           "time": "17:42"
+        },
+        "Icon Link": {
+          "by": "jvparthiban7",
+          "time": "18:32"
         }
       },
       "problems": [],
