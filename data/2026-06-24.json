@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T07:12:51.486Z",
+  "generated": "2026-06-24T07:14:37.949Z",
   "groups": [
     {
       "id": "EBL6",
@@ -388,7 +388,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -413,7 +413,8 @@
         "Rivervale Mall",
         "i12 Katong",
         "V Hotel Lavender",
-        "JEM"
+        "JEM",
+        "Mapletree Business City"
       ],
       "outlets_outstanding": [
         "Compass One",
@@ -424,7 +425,6 @@
         "SingPost Centre",
         "Chinatown Point",
         "Icon Link",
-        "Mapletree Business City",
         "Flavours @ NUS Uptown",
         "The Poiz Centre",
         "New Tech Park",
@@ -527,6 +527,10 @@
         "JEM": {
           "by": "SEENU.C",
           "time": "15:12"
+        },
+        "Mapletree Business City": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "15:14"
         }
       },
       "problems": [],
