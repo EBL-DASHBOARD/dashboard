@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T03:13:29.450Z",
+  "generated": "2026-06-24T03:14:07.941Z",
   "groups": [
     {
       "id": "EBL6",
@@ -333,7 +333,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -342,7 +342,8 @@
         "HarbourFront Tower 1",
         "Ngee Ann Polytechnic Block 1",
         "Hillion Mall",
-        "Vivocity"
+        "Vivocity",
+        "Northpoint City"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -353,8 +354,7 @@
         "ARTRA",
         "GENEO",
         "The Woodleigh Mall",
-        "Junction 9",
-        "Northpoint City"
+        "Junction 9"
       ],
       "done_detail": {
         "West Mall": {
@@ -388,6 +388,10 @@
         "Vivocity": {
           "by": "palanivelumuthukumar",
           "time": "10:49"
+        },
+        "Northpoint City": {
+          "by": "jvparthiban7",
+          "time": "11:14"
         }
       },
       "problems": [],
