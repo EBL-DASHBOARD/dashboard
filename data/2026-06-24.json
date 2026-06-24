@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T03:46:14.799Z",
+  "generated": "2026-06-24T03:46:42.175Z",
   "groups": [
     {
       "id": "EBL6",
@@ -333,7 +333,7 @@
           ]
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -348,13 +348,17 @@
         "Century Square",
         "Parc Point",
         "GENEO",
-        "Junction 9"
+        "Junction 9",
+        "Dairy Farm Mall"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
-        "Dairy Farm Mall",
         "ARTRA",
-        "The Woodleigh Mall"
+        "The Woodleigh Mall",
+        "Rivervale Mall",
+        "Compass One",
+        "Punggol Coast Mall",
+        "Waterway Point"
       ],
       "done_detail": {
         "West Mall": {
@@ -411,6 +415,10 @@
         },
         "Junction 9": {
           "by": "jvparthiban7",
+          "time": "11:46"
+        },
+        "Dairy Farm Mall": {
+          "by": "Nur Azimah",
           "time": "11:46"
         }
       },
