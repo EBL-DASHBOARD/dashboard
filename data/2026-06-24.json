@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T09:42:33.121Z",
+  "generated": "2026-06-24T09:57:48.225Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 32,
+      "done": 33,
       "outlets_done": [
         "DV",
         "KRC",
@@ -159,7 +159,8 @@
         "TPM",
         "ACV",
         "BOB",
-        "TNC2"
+        "TNC2",
+        "WWP"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -170,8 +171,7 @@
         "AP2",
         "R3",
         "WIS",
-        "KTB",
-        "WWP"
+        "KTB"
       ],
       "done_detail": {
         "DV": {
@@ -301,6 +301,10 @@
         "TNC2": {
           "by": "Rsathiyaselvi",
           "time": "17:37"
+        },
+        "WWP": {
+          "by": "Sasi",
+          "time": "17:57"
         }
       },
       "problems": [],
