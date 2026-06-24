@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T07:12:13.420Z",
+  "generated": "2026-06-24T07:12:51.486Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "DV",
         "KRC",
@@ -148,7 +148,8 @@
         "MSQ",
         "VIVO",
         "PAL",
-        "KNX"
+        "KNX",
+        "NEX"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -170,8 +171,7 @@
         "KTB",
         "WWP",
         "NTP",
-        "ACV",
-        "NEX"
+        "ACV"
       ],
       "done_detail": {
         "DV": {
@@ -257,6 +257,10 @@
         "KNX": {
           "by": "Rsathiyaselvi",
           "time": "15:01"
+        },
+        "NEX": {
+          "by": "Sasi",
+          "time": "15:12"
         }
       },
       "problems": [],
