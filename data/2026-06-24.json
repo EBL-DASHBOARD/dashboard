@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T04:28:33.303Z",
+  "generated": "2026-06-24T04:28:50.917Z",
   "groups": [
     {
       "id": "EBL6",
@@ -376,7 +376,7 @@
           ]
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -394,10 +394,10 @@
         "Junction 9",
         "Dairy Farm Mall",
         "ARTRA",
-        "The Woodleigh Mall"
+        "The Woodleigh Mall",
+        "Tampines Mart"
       ],
       "outlets_outstanding": [
-        "Tampines Mart",
         "Rivervale Mall",
         "Compass One",
         "Punggol Coast Mall",
@@ -412,7 +412,12 @@
         "Icon Link",
         "Mapletree Business City",
         "Galaxis",
-        "Flavours @ NUS Uptown"
+        "Flavours @ NUS Uptown",
+        "V Hotel Lavender",
+        "The Poiz Centre",
+        "New Tech Park",
+        "313 Somerset",
+        "Far East Plaza Kiosk E"
       ],
       "done_detail": {
         "West Mall": {
@@ -482,6 +487,10 @@
         "The Woodleigh Mall": {
           "by": "jvparthiban7",
           "time": "12:18"
+        },
+        "Tampines Mart": {
+          "by": "boss",
+          "time": "12:28"
         }
       },
       "problems": [],
