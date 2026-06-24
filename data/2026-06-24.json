@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T02:29:10.671Z",
+  "generated": "2026-06-24T02:33:14.967Z",
   "groups": [
     {
       "id": "EBL6",
@@ -313,21 +313,21 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
         "Citygate",
         "Le Quest",
         "HarbourFront Tower 1",
-        "Ngee Ann Polytechnic Block 1"
+        "Ngee Ann Polytechnic Block 1",
+        "Hillion Mall"
       ],
       "outlets_outstanding": [
         "Tampines 1",
         "Tampines Mart",
         "Century Square",
         "Dairy Farm Mall",
-        "Hillion Mall",
         "Parc Point",
         "Vivocity",
         "ARTRA",
@@ -360,6 +360,10 @@
         "Ngee Ann Polytechnic Block 1": {
           "by": "jvparthiban7",
           "time": "10:20"
+        },
+        "Hillion Mall": {
+          "by": "Nur Azimah",
+          "time": "10:33"
         }
       },
       "problems": [],
