@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T08:55:04.373Z",
+  "generated": "2026-06-24T08:56:12.078Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "DV",
         "KRC",
@@ -155,12 +155,12 @@
         "GMM",
         "CKCC",
         "BHT",
-        "R1"
+        "R1",
+        "TPM"
       ],
       "outlets_outstanding": [
         "TNC2",
         "LOY",
-        "TPM",
         "PECC",
         "CCP",
         "EPT",
@@ -285,6 +285,10 @@
         "R1": {
           "by": "Krishna",
           "time": "16:55"
+        },
+        "TPM": {
+          "by": "Rsathiyaselvi",
+          "time": "16:56"
         }
       },
       "problems": [],
