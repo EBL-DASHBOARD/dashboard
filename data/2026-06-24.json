@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T07:58:45.093Z",
+  "generated": "2026-06-24T08:05:50.483Z",
   "groups": [
     {
       "id": "EBL6",
@@ -400,7 +400,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -429,11 +429,11 @@
         "Mapletree Business City",
         "Compass One",
         "SingPost Centre",
-        "Waterway Point"
+        "Waterway Point",
+        "Fairprice Hub"
       ],
       "outlets_outstanding": [
         "Punggol Coast Mall",
-        "Fairprice Hub",
         "Eastpoint Mall",
         "Chinatown Point",
         "Icon Link",
@@ -555,6 +555,10 @@
         "Waterway Point": {
           "by": "GK",
           "time": "15:58"
+        },
+        "Fairprice Hub": {
+          "by": "SEENU.C",
+          "time": "16:05"
         }
       },
       "problems": [],
