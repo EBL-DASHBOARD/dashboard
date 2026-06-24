@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T07:08:24.814Z",
+  "generated": "2026-06-24T07:12:13.420Z",
   "groups": [
     {
       "id": "EBL6",
@@ -384,7 +384,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -408,13 +408,13 @@
         "Westgate Tower",
         "Rivervale Mall",
         "i12 Katong",
-        "V Hotel Lavender"
+        "V Hotel Lavender",
+        "JEM"
       ],
       "outlets_outstanding": [
         "Compass One",
         "Punggol Coast Mall",
         "Waterway Point",
-        "JEM",
         "Fairprice Hub",
         "Eastpoint Mall",
         "SingPost Centre",
@@ -519,6 +519,10 @@
         "V Hotel Lavender": {
           "by": "boss",
           "time": "15:08"
+        },
+        "JEM": {
+          "by": "SEENU.C",
+          "time": "15:12"
         }
       },
       "problems": [],
