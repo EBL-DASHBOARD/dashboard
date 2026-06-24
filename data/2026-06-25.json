@@ -1,0 +1,108 @@
+{
+  "date": "2026-06-25",
+  "generated": "2026-06-24T10:58:08.260Z",
+  "groups": [
+    {
+      "id": "XH",
+      "name": "Xh Delivery",
+      "total_locations": 24,
+      "am_total": 13,
+      "pm_total": 11,
+      "am_outlets": [
+        "Tanah Merah Ferry Terminal",
+        "Hougang Mall",
+        "Punggol Plaza",
+        "Zhongshan Mall",
+        "Royal Square",
+        "Junction 8",
+        "Woods Square",
+        "Hillion Mall",
+        "The Rail Mall",
+        "Marina One",
+        "Suntec City",
+        "South Beach Tower",
+        "77 Robinson"
+      ],
+      "pm_outlets": [
+        "Downtown East",
+        "Pasir Ris Mall",
+        "White Sands",
+        "Waterway Point",
+        "Compass One",
+        "Causeway Point",
+        "888 Plaza",
+        "Parkway Parade",
+        "Duo Galleria",
+        "120 Robinson",
+        "Guoco Tower"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Tanah Merah Ferry Terminal",
+            "Hougang Mall",
+            "Punggol Plaza",
+            "Zhongshan Mall",
+            "Royal Square"
+          ],
+          "pm": [
+            "Downtown East",
+            "Pasir Ris Mall",
+            "White Sands"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "Junction 8",
+            "Woods Square",
+            "Hillion Mall",
+            "The Rail Mall"
+          ],
+          "pm": [
+            "Waterway Point",
+            "Compass One",
+            "Causeway Point",
+            "888 Plaza"
+          ]
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Marina One",
+            "Suntec City",
+            "South Beach Tower",
+            "77 Robinson"
+          ],
+          "pm": [
+            "Parkway Parade",
+            "Duo Galleria",
+            "120 Robinson",
+            "Guoco Tower"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Tanah Merah Ferry Terminal",
+        "Hougang Mall",
+        "Punggol Plaza",
+        "Zhongshan Mall",
+        "Royal Square",
+        "Junction 8",
+        "Woods Square",
+        "Hillion Mall",
+        "The Rail Mall",
+        "Marina One",
+        "Suntec City",
+        "South Beach Tower",
+        "77 Robinson"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
