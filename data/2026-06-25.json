@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-24T10:58:08.260Z",
+  "generated": "2026-06-24T12:38:32.785Z",
   "groups": [
     {
       "id": "XH",
@@ -99,6 +99,122 @@
         "Suntec City",
         "South Beach Tower",
         "77 Robinson"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 31,
+      "am_total": 13,
+      "pm_total": 18,
+      "am_outlets": [
+        "IM",
+        "WXI",
+        "JKN",
+        "WSM",
+        "BPP",
+        "TGCC",
+        "KH",
+        "CCKS",
+        "YTP",
+        "BS",
+        "MBA",
+        "STC",
+        "TY"
+      ],
+      "pm_outlets": [
+        "R1",
+        "R3",
+        "AP4",
+        "AP1",
+        "PECC",
+        "LOY",
+        "TNC2",
+        "MARS",
+        "SSC2",
+        "YS1",
+        "LTM",
+        "J9",
+        "WWP",
+        "PDD",
+        "HRC",
+        "KEB",
+        "VIVA",
+        "FEN"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-2",
+          "am": [
+            "IM",
+            "WXI",
+            "JKN",
+            "WSM"
+          ],
+          "pm": [
+            "R1",
+            "R3",
+            "AP4",
+            "AP1",
+            "PECC",
+            "LOY",
+            "TNC2"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "BPP",
+            "TGCC",
+            "KH",
+            "CCKS",
+            "YTP"
+          ],
+          "pm": [
+            "MARS",
+            "SSC2",
+            "YS1",
+            "LTM",
+            "J9"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "BS",
+            "MBA",
+            "STC",
+            "TY"
+          ],
+          "pm": [
+            "WWP",
+            "PDD",
+            "HRC",
+            "KEB",
+            "VIVA",
+            "FEN"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "IM",
+        "WXI",
+        "JKN",
+        "WSM",
+        "BPP",
+        "TGCC",
+        "KH",
+        "CCKS",
+        "YTP",
+        "BS",
+        "MBA",
+        "STC",
+        "TY"
       ],
       "done_detail": {},
       "problems": [],
