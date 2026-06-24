@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T00:50:35.000Z",
+  "generated": "2026-06-24T01:00:35.910Z",
   "groups": [
     {
       "id": "EBL6",
@@ -289,9 +289,10 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "West Mall"
+        "West Mall",
+        "Alexandra Technopark B"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -306,7 +307,6 @@
         "Vivocity",
         "ARTRA",
         "GENEO",
-        "Alexandra Technopark B",
         "The Woodleigh Mall",
         "Junction 9",
         "Northpoint City",
@@ -316,6 +316,10 @@
         "West Mall": {
           "by": "Nur Azimah",
           "time": "08:37"
+        },
+        "Alexandra Technopark B": {
+          "by": "palanivelumuthukumar",
+          "time": "09:00"
         }
       },
       "problems": [],
