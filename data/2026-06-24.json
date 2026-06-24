@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T08:46:13.919Z",
+  "generated": "2026-06-24T08:55:04.373Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "DV",
         "KRC",
@@ -154,7 +154,8 @@
         "NTP",
         "GMM",
         "CKCC",
-        "BHT"
+        "BHT",
+        "R1"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -164,7 +165,6 @@
         "CCP",
         "EPT",
         "BOB",
-        "R1",
         "AP1",
         "AP2",
         "R3",
@@ -281,6 +281,10 @@
         "BHT": {
           "by": "Samy Kumar Meena",
           "time": "16:19"
+        },
+        "R1": {
+          "by": "Krishna",
+          "time": "16:55"
         }
       },
       "problems": [],
