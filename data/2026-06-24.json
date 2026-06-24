@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T08:19:51.818Z",
+  "generated": "2026-06-24T08:40:35.098Z",
   "groups": [
     {
       "id": "EBL6",
@@ -408,7 +408,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 31,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -438,7 +438,9 @@
         "Compass One",
         "SingPost Centre",
         "Waterway Point",
-        "Fairprice Hub"
+        "Fairprice Hub",
+        "The Poiz Centre",
+        "New Tech Park"
       ],
       "outlets_outstanding": [
         "Punggol Coast Mall",
@@ -446,8 +448,6 @@
         "Chinatown Point",
         "Icon Link",
         "Flavours @ NUS Uptown",
-        "The Poiz Centre",
-        "New Tech Park",
         "313 Somerset",
         "Far East Plaza Kiosk E"
       ],
@@ -567,6 +567,14 @@
         "Fairprice Hub": {
           "by": "SEENU.C",
           "time": "16:05"
+        },
+        "The Poiz Centre": {
+          "by": "boss",
+          "time": "16:40"
+        },
+        "New Tech Park": {
+          "by": "boss",
+          "time": "16:40"
         }
       },
       "problems": [],
