@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T03:09:45.543Z",
+  "generated": "2026-06-24T03:12:11.506Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "DV",
         "KRC",
@@ -139,12 +139,12 @@
         "ART",
         "HV2",
         "KLP",
-        "CTP"
+        "CTP",
+        "TRM"
       ],
       "outlets_outstanding": [
         "BNV",
         "CT",
-        "TRM",
         "TIO",
         "VIVO",
         "KIT",
@@ -198,6 +198,10 @@
         "CTP": {
           "by": "Rsathiyaselvi",
           "time": "11:09"
+        },
+        "TRM": {
+          "by": "Samy Kumar Meena",
+          "time": "11:12"
         }
       },
       "problems": [],
