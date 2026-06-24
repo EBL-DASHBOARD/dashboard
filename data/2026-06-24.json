@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T11:24:59.573Z",
+  "generated": "2026-06-24T11:36:58.995Z",
   "groups": [
     {
       "id": "EBL6",
@@ -464,7 +464,7 @@
           ]
         }
       ],
-      "done": 36,
+      "done": 38,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -501,12 +501,11 @@
         "Eastpoint Mall",
         "Flavours @ NUS Uptown",
         "Chinatown Point",
-        "Icon Link"
-      ],
-      "outlets_outstanding": [
+        "Icon Link",
         "313 Somerset",
         "Far East Plaza Kiosk E"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "West Mall": {
           "by": "Nur Azimah",
@@ -651,6 +650,14 @@
         "Icon Link": {
           "by": "jvparthiban7",
           "time": "18:32"
+        },
+        "313 Somerset": {
+          "by": "boss",
+          "time": "19:36"
+        },
+        "Far East Plaza Kiosk E": {
+          "by": "boss",
+          "time": "19:36"
         }
       },
       "problems": [],
