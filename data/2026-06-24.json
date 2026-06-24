@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T15:41:30.346Z",
+  "generated": "2026-06-24T16:35:14.074Z",
   "groups": [
     {
       "id": "EBL6",
@@ -701,14 +701,18 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "Tangs Plaza Kiosk 2",
         "Ngee Ann City",
-        "Aperia Mall"
+        "Aperia Mall",
+        "PLQ Tower 1"
       ],
       "outlets_outstanding": [
-        "PLQ Tower 1"
+        "One Raffles Place Tower 2",
+        "Collyer Quay",
+        "Royal Group Building",
+        "NUH Medical Centre"
       ],
       "done_detail": {
         "Tangs Plaza Kiosk 2": {
@@ -722,6 +726,10 @@
         "Aperia Mall": {
           "by": "SEENU.C",
           "time": "23:41"
+        },
+        "PLQ Tower 1": {
+          "by": "SEENU.C",
+          "time": "00:35"
         }
       },
       "problems": [],
