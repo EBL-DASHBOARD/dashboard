@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T07:01:16.826Z",
+  "generated": "2026-06-24T07:08:24.814Z",
   "groups": [
     {
       "id": "EBL6",
@@ -384,7 +384,7 @@
           ]
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -407,7 +407,8 @@
         "Galaxis",
         "Westgate Tower",
         "Rivervale Mall",
-        "i12 Katong"
+        "i12 Katong",
+        "V Hotel Lavender"
       ],
       "outlets_outstanding": [
         "Compass One",
@@ -421,7 +422,6 @@
         "Icon Link",
         "Mapletree Business City",
         "Flavours @ NUS Uptown",
-        "V Hotel Lavender",
         "The Poiz Centre",
         "New Tech Park",
         "313 Somerset",
@@ -515,6 +515,10 @@
         "i12 Katong": {
           "by": "palanivelumuthukumar",
           "time": "14:50"
+        },
+        "V Hotel Lavender": {
+          "by": "boss",
+          "time": "15:08"
         }
       },
       "problems": [],
