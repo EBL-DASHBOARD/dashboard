@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T03:21:19.284Z",
+  "generated": "2026-06-24T03:38:28.975Z",
   "groups": [
     {
       "id": "EBL6",
@@ -333,7 +333,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -346,13 +346,13 @@
         "Northpoint City",
         "Tampines 1",
         "Century Square",
-        "Parc Point"
+        "Parc Point",
+        "GENEO"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
         "Dairy Farm Mall",
         "ARTRA",
-        "GENEO",
         "The Woodleigh Mall",
         "Junction 9"
       ],
@@ -404,6 +404,10 @@
         "Parc Point": {
           "by": "Nur Azimah",
           "time": "11:21"
+        },
+        "GENEO": {
+          "by": "palanivelumuthukumar",
+          "time": "11:38"
         }
       },
       "problems": [],
