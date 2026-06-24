@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T03:09:03.344Z",
+  "generated": "2026-06-24T03:09:45.543Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "DV",
         "KRC",
@@ -138,11 +138,11 @@
         "SHP",
         "ART",
         "HV2",
-        "KLP"
+        "KLP",
+        "CTP"
       ],
       "outlets_outstanding": [
         "BNV",
-        "CTP",
         "CT",
         "TRM",
         "TIO",
@@ -193,6 +193,10 @@
         },
         "KLP": {
           "by": "Sasi",
+          "time": "11:09"
+        },
+        "CTP": {
+          "by": "Rsathiyaselvi",
           "time": "11:09"
         }
       },
