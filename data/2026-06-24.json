@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T03:53:43.002Z",
+  "generated": "2026-06-24T04:00:05.398Z",
   "groups": [
     {
       "id": "EBL6",
@@ -148,7 +148,30 @@
       "outlets_outstanding": [
         "BNV",
         "VIVO",
-        "MSQ"
+        "MSQ",
+        "TNC2",
+        "LOY",
+        "TPM",
+        "PECC",
+        "KNX",
+        "CKCC",
+        "CCP",
+        "EPT",
+        "BHT",
+        "BOB",
+        "GMM",
+        "PAL",
+        "R1",
+        "AP1",
+        "AP2",
+        "AP4",
+        "R3",
+        "WIS",
+        "KTB",
+        "WWP",
+        "NTP",
+        "ACV",
+        "NEX"
       ],
       "done_detail": {
         "DV": {
