@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T02:49:26.250Z",
+  "generated": "2026-06-24T03:09:03.344Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 10,
+      "done": 11,
       "outlets_done": [
         "DV",
         "KRC",
@@ -137,7 +137,8 @@
         "BQ",
         "SHP",
         "ART",
-        "HV2"
+        "HV2",
+        "KLP"
       ],
       "outlets_outstanding": [
         "BNV",
@@ -147,7 +148,6 @@
         "TIO",
         "VIVO",
         "KIT",
-        "KLP",
         "MSQ"
       ],
       "done_detail": {
@@ -190,6 +190,10 @@
         "HV2": {
           "by": "Samy Kumar Meena",
           "time": "10:44"
+        },
+        "KLP": {
+          "by": "Sasi",
+          "time": "11:09"
         }
       },
       "problems": [],
