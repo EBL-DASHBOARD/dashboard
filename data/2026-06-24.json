@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T04:18:03.732Z",
+  "generated": "2026-06-24T04:23:42.252Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "DV",
         "KRC",
@@ -143,10 +143,10 @@
         "TRM",
         "TIO",
         "KIT",
-        "CT"
+        "CT",
+        "BNV"
       ],
       "outlets_outstanding": [
-        "BNV",
         "VIVO",
         "MSQ",
         "TNC2",
@@ -237,6 +237,10 @@
         "CT": {
           "by": "Rsathiyaselvi",
           "time": "11:53"
+        },
+        "BNV": {
+          "by": "Rsathiyaselvi",
+          "time": "12:23"
         }
       },
       "problems": [],
