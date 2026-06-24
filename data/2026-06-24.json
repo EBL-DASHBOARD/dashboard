@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T06:26:37.813Z",
+  "generated": "2026-06-24T06:33:50.469Z",
   "groups": [
     {
       "id": "EBL6",
@@ -376,7 +376,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -396,14 +396,14 @@
         "ARTRA",
         "The Woodleigh Mall",
         "Tampines Mart",
-        "Galaxis"
+        "Galaxis",
+        "Westgate Tower"
       ],
       "outlets_outstanding": [
         "Rivervale Mall",
         "Compass One",
         "Punggol Coast Mall",
         "Waterway Point",
-        "Westgate Tower",
         "JEM",
         "Fairprice Hub",
         "Eastpoint Mall",
@@ -495,6 +495,10 @@
         "Galaxis": {
           "by": "jvparthiban7",
           "time": "14:26"
+        },
+        "Westgate Tower": {
+          "by": "SEENU.C",
+          "time": "14:33"
         }
       },
       "problems": [],
