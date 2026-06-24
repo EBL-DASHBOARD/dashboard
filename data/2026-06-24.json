@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T01:15:51.251Z",
+  "generated": "2026-06-24T01:34:37.508Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,11 +126,12 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "DV",
         "KRC",
-        "JP"
+        "JP",
+        "USQ"
       ],
       "outlets_outstanding": [
         "BNV",
@@ -144,7 +145,6 @@
         "ARC",
         "VIVO",
         "ART",
-        "USQ",
         "SHP",
         "KIT",
         "KLP",
@@ -162,6 +162,10 @@
         "JP": {
           "by": "Samy Kumar Meena",
           "time": "08:50"
+        },
+        "USQ": {
+          "by": "Sasi",
+          "time": "09:34"
         }
       },
       "problems": [],
