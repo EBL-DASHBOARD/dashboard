@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T07:43:25.076Z",
+  "generated": "2026-06-24T07:44:04.837Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "DV",
         "KRC",
@@ -151,7 +151,8 @@
         "KNX",
         "NEX",
         "AP4",
-        "NTP"
+        "NTP",
+        "GMM"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -163,7 +164,6 @@
         "EPT",
         "BHT",
         "BOB",
-        "GMM",
         "R1",
         "AP1",
         "AP2",
@@ -269,6 +269,10 @@
         "NTP": {
           "by": "Sasi",
           "time": "15:43"
+        },
+        "GMM": {
+          "by": "Samy Kumar Meena",
+          "time": "15:44"
         }
       },
       "problems": [],
