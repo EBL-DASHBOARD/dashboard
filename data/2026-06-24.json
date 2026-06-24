@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T01:45:24.542Z",
+  "generated": "2026-06-24T01:59:53.638Z",
   "groups": [
     {
       "id": "EBL6",
@@ -305,12 +305,13 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
         "Citygate",
-        "Le Quest"
+        "Le Quest",
+        "HarbourFront Tower 1"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -319,7 +320,6 @@
         "Dairy Farm Mall",
         "Hillion Mall",
         "Parc Point",
-        "HarbourFront Tower 1",
         "Vivocity",
         "ARTRA",
         "GENEO",
@@ -344,6 +344,10 @@
         "Le Quest": {
           "by": "Nur Azimah",
           "time": "09:38"
+        },
+        "HarbourFront Tower 1": {
+          "by": "palanivelumuthukumar",
+          "time": "09:59"
         }
       },
       "problems": [],
