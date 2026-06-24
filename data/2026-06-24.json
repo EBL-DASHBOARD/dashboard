@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T11:20:30.715Z",
+  "generated": "2026-06-24T11:24:59.573Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 40,
+      "done": 41,
       "outlets_done": [
         "DV",
         "KRC",
@@ -167,11 +167,11 @@
         "KTB",
         "EPT",
         "PECC",
-        "WIS"
+        "WIS",
+        "R3"
       ],
       "outlets_outstanding": [
-        "AP1",
-        "R3"
+        "AP1"
       ],
       "done_detail": {
         "DV": {
@@ -333,6 +333,10 @@
         "WIS": {
           "by": "Sasi",
           "time": "19:20"
+        },
+        "R3": {
+          "by": "Krishna",
+          "time": "19:24"
         }
       },
       "problems": [],
