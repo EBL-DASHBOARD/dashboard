@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T03:14:07.941Z",
+  "generated": "2026-06-24T03:20:56.072Z",
   "groups": [
     {
       "id": "EBL6",
@@ -333,7 +333,7 @@
           ]
         }
       ],
-      "done": 9,
+      "done": 11,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -343,12 +343,12 @@
         "Ngee Ann Polytechnic Block 1",
         "Hillion Mall",
         "Vivocity",
-        "Northpoint City"
+        "Northpoint City",
+        "Tampines 1",
+        "Century Square"
       ],
       "outlets_outstanding": [
-        "Tampines 1",
         "Tampines Mart",
-        "Century Square",
         "Dairy Farm Mall",
         "Parc Point",
         "ARTRA",
@@ -392,6 +392,14 @@
         "Northpoint City": {
           "by": "jvparthiban7",
           "time": "11:14"
+        },
+        "Tampines 1": {
+          "by": "boss",
+          "time": "11:20"
+        },
+        "Century Square": {
+          "by": "boss",
+          "time": "11:20"
         }
       },
       "problems": [],
