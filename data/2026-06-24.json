@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T04:05:43.200Z",
+  "generated": "2026-06-24T04:18:01.822Z",
   "groups": [
     {
       "id": "EBL6",
@@ -364,7 +364,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -381,11 +381,11 @@
         "GENEO",
         "Junction 9",
         "Dairy Farm Mall",
-        "ARTRA"
+        "ARTRA",
+        "The Woodleigh Mall"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
-        "The Woodleigh Mall",
         "Rivervale Mall",
         "Compass One",
         "Punggol Coast Mall",
@@ -396,7 +396,11 @@
         "Eastpoint Mall",
         "i12 Katong",
         "SingPost Centre",
-        "Chinatown Point"
+        "Chinatown Point",
+        "Icon Link",
+        "Mapletree Business City",
+        "Galaxis",
+        "Flavours @ NUS Uptown"
       ],
       "done_detail": {
         "West Mall": {
@@ -462,6 +466,10 @@
         "ARTRA": {
           "by": "palanivelumuthukumar",
           "time": "12:05"
+        },
+        "The Woodleigh Mall": {
+          "by": "jvparthiban7",
+          "time": "12:18"
         }
       },
       "problems": [],
