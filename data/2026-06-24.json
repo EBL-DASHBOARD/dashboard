@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T04:28:53.213Z",
+  "generated": "2026-06-24T06:26:37.813Z",
   "groups": [
     {
       "id": "EBL6",
@@ -376,7 +376,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -395,7 +395,8 @@
         "Dairy Farm Mall",
         "ARTRA",
         "The Woodleigh Mall",
-        "Tampines Mart"
+        "Tampines Mart",
+        "Galaxis"
       ],
       "outlets_outstanding": [
         "Rivervale Mall",
@@ -411,7 +412,6 @@
         "Chinatown Point",
         "Icon Link",
         "Mapletree Business City",
-        "Galaxis",
         "Flavours @ NUS Uptown",
         "V Hotel Lavender",
         "The Poiz Centre",
@@ -491,6 +491,10 @@
         "Tampines Mart": {
           "by": "boss",
           "time": "12:28"
+        },
+        "Galaxis": {
+          "by": "jvparthiban7",
+          "time": "14:26"
         }
       },
       "problems": [],
