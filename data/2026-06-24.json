@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T06:33:50.469Z",
+  "generated": "2026-06-24T06:34:21.068Z",
   "groups": [
     {
       "id": "EBL6",
@@ -376,7 +376,7 @@
           ]
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -397,10 +397,10 @@
         "The Woodleigh Mall",
         "Tampines Mart",
         "Galaxis",
-        "Westgate Tower"
+        "Westgate Tower",
+        "Rivervale Mall"
       ],
       "outlets_outstanding": [
-        "Rivervale Mall",
         "Compass One",
         "Punggol Coast Mall",
         "Waterway Point",
@@ -499,6 +499,10 @@
         "Westgate Tower": {
           "by": "SEENU.C",
           "time": "14:33"
+        },
+        "Rivervale Mall": {
+          "by": "GK",
+          "time": "14:34"
         }
       },
       "problems": [],
