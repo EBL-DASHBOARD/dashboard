@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T07:32:06.141Z",
+  "generated": "2026-06-24T07:43:25.076Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "DV",
         "KRC",
@@ -150,7 +150,8 @@
         "PAL",
         "KNX",
         "NEX",
-        "AP4"
+        "AP4",
+        "NTP"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -170,7 +171,6 @@
         "WIS",
         "KTB",
         "WWP",
-        "NTP",
         "ACV"
       ],
       "done_detail": {
@@ -265,6 +265,10 @@
         "AP4": {
           "by": "Krishna",
           "time": "15:32"
+        },
+        "NTP": {
+          "by": "Sasi",
+          "time": "15:43"
         }
       },
       "problems": [],
