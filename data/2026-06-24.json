@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T00:45:15.093Z",
+  "generated": "2026-06-24T00:45:44.659Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,9 +126,10 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "DV"
+        "DV",
+        "KRC"
       ],
       "outlets_outstanding": [
         "BNV",
@@ -143,7 +144,6 @@
         "ARC",
         "VIVO",
         "ART",
-        "KRC",
         "USQ",
         "SHP",
         "KIT",
@@ -153,6 +153,10 @@
       "done_detail": {
         "DV": {
           "by": "Sasi",
+          "time": "08:45"
+        },
+        "KRC": {
+          "by": "Krishna",
           "time": "08:45"
         }
       },
