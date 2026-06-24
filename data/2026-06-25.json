@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-24T12:38:32.785Z",
+  "generated": "2026-06-24T15:29:07.154Z",
   "groups": [
     {
       "id": "XH",
@@ -215,6 +215,60 @@
         "MBA",
         "STC",
         "TY"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "XHNIGHT",
+      "name": "Xh Delivery (Night)",
+      "total_locations": 8,
+      "am_total": 5,
+      "pm_total": 3,
+      "am_outlets": [
+        "Jewel",
+        "Changi T1 Transit",
+        "Changi City Point",
+        "Hougang 1",
+        "ESR BizPark @ Changi"
+      ],
+      "pm_outlets": [
+        "Coronation Shopping Plaza",
+        "Westgate",
+        "NTU South Spine"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Jewel",
+            "Changi T1 Transit"
+          ],
+          "pm": []
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "Changi City Point",
+            "Hougang 1",
+            "ESR BizPark @ Changi"
+          ],
+          "pm": [
+            "Coronation Shopping Plaza",
+            "Westgate",
+            "NTU South Spine"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Jewel",
+        "Changi T1 Transit",
+        "Changi City Point",
+        "Hougang 1",
+        "ESR BizPark @ Changi"
       ],
       "done_detail": {},
       "problems": [],
