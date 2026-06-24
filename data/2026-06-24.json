@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T07:14:37.949Z",
+  "generated": "2026-06-24T07:21:01.243Z",
   "groups": [
     {
       "id": "EBL6",
@@ -388,7 +388,7 @@
           ]
         }
       ],
-      "done": 25,
+      "done": 26,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -414,10 +414,10 @@
         "i12 Katong",
         "V Hotel Lavender",
         "JEM",
-        "Mapletree Business City"
+        "Mapletree Business City",
+        "Compass One"
       ],
       "outlets_outstanding": [
-        "Compass One",
         "Punggol Coast Mall",
         "Waterway Point",
         "Fairprice Hub",
@@ -531,6 +531,10 @@
         "Mapletree Business City": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "15:14"
+        },
+        "Compass One": {
+          "by": "GK",
+          "time": "15:21"
         }
       },
       "problems": [],
