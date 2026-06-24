@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T07:44:21.368Z",
+  "generated": "2026-06-24T07:58:45.093Z",
   "groups": [
     {
       "id": "EBL6",
@@ -400,7 +400,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -428,11 +428,11 @@
         "JEM",
         "Mapletree Business City",
         "Compass One",
-        "SingPost Centre"
+        "SingPost Centre",
+        "Waterway Point"
       ],
       "outlets_outstanding": [
         "Punggol Coast Mall",
-        "Waterway Point",
         "Fairprice Hub",
         "Eastpoint Mall",
         "Chinatown Point",
@@ -551,6 +551,10 @@
         "SingPost Centre": {
           "by": "palanivelumuthukumar",
           "time": "15:44"
+        },
+        "Waterway Point": {
+          "by": "GK",
+          "time": "15:58"
         }
       },
       "problems": [],
