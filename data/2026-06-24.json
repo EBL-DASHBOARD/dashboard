@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T00:45:44.659Z",
+  "generated": "2026-06-24T00:50:35.000Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,10 +126,11 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "DV",
-        "KRC"
+        "KRC",
+        "JP"
       ],
       "outlets_outstanding": [
         "BNV",
@@ -137,7 +138,6 @@
         "CTP",
         "CT",
         "CCKS",
-        "JP",
         "HV2",
         "TRM",
         "TIO",
@@ -158,6 +158,10 @@
         "KRC": {
           "by": "Krishna",
           "time": "08:45"
+        },
+        "JP": {
+          "by": "Samy Kumar Meena",
+          "time": "08:50"
         }
       },
       "problems": [],
