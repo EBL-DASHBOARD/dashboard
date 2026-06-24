@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T10:41:00.170Z",
+  "generated": "2026-06-24T10:56:32.717Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 37,
+      "done": 38,
       "outlets_done": [
         "DV",
         "KRC",
@@ -164,11 +164,11 @@
         "CCP",
         "AP2",
         "LOY",
-        "KTB"
+        "KTB",
+        "EPT"
       ],
       "outlets_outstanding": [
         "PECC",
-        "EPT",
         "AP1",
         "R3",
         "WIS"
@@ -321,6 +321,10 @@
         "KTB": {
           "by": "Sasi",
           "time": "18:41"
+        },
+        "EPT": {
+          "by": "Samy Kumar Meena",
+          "time": "18:56"
         }
       },
       "problems": [],
