@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated": "2026-06-24T08:56:12.078Z",
+  "generated": "2026-06-24T09:00:58.075Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "DV",
         "KRC",
@@ -156,7 +156,8 @@
         "CKCC",
         "BHT",
         "R1",
-        "TPM"
+        "TPM",
+        "ACV"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -170,8 +171,7 @@
         "R3",
         "WIS",
         "KTB",
-        "WWP",
-        "ACV"
+        "WWP"
       ],
       "done_detail": {
         "DV": {
@@ -289,6 +289,10 @@
         "TPM": {
           "by": "Rsathiyaselvi",
           "time": "16:56"
+        },
+        "ACV": {
+          "by": "Sasi",
+          "time": "17:00"
         }
       },
       "problems": [],
