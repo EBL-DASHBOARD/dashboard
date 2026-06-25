@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T01:30:20.445Z",
+  "generated": "2026-06-25T01:35:15.108Z",
   "groups": [
     {
       "id": "XH",
@@ -83,9 +83,10 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "The Rail Mall"
+        "The Rail Mall",
+        "77 Robinson"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -98,13 +99,16 @@
         "Hillion Mall",
         "Marina One",
         "Suntec City",
-        "South Beach Tower",
-        "77 Robinson"
+        "South Beach Tower"
       ],
       "done_detail": {
         "The Rail Mall": {
           "by": "Nur Azimah",
           "time": "08:53"
+        },
+        "77 Robinson": {
+          "by": "jvparthiban7",
+          "time": "09:35"
         }
       },
       "problems": [],
