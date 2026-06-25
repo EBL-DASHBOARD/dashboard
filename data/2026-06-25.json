@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T08:06:52.270Z",
+  "generated": "2026-06-25T08:12:28.826Z",
   "groups": [
     {
       "id": "XH",
@@ -83,7 +83,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -102,14 +102,14 @@
         "Downtown East",
         "Parkway Parade",
         "120 Robinson",
-        "Compass One"
+        "Compass One",
+        "Pasir Ris Mall"
       ],
       "outlets_outstanding": [
         "Causeway Point",
         "888 Plaza",
         "Duo Galleria",
         "Guoco Tower",
-        "Pasir Ris Mall",
         "White Sands"
       ],
       "done_detail": {
@@ -184,6 +184,10 @@
         "Compass One": {
           "by": "Nur Azimah",
           "time": "15:37"
+        },
+        "Pasir Ris Mall": {
+          "by": "boss",
+          "time": "16:12"
         }
       },
       "problems": [],
