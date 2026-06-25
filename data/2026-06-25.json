@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T07:12:27.429Z",
+  "generated": "2026-06-25T07:37:12.966Z",
   "groups": [
     {
       "id": "XH",
@@ -83,7 +83,7 @@
           ]
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -101,10 +101,10 @@
         "Waterway Point",
         "Downtown East",
         "Parkway Parade",
-        "120 Robinson"
+        "120 Robinson",
+        "Compass One"
       ],
       "outlets_outstanding": [
-        "Compass One",
         "Causeway Point",
         "888 Plaza",
         "Duo Galleria",
@@ -180,6 +180,10 @@
         "120 Robinson": {
           "by": "jvparthiban7",
           "time": "15:11"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "15:37"
         }
       },
       "problems": [],
