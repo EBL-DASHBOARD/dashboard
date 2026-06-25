@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T10:47:42.195Z",
+  "generated": "2026-06-25T11:30:48.348Z",
   "groups": [
     {
       "id": "XH",
@@ -307,7 +307,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -336,12 +336,12 @@
         "PDD",
         "LTM",
         "R1",
-        "HRC"
+        "HRC",
+        "VIVA"
       ],
       "outlets_outstanding": [
         "R3",
-        "AP1",
-        "VIVA"
+        "AP1"
       ],
       "done_detail": {
         "YTP": {
@@ -455,6 +455,10 @@
         "HRC": {
           "by": "Sasi",
           "time": "18:47"
+        },
+        "VIVA": {
+          "by": "Sasi",
+          "time": "19:30"
         }
       },
       "problems": [],
