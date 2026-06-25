@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T03:04:18.447Z",
+  "generated": "2026-06-25T03:16:00.789Z",
   "groups": [
     {
       "id": "XH",
@@ -83,18 +83,18 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 8,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
         "Hillion Mall",
         "Tanah Merah Ferry Terminal",
         "Marina One",
-        "Junction 8"
+        "Junction 8",
+        "Hougang Mall",
+        "Punggol Plaza"
       ],
       "outlets_outstanding": [
-        "Hougang Mall",
-        "Punggol Plaza",
         "Zhongshan Mall",
         "Royal Square",
         "Woods Square",
@@ -125,6 +125,14 @@
         "Junction 8": {
           "by": "Nur Azimah",
           "time": "10:48"
+        },
+        "Hougang Mall": {
+          "by": "boss",
+          "time": "11:16"
+        },
+        "Punggol Plaza": {
+          "by": "boss",
+          "time": "11:16"
         }
       },
       "problems": [],
