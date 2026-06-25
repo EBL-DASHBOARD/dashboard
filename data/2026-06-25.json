@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T03:17:19.998Z",
+  "generated": "2026-06-25T03:20:26.459Z",
   "groups": [
     {
       "id": "XH",
@@ -83,7 +83,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -92,13 +92,13 @@
         "Marina One",
         "Junction 8",
         "Hougang Mall",
-        "Punggol Plaza"
+        "Punggol Plaza",
+        "Suntec City"
       ],
       "outlets_outstanding": [
         "Zhongshan Mall",
         "Royal Square",
         "Woods Square",
-        "Suntec City",
         "South Beach Tower"
       ],
       "done_detail": {
@@ -133,6 +133,10 @@
         "Punggol Plaza": {
           "by": "boss",
           "time": "11:16"
+        },
+        "Suntec City": {
+          "by": "jvparthiban7",
+          "time": "11:20"
         }
       },
       "problems": [],
