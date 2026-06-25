@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T07:06:18.258Z",
+  "generated": "2026-06-25T07:10:24.398Z",
   "groups": [
     {
       "id": "XH",
@@ -272,7 +272,7 @@
           ]
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -287,7 +287,8 @@
         "WSM",
         "TGCC",
         "BS",
-        "TNC2"
+        "TNC2",
+        "MARS"
       ],
       "outlets_outstanding": [
         "R1",
@@ -296,7 +297,6 @@
         "AP1",
         "PECC",
         "LOY",
-        "MARS",
         "SSC2",
         "YS1",
         "LTM",
@@ -364,6 +364,10 @@
         "TNC2": {
           "by": "Krishna",
           "time": "15:06"
+        },
+        "MARS": {
+          "by": "Samy Kumar Meena",
+          "time": "15:10"
         }
       },
       "problems": [],
