@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T04:00:00.070Z",
+  "generated": "2026-06-25T04:01:11.228Z",
   "groups": [
     {
       "id": "XH",
@@ -83,7 +83,7 @@
           ]
         }
       ],
-      "done": 10,
+      "done": 11,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -94,16 +94,20 @@
         "Hougang Mall",
         "Punggol Plaza",
         "Suntec City",
-        "Woods Square"
+        "Woods Square",
+        "South Beach Tower"
       ],
       "outlets_outstanding": [
         "Zhongshan Mall",
         "Royal Square",
-        "South Beach Tower",
         "Waterway Point",
         "Compass One",
         "Causeway Point",
-        "888 Plaza"
+        "888 Plaza",
+        "Parkway Parade",
+        "Duo Galleria",
+        "120 Robinson",
+        "Guoco Tower"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -145,6 +149,10 @@
         "Woods Square": {
           "by": "Nur Azimah",
           "time": "11:38"
+        },
+        "South Beach Tower": {
+          "by": "jvparthiban7",
+          "time": "12:01"
         }
       },
       "problems": [],
