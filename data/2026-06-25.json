@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T09:49:37.029Z",
+  "generated": "2026-06-25T09:54:05.928Z",
   "groups": [
     {
       "id": "XH",
@@ -83,7 +83,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -107,11 +107,10 @@
         "Causeway Point",
         "White Sands",
         "Duo Galleria",
-        "888 Plaza"
-      ],
-      "outlets_outstanding": [
+        "888 Plaza",
         "Guoco Tower"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "The Rail Mall": {
           "by": "Nur Azimah",
@@ -204,6 +203,10 @@
         "888 Plaza": {
           "by": "Nur Azimah",
           "time": "17:49"
+        },
+        "Guoco Tower": {
+          "by": "jvparthiban7",
+          "time": "17:54"
         }
       },
       "problems": [],
