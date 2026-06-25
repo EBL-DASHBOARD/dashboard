@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T09:48:37.960Z",
+  "generated": "2026-06-25T09:49:37.029Z",
   "groups": [
     {
       "id": "XH",
@@ -83,7 +83,7 @@
           ]
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -106,10 +106,10 @@
         "Pasir Ris Mall",
         "Causeway Point",
         "White Sands",
-        "Duo Galleria"
+        "Duo Galleria",
+        "888 Plaza"
       ],
       "outlets_outstanding": [
-        "888 Plaza",
         "Guoco Tower"
       ],
       "done_detail": {
@@ -200,6 +200,10 @@
         "Duo Galleria": {
           "by": "jvparthiban7",
           "time": "17:24"
+        },
+        "888 Plaza": {
+          "by": "Nur Azimah",
+          "time": "17:49"
         }
       },
       "problems": [],
