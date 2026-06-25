@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T07:10:24.398Z",
+  "generated": "2026-06-25T07:11:04.769Z",
   "groups": [
     {
       "id": "XH",
@@ -83,7 +83,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 17,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -99,15 +99,15 @@
         "Zhongshan Mall",
         "Royal Square",
         "Waterway Point",
-        "Downtown East"
+        "Downtown East",
+        "Parkway Parade",
+        "120 Robinson"
       ],
       "outlets_outstanding": [
         "Compass One",
         "Causeway Point",
         "888 Plaza",
-        "Parkway Parade",
         "Duo Galleria",
-        "120 Robinson",
         "Guoco Tower",
         "Pasir Ris Mall",
         "White Sands"
@@ -172,6 +172,14 @@
         "Downtown East": {
           "by": "boss",
           "time": "14:43"
+        },
+        "Parkway Parade": {
+          "by": "jvparthiban7",
+          "time": "15:11"
+        },
+        "120 Robinson": {
+          "by": "jvparthiban7",
+          "time": "15:11"
         }
       },
       "problems": [],
