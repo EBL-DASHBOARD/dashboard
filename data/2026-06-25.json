@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T06:37:29.117Z",
+  "generated": "2026-06-25T06:43:53.379Z",
   "groups": [
     {
       "id": "XH",
@@ -83,7 +83,7 @@
           ]
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -98,7 +98,8 @@
         "South Beach Tower",
         "Zhongshan Mall",
         "Royal Square",
-        "Waterway Point"
+        "Waterway Point",
+        "Downtown East"
       ],
       "outlets_outstanding": [
         "Compass One",
@@ -108,7 +109,6 @@
         "Duo Galleria",
         "120 Robinson",
         "Guoco Tower",
-        "Downtown East",
         "Pasir Ris Mall",
         "White Sands"
       ],
@@ -168,6 +168,10 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "14:37"
+        },
+        "Downtown East": {
+          "by": "boss",
+          "time": "14:43"
         }
       },
       "problems": [],
