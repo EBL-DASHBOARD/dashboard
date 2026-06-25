@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T00:53:29.614Z",
+  "generated": "2026-06-25T01:14:05.226Z",
   "groups": [
     {
       "id": "XH",
@@ -205,10 +205,11 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "YTP",
-        "JKN"
+        "JKN",
+        "TY"
       ],
       "outlets_outstanding": [
         "IM",
@@ -220,8 +221,7 @@
         "CCKS",
         "BS",
         "MBA",
-        "STC",
-        "TY"
+        "STC"
       ],
       "done_detail": {
         "YTP": {
@@ -231,6 +231,10 @@
         "JKN": {
           "by": "Krishna",
           "time": "08:41"
+        },
+        "TY": {
+          "by": "Sasi",
+          "time": "09:14"
         }
       },
       "problems": [],
