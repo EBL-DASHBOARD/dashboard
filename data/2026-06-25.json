@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T03:20:26.459Z",
+  "generated": "2026-06-25T03:31:30.284Z",
   "groups": [
     {
       "id": "XH",
@@ -237,7 +237,7 @@
           ]
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -249,10 +249,10 @@
         "MBA",
         "BPP",
         "STC",
-        "WSM"
+        "WSM",
+        "TGCC"
       ],
       "outlets_outstanding": [
-        "TGCC",
         "BS"
       ],
       "done_detail": {
@@ -299,6 +299,10 @@
         "WSM": {
           "by": "Krishna",
           "time": "11:17"
+        },
+        "TGCC": {
+          "by": "Samy Kumar Meena",
+          "time": "11:31"
         }
       },
       "problems": [],
