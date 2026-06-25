@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T03:16:00.789Z",
+  "generated": "2026-06-25T03:17:19.998Z",
   "groups": [
     {
       "id": "XH",
@@ -233,7 +233,7 @@
           ]
         }
       ],
-      "done": 10,
+      "done": 11,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -244,10 +244,10 @@
         "IM",
         "MBA",
         "BPP",
-        "STC"
+        "STC",
+        "WSM"
       ],
       "outlets_outstanding": [
-        "WSM",
         "TGCC",
         "BS"
       ],
@@ -291,6 +291,10 @@
         "STC": {
           "by": "Sasi",
           "time": "11:04"
+        },
+        "WSM": {
+          "by": "Krishna",
+          "time": "11:17"
         }
       },
       "problems": [],
