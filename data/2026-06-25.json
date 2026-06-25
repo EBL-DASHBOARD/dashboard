@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T01:35:34.005Z",
+  "generated": "2026-06-25T01:41:18.371Z",
   "groups": [
     {
       "id": "XH",
@@ -83,14 +83,14 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
-        "Hillion Mall"
+        "Hillion Mall",
+        "Tanah Merah Ferry Terminal"
       ],
       "outlets_outstanding": [
-        "Tanah Merah Ferry Terminal",
         "Hougang Mall",
         "Punggol Plaza",
         "Zhongshan Mall",
@@ -113,6 +113,10 @@
         "Hillion Mall": {
           "by": "Nur Azimah",
           "time": "09:35"
+        },
+        "Tanah Merah Ferry Terminal": {
+          "by": "boss",
+          "time": "09:41"
         }
       },
       "problems": [],
