@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T02:43:06.769Z",
+  "generated": "2026-06-25T02:48:36.775Z",
   "groups": [
     {
       "id": "XH",
@@ -83,20 +83,20 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
         "Hillion Mall",
         "Tanah Merah Ferry Terminal",
-        "Marina One"
+        "Marina One",
+        "Junction 8"
       ],
       "outlets_outstanding": [
         "Hougang Mall",
         "Punggol Plaza",
         "Zhongshan Mall",
         "Royal Square",
-        "Junction 8",
         "Woods Square",
         "Suntec City",
         "South Beach Tower"
@@ -121,6 +121,10 @@
         "Marina One": {
           "by": "jvparthiban7",
           "time": "10:22"
+        },
+        "Junction 8": {
+          "by": "Nur Azimah",
+          "time": "10:48"
         }
       },
       "problems": [],
