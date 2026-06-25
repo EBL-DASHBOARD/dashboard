@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-06-25T05:10:44.370Z",
+  "generated": "2026-06-25T06:37:29.117Z",
   "groups": [
     {
       "id": "XH",
@@ -83,7 +83,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "The Rail Mall",
         "77 Robinson",
@@ -97,10 +97,10 @@
         "Woods Square",
         "South Beach Tower",
         "Zhongshan Mall",
-        "Royal Square"
+        "Royal Square",
+        "Waterway Point"
       ],
       "outlets_outstanding": [
-        "Waterway Point",
         "Compass One",
         "Causeway Point",
         "888 Plaza",
@@ -164,6 +164,10 @@
         "Royal Square": {
           "by": "boss",
           "time": "13:10"
+        },
+        "Waterway Point": {
+          "by": "Nur Azimah",
+          "time": "14:37"
         }
       },
       "problems": [],
