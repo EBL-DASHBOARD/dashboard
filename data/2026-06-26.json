@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-25T12:57:11.117Z",
+  "generated": "2026-06-25T15:02:32.555Z",
   "groups": [
     {
       "id": "EBL6",
@@ -300,6 +300,45 @@
         "Vivo City (9am onwards)",
         "Chinatown Point",
         "Marina Square"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "XHNIGHT",
+      "name": "Xh Delivery (Night)",
+      "total_locations": 5,
+      "am_total": 2,
+      "pm_total": 3,
+      "am_outlets": [
+        "PLQ Tower 1",
+        "Aperia Mall"
+      ],
+      "pm_outlets": [
+        "Ngee Ann City",
+        "Tangs Plaza Kiosk 2",
+        "NUH Medical Centre"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "PLQ Tower 1",
+            "Aperia Mall"
+          ],
+          "pm": [
+            "Ngee Ann City",
+            "Tangs Plaza Kiosk 2",
+            "NUH Medical Centre"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "PLQ Tower 1",
+        "Aperia Mall"
       ],
       "done_detail": {},
       "problems": [],
