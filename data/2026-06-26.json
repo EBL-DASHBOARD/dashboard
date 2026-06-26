@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T07:29:53.923Z",
+  "generated": "2026-06-26T07:45:25.886Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "YTP",
         "JP",
@@ -141,10 +141,10 @@
         "TIO",
         "KIT",
         "KTB",
-        "PAL"
+        "PAL",
+        "KNX"
       ],
       "outlets_outstanding": [
-        "KNX",
         "EPT",
         "TPM",
         "BOB",
@@ -244,6 +244,10 @@
         "PAL": {
           "by": "Sasi",
           "time": "15:26"
+        },
+        "KNX": {
+          "by": "Sudhakar",
+          "time": "15:45"
         }
       },
       "problems": [],
