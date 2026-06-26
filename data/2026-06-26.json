@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T04:12:28.716Z",
+  "generated": "2026-06-26T04:28:25.978Z",
   "groups": [
     {
       "id": "EBL6",
@@ -369,7 +369,7 @@
           "pm": []
         }
       ],
-      "done": 20,
+      "done": 22,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -390,11 +390,11 @@
         "9 Penang Road",
         "Tampines Mart",
         "Institute of Mental Health",
-        "Marina Square"
+        "Marina Square",
+        "GENEO",
+        "Ngee Ann Polytechnic Block 1"
       ],
       "outlets_outstanding": [
-        "GENEO",
-        "Ngee Ann Polytechnic Block 1",
         "Vivo City (9am onwards)",
         "Compass One",
         "Punggol Coast Mall",
@@ -409,7 +409,11 @@
         "The Poiz Centre",
         "New Tech Park",
         "Causeway Point",
-        "Galaxis"
+        "Galaxis",
+        "Fairprice Hub",
+        "JEM",
+        "Lazada One",
+        "GRID"
       ],
       "done_detail": {
         "West Mall": {
@@ -491,6 +495,14 @@
         "Marina Square": {
           "by": "SEENU.C",
           "time": "12:12"
+        },
+        "GENEO": {
+          "by": "jvparthiban7",
+          "time": "12:28"
+        },
+        "Ngee Ann Polytechnic Block 1": {
+          "by": "jvparthiban7",
+          "time": "12:28"
         }
       },
       "problems": [],
