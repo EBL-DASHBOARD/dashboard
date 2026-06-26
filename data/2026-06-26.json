@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T06:51:01.810Z",
+  "generated": "2026-06-26T07:10:02.858Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "YTP",
         "JP",
@@ -139,7 +139,8 @@
         "TRM",
         "SHP",
         "TIO",
-        "KIT"
+        "KIT",
+        "KTB"
       ],
       "outlets_outstanding": [
         "KNX",
@@ -148,7 +149,6 @@
         "BOB",
         "BHT",
         "CCP",
-        "KTB",
         "WIS",
         "YS1",
         "WNC",
@@ -236,6 +236,10 @@
         "KIT": {
           "by": "Sasi",
           "time": "11:50"
+        },
+        "KTB": {
+          "by": "Samy Kumar Meena",
+          "time": "15:10"
         }
       },
       "problems": [],
