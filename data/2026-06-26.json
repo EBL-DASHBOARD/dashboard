@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T03:17:55.949Z",
+  "generated": "2026-06-26T03:26:18.578Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "YTP",
         "JP",
@@ -137,10 +137,10 @@
         "ART",
         "PS",
         "TRM",
-        "SHP"
+        "SHP",
+        "TIO"
       ],
       "outlets_outstanding": [
-        "TIO",
         "KIT"
       ],
       "done_detail": {
@@ -207,6 +207,10 @@
         "SHP": {
           "by": "Sasi",
           "time": "11:17"
+        },
+        "TIO": {
+          "by": "Krishna",
+          "time": "11:26"
         }
       },
       "problems": [],
