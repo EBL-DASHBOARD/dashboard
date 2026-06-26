@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T04:00:01.467Z",
+  "generated": "2026-06-26T04:07:33.315Z",
   "groups": [
     {
       "id": "EBL6",
@@ -369,7 +369,7 @@
           "pm": []
         }
       ],
-      "done": 17,
+      "done": 19,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -387,11 +387,11 @@
         "Flavours @ NUS Uptown",
         "Dairy Farm Mall",
         "ARTRA",
-        "9 Penang Road"
+        "9 Penang Road",
+        "Tampines Mart",
+        "Institute of Mental Health"
       ],
       "outlets_outstanding": [
-        "Tampines Mart",
-        "Institute of Mental Health",
         "GENEO",
         "Ngee Ann Polytechnic Block 1",
         "Vivo City (9am onwards)",
@@ -404,7 +404,12 @@
         "313 Somerset",
         "Plaza Singapura",
         "Citylink",
-        "One Raffles Link"
+        "One Raffles Link",
+        "Eastpoint Mall",
+        "The Poiz Centre",
+        "New Tech Park",
+        "Causeway Point",
+        "Galaxis"
       ],
       "done_detail": {
         "West Mall": {
@@ -474,6 +479,14 @@
         "9 Penang Road": {
           "by": "palanivelumuthukumar",
           "time": "11:57"
+        },
+        "Tampines Mart": {
+          "by": "boss",
+          "time": "12:07"
+        },
+        "Institute of Mental Health": {
+          "by": "boss",
+          "time": "12:07"
         }
       },
       "problems": [],
