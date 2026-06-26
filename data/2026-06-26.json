@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T02:58:44.982Z",
+  "generated": "2026-06-26T02:59:18.039Z",
   "groups": [
     {
       "id": "EBL6",
@@ -336,7 +336,7 @@
           "pm": []
         }
       ],
-      "done": 9,
+      "done": 11,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -346,11 +346,11 @@
         "Junction 9",
         "UE Square",
         "Parc Point",
-        "Margaret Market"
+        "Margaret Market",
+        "Tampines 1",
+        "Century Square"
       ],
       "outlets_outstanding": [
-        "Tampines 1",
-        "Century Square",
         "Tampines Mart",
         "Institute of Mental Health",
         "Hillion Mall",
@@ -400,6 +400,14 @@
         "Margaret Market": {
           "by": "palanivelumuthukumar",
           "time": "10:58"
+        },
+        "Tampines 1": {
+          "by": "boss",
+          "time": "10:59"
+        },
+        "Century Square": {
+          "by": "boss",
+          "time": "10:59"
         }
       },
       "problems": [],
