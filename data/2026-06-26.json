@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T07:45:25.886Z",
+  "generated": "2026-06-26T07:48:04.004Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "YTP",
         "JP",
@@ -142,7 +142,8 @@
         "KIT",
         "KTB",
         "PAL",
-        "KNX"
+        "KNX",
+        "R4"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -157,7 +158,6 @@
         "R1",
         "AP2",
         "AP4",
-        "R4",
         "R3",
         "NEX",
         "ACV",
@@ -248,6 +248,10 @@
         "KNX": {
           "by": "Sudhakar",
           "time": "15:45"
+        },
+        "R4": {
+          "by": "Krishna",
+          "time": "15:48"
         }
       },
       "problems": [],
