@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T02:45:18.871Z",
+  "generated": "2026-06-26T02:46:24.387Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "YTP",
         "JP",
@@ -133,13 +133,13 @@
         "BPP",
         "BQ",
         "HV2",
-        "USQ"
+        "USQ",
+        "ART"
       ],
       "outlets_outstanding": [
         "PS",
         "TRM",
         "TIO",
-        "ART",
         "SHP",
         "KIT"
       ],
@@ -191,6 +191,10 @@
         "USQ": {
           "by": "Sasi",
           "time": "10:45"
+        },
+        "ART": {
+          "by": "Krishna",
+          "time": "10:46"
         }
       },
       "problems": [],
