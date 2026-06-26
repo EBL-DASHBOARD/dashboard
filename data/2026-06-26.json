@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T07:48:04.004Z",
+  "generated": "2026-06-26T07:50:33.875Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "YTP",
         "JP",
@@ -143,7 +143,8 @@
         "KTB",
         "PAL",
         "KNX",
-        "R4"
+        "R4",
+        "WIS"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -151,7 +152,6 @@
         "BOB",
         "BHT",
         "CCP",
-        "WIS",
         "YS1",
         "WNC",
         "SSC2",
@@ -252,6 +252,10 @@
         "R4": {
           "by": "Krishna",
           "time": "15:48"
+        },
+        "WIS": {
+          "by": "Samy Kumar Meena",
+          "time": "15:50"
         }
       },
       "problems": [],
