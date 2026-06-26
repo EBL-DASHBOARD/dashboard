@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T00:33:25.218Z",
+  "generated": "2026-06-26T01:03:54.794Z",
   "groups": [
     {
       "id": "EBL6",
@@ -280,9 +280,10 @@
           "pm": []
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "West Mall"
+        "West Mall",
+        "63 Pagoda Street"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -299,7 +300,6 @@
         "GENEO",
         "Ngee Ann Polytechnic Block 1",
         "ARTRA",
-        "63 Pagoda Street",
         "9 Penang Road",
         "UE Square",
         "Margaret Market",
@@ -312,6 +312,10 @@
         "West Mall": {
           "by": "Nur Azimah",
           "time": "08:33"
+        },
+        "63 Pagoda Street": {
+          "by": "palanivelumuthukumar",
+          "time": "09:03"
         }
       },
       "problems": [],
