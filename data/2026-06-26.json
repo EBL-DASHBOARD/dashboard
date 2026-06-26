@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T06:34:16.640Z",
+  "generated": "2026-06-26T06:36:36.958Z",
   "groups": [
     {
       "id": "EBL6",
@@ -369,7 +369,7 @@
           "pm": []
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -393,7 +393,8 @@
         "Marina Square",
         "GENEO",
         "Ngee Ann Polytechnic Block 1",
-        "Punggol Coast Mall"
+        "Punggol Coast Mall",
+        "GRID"
       ],
       "outlets_outstanding": [
         "Vivo City (9am onwards)",
@@ -412,8 +413,7 @@
         "Galaxis",
         "Fairprice Hub",
         "JEM",
-        "Lazada One",
-        "GRID"
+        "Lazada One"
       ],
       "done_detail": {
         "West Mall": {
@@ -507,6 +507,10 @@
         "Punggol Coast Mall": {
           "by": "Nur Azimah",
           "time": "14:34"
+        },
+        "GRID": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "14:36"
         }
       },
       "problems": [],
