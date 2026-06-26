@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T01:08:51.485Z",
+  "generated": "2026-06-26T01:19:08.914Z",
   "groups": [
     {
       "id": "EBL6",
@@ -288,10 +288,11 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "West Mall",
-        "63 Pagoda Street"
+        "63 Pagoda Street",
+        "Northpoint City"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -303,7 +304,6 @@
         "Dairy Farm Mall",
         "Parc Point",
         "Junction 9",
-        "Northpoint City",
         "Flavours @ NUS Uptown",
         "GENEO",
         "Ngee Ann Polytechnic Block 1",
@@ -324,6 +324,10 @@
         "63 Pagoda Street": {
           "by": "palanivelumuthukumar",
           "time": "09:03"
+        },
+        "Northpoint City": {
+          "by": "jvparthiban7",
+          "time": "09:19"
         }
       },
       "problems": [],
