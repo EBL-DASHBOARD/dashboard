@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T08:40:05.100Z",
+  "generated": "2026-06-26T08:43:26.606Z",
   "groups": [
     {
       "id": "EBL6",
@@ -405,7 +405,7 @@
           "pm": []
         }
       ],
-      "done": 34,
+      "done": 35,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -440,11 +440,11 @@
         "The Poiz Centre",
         "New Tech Park",
         "313 Somerset",
-        "JEM"
+        "JEM",
+        "Compass One"
       ],
       "outlets_outstanding": [
         "Vivo City (9am onwards)",
-        "Compass One",
         "Rivervale Mall",
         "Far East Plaza Kiosk E",
         "Plaza Singapura",
@@ -587,6 +587,10 @@
         "JEM": {
           "by": "jvparthiban7",
           "time": "16:40"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "16:43"
         }
       },
       "problems": [],
