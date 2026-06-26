@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T09:42:08.320Z",
+  "generated": "2026-06-26T09:52:24.612Z",
   "groups": [
     {
       "id": "EBL6",
@@ -413,7 +413,7 @@
           "pm": []
         }
       ],
-      "done": 37,
+      "done": 38,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -451,11 +451,11 @@
         "JEM",
         "Compass One",
         "Plaza Singapura",
-        "Rivervale Mall"
+        "Rivervale Mall",
+        "Far East Plaza Kiosk E"
       ],
       "outlets_outstanding": [
         "Vivo City (9am onwards)",
-        "Far East Plaza Kiosk E",
         "Causeway Point",
         "Galaxis"
       ],
@@ -607,6 +607,10 @@
         "Rivervale Mall": {
           "by": "Nur Azimah",
           "time": "17:42"
+        },
+        "Far East Plaza Kiosk E": {
+          "by": "palanivelumuthukumar",
+          "time": "17:52"
         }
       },
       "problems": [],
