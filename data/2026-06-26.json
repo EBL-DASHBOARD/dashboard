@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T02:00:29.656Z",
+  "generated": "2026-06-26T02:02:59.696Z",
   "groups": [
     {
       "id": "EBL6",
@@ -308,14 +308,15 @@
           "pm": []
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
         "Northpoint City",
         "Le Quest",
         "AltitudeX",
-        "Junction 9"
+        "Junction 9",
+        "UE Square"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -330,7 +331,6 @@
         "Ngee Ann Polytechnic Block 1",
         "ARTRA",
         "9 Penang Road",
-        "UE Square",
         "Margaret Market",
         "Vivo City (9am onwards)",
         "Chinatown Point",
@@ -360,6 +360,10 @@
         "Junction 9": {
           "by": "jvparthiban7",
           "time": "09:59"
+        },
+        "UE Square": {
+          "by": "palanivelumuthukumar",
+          "time": "10:02"
         }
       },
       "problems": [],
