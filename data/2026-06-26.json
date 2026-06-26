@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T09:11:01.643Z",
+  "generated": "2026-06-26T09:25:07.135Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "YTP",
         "JP",
@@ -149,7 +149,8 @@
         "BHT",
         "AP4",
         "YS1",
-        "NEX"
+        "NEX",
+        "SSC2"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -157,7 +158,6 @@
         "BOB",
         "CCP",
         "WNC",
-        "SSC2",
         "R1",
         "AP2",
         "R3",
@@ -276,6 +276,10 @@
         "NEX": {
           "by": "Sasi",
           "time": "17:11"
+        },
+        "SSC2": {
+          "by": "Samy Kumar Meena",
+          "time": "17:25"
         }
       },
       "problems": [],
