@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T03:50:22.082Z",
+  "generated": "2026-06-26T03:57:36.371Z",
   "groups": [
     {
       "id": "EBL6",
@@ -347,7 +347,7 @@
           "pm": []
         }
       ],
-      "done": 15,
+      "done": 17,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -363,21 +363,26 @@
         "Hillion Mall",
         "Chinatown Point",
         "Flavours @ NUS Uptown",
-        "Dairy Farm Mall"
+        "Dairy Farm Mall",
+        "ARTRA",
+        "9 Penang Road"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
         "Institute of Mental Health",
         "GENEO",
         "Ngee Ann Polytechnic Block 1",
-        "ARTRA",
-        "9 Penang Road",
         "Vivo City (9am onwards)",
         "Marina Square",
         "Compass One",
         "Punggol Coast Mall",
         "Waterway Point",
-        "Rivervale Mall"
+        "Rivervale Mall",
+        "Far East Plaza Kiosk E",
+        "313 Somerset",
+        "Plaza Singapura",
+        "Citylink",
+        "One Raffles Link"
       ],
       "done_detail": {
         "West Mall": {
@@ -439,6 +444,14 @@
         "Dairy Farm Mall": {
           "by": "Nur Azimah",
           "time": "11:40"
+        },
+        "ARTRA": {
+          "by": "palanivelumuthukumar",
+          "time": "11:57"
+        },
+        "9 Penang Road": {
+          "by": "palanivelumuthukumar",
+          "time": "11:57"
         }
       },
       "problems": [],
