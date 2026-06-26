@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T02:59:18.039Z",
+  "generated": "2026-06-26T03:12:46.616Z",
   "groups": [
     {
       "id": "EBL6",
@@ -336,7 +336,7 @@
           "pm": []
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -348,12 +348,12 @@
         "Parc Point",
         "Margaret Market",
         "Tampines 1",
-        "Century Square"
+        "Century Square",
+        "Hillion Mall"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
         "Institute of Mental Health",
-        "Hillion Mall",
         "Dairy Farm Mall",
         "Flavours @ NUS Uptown",
         "GENEO",
@@ -408,6 +408,10 @@
         "Century Square": {
           "by": "boss",
           "time": "10:59"
+        },
+        "Hillion Mall": {
+          "by": "Nur Azimah",
+          "time": "11:12"
         }
       },
       "problems": [],
