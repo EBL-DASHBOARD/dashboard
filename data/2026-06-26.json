@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T08:43:26.606Z",
+  "generated": "2026-06-26T09:00:50.058Z",
   "groups": [
     {
       "id": "EBL6",
@@ -405,7 +405,7 @@
           "pm": []
         }
       ],
-      "done": 35,
+      "done": 36,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -441,13 +441,13 @@
         "New Tech Park",
         "313 Somerset",
         "JEM",
-        "Compass One"
+        "Compass One",
+        "Plaza Singapura"
       ],
       "outlets_outstanding": [
         "Vivo City (9am onwards)",
         "Rivervale Mall",
         "Far East Plaza Kiosk E",
-        "Plaza Singapura",
         "Causeway Point",
         "Galaxis"
       ],
@@ -591,6 +591,10 @@
         "Compass One": {
           "by": "Nur Azimah",
           "time": "16:43"
+        },
+        "Plaza Singapura": {
+          "by": "palanivelumuthukumar",
+          "time": "17:00"
         }
       },
       "problems": [],
