@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T03:12:46.616Z",
+  "generated": "2026-06-26T03:17:55.949Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "YTP",
         "JP",
@@ -136,11 +136,11 @@
         "USQ",
         "ART",
         "PS",
-        "TRM"
+        "TRM",
+        "SHP"
       ],
       "outlets_outstanding": [
         "TIO",
-        "SHP",
         "KIT"
       ],
       "done_detail": {
@@ -203,6 +203,10 @@
         "TRM": {
           "by": "Samy Kumar Meena",
           "time": "10:57"
+        },
+        "SHP": {
+          "by": "Sasi",
+          "time": "11:17"
         }
       },
       "problems": [],
