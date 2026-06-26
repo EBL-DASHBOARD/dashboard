@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T01:42:16.615Z",
+  "generated": "2026-06-26T01:59:30.790Z",
   "groups": [
     {
       "id": "EBL6",
@@ -300,13 +300,14 @@
           "pm": []
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
         "Northpoint City",
         "Le Quest",
-        "AltitudeX"
+        "AltitudeX",
+        "Junction 9"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -316,7 +317,6 @@
         "Hillion Mall",
         "Dairy Farm Mall",
         "Parc Point",
-        "Junction 9",
         "Flavours @ NUS Uptown",
         "GENEO",
         "Ngee Ann Polytechnic Block 1",
@@ -348,6 +348,10 @@
         "AltitudeX": {
           "by": "SEENU.C",
           "time": "09:42"
+        },
+        "Junction 9": {
+          "by": "jvparthiban7",
+          "time": "09:59"
         }
       },
       "problems": [],
