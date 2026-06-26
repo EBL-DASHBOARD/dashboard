@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T04:07:35.166Z",
+  "generated": "2026-06-26T04:12:28.716Z",
   "groups": [
     {
       "id": "EBL6",
@@ -369,7 +369,7 @@
           "pm": []
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -389,13 +389,13 @@
         "ARTRA",
         "9 Penang Road",
         "Tampines Mart",
-        "Institute of Mental Health"
+        "Institute of Mental Health",
+        "Marina Square"
       ],
       "outlets_outstanding": [
         "GENEO",
         "Ngee Ann Polytechnic Block 1",
         "Vivo City (9am onwards)",
-        "Marina Square",
         "Compass One",
         "Punggol Coast Mall",
         "Waterway Point",
@@ -487,6 +487,10 @@
         "Institute of Mental Health": {
           "by": "boss",
           "time": "12:07"
+        },
+        "Marina Square": {
+          "by": "SEENU.C",
+          "time": "12:12"
         }
       },
       "problems": [],
