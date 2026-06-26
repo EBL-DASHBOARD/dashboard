@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T01:31:45.640Z",
+  "generated": "2026-06-26T01:40:34.413Z",
   "groups": [
     {
       "id": "EBL6",
@@ -300,18 +300,18 @@
           "pm": []
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
-        "Northpoint City"
+        "Northpoint City",
+        "Le Quest"
       ],
       "outlets_outstanding": [
         "Tampines 1",
         "Century Square",
         "Tampines Mart",
         "Institute of Mental Health",
-        "Le Quest",
         "Hillion Mall",
         "Dairy Farm Mall",
         "Parc Point",
@@ -340,6 +340,10 @@
         "Northpoint City": {
           "by": "jvparthiban7",
           "time": "09:19"
+        },
+        "Le Quest": {
+          "by": "Nur Azimah",
+          "time": "09:40"
         }
       },
       "problems": [],
