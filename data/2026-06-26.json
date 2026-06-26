@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T01:03:54.794Z",
+  "generated": "2026-06-26T01:06:48.403Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,9 +120,10 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "YTP"
+        "YTP",
+        "JP"
       ],
       "outlets_outstanding": [
         "PS",
@@ -140,13 +141,16 @@
         "USQ",
         "SHP",
         "KIT",
-        "JP",
         "DV"
       ],
       "done_detail": {
         "YTP": {
           "by": "Samy Kumar Meena",
           "time": "08:31"
+        },
+        "JP": {
+          "by": "Sasi",
+          "time": "09:06"
         }
       },
       "problems": [],
