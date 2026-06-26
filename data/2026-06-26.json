@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T08:30:30.108Z",
+  "generated": "2026-06-26T08:40:05.100Z",
   "groups": [
     {
       "id": "EBL6",
@@ -405,7 +405,7 @@
           "pm": []
         }
       ],
-      "done": 33,
+      "done": 34,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -439,7 +439,8 @@
         "Waterway Point",
         "The Poiz Centre",
         "New Tech Park",
-        "313 Somerset"
+        "313 Somerset",
+        "JEM"
       ],
       "outlets_outstanding": [
         "Vivo City (9am onwards)",
@@ -448,8 +449,7 @@
         "Far East Plaza Kiosk E",
         "Plaza Singapura",
         "Causeway Point",
-        "Galaxis",
-        "JEM"
+        "Galaxis"
       ],
       "done_detail": {
         "West Mall": {
@@ -583,6 +583,10 @@
         "313 Somerset": {
           "by": "palanivelumuthukumar",
           "time": "16:26"
+        },
+        "JEM": {
+          "by": "jvparthiban7",
+          "time": "16:40"
         }
       },
       "problems": [],
