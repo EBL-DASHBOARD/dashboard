@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T04:28:27.859Z",
+  "generated": "2026-06-26T06:34:16.640Z",
   "groups": [
     {
       "id": "EBL6",
@@ -369,7 +369,7 @@
           "pm": []
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -392,12 +392,12 @@
         "Institute of Mental Health",
         "Marina Square",
         "GENEO",
-        "Ngee Ann Polytechnic Block 1"
+        "Ngee Ann Polytechnic Block 1",
+        "Punggol Coast Mall"
       ],
       "outlets_outstanding": [
         "Vivo City (9am onwards)",
         "Compass One",
-        "Punggol Coast Mall",
         "Waterway Point",
         "Rivervale Mall",
         "Far East Plaza Kiosk E",
@@ -503,6 +503,10 @@
         "Ngee Ann Polytechnic Block 1": {
           "by": "jvparthiban7",
           "time": "12:28"
+        },
+        "Punggol Coast Mall": {
+          "by": "Nur Azimah",
+          "time": "14:34"
         }
       },
       "problems": [],
