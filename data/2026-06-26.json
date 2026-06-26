@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T08:20:32.800Z",
+  "generated": "2026-06-26T08:21:33.752Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "YTP",
         "JP",
@@ -145,13 +145,13 @@
         "KNX",
         "R4",
         "WIS",
-        "GMM"
+        "GMM",
+        "BHT"
       ],
       "outlets_outstanding": [
         "EPT",
         "TPM",
         "BOB",
-        "BHT",
         "CCP",
         "YS1",
         "WNC",
@@ -260,6 +260,10 @@
         "GMM": {
           "by": "Sasi",
           "time": "16:20"
+        },
+        "BHT": {
+          "by": "Sudhakar",
+          "time": "16:21"
         }
       },
       "problems": [],
