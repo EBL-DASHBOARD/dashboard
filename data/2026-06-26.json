@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T07:14:18.226Z",
+  "generated": "2026-06-26T07:26:59.378Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "YTP",
         "JP",
@@ -140,7 +140,8 @@
         "SHP",
         "TIO",
         "KIT",
-        "KTB"
+        "KTB",
+        "PAL"
       ],
       "outlets_outstanding": [
         "KNX",
@@ -161,8 +162,7 @@
         "NEX",
         "ACV",
         "WWP",
-        "GMM",
-        "PAL"
+        "GMM"
       ],
       "done_detail": {
         "YTP": {
@@ -240,6 +240,10 @@
         "KTB": {
           "by": "Samy Kumar Meena",
           "time": "15:10"
+        },
+        "PAL": {
+          "by": "Sasi",
+          "time": "15:26"
         }
       },
       "problems": [],
