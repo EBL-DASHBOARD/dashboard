@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T03:57:38.146Z",
+  "generated": "2026-06-26T04:00:01.467Z",
   "groups": [
     {
       "id": "EBL6",
@@ -141,7 +141,29 @@
         "TIO",
         "KIT"
       ],
-      "outlets_outstanding": [],
+      "outlets_outstanding": [
+        "KNX",
+        "EPT",
+        "TPM",
+        "BOB",
+        "BHT",
+        "CCP",
+        "KTB",
+        "WIS",
+        "YS1",
+        "WNC",
+        "SSC2",
+        "R1",
+        "AP2",
+        "AP4",
+        "R4",
+        "R3",
+        "NEX",
+        "ACV",
+        "WWP",
+        "GMM",
+        "PAL"
+      ],
       "done_detail": {
         "YTP": {
           "by": "Samy Kumar Meena",
