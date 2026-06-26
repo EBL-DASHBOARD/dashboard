@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T10:35:43.569Z",
+  "generated": "2026-06-26T10:50:25.167Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "done": 33,
+      "done": 34,
       "outlets_done": [
         "YTP",
         "JP",
@@ -154,15 +154,15 @@
         "ACV",
         "R1",
         "TPM",
-        "WNC"
+        "WNC",
+        "WWP"
       ],
       "outlets_outstanding": [
         "EPT",
         "BOB",
         "CCP",
         "AP2",
-        "R3",
-        "WWP"
+        "R3"
       ],
       "done_detail": {
         "YTP": {
@@ -296,6 +296,10 @@
         "WNC": {
           "by": "Samy Kumar Meena",
           "time": "18:35"
+        },
+        "WWP": {
+          "by": "Sasi",
+          "time": "18:50"
         }
       },
       "problems": [],
