@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T07:50:33.875Z",
+  "generated": "2026-06-26T07:53:52.126Z",
   "groups": [
     {
       "id": "EBL6",
@@ -389,7 +389,7 @@
           "pm": []
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -419,12 +419,12 @@
         "Fairprice Hub",
         "Lazada One",
         "Citylink",
-        "One Raffles Link"
+        "One Raffles Link",
+        "Waterway Point"
       ],
       "outlets_outstanding": [
         "Vivo City (9am onwards)",
         "Compass One",
-        "Waterway Point",
         "Rivervale Mall",
         "Far East Plaza Kiosk E",
         "313 Somerset",
@@ -551,6 +551,10 @@
         "One Raffles Link": {
           "by": "palanivelumuthukumar",
           "time": "15:29"
+        },
+        "Waterway Point": {
+          "by": "Nur Azimah",
+          "time": "15:53"
         }
       },
       "problems": [],
