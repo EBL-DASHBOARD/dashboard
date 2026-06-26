@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T03:30:07.853Z",
+  "generated": "2026-06-26T03:37:04.241Z",
   "groups": [
     {
       "id": "EBL6",
@@ -344,7 +344,7 @@
           "pm": []
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -358,13 +358,13 @@
         "Tampines 1",
         "Century Square",
         "Hillion Mall",
-        "Chinatown Point"
+        "Chinatown Point",
+        "Flavours @ NUS Uptown"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
         "Institute of Mental Health",
         "Dairy Farm Mall",
-        "Flavours @ NUS Uptown",
         "GENEO",
         "Ngee Ann Polytechnic Block 1",
         "ARTRA",
@@ -424,6 +424,10 @@
         "Chinatown Point": {
           "by": "SEENU.C",
           "time": "11:30"
+        },
+        "Flavours @ NUS Uptown": {
+          "by": "jvparthiban7",
+          "time": "11:37"
         }
       },
       "problems": [],
