@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T07:26:59.378Z",
+  "generated": "2026-06-26T07:29:53.923Z",
   "groups": [
     {
       "id": "EBL6",
@@ -377,7 +377,7 @@
           "pm": []
         }
       ],
-      "done": 27,
+      "done": 29,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -405,7 +405,9 @@
         "GRID",
         "Eastpoint Mall",
         "Fairprice Hub",
-        "Lazada One"
+        "Lazada One",
+        "Citylink",
+        "One Raffles Link"
       ],
       "outlets_outstanding": [
         "Vivo City (9am onwards)",
@@ -415,8 +417,6 @@
         "Far East Plaza Kiosk E",
         "313 Somerset",
         "Plaza Singapura",
-        "Citylink",
-        "One Raffles Link",
         "The Poiz Centre",
         "New Tech Park",
         "Causeway Point",
@@ -531,6 +531,14 @@
         "Lazada One": {
           "by": "jvparthiban7",
           "time": "15:14"
+        },
+        "Citylink": {
+          "by": "palanivelumuthukumar",
+          "time": "15:29"
+        },
+        "One Raffles Link": {
+          "by": "palanivelumuthukumar",
+          "time": "15:29"
         }
       },
       "problems": [],
