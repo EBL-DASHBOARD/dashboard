@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T16:02:45.250Z",
+  "generated": "2026-06-26T16:41:28.977Z",
   "groups": [
     {
       "id": "EBL6",
@@ -684,13 +684,15 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "Aperia Mall",
-        "Ngee Ann City"
+        "Ngee Ann City",
+        "PLQ Tower 1"
       ],
       "outlets_outstanding": [
-        "PLQ Tower 1"
+        "Tangs Plaza Kiosk 2",
+        "NUH Medical Centre"
       ],
       "done_detail": {
         "Aperia Mall": {
@@ -700,6 +702,10 @@
         "Ngee Ann City": {
           "by": "SEENU.C",
           "time": "00:02"
+        },
+        "PLQ Tower 1": {
+          "by": "SEENU.C",
+          "time": "00:41"
         }
       },
       "problems": [],
