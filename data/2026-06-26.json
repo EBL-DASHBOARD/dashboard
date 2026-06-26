@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T08:21:33.752Z",
+  "generated": "2026-06-26T08:24:05.628Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "done": 25,
+      "done": 26,
       "outlets_done": [
         "YTP",
         "JP",
@@ -146,7 +146,8 @@
         "R4",
         "WIS",
         "GMM",
-        "BHT"
+        "BHT",
+        "AP4"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -158,7 +159,6 @@
         "SSC2",
         "R1",
         "AP2",
-        "AP4",
         "R3",
         "NEX",
         "ACV",
@@ -264,6 +264,10 @@
         "BHT": {
           "by": "Sudhakar",
           "time": "16:21"
+        },
+        "AP4": {
+          "by": "Krishna",
+          "time": "16:24"
         }
       },
       "problems": [],
