@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T01:40:34.413Z",
+  "generated": "2026-06-26T01:42:16.615Z",
   "groups": [
     {
       "id": "EBL6",
@@ -300,12 +300,13 @@
           "pm": []
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
         "Northpoint City",
-        "Le Quest"
+        "Le Quest",
+        "AltitudeX"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -323,7 +324,6 @@
         "9 Penang Road",
         "UE Square",
         "Margaret Market",
-        "AltitudeX",
         "Vivo City (9am onwards)",
         "Chinatown Point",
         "Marina Square"
@@ -344,6 +344,10 @@
         "Le Quest": {
           "by": "Nur Azimah",
           "time": "09:40"
+        },
+        "AltitudeX": {
+          "by": "SEENU.C",
+          "time": "09:42"
         }
       },
       "problems": [],
