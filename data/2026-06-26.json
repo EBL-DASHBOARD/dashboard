@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T07:13:16.003Z",
+  "generated": "2026-06-26T07:14:18.226Z",
   "groups": [
     {
       "id": "EBL6",
@@ -373,7 +373,7 @@
           "pm": []
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -400,7 +400,8 @@
         "Punggol Coast Mall",
         "GRID",
         "Eastpoint Mall",
-        "Fairprice Hub"
+        "Fairprice Hub",
+        "Lazada One"
       ],
       "outlets_outstanding": [
         "Vivo City (9am onwards)",
@@ -416,8 +417,7 @@
         "New Tech Park",
         "Causeway Point",
         "Galaxis",
-        "JEM",
-        "Lazada One"
+        "JEM"
       ],
       "done_detail": {
         "West Mall": {
@@ -523,6 +523,10 @@
         "Fairprice Hub": {
           "by": "jvparthiban7",
           "time": "15:13"
+        },
+        "Lazada One": {
+          "by": "jvparthiban7",
+          "time": "15:14"
         }
       },
       "problems": [],
