@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T11:43:39.829Z",
+  "generated": "2026-06-26T11:43:58.265Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "done": 37,
+      "done": 38,
       "outlets_done": [
         "YTP",
         "JP",
@@ -158,10 +158,10 @@
         "WWP",
         "AP2",
         "R3",
-        "CCP"
+        "CCP",
+        "EPT"
       ],
       "outlets_outstanding": [
-        "EPT",
         "BOB"
       ],
       "done_detail": {
@@ -310,6 +310,10 @@
           "time": "19:29"
         },
         "CCP": {
+          "by": "Sudhakar",
+          "time": "19:43"
+        },
+        "EPT": {
           "by": "Sudhakar",
           "time": "19:43"
         }
