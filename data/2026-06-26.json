@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T08:24:05.628Z",
+  "generated": "2026-06-26T08:26:02.351Z",
   "groups": [
     {
       "id": "EBL6",
@@ -401,7 +401,7 @@
           "pm": []
         }
       ],
-      "done": 32,
+      "done": 33,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -434,14 +434,14 @@
         "One Raffles Link",
         "Waterway Point",
         "The Poiz Centre",
-        "New Tech Park"
+        "New Tech Park",
+        "313 Somerset"
       ],
       "outlets_outstanding": [
         "Vivo City (9am onwards)",
         "Compass One",
         "Rivervale Mall",
         "Far East Plaza Kiosk E",
-        "313 Somerset",
         "Plaza Singapura",
         "Causeway Point",
         "Galaxis",
@@ -575,6 +575,10 @@
         "New Tech Park": {
           "by": "boss",
           "time": "15:56"
+        },
+        "313 Somerset": {
+          "by": "palanivelumuthukumar",
+          "time": "16:26"
         }
       },
       "problems": [],
