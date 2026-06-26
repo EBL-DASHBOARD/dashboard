@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T02:46:24.387Z",
+  "generated": "2026-06-26T02:56:02.377Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "YTP",
         "JP",
@@ -134,10 +134,10 @@
         "BQ",
         "HV2",
         "USQ",
-        "ART"
+        "ART",
+        "PS"
       ],
       "outlets_outstanding": [
-        "PS",
         "TRM",
         "TIO",
         "SHP",
@@ -195,6 +195,10 @@
         "ART": {
           "by": "Krishna",
           "time": "10:46"
+        },
+        "PS": {
+          "by": "GK",
+          "time": "10:56"
         }
       },
       "problems": [],
