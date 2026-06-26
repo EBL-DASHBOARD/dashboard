@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T01:30:46.775Z",
+  "generated": "2026-06-26T01:31:45.640Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,17 +120,17 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "YTP",
         "JP",
         "CL2",
         "CCKS",
-        "KRC"
+        "KRC",
+        "BNV"
       ],
       "outlets_outstanding": [
         "PS",
-        "BNV",
         "BQ",
         "BPP",
         "TRM",
@@ -163,6 +163,10 @@
         "KRC": {
           "by": "GK",
           "time": "09:30"
+        },
+        "BNV": {
+          "by": "GK",
+          "time": "09:31"
         }
       },
       "problems": [],
