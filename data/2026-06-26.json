@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T02:38:37.470Z",
+  "generated": "2026-06-26T02:45:18.871Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "YTP",
         "JP",
@@ -132,14 +132,14 @@
         "DV",
         "BPP",
         "BQ",
-        "HV2"
+        "HV2",
+        "USQ"
       ],
       "outlets_outstanding": [
         "PS",
         "TRM",
         "TIO",
         "ART",
-        "USQ",
         "SHP",
         "KIT"
       ],
@@ -187,6 +187,10 @@
         "HV2": {
           "by": "Samy Kumar Meena",
           "time": "10:38"
+        },
+        "USQ": {
+          "by": "Sasi",
+          "time": "10:45"
         }
       },
       "problems": [],
