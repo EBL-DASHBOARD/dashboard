@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T11:44:08.042Z",
+  "generated": "2026-06-26T14:58:31.794Z",
   "groups": [
     {
       "id": "EBL6",
@@ -684,13 +684,19 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
-      "outlets_outstanding": [
-        "PLQ Tower 1",
+      "done": 1,
+      "outlets_done": [
         "Aperia Mall"
       ],
-      "done_detail": {},
+      "outlets_outstanding": [
+        "PLQ Tower 1"
+      ],
+      "done_detail": {
+        "Aperia Mall": {
+          "by": "SEENU.C",
+          "time": "22:58"
+        }
+      },
       "problems": [],
       "customers": null
     }
