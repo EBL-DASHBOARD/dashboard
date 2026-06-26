@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T07:53:52.126Z",
+  "generated": "2026-06-26T07:56:27.310Z",
   "groups": [
     {
       "id": "EBL6",
@@ -389,7 +389,7 @@
           "pm": []
         }
       ],
-      "done": 30,
+      "done": 32,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -420,7 +420,9 @@
         "Lazada One",
         "Citylink",
         "One Raffles Link",
-        "Waterway Point"
+        "Waterway Point",
+        "The Poiz Centre",
+        "New Tech Park"
       ],
       "outlets_outstanding": [
         "Vivo City (9am onwards)",
@@ -429,8 +431,6 @@
         "Far East Plaza Kiosk E",
         "313 Somerset",
         "Plaza Singapura",
-        "The Poiz Centre",
-        "New Tech Park",
         "Causeway Point",
         "Galaxis",
         "JEM"
@@ -555,6 +555,14 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "15:53"
+        },
+        "The Poiz Centre": {
+          "by": "boss",
+          "time": "15:56"
+        },
+        "New Tech Park": {
+          "by": "boss",
+          "time": "15:56"
         }
       },
       "problems": [],
