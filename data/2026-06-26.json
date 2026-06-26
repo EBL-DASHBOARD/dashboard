@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T03:26:18.578Z",
+  "generated": "2026-06-26T03:30:07.853Z",
   "groups": [
     {
       "id": "EBL6",
@@ -344,7 +344,7 @@
           "pm": []
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -357,7 +357,8 @@
         "Margaret Market",
         "Tampines 1",
         "Century Square",
-        "Hillion Mall"
+        "Hillion Mall",
+        "Chinatown Point"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
@@ -369,7 +370,6 @@
         "ARTRA",
         "9 Penang Road",
         "Vivo City (9am onwards)",
-        "Chinatown Point",
         "Marina Square"
       ],
       "done_detail": {
@@ -420,6 +420,10 @@
         "Hillion Mall": {
           "by": "Nur Azimah",
           "time": "11:12"
+        },
+        "Chinatown Point": {
+          "by": "SEENU.C",
+          "time": "11:30"
         }
       },
       "problems": [],
