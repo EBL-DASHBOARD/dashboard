@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T02:02:59.696Z",
+  "generated": "2026-06-26T02:04:17.083Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "YTP",
         "JP",
@@ -129,12 +129,12 @@
         "KRC",
         "BNV",
         "ARC",
-        "DV"
+        "DV",
+        "BPP"
       ],
       "outlets_outstanding": [
         "PS",
         "BQ",
-        "BPP",
         "TRM",
         "HV2",
         "TIO",
@@ -175,6 +175,10 @@
         "DV": {
           "by": "Sasi",
           "time": "10:00"
+        },
+        "BPP": {
+          "by": "Samy Kumar Meena",
+          "time": "10:04"
         }
       },
       "problems": [],
