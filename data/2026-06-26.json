@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T02:00:27.246Z",
+  "generated": "2026-06-26T02:00:29.656Z",
   "groups": [
     {
       "id": "EBL6",
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "YTP",
         "JP",
@@ -128,7 +128,8 @@
         "CCKS",
         "KRC",
         "BNV",
-        "ARC"
+        "ARC",
+        "DV"
       ],
       "outlets_outstanding": [
         "PS",
@@ -140,8 +141,7 @@
         "ART",
         "USQ",
         "SHP",
-        "KIT",
-        "DV"
+        "KIT"
       ],
       "done_detail": {
         "YTP": {
@@ -170,6 +170,10 @@
         },
         "ARC": {
           "by": "Krishna",
+          "time": "10:00"
+        },
+        "DV": {
+          "by": "Sasi",
           "time": "10:00"
         }
       },
