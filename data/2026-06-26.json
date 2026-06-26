@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-06-26T02:57:15.055Z",
+  "generated": "2026-06-26T02:58:44.982Z",
   "groups": [
     {
       "id": "EBL6",
@@ -336,7 +336,7 @@
           "pm": []
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "West Mall",
         "63 Pagoda Street",
@@ -345,7 +345,8 @@
         "AltitudeX",
         "Junction 9",
         "UE Square",
-        "Parc Point"
+        "Parc Point",
+        "Margaret Market"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -359,7 +360,6 @@
         "Ngee Ann Polytechnic Block 1",
         "ARTRA",
         "9 Penang Road",
-        "Margaret Market",
         "Vivo City (9am onwards)",
         "Chinatown Point",
         "Marina Square"
@@ -396,6 +396,10 @@
         "Parc Point": {
           "by": "Nur Azimah",
           "time": "10:31"
+        },
+        "Margaret Market": {
+          "by": "palanivelumuthukumar",
+          "time": "10:58"
         }
       },
       "problems": [],
