@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T05:55:39.801Z",
+  "generated": "2026-06-27T06:19:33.623Z",
   "groups": [
     {
       "id": "XH",
@@ -66,7 +66,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 10,
       "outlets_done": [
         "Pasir Ris Mall",
         "White Sands",
@@ -74,17 +74,21 @@
         "Suntec City",
         "Citygate",
         "Hillion Mall",
-        "Far East Plaza Kiosk E"
-      ],
-      "outlets_outstanding": [
+        "Far East Plaza Kiosk E",
         "Compass One",
         "Punggol Plaza",
-        "Junction 8",
+        "Junction 8"
+      ],
+      "outlets_outstanding": [
         "V Hotel Lavender",
         "100 AM Mall",
         "Guoco Tower",
         "SingPost Centre",
-        "i12 Katong"
+        "i12 Katong",
+        "Downtown East",
+        "Causeway Point",
+        "Waterway Point",
+        "888 Plaza"
       ],
       "done_detail": {
         "Pasir Ris Mall": {
@@ -114,6 +118,18 @@
         "Far East Plaza Kiosk E": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "13:33"
+        },
+        "Compass One": {
+          "by": "boss",
+          "time": "14:19"
+        },
+        "Punggol Plaza": {
+          "by": "boss",
+          "time": "14:19"
+        },
+        "Junction 8": {
+          "by": "boss",
+          "time": "14:19"
         }
       },
       "problems": [
