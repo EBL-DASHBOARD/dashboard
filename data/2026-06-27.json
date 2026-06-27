@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T03:28:23.953Z",
+  "generated": "2026-06-27T03:43:40.623Z",
   "groups": [
     {
       "id": "XH",
@@ -273,7 +273,7 @@
           ]
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -291,10 +291,10 @@
         "TRM",
         "VIVO",
         "KLP",
-        "STC"
+        "STC",
+        "TGCC"
       ],
       "outlets_outstanding": [
-        "TGCC",
         "MSQ",
         "DV",
         "WSM",
@@ -370,6 +370,10 @@
         "STC": {
           "by": "Rsathiyaselvi",
           "time": "11:28"
+        },
+        "TGCC": {
+          "by": "Samy Kumar Meena",
+          "time": "11:43"
         }
       },
       "problems": [],
