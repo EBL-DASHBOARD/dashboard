@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T08:57:01.485Z",
+  "generated": "2026-06-27T09:07:43.435Z",
   "groups": [
     {
       "id": "XH",
@@ -318,7 +318,7 @@
           ]
         }
       ],
-      "done": 36,
+      "done": 37,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -355,7 +355,8 @@
         "FEN",
         "AP4",
         "TNC2",
-        "MARS"
+        "MARS",
+        "WWP"
       ],
       "outlets_outstanding": [
         "CKCC",
@@ -366,7 +367,6 @@
         "VIVA",
         "HRC",
         "PDD",
-        "WWP",
         "R1",
         "R3",
         "AP1",
@@ -522,6 +522,10 @@
         "MARS": {
           "by": "```Muthukumar```",
           "time": "16:57"
+        },
+        "WWP": {
+          "by": "Sasi",
+          "time": "17:07"
         }
       },
       "problems": [],
