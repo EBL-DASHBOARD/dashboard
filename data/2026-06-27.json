@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T03:55:19.005Z",
+  "generated": "2026-06-27T04:00:00.235Z",
   "groups": [
     {
       "id": "XH",
@@ -304,7 +304,38 @@
         "WSM",
         "JP",
         "IM",
-        "JKN"
+        "JKN",
+        "TPM",
+        "CKCC",
+        "LOY",
+        "PECC",
+        "TNC2",
+        "KNX",
+        "EPT",
+        "PAL",
+        "CCP",
+        "BOB",
+        "VIVA",
+        "NTP",
+        "NEX",
+        "HRC",
+        "PDD",
+        "WWP",
+        "R1",
+        "R3",
+        "R4",
+        "AP4",
+        "AP1",
+        "AP2",
+        "YS1",
+        "WIS",
+        "J9",
+        "SSC2",
+        "MARS",
+        "KTB",
+        "FEN",
+        "ACV",
+        "KEB"
       ],
       "done_detail": {
         "YTP": {
