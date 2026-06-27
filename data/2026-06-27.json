@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T06:54:25.978Z",
+  "generated": "2026-06-27T07:09:38.160Z",
   "groups": [
     {
       "id": "XH",
@@ -314,7 +314,7 @@
           ]
         }
       ],
-      "done": 25,
+      "done": 26,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -340,7 +340,8 @@
         "IM",
         "WSM",
         "JKN",
-        "KNX"
+        "KNX",
+        "KEB"
       ],
       "outlets_outstanding": [
         "TPM",
@@ -371,8 +372,7 @@
         "MARS",
         "KTB",
         "FEN",
-        "ACV",
-        "KEB"
+        "ACV"
       ],
       "done_detail": {
         "YTP": {
@@ -474,6 +474,10 @@
         "KNX": {
           "by": "Rsathiyaselvi",
           "time": "14:20"
+        },
+        "KEB": {
+          "by": "Sudhakar",
+          "time": "15:09"
         }
       },
       "problems": [],
