@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T00:38:11.891Z",
+  "generated": "2026-06-27T00:47:49.373Z",
   "groups": [
     {
       "id": "XH",
@@ -247,13 +247,13 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "YTP",
-        "WXI"
+        "WXI",
+        "BQ"
       ],
       "outlets_outstanding": [
-        "BQ",
         "STC",
         "CT",
         "BS",
@@ -284,6 +284,10 @@
         "WXI": {
           "by": "Krishna",
           "time": "08:38"
+        },
+        "BQ": {
+          "by": "Rsathiyaselvi",
+          "time": "08:47"
         }
       },
       "problems": [],
