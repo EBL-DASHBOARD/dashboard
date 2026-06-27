@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T00:34:36.168Z",
+  "generated": "2026-06-27T00:38:11.891Z",
   "groups": [
     {
       "id": "XH",
@@ -247,9 +247,10 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "YTP"
+        "YTP",
+        "WXI"
       ],
       "outlets_outstanding": [
         "BQ",
@@ -269,7 +270,6 @@
         "BNV",
         "KRC",
         "VIVO",
-        "WXI",
         "DV",
         "WSM",
         "JP",
@@ -280,6 +280,10 @@
         "YTP": {
           "by": "Samy Kumar Meena",
           "time": "08:34"
+        },
+        "WXI": {
+          "by": "Krishna",
+          "time": "08:38"
         }
       },
       "problems": [],
