@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T06:19:53.211Z",
+  "generated": "2026-06-27T06:20:14.966Z",
   "groups": [
     {
       "id": "XH",
@@ -310,7 +310,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -335,7 +335,8 @@
         "DV",
         "IM",
         "WSM",
-        "JKN"
+        "JKN",
+        "KNX"
       ],
       "outlets_outstanding": [
         "TPM",
@@ -343,7 +344,6 @@
         "LOY",
         "PECC",
         "TNC2",
-        "KNX",
         "EPT",
         "PAL",
         "CCP",
@@ -466,6 +466,10 @@
         "JKN": {
           "by": "```Muthukumar```",
           "time": "13:55"
+        },
+        "KNX": {
+          "by": "Rsathiyaselvi",
+          "time": "14:20"
         }
       },
       "problems": [],
