@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T09:38:27.631Z",
+  "generated": "2026-06-27T09:43:55.167Z",
   "groups": [
     {
       "id": "XH",
@@ -318,7 +318,7 @@
           ]
         }
       ],
-      "done": 40,
+      "done": 41,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -359,7 +359,8 @@
         "WWP",
         "VIVA",
         "SSC2",
-        "ACV"
+        "ACV",
+        "R1"
       ],
       "outlets_outstanding": [
         "CKCC",
@@ -369,7 +370,6 @@
         "CCP",
         "HRC",
         "PDD",
-        "R1",
         "R3",
         "AP1",
         "AP2",
@@ -538,6 +538,10 @@
         "ACV": {
           "by": "Sudhakar",
           "time": "17:38"
+        },
+        "R1": {
+          "by": "Krishna",
+          "time": "17:43"
         }
       },
       "problems": [],
