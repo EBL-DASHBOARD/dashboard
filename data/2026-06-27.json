@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T09:57:26.108Z",
+  "generated": "2026-06-27T10:02:38.416Z",
   "groups": [
     {
       "id": "XH",
@@ -318,7 +318,7 @@
           ]
         }
       ],
-      "done": 43,
+      "done": 44,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -362,10 +362,10 @@
         "ACV",
         "R1",
         "PDD",
-        "CCP"
+        "CCP",
+        "CKCC"
       ],
       "outlets_outstanding": [
-        "CKCC",
         "LOY",
         "PECC",
         "EPT",
@@ -550,6 +550,10 @@
         "CCP": {
           "by": "Samy Kumar Meena",
           "time": "17:57"
+        },
+        "CKCC": {
+          "by": "Rsathiyaselvi",
+          "time": "18:02"
         }
       },
       "problems": [],
