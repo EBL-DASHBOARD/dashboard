@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T01:50:48.254Z",
+  "generated": "2026-06-27T01:59:55.703Z",
   "groups": [
     {
       "id": "XH",
@@ -257,7 +257,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -266,12 +266,12 @@
         "CCKS",
         "KRC",
         "SHP",
-        "BS"
+        "BS",
+        "KH"
       ],
       "outlets_outstanding": [
         "STC",
         "CT",
-        "KH",
         "TRM",
         "TGCC",
         "BPP",
@@ -318,6 +318,10 @@
         "BS": {
           "by": "Rsathiyaselvi",
           "time": "09:48"
+        },
+        "KH": {
+          "by": "Samy Kumar Meena",
+          "time": "09:59"
         }
       },
       "problems": [],
