@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T08:16:33.446Z",
+  "generated": "2026-06-27T08:17:05.565Z",
   "groups": [
     {
       "id": "XH",
@@ -318,7 +318,7 @@
           ]
         }
       ],
-      "done": 31,
+      "done": 32,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -350,7 +350,8 @@
         "PAL",
         "R4",
         "NTP",
-        "TPM"
+        "TPM",
+        "BOB"
       ],
       "outlets_outstanding": [
         "CKCC",
@@ -359,7 +360,6 @@
         "TNC2",
         "EPT",
         "CCP",
-        "BOB",
         "VIVA",
         "HRC",
         "PDD",
@@ -502,6 +502,10 @@
         "TPM": {
           "by": "Rsathiyaselvi",
           "time": "16:04"
+        },
+        "BOB": {
+          "by": "Samy Kumar Meena",
+          "time": "16:17"
         }
       },
       "problems": [],
