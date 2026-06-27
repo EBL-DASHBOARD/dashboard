@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T08:17:05.565Z",
+  "generated": "2026-06-27T08:18:01.352Z",
   "groups": [
     {
       "id": "XH",
@@ -318,7 +318,7 @@
           ]
         }
       ],
-      "done": 32,
+      "done": 33,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -351,7 +351,8 @@
         "R4",
         "NTP",
         "TPM",
-        "BOB"
+        "BOB",
+        "FEN"
       ],
       "outlets_outstanding": [
         "CKCC",
@@ -375,7 +376,6 @@
         "SSC2",
         "MARS",
         "KTB",
-        "FEN",
         "ACV"
       ],
       "done_detail": {
@@ -506,6 +506,10 @@
         "BOB": {
           "by": "Samy Kumar Meena",
           "time": "16:17"
+        },
+        "FEN": {
+          "by": "Sudhakar",
+          "time": "16:18"
         }
       },
       "problems": [],
