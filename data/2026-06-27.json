@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T02:28:13.659Z",
+  "generated": "2026-06-27T02:36:49.001Z",
   "groups": [
     {
       "id": "XH",
@@ -100,7 +100,7 @@
           "time": "10:21",
           "by": "#நVin🇮🇹🚀🔥",
           "text": "The Woodleigh Mall is already done (not outstanding). Message reports damage to 2 items in a box at that location.",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
