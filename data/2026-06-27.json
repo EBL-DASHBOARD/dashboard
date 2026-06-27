@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T07:13:07.514Z",
+  "generated": "2026-06-27T07:42:59.996Z",
   "groups": [
     {
       "id": "XH",
@@ -314,7 +314,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -343,7 +343,8 @@
         "KNX",
         "KEB",
         "NEX",
-        "PAL"
+        "PAL",
+        "R4"
       ],
       "outlets_outstanding": [
         "TPM",
@@ -361,7 +362,6 @@
         "WWP",
         "R1",
         "R3",
-        "R4",
         "AP4",
         "AP1",
         "AP2",
@@ -486,6 +486,10 @@
         "PAL": {
           "by": "Samy Kumar Meena",
           "time": "15:13"
+        },
+        "R4": {
+          "by": "Krishna",
+          "time": "15:42"
         }
       },
       "problems": [],
