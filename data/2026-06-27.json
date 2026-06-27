@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T07:42:59.996Z",
+  "generated": "2026-06-27T07:50:38.374Z",
   "groups": [
     {
       "id": "XH",
@@ -314,7 +314,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -344,7 +344,8 @@
         "KEB",
         "NEX",
         "PAL",
-        "R4"
+        "R4",
+        "NTP"
       ],
       "outlets_outstanding": [
         "TPM",
@@ -356,7 +357,6 @@
         "CCP",
         "BOB",
         "VIVA",
-        "NTP",
         "HRC",
         "PDD",
         "WWP",
@@ -490,6 +490,10 @@
         "R4": {
           "by": "Krishna",
           "time": "15:42"
+        },
+        "NTP": {
+          "by": "Sasi",
+          "time": "15:50"
         }
       },
       "problems": [],
