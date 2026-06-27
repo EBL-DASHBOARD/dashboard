@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T08:04:27.183Z",
+  "generated": "2026-06-27T08:16:33.446Z",
   "groups": [
     {
       "id": "XH",
@@ -66,7 +66,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "Pasir Ris Mall",
         "White Sands",
@@ -79,13 +79,13 @@
         "Punggol Plaza",
         "Junction 8",
         "Downtown East",
-        "i12 Katong"
+        "i12 Katong",
+        "SingPost Centre"
       ],
       "outlets_outstanding": [
         "V Hotel Lavender",
         "100 AM Mall",
         "Guoco Tower",
-        "SingPost Centre",
         "Causeway Point",
         "Waterway Point",
         "888 Plaza"
@@ -138,6 +138,10 @@
         "i12 Katong": {
           "by": "jvparthiban7",
           "time": "14:54"
+        },
+        "SingPost Centre": {
+          "by": "jvparthiban7",
+          "time": "16:16"
         }
       },
       "problems": [
