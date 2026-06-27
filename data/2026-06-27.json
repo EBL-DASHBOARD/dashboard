@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T07:50:38.374Z",
+  "generated": "2026-06-27T08:04:27.183Z",
   "groups": [
     {
       "id": "XH",
@@ -314,7 +314,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 31,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -345,10 +345,10 @@
         "NEX",
         "PAL",
         "R4",
-        "NTP"
+        "NTP",
+        "TPM"
       ],
       "outlets_outstanding": [
-        "TPM",
         "CKCC",
         "LOY",
         "PECC",
@@ -494,6 +494,10 @@
         "NTP": {
           "by": "Sasi",
           "time": "15:50"
+        },
+        "TPM": {
+          "by": "Rsathiyaselvi",
+          "time": "16:04"
         }
       },
       "problems": [],
