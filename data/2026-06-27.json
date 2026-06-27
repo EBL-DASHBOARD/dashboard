@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T04:00:00.235Z",
+  "generated": "2026-06-27T04:10:14.617Z",
   "groups": [
     {
       "id": "XH",
@@ -277,7 +277,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 21,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -297,12 +297,12 @@
         "KLP",
         "STC",
         "TGCC",
-        "MSQ"
+        "MSQ",
+        "JP",
+        "DV"
       ],
       "outlets_outstanding": [
-        "DV",
         "WSM",
-        "JP",
         "IM",
         "JKN",
         "TPM",
@@ -413,6 +413,14 @@
         "MSQ": {
           "by": "Sasi",
           "time": "11:49"
+        },
+        "JP": {
+          "by": "```Muthukumar```",
+          "time": "12:10"
+        },
+        "DV": {
+          "by": "```Muthukumar```",
+          "time": "12:10"
         }
       },
       "problems": [],
