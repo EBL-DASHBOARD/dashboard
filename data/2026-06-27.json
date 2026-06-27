@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T04:10:28.547Z",
+  "generated": "2026-06-27T04:11:52.235Z",
   "groups": [
     {
       "id": "XH",
@@ -277,7 +277,7 @@
           ]
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -300,10 +300,10 @@
         "MSQ",
         "JP",
         "DV",
-        "IM"
+        "IM",
+        "WSM"
       ],
       "outlets_outstanding": [
-        "WSM",
         "JKN",
         "TPM",
         "CKCC",
@@ -425,6 +425,10 @@
         "IM": {
           "by": "```Muthukumar```",
           "time": "12:10"
+        },
+        "WSM": {
+          "by": "```Muthukumar```",
+          "time": "12:11"
         }
       },
       "problems": [],
