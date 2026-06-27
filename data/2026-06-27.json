@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T07:12:23.367Z",
+  "generated": "2026-06-27T07:13:07.514Z",
   "groups": [
     {
       "id": "XH",
@@ -314,7 +314,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -342,7 +342,8 @@
         "JKN",
         "KNX",
         "KEB",
-        "NEX"
+        "NEX",
+        "PAL"
       ],
       "outlets_outstanding": [
         "TPM",
@@ -351,7 +352,6 @@
         "PECC",
         "TNC2",
         "EPT",
-        "PAL",
         "CCP",
         "BOB",
         "VIVA",
@@ -482,6 +482,10 @@
         "NEX": {
           "by": "Sasi",
           "time": "15:12"
+        },
+        "PAL": {
+          "by": "Samy Kumar Meena",
+          "time": "15:13"
         }
       },
       "problems": [],
