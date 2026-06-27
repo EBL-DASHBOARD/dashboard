@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T07:09:38.160Z",
+  "generated": "2026-06-27T07:12:23.367Z",
   "groups": [
     {
       "id": "XH",
@@ -314,7 +314,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -341,7 +341,8 @@
         "WSM",
         "JKN",
         "KNX",
-        "KEB"
+        "KEB",
+        "NEX"
       ],
       "outlets_outstanding": [
         "TPM",
@@ -355,7 +356,6 @@
         "BOB",
         "VIVA",
         "NTP",
-        "NEX",
         "HRC",
         "PDD",
         "WWP",
@@ -478,6 +478,10 @@
         "KEB": {
           "by": "Sudhakar",
           "time": "15:09"
+        },
+        "NEX": {
+          "by": "Sasi",
+          "time": "15:12"
         }
       },
       "problems": [],
