@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T03:04:52.546Z",
+  "generated": "2026-06-27T03:15:33.361Z",
   "groups": [
     {
       "id": "XH",
@@ -66,18 +66,18 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "Pasir Ris Mall",
         "White Sands",
-        "The Woodleigh Mall"
+        "The Woodleigh Mall",
+        "Suntec City"
       ],
       "outlets_outstanding": [
         "Compass One",
         "Punggol Plaza",
         "Junction 8",
         "Citygate",
-        "Suntec City",
         "Hillion Mall",
         "Far East Plaza Kiosk E"
       ],
@@ -93,6 +93,10 @@
         "The Woodleigh Mall": {
           "by": "jvparthiban7",
           "time": "10:14"
+        },
+        "Suntec City": {
+          "by": "jvparthiban7",
+          "time": "11:15"
         }
       },
       "problems": [
