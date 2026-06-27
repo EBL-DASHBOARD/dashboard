@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T01:48:01.456Z",
+  "generated": "2026-06-27T01:50:48.254Z",
   "groups": [
     {
       "id": "XH",
@@ -66,11 +66,12 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
-      "outlets_outstanding": [
+      "done": 2,
+      "outlets_done": [
         "Pasir Ris Mall",
-        "White Sands",
+        "White Sands"
+      ],
+      "outlets_outstanding": [
         "Compass One",
         "Punggol Plaza",
         "Junction 8",
@@ -80,7 +81,16 @@
         "Hillion Mall",
         "Far East Plaza Kiosk E"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "Pasir Ris Mall": {
+          "by": "boss",
+          "time": "09:50"
+        },
+        "White Sands": {
+          "by": "boss",
+          "time": "09:50"
+        }
+      },
       "problems": [],
       "customers": null
     },
