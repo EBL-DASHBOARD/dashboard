@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T04:11:52.235Z",
+  "generated": "2026-06-27T05:33:49.713Z",
   "groups": [
     {
       "id": "XH",
@@ -66,20 +66,25 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 7,
       "outlets_done": [
         "Pasir Ris Mall",
         "White Sands",
         "The Woodleigh Mall",
         "Suntec City",
-        "Citygate"
+        "Citygate",
+        "Hillion Mall",
+        "Far East Plaza Kiosk E"
       ],
       "outlets_outstanding": [
         "Compass One",
         "Punggol Plaza",
         "Junction 8",
-        "Hillion Mall",
-        "Far East Plaza Kiosk E"
+        "V Hotel Lavender",
+        "100 AM Mall",
+        "Guoco Tower",
+        "SingPost Centre",
+        "i12 Katong"
       ],
       "done_detail": {
         "Pasir Ris Mall": {
@@ -101,6 +106,14 @@
         "Citygate": {
           "by": "jvparthiban7",
           "time": "11:55"
+        },
+        "Hillion Mall": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "13:33"
+        },
+        "Far East Plaza Kiosk E": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "13:33"
         }
       },
       "problems": [
