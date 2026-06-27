@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T11:12:29.303Z",
+  "generated": "2026-06-27T11:22:44.149Z",
   "groups": [
     {
       "id": "XH",
@@ -330,7 +330,7 @@
           ]
         }
       ],
-      "done": 50,
+      "done": 51,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -381,13 +381,13 @@
         "EPT",
         "HRC",
         "KTB",
-        "LOY"
+        "LOY",
+        "WIS"
       ],
       "outlets_outstanding": [
         "R3",
         "AP1",
         "YS1",
-        "WIS",
         "J9"
       ],
       "done_detail": {
@@ -590,6 +590,10 @@
         "LOY": {
           "by": "Rsathiyaselvi",
           "time": "19:12"
+        },
+        "WIS": {
+          "by": "```Muthukumar```",
+          "time": "19:22"
         }
       },
       "problems": [],
