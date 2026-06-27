@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T01:46:07.412Z",
+  "generated": "2026-06-27T01:48:01.456Z",
   "groups": [
     {
       "id": "XH",
@@ -247,7 +247,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -255,12 +255,12 @@
         "TY",
         "CCKS",
         "KRC",
-        "SHP"
+        "SHP",
+        "BS"
       ],
       "outlets_outstanding": [
         "STC",
         "CT",
-        "BS",
         "KH",
         "TRM",
         "TGCC",
@@ -304,6 +304,10 @@
         "SHP": {
           "by": "Sasi",
           "time": "09:46"
+        },
+        "BS": {
+          "by": "Rsathiyaselvi",
+          "time": "09:48"
         }
       },
       "problems": [],
