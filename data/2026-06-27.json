@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-06-27T02:09:30.448Z",
+  "generated": "2026-06-27T02:14:16.431Z",
   "groups": [
     {
       "id": "XH",
@@ -66,16 +66,16 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "Pasir Ris Mall",
-        "White Sands"
+        "White Sands",
+        "The Woodleigh Mall"
       ],
       "outlets_outstanding": [
         "Compass One",
         "Punggol Plaza",
         "Junction 8",
-        "The Woodleigh Mall",
         "Citygate",
         "Suntec City",
         "Hillion Mall",
@@ -89,6 +89,10 @@
         "White Sands": {
           "by": "boss",
           "time": "09:50"
+        },
+        "The Woodleigh Mall": {
+          "by": "jvparthiban7",
+          "time": "10:14"
         }
       },
       "problems": [],
