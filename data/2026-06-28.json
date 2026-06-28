@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "generated": "2026-06-28T15:17:54.816Z",
+  "generated": "2026-06-28T15:31:39.232Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -45,20 +45,24 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "Changi City Point"
+        "Changi City Point",
+        "ESR BizPark @ Changi"
       ],
       "outlets_outstanding": [
         "Jewel",
         "Changi T1 Transit",
-        "Hougang 1",
-        "ESR BizPark @ Changi"
+        "Hougang 1"
       ],
       "done_detail": {
         "Changi City Point": {
           "by": "SEENU.C",
           "time": "23:17"
+        },
+        "ESR BizPark @ Changi": {
+          "by": "SEENU.C",
+          "time": "23:31"
         }
       },
       "problems": [],
