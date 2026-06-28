@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-28T11:02:24.228Z",
+  "generated": "2026-06-28T16:45:02.176Z",
   "groups": [
     {
       "id": "XH",
@@ -222,6 +222,164 @@
         "Aperia Mall",
         "Ngee Ann City",
         "Tangs Plaza Kiosk 2"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 45,
+      "am_total": 20,
+      "pm_total": 25,
+      "am_outlets": [
+        "KRC",
+        "BQ",
+        "BNV",
+        "CT",
+        "HV2",
+        "WSM",
+        "KH",
+        "CCKS",
+        "BPP",
+        "TRM",
+        "TIO",
+        "VIVO",
+        "ART",
+        "ARC",
+        "USQ",
+        "SHP",
+        "KLP",
+        "JP",
+        "IM",
+        "DV"
+      ],
+      "pm_outlets": [
+        "LOY",
+        "TNC2",
+        "CKCC",
+        "PECC",
+        "KNX",
+        "CCP",
+        "EPT",
+        "BHT",
+        "VIVA",
+        "BOB",
+        "PAL",
+        "GMM",
+        "HRC",
+        "NEX",
+        "R4",
+        "R3",
+        "R1",
+        "AP2",
+        "AP1",
+        "KEB",
+        "YS1",
+        "KTB",
+        "WIS",
+        "MARS",
+        "WWP"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [
+            "KRC",
+            "BQ",
+            "BNV",
+            "CT"
+          ],
+          "pm": [
+            "LOY",
+            "TNC2",
+            "CKCC",
+            "PECC",
+            "KNX",
+            "CCP",
+            "EPT"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "HV2",
+            "WSM",
+            "KH",
+            "CCKS",
+            "BPP",
+            "TRM"
+          ],
+          "pm": [
+            "BHT",
+            "VIVA",
+            "BOB",
+            "PAL",
+            "GMM",
+            "HRC",
+            "NEX"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "TIO",
+            "VIVO",
+            "ART",
+            "ARC"
+          ],
+          "pm": [
+            "R4",
+            "R3",
+            "R1",
+            "AP2",
+            "AP1"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "USQ",
+            "SHP",
+            "KLP",
+            "JP",
+            "IM",
+            "DV"
+          ],
+          "pm": [
+            "KEB",
+            "YS1",
+            "KTB",
+            "WIS",
+            "MARS",
+            "WWP"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "KRC",
+        "BQ",
+        "BNV",
+        "CT",
+        "HV2",
+        "WSM",
+        "KH",
+        "CCKS",
+        "BPP",
+        "TRM",
+        "TIO",
+        "VIVO",
+        "ART",
+        "ARC",
+        "USQ",
+        "SHP",
+        "KLP",
+        "JP",
+        "IM",
+        "DV"
       ],
       "done_detail": {},
       "problems": [],
