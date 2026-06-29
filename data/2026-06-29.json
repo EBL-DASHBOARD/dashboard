@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T02:30:21.733Z",
+  "generated": "2026-06-29T02:35:30.024Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "West Mall",
         "Ngee Ann Polytechnic Block 1",
@@ -160,7 +160,8 @@
         "AltitudeX",
         "Zhongshan Mall",
         "Century Square",
-        "Tampines 1"
+        "Tampines 1",
+        "Parc Point"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -168,7 +169,6 @@
         "Tampines Mart",
         "Dairy Farm Mall",
         "Hillion Mall",
-        "Parc Point",
         "Junction 9",
         "Northpoint City",
         "Woods Square",
@@ -225,6 +225,10 @@
         "Tampines 1": {
           "by": "boss",
           "time": "10:30"
+        },
+        "Parc Point": {
+          "by": "Nur Azimah",
+          "time": "10:35"
         }
       },
       "problems": [],
