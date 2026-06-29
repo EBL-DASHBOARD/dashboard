@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T03:12:24.546Z",
+  "generated": "2026-06-29T03:12:53.830Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "West Mall",
         "Ngee Ann Polytechnic Block 1",
@@ -164,14 +164,14 @@
         "Parc Point",
         "Vivocity",
         "Junction 9",
-        "Northpoint City"
+        "Northpoint City",
+        "Hillion Mall"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "UE Square",
         "Tampines Mart",
         "Dairy Farm Mall",
-        "Hillion Mall",
         "Woods Square",
         "HarbourFront Tower 1",
         "ARTRA",
@@ -240,6 +240,10 @@
         },
         "Northpoint City": {
           "by": "Manikandan.P",
+          "time": "11:12"
+        },
+        "Hillion Mall": {
+          "by": "Nur Azimah",
           "time": "11:12"
         }
       },
