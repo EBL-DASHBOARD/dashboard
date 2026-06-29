@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T02:46:21.499Z",
+  "generated": "2026-06-29T02:46:42.640Z",
   "groups": [
     {
       "id": "XH",
@@ -411,7 +411,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "CCKS",
         "ARC",
@@ -425,7 +425,8 @@
         "TIO",
         "HV2",
         "CT",
-        "VIVO"
+        "VIVO",
+        "IM"
       ],
       "outlets_outstanding": [
         "WSM",
@@ -433,7 +434,6 @@
         "USQ",
         "SHP",
         "KLP",
-        "IM",
         "DV"
       ],
       "done_detail": {
@@ -487,6 +487,10 @@
         },
         "VIVO": {
           "by": "Krishna",
+          "time": "10:46"
+        },
+        "IM": {
+          "by": "Sasi",
           "time": "10:46"
         }
       },
