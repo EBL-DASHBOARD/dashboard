@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T04:18:23.735Z",
+  "generated": "2026-06-29T04:20:51.027Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 20,
+      "done": 23,
       "outlets_done": [
         "West Mall",
         "Ngee Ann Polytechnic Block 1",
@@ -168,14 +168,14 @@
         "Hillion Mall",
         "Dairy Farm Mall",
         "Woods Square",
-        "Tanah Merah Ferry Terminal"
+        "Tanah Merah Ferry Terminal",
+        "HarbourFront Tower 1",
+        "ARTRA",
+        "GENEO"
       ],
       "outlets_outstanding": [
         "UE Square",
         "Tampines Mart",
-        "HarbourFront Tower 1",
-        "ARTRA",
-        "GENEO",
         "Compass One",
         "Rivervale Mall",
         "Causeway Point",
@@ -187,7 +187,11 @@
         "Parkway Parade",
         "Punggol Coast Mall",
         "The Poiz Centre",
-        "New Tech Park"
+        "New Tech Park",
+        "Westgate Tower",
+        "JEM",
+        "Fairprice Hub",
+        "Flavours @ NUS Uptown"
       ],
       "done_detail": {
         "West Mall": {
@@ -269,6 +273,18 @@
         "Tanah Merah Ferry Terminal": {
           "by": "jvparthiban7",
           "time": "12:09"
+        },
+        "HarbourFront Tower 1": {
+          "by": "Rsathiyaselvi",
+          "time": "12:20"
+        },
+        "ARTRA": {
+          "by": "Rsathiyaselvi",
+          "time": "12:20"
+        },
+        "GENEO": {
+          "by": "Rsathiyaselvi",
+          "time": "12:20"
         }
       },
       "problems": [],
