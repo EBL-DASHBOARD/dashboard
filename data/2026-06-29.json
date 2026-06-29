@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T03:50:52.697Z",
+  "generated": "2026-06-29T04:00:04.050Z",
   "groups": [
     {
       "id": "XH",
@@ -458,7 +458,32 @@
       ],
       "outlets_outstanding": [
         "SHP",
-        "KLP"
+        "KLP",
+        "LOY",
+        "TNC2",
+        "CKCC",
+        "PECC",
+        "KNX",
+        "CCP",
+        "EPT",
+        "BHT",
+        "VIVA",
+        "BOB",
+        "PAL",
+        "GMM",
+        "HRC",
+        "NEX",
+        "R4",
+        "R3",
+        "R1",
+        "AP2",
+        "AP1",
+        "KEB",
+        "YS1",
+        "KTB",
+        "WIS",
+        "MARS",
+        "WWP"
       ],
       "done_detail": {
         "CCKS": {
