@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T00:42:34.778Z",
+  "generated": "2026-06-29T00:43:00.904Z",
   "groups": [
     {
       "id": "XH",
@@ -363,13 +363,13 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "CCKS",
-        "ARC"
+        "ARC",
+        "KRC"
       ],
       "outlets_outstanding": [
-        "KRC",
         "BQ",
         "BNV",
         "CT",
@@ -396,6 +396,10 @@
         "ARC": {
           "by": "Krishna",
           "time": "08:42"
+        },
+        "KRC": {
+          "by": "Mani 6 EBL",
+          "time": "08:43"
         }
       },
       "problems": [],
