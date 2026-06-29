@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T01:46:41.466Z",
+  "generated": "2026-06-29T01:58:10.467Z",
   "groups": [
     {
       "id": "XH",
@@ -147,13 +147,14 @@
           "pm": []
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "West Mall",
         "Ngee Ann Polytechnic Block 1",
         "Le Quest",
         "63 Pagoda Street",
-        "Hougang Mall"
+        "Hougang Mall",
+        "Alexandra Technopark B"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -174,8 +175,7 @@
         "HarbourFront Tower 1",
         "ARTRA",
         "GENEO",
-        "Margaret Market",
-        "Alexandra Technopark B"
+        "Margaret Market"
       ],
       "done_detail": {
         "West Mall": {
@@ -197,6 +197,10 @@
         "Hougang Mall": {
           "by": "Manikandan.P",
           "time": "09:46"
+        },
+        "Alexandra Technopark B": {
+          "by": "SEENU.C",
+          "time": "09:58"
         }
       },
       "problems": [],
