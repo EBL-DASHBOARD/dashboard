@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T04:11:03.501Z",
+  "generated": "2026-06-29T04:18:23.735Z",
   "groups": [
     {
       "id": "XH",
@@ -451,7 +451,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "CCKS",
         "ARC",
@@ -471,10 +471,10 @@
         "DV",
         "USQ",
         "WSM",
-        "R3"
+        "R3",
+        "SHP"
       ],
       "outlets_outstanding": [
-        "SHP",
         "KLP",
         "LOY",
         "TNC2",
@@ -577,6 +577,10 @@
         "R3": {
           "by": "Mani 6 EBL",
           "time": "12:11"
+        },
+        "SHP": {
+          "by": "Sasi",
+          "time": "12:18"
         }
       },
       "problems": [],
