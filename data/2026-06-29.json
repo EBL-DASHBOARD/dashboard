@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T03:42:45.074Z",
+  "generated": "2026-06-29T03:43:21.337Z",
   "groups": [
     {
       "id": "XH",
@@ -427,7 +427,7 @@
           ]
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "CCKS",
         "ARC",
@@ -445,10 +445,10 @@
         "IM",
         "TRM",
         "DV",
-        "USQ"
+        "USQ",
+        "WSM"
       ],
       "outlets_outstanding": [
-        "WSM",
         "SHP",
         "KLP"
       ],
@@ -520,6 +520,10 @@
         "USQ": {
           "by": "Sasi",
           "time": "11:42"
+        },
+        "WSM": {
+          "by": "Samy Kumar Meena",
+          "time": "11:43"
         }
       },
       "problems": [],
