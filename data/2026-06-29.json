@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T01:27:37.892Z",
+  "generated": "2026-06-29T01:33:28.701Z",
   "groups": [
     {
       "id": "XH",
@@ -147,10 +147,11 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "West Mall",
-        "Ngee Ann Polytechnic Block 1"
+        "Ngee Ann Polytechnic Block 1",
+        "Le Quest"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -163,7 +164,6 @@
         "Tampines 1",
         "Dairy Farm Mall",
         "Hillion Mall",
-        "Le Quest",
         "Parc Point",
         "Hougang Mall",
         "Junction 9",
@@ -185,6 +185,10 @@
         "Ngee Ann Polytechnic Block 1": {
           "by": "SEENU.C",
           "time": "09:05"
+        },
+        "Le Quest": {
+          "by": "Nur Azimah",
+          "time": "09:33"
         }
       },
       "problems": [],
