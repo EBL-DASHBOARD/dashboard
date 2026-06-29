@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T01:05:49.689Z",
+  "generated": "2026-06-29T01:20:15.269Z",
   "groups": [
     {
       "id": "XH",
@@ -367,19 +367,19 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "CCKS",
         "ARC",
         "KRC",
-        "BNV"
+        "BNV",
+        "KH"
       ],
       "outlets_outstanding": [
         "BQ",
         "CT",
         "HV2",
         "WSM",
-        "KH",
         "BPP",
         "TRM",
         "TIO",
@@ -408,6 +408,10 @@
         "BNV": {
           "by": "Mani 6 EBL",
           "time": "09:00"
+        },
+        "KH": {
+          "by": "Samy Kumar Meena",
+          "time": "09:20"
         }
       },
       "problems": [],
