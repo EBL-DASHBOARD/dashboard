@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T01:00:09.693Z",
+  "generated": "2026-06-29T01:05:49.689Z",
   "groups": [
     {
       "id": "XH",
@@ -147,9 +147,10 @@
           "pm": []
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "West Mall"
+        "West Mall",
+        "Ngee Ann Polytechnic Block 1"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -173,7 +174,6 @@
         "HarbourFront Tower 1",
         "ARTRA",
         "GENEO",
-        "Ngee Ann Polytechnic Block 1",
         "Margaret Market",
         "Alexandra Technopark B"
       ],
@@ -181,6 +181,10 @@
         "West Mall": {
           "by": "Nur Azimah",
           "time": "08:33"
+        },
+        "Ngee Ann Polytechnic Block 1": {
+          "by": "SEENU.C",
+          "time": "09:05"
         }
       },
       "problems": [],
