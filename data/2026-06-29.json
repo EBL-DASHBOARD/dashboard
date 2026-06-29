@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T02:01:37.692Z",
+  "generated": "2026-06-29T02:02:11.987Z",
   "groups": [
     {
       "id": "XH",
@@ -387,7 +387,7 @@
           ]
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "CCKS",
         "ARC",
@@ -397,14 +397,14 @@
         "ART",
         "JP",
         "BPP",
-        "BQ"
+        "BQ",
+        "TIO"
       ],
       "outlets_outstanding": [
         "CT",
         "HV2",
         "WSM",
         "TRM",
-        "TIO",
         "VIVO",
         "USQ",
         "SHP",
@@ -448,6 +448,10 @@
         "BQ": {
           "by": "Mani 6 EBL",
           "time": "10:01"
+        },
+        "TIO": {
+          "by": "Krishna",
+          "time": "10:02"
         }
       },
       "problems": [],
