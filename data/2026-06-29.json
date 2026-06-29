@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T02:24:01.459Z",
+  "generated": "2026-06-29T02:27:46.363Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "West Mall",
         "Ngee Ann Polytechnic Block 1",
@@ -157,11 +157,11 @@
         "Alexandra Technopark B",
         "Royal Square",
         "Margaret Market",
-        "AltitudeX"
+        "AltitudeX",
+        "Zhongshan Mall"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
-        "Zhongshan Mall",
         "UE Square",
         "Tampines Mart",
         "Century Square",
@@ -213,6 +213,10 @@
         "AltitudeX": {
           "by": "Rsathiyaselvi",
           "time": "10:24"
+        },
+        "Zhongshan Mall": {
+          "by": "jvparthiban7",
+          "time": "10:27"
         }
       },
       "problems": [],
