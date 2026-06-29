@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T03:15:23.468Z",
+  "generated": "2026-06-29T03:42:45.074Z",
   "groups": [
     {
       "id": "XH",
@@ -427,7 +427,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "CCKS",
         "ARC",
@@ -444,11 +444,11 @@
         "VIVO",
         "IM",
         "TRM",
-        "DV"
+        "DV",
+        "USQ"
       ],
       "outlets_outstanding": [
         "WSM",
-        "USQ",
         "SHP",
         "KLP"
       ],
@@ -516,6 +516,10 @@
         "DV": {
           "by": "Sasi",
           "time": "11:15"
+        },
+        "USQ": {
+          "by": "Sasi",
+          "time": "11:42"
         }
       },
       "problems": [],
