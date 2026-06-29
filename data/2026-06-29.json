@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T02:39:49.810Z",
+  "generated": "2026-06-29T02:45:02.787Z",
   "groups": [
     {
       "id": "XH",
@@ -411,7 +411,7 @@
           ]
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "CCKS",
         "ARC",
@@ -423,10 +423,10 @@
         "BPP",
         "BQ",
         "TIO",
-        "HV2"
+        "HV2",
+        "CT"
       ],
       "outlets_outstanding": [
-        "CT",
         "WSM",
         "TRM",
         "VIVO",
@@ -480,6 +480,10 @@
         "HV2": {
           "by": "Samy Kumar Meena",
           "time": "10:39"
+        },
+        "CT": {
+          "by": "Mani 6 EBL",
+          "time": "10:45"
         }
       },
       "problems": [],
