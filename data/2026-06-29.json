@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-28T22:00:03.540Z",
+  "generated": "2026-06-29T00:33:07.028Z",
   "groups": [
     {
       "id": "XH",
@@ -147,8 +147,10 @@
           "pm": []
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "West Mall"
+      ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "Royal Square",
@@ -161,7 +163,6 @@
         "Dairy Farm Mall",
         "Hillion Mall",
         "Le Quest",
-        "West Mall",
         "Parc Point",
         "Hougang Mall",
         "Junction 9",
@@ -176,7 +177,12 @@
         "Margaret Market",
         "Alexandra Technopark B"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "West Mall": {
+          "by": "Nur Azimah",
+          "time": "08:33"
+        }
+      },
       "problems": [],
       "customers": null
     },
