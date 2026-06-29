@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T01:38:22.012Z",
+  "generated": "2026-06-29T01:46:41.466Z",
   "groups": [
     {
       "id": "XH",
@@ -147,12 +147,13 @@
           "pm": []
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "West Mall",
         "Ngee Ann Polytechnic Block 1",
         "Le Quest",
-        "63 Pagoda Street"
+        "63 Pagoda Street",
+        "Hougang Mall"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -165,7 +166,6 @@
         "Dairy Farm Mall",
         "Hillion Mall",
         "Parc Point",
-        "Hougang Mall",
         "Junction 9",
         "Northpoint City",
         "Woods Square",
@@ -193,6 +193,10 @@
         "63 Pagoda Street": {
           "by": "jvparthiban7",
           "time": "09:38"
+        },
+        "Hougang Mall": {
+          "by": "Manikandan.P",
+          "time": "09:46"
         }
       },
       "problems": [],
