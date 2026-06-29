@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T02:01:18.917Z",
+  "generated": "2026-06-29T02:01:37.692Z",
   "groups": [
     {
       "id": "XH",
@@ -147,18 +147,18 @@
           "pm": []
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "West Mall",
         "Ngee Ann Polytechnic Block 1",
         "Le Quest",
         "63 Pagoda Street",
         "Hougang Mall",
-        "Alexandra Technopark B"
+        "Alexandra Technopark B",
+        "Royal Square"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
-        "Royal Square",
         "Zhongshan Mall",
         "UE Square",
         "Tampines Mart",
@@ -201,6 +201,10 @@
         "Alexandra Technopark B": {
           "by": "SEENU.C",
           "time": "09:58"
+        },
+        "Royal Square": {
+          "by": "jvparthiban7",
+          "time": "10:01"
         }
       },
       "problems": [],
