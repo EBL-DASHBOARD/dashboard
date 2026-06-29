@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T03:12:53.830Z",
+  "generated": "2026-06-29T03:15:23.468Z",
   "groups": [
     {
       "id": "XH",
@@ -427,7 +427,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "CCKS",
         "ARC",
@@ -443,14 +443,14 @@
         "CT",
         "VIVO",
         "IM",
-        "TRM"
+        "TRM",
+        "DV"
       ],
       "outlets_outstanding": [
         "WSM",
         "USQ",
         "SHP",
-        "KLP",
-        "DV"
+        "KLP"
       ],
       "done_detail": {
         "CCKS": {
@@ -512,6 +512,10 @@
         "TRM": {
           "by": "Samy Kumar Meena",
           "time": "11:07"
+        },
+        "DV": {
+          "by": "Sasi",
+          "time": "11:15"
         }
       },
       "problems": [],
