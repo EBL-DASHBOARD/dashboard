@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T02:46:42.640Z",
+  "generated": "2026-06-29T02:54:41.562Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "West Mall",
         "Ngee Ann Polytechnic Block 1",
@@ -161,7 +161,8 @@
         "Zhongshan Mall",
         "Century Square",
         "Tampines 1",
-        "Parc Point"
+        "Parc Point",
+        "Vivocity"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -172,7 +173,6 @@
         "Junction 9",
         "Northpoint City",
         "Woods Square",
-        "Vivocity",
         "HarbourFront Tower 1",
         "ARTRA",
         "GENEO"
@@ -229,6 +229,10 @@
         "Parc Point": {
           "by": "Nur Azimah",
           "time": "10:35"
+        },
+        "Vivocity": {
+          "by": "Rsathiyaselvi",
+          "time": "10:54"
         }
       },
       "problems": [],
