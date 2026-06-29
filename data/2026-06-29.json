@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T02:02:11.987Z",
+  "generated": "2026-06-29T02:18:16.256Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "West Mall",
         "Ngee Ann Polytechnic Block 1",
@@ -155,7 +155,8 @@
         "63 Pagoda Street",
         "Hougang Mall",
         "Alexandra Technopark B",
-        "Royal Square"
+        "Royal Square",
+        "Margaret Market"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -174,8 +175,7 @@
         "AltitudeX",
         "HarbourFront Tower 1",
         "ARTRA",
-        "GENEO",
-        "Margaret Market"
+        "GENEO"
       ],
       "done_detail": {
         "West Mall": {
@@ -205,6 +205,10 @@
         "Royal Square": {
           "by": "jvparthiban7",
           "time": "10:01"
+        },
+        "Margaret Market": {
+          "by": "SEENU.C",
+          "time": "10:18"
         }
       },
       "problems": [],
