@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T04:20:52.711Z",
+  "generated": "2026-06-29T04:50:26.702Z",
   "groups": [
     {
       "id": "XH",
@@ -467,7 +467,7 @@
           ]
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "CCKS",
         "ARC",
@@ -488,10 +488,10 @@
         "USQ",
         "WSM",
         "R3",
-        "SHP"
+        "SHP",
+        "KLP"
       ],
       "outlets_outstanding": [
-        "KLP",
         "LOY",
         "TNC2",
         "CKCC",
@@ -597,6 +597,10 @@
         "SHP": {
           "by": "Sasi",
           "time": "12:18"
+        },
+        "KLP": {
+          "by": "Sasi",
+          "time": "12:50"
         }
       },
       "problems": [],
