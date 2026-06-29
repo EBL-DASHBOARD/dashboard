@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T01:33:28.701Z",
+  "generated": "2026-06-29T01:38:22.012Z",
   "groups": [
     {
       "id": "XH",
@@ -147,17 +147,17 @@
           "pm": []
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "West Mall",
         "Ngee Ann Polytechnic Block 1",
-        "Le Quest"
+        "Le Quest",
+        "63 Pagoda Street"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "Royal Square",
         "Zhongshan Mall",
-        "63 Pagoda Street",
         "UE Square",
         "Tampines Mart",
         "Century Square",
@@ -189,6 +189,10 @@
         "Le Quest": {
           "by": "Nur Azimah",
           "time": "09:33"
+        },
+        "63 Pagoda Street": {
+          "by": "jvparthiban7",
+          "time": "09:38"
         }
       },
       "problems": [],
