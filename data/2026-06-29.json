@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T04:09:10.708Z",
+  "generated": "2026-06-29T04:09:53.049Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "West Mall",
         "Ngee Ann Polytechnic Block 1",
@@ -167,10 +167,10 @@
         "Northpoint City",
         "Hillion Mall",
         "Dairy Farm Mall",
-        "Woods Square"
+        "Woods Square",
+        "Tanah Merah Ferry Terminal"
       ],
       "outlets_outstanding": [
-        "Tanah Merah Ferry Terminal",
         "UE Square",
         "Tampines Mart",
         "HarbourFront Tower 1",
@@ -183,7 +183,11 @@
         "Chinatown Point",
         "Icon Link",
         "Galaxis",
-        "Mapletree Business City"
+        "Mapletree Business City",
+        "Parkway Parade",
+        "Punggol Coast Mall",
+        "The Poiz Centre",
+        "New Tech Park"
       ],
       "done_detail": {
         "West Mall": {
@@ -260,6 +264,10 @@
         },
         "Woods Square": {
           "by": "Manikandan.P",
+          "time": "12:09"
+        },
+        "Tanah Merah Ferry Terminal": {
+          "by": "jvparthiban7",
           "time": "12:09"
         }
       },
