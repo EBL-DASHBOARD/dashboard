@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T03:07:36.663Z",
+  "generated": "2026-06-29T03:12:24.546Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 14,
+      "done": 16,
       "outlets_done": [
         "West Mall",
         "Ngee Ann Polytechnic Block 1",
@@ -162,7 +162,9 @@
         "Century Square",
         "Tampines 1",
         "Parc Point",
-        "Vivocity"
+        "Vivocity",
+        "Junction 9",
+        "Northpoint City"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -170,8 +172,6 @@
         "Tampines Mart",
         "Dairy Farm Mall",
         "Hillion Mall",
-        "Junction 9",
-        "Northpoint City",
         "Woods Square",
         "HarbourFront Tower 1",
         "ARTRA",
@@ -233,6 +233,14 @@
         "Vivocity": {
           "by": "Rsathiyaselvi",
           "time": "10:54"
+        },
+        "Junction 9": {
+          "by": "Manikandan.P",
+          "time": "11:12"
+        },
+        "Northpoint City": {
+          "by": "Manikandan.P",
+          "time": "11:12"
         }
       },
       "problems": [],
