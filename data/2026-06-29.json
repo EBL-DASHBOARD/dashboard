@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T02:18:16.256Z",
+  "generated": "2026-06-29T02:24:01.459Z",
   "groups": [
     {
       "id": "XH",
@@ -147,7 +147,7 @@
           "pm": []
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "West Mall",
         "Ngee Ann Polytechnic Block 1",
@@ -156,7 +156,8 @@
         "Hougang Mall",
         "Alexandra Technopark B",
         "Royal Square",
-        "Margaret Market"
+        "Margaret Market",
+        "AltitudeX"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -172,7 +173,6 @@
         "Northpoint City",
         "Woods Square",
         "Vivocity",
-        "AltitudeX",
         "HarbourFront Tower 1",
         "ARTRA",
         "GENEO"
@@ -209,6 +209,10 @@
         "Margaret Market": {
           "by": "SEENU.C",
           "time": "10:18"
+        },
+        "AltitudeX": {
+          "by": "Rsathiyaselvi",
+          "time": "10:24"
         }
       },
       "problems": [],
