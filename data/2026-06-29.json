@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-06-29T02:01:14.547Z",
+  "generated": "2026-06-29T02:01:18.917Z",
   "groups": [
     {
       "id": "XH",
@@ -383,7 +383,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "CCKS",
         "ARC",
@@ -392,10 +392,10 @@
         "KH",
         "ART",
         "JP",
-        "BPP"
+        "BPP",
+        "BQ"
       ],
       "outlets_outstanding": [
-        "BQ",
         "CT",
         "HV2",
         "WSM",
@@ -439,6 +439,10 @@
         },
         "BPP": {
           "by": "Samy Kumar Meena",
+          "time": "10:01"
+        },
+        "BQ": {
+          "by": "Mani 6 EBL",
           "time": "10:01"
         }
       },
