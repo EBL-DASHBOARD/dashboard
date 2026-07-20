@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "generated": "2026-07-20T14:39:00.619Z",
+  "generated": "2026-07-20T14:58:49.384Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -61,9 +61,10 @@
           "pm": []
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "PLQ Tower 1"
+        "PLQ Tower 1",
+        "Collyer Quay"
       ],
       "outlets_outstanding": [
         "Citylink",
@@ -79,6 +80,10 @@
         "PLQ Tower 1": {
           "by": "~ Mahadeb ~",
           "time": "22:39"
+        },
+        "Collyer Quay": {
+          "by": "SEENU.C",
+          "time": "22:58"
         }
       },
       "problems": [],
