@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-20T11:23:28.128Z",
+  "generated": "2026-07-20T12:28:35.023Z",
   "groups": [
     {
       "id": "XH",
@@ -97,6 +97,131 @@
         "The Rail Mall",
         "Hillion Mall",
         "888 Plaza"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 32,
+      "am_total": 14,
+      "pm_total": 18,
+      "am_outlets": [
+        "JKN",
+        "KRC",
+        "WXI",
+        "IM",
+        "BS",
+        "BPP",
+        "YTP",
+        "WSM",
+        "TGCC",
+        "KH",
+        "TY",
+        "STC",
+        "MBA",
+        "KIT"
+      ],
+      "pm_outlets": [
+        "VIVA",
+        "R3",
+        "AP4",
+        "AP1",
+        "R1",
+        "KEB",
+        "J9",
+        "YS1",
+        "WLCC",
+        "MARS",
+        "SSC2",
+        "WNC",
+        "HRC",
+        "CM1",
+        "FEN",
+        "WWP",
+        "PDD",
+        "LTM"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-2",
+          "am": [
+            "JKN",
+            "KRC",
+            "WXI",
+            "IM",
+            "BS"
+          ],
+          "pm": [
+            "VIVA",
+            "R3",
+            "AP4",
+            "AP1",
+            "R1"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "BPP",
+            "YTP",
+            "WSM",
+            "TGCC",
+            "KH"
+          ],
+          "pm": [
+            "KEB",
+            "J9",
+            "YS1",
+            "WLCC"
+          ]
+        },
+        {
+          "name": "EBL6-4",
+          "am": [],
+          "pm": [
+            "MARS",
+            "SSC2",
+            "WNC"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "TY",
+            "STC",
+            "MBA",
+            "KIT"
+          ],
+          "pm": [
+            "HRC",
+            "CM1",
+            "FEN",
+            "WWP",
+            "PDD",
+            "LTM"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "JKN",
+        "KRC",
+        "WXI",
+        "IM",
+        "BS",
+        "BPP",
+        "YTP",
+        "WSM",
+        "TGCC",
+        "KH",
+        "TY",
+        "STC",
+        "MBA",
+        "KIT"
       ],
       "done_detail": {},
       "problems": [],
