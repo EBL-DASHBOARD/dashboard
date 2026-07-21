@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-21T02:50:53.248Z",
+  "generated": "2026-07-21T02:54:56.905Z",
   "groups": [
     {
       "id": "XH",
@@ -81,17 +81,17 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "The Rail Mall",
-        "Hillion Mall"
+        "Hillion Mall",
+        "Pasir Ris Mall"
       ],
       "outlets_outstanding": [
         "Suntec City",
         "Marina Square",
         "South Beach Tower",
         "Margaret Market",
-        "Pasir Ris Mall",
         "White Sands",
         "Institute of Mental Health",
         "78 Airport Blvd",
@@ -107,6 +107,10 @@
         "Hillion Mall": {
           "by": "ratharun",
           "time": "10:16"
+        },
+        "Pasir Ris Mall": {
+          "by": "Ranjith",
+          "time": "10:54"
         }
       },
       "problems": [],
