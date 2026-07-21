@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-21T19:04:52.598Z",
+  "generated": "2026-07-21T19:39:13.544Z",
   "groups": [
     {
       "id": "XH",
@@ -523,13 +523,14 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "Changi City Point",
         "ESR BizPark @ Changi",
         "Hougang 1",
         "Coronation Shopping Plaza",
-        "Westgate"
+        "Westgate",
+        "The Strategy"
       ],
       "outlets_outstanding": [
         "Jewel",
@@ -558,6 +559,10 @@
         "Westgate": {
           "by": "SEENU.C",
           "time": "03:04"
+        },
+        "The Strategy": {
+          "by": "SEENU.C",
+          "time": "03:39"
         }
       },
       "problems": [],
