@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-21T11:34:54.983Z",
+  "generated": "2026-07-21T12:07:32.497Z",
   "groups": [
     {
       "id": "XH",
@@ -144,6 +144,163 @@
         "Northpoint City",
         "Margaret Market",
         "Lucky Plaza"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 44,
+      "am_total": 21,
+      "pm_total": 23,
+      "am_outlets": [
+        "CT",
+        "CTP",
+        "BQ",
+        "KRC",
+        "JP",
+        "DV",
+        "HV2",
+        "CCKS",
+        "WSM",
+        "TRM",
+        "TIO",
+        "ARC",
+        "CL2",
+        "ART",
+        "BNV",
+        "VIVO",
+        "MSQ",
+        "USQ",
+        "KLP",
+        "SHP",
+        "KIT"
+      ],
+      "pm_outlets": [
+        "TNC2",
+        "CKCC",
+        "KNX",
+        "TPM",
+        "LOY",
+        "GMM",
+        "PAL",
+        "EPT",
+        "CCP",
+        "BHT",
+        "NEX",
+        "AP2",
+        "AP1",
+        "AP4",
+        "R1",
+        "R3",
+        "R4",
+        "ACV",
+        "CM1",
+        "NTP",
+        "KTB",
+        "WWP",
+        "WIS"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [
+            "CT",
+            "CTP",
+            "BQ",
+            "KRC"
+          ],
+          "pm": [
+            "TNC2",
+            "CKCC",
+            "KNX",
+            "TPM",
+            "LOY"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "JP",
+            "DV",
+            "HV2",
+            "CCKS",
+            "WSM",
+            "TRM"
+          ],
+          "pm": [
+            "GMM",
+            "PAL",
+            "EPT",
+            "CCP",
+            "BHT",
+            "NEX"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "TIO",
+            "ARC",
+            "CL2",
+            "ART",
+            "BNV",
+            "VIVO"
+          ],
+          "pm": [
+            "AP2",
+            "AP1",
+            "AP4",
+            "R1",
+            "R3",
+            "R4"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "MSQ",
+            "USQ",
+            "KLP",
+            "SHP",
+            "KIT"
+          ],
+          "pm": [
+            "ACV",
+            "CM1",
+            "NTP",
+            "KTB",
+            "WWP",
+            "WIS"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "CT",
+        "CTP",
+        "BQ",
+        "KRC",
+        "JP",
+        "DV",
+        "HV2",
+        "CCKS",
+        "WSM",
+        "TRM",
+        "TIO",
+        "ARC",
+        "CL2",
+        "ART",
+        "BNV",
+        "VIVO",
+        "MSQ",
+        "USQ",
+        "KLP",
+        "SHP",
+        "KIT"
       ],
       "done_detail": {},
       "problems": [],
