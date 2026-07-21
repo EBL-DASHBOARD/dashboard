@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-21T04:37:05.118Z",
+  "generated": "2026-07-21T05:18:55.983Z",
   "groups": [
     {
       "id": "XH",
@@ -81,7 +81,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -90,17 +90,20 @@
         "White Sands",
         "78 Airport Blvd",
         "Junction 8",
-        "Punggol Plaza"
+        "Punggol Plaza",
+        "Institute of Mental Health"
       ],
       "outlets_outstanding": [
         "Suntec City",
         "Marina Square",
         "South Beach Tower",
         "Margaret Market",
-        "Institute of Mental Health",
         "Waterway Point",
         "Compass One",
-        "Causeway Point"
+        "Causeway Point",
+        "Downtown East",
+        "Plaza Singapura",
+        "Guoco Tower"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -134,6 +137,10 @@
         "Punggol Plaza": {
           "by": "ratharun",
           "time": "12:25"
+        },
+        "Institute of Mental Health": {
+          "by": "Ranjith",
+          "time": "13:18"
         }
       },
       "problems": [],
