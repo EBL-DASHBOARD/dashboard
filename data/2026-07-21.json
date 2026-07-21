@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-21T17:40:28.072Z",
+  "generated": "2026-07-21T19:04:52.598Z",
   "groups": [
     {
       "id": "XH",
@@ -523,12 +523,13 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "Changi City Point",
         "ESR BizPark @ Changi",
         "Hougang 1",
-        "Coronation Shopping Plaza"
+        "Coronation Shopping Plaza",
+        "Westgate"
       ],
       "outlets_outstanding": [
         "Jewel",
@@ -553,6 +554,10 @@
         "Coronation Shopping Plaza": {
           "by": "SEENU.C",
           "time": "01:40"
+        },
+        "Westgate": {
+          "by": "SEENU.C",
+          "time": "03:04"
         }
       },
       "problems": [],
