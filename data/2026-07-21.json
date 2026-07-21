@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-21T11:21:39.168Z",
+  "generated": "2026-07-21T11:22:02.001Z",
   "groups": [
     {
       "id": "XH",
@@ -300,7 +300,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "JKN",
         "YTP",
@@ -330,10 +330,10 @@
         "PDD",
         "SSC2",
         "WNC",
-        "MARS"
+        "MARS",
+        "R3"
       ],
       "outlets_outstanding": [
-        "R3",
         "AP4",
         "HRC"
       ],
@@ -453,6 +453,10 @@
         "MARS": {
           "by": "Sudhakar",
           "time": "19:21"
+        },
+        "R3": {
+          "by": "Krishna",
+          "time": "19:22"
         }
       },
       "problems": [],
