@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-21T07:50:05.011Z",
+  "generated": "2026-07-21T07:52:11.623Z",
   "groups": [
     {
       "id": "XH",
@@ -81,7 +81,7 @@
           ]
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -93,14 +93,14 @@
         "Punggol Plaza",
         "Institute of Mental Health",
         "Waterway Point",
-        "Downtown East"
+        "Downtown East",
+        "Compass One"
       ],
       "outlets_outstanding": [
         "Suntec City",
         "Marina Square",
         "South Beach Tower",
         "Margaret Market",
-        "Compass One",
         "Causeway Point",
         "Plaza Singapura",
         "Guoco Tower"
@@ -149,6 +149,10 @@
         "Downtown East": {
           "by": "Ranjith",
           "time": "15:13"
+        },
+        "Compass One": {
+          "by": "ratharun",
+          "time": "15:52"
         }
       },
       "problems": [],
