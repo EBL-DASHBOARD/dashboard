@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-21T11:22:02.001Z",
+  "generated": "2026-07-21T11:51:00.996Z",
   "groups": [
     {
       "id": "XH",
@@ -300,7 +300,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 31,
       "outlets_done": [
         "JKN",
         "YTP",
@@ -331,11 +331,11 @@
         "SSC2",
         "WNC",
         "MARS",
-        "R3"
+        "R3",
+        "HRC"
       ],
       "outlets_outstanding": [
-        "AP4",
-        "HRC"
+        "AP4"
       ],
       "done_detail": {
         "JKN": {
@@ -457,6 +457,10 @@
         "R3": {
           "by": "Krishna",
           "time": "19:22"
+        },
+        "HRC": {
+          "by": "Sasi",
+          "time": "19:51"
         }
       },
       "problems": [],
