@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-21T08:07:48.504Z",
+  "generated": "2026-07-21T08:22:16.659Z",
   "groups": [
     {
       "id": "XH",
@@ -81,7 +81,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 17,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -95,15 +95,18 @@
         "Waterway Point",
         "Downtown East",
         "Compass One",
-        "Plaza Singapura"
-      ],
-      "outlets_outstanding": [
+        "Plaza Singapura",
         "Suntec City",
         "Marina Square",
         "South Beach Tower",
-        "Margaret Market",
+        "Margaret Market"
+      ],
+      "outlets_outstanding": [
         "Causeway Point",
-        "Guoco Tower"
+        "Guoco Tower",
+        "GRID",
+        "Duo Galleria",
+        "100 AM Mall"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -157,6 +160,22 @@
         "Plaza Singapura": {
           "by": "Ranjith",
           "time": "16:07"
+        },
+        "Suntec City": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "16:22"
+        },
+        "Marina Square": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "16:22"
+        },
+        "South Beach Tower": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "16:22"
+        },
+        "Margaret Market": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "16:22"
         }
       },
       "problems": [],
