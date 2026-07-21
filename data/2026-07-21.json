@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-21T02:01:38.598Z",
+  "generated": "2026-07-21T02:16:19.379Z",
   "groups": [
     {
       "id": "XH",
@@ -81,9 +81,10 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "The Rail Mall"
+        "The Rail Mall",
+        "Hillion Mall"
       ],
       "outlets_outstanding": [
         "Suntec City",
@@ -96,13 +97,16 @@
         "78 Airport Blvd",
         "Punggol Plaza",
         "Junction 8",
-        "Hillion Mall",
         "888 Plaza"
       ],
       "done_detail": {
         "The Rail Mall": {
           "by": "ratharun",
           "time": "09:16"
+        },
+        "Hillion Mall": {
+          "by": "ratharun",
+          "time": "10:16"
         }
       },
       "problems": [],
