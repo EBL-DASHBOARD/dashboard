@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-21T04:00:01.791Z",
+  "generated": "2026-07-21T04:25:23.713Z",
   "groups": [
     {
       "id": "XH",
@@ -81,7 +81,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -89,7 +89,8 @@
         "888 Plaza",
         "White Sands",
         "78 Airport Blvd",
-        "Junction 8"
+        "Junction 8",
+        "Punggol Plaza"
       ],
       "outlets_outstanding": [
         "Suntec City",
@@ -97,7 +98,9 @@
         "South Beach Tower",
         "Margaret Market",
         "Institute of Mental Health",
-        "Punggol Plaza"
+        "Waterway Point",
+        "Compass One",
+        "Causeway Point"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -127,6 +130,10 @@
         "Junction 8": {
           "by": "ratharun",
           "time": "11:44"
+        },
+        "Punggol Plaza": {
+          "by": "ratharun",
+          "time": "12:25"
         }
       },
       "problems": [],
