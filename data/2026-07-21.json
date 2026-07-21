@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-21T09:25:56.575Z",
+  "generated": "2026-07-21T09:27:14.215Z",
   "groups": [
     {
       "id": "XH",
@@ -81,7 +81,7 @@
           ]
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -102,10 +102,10 @@
         "Margaret Market",
         "GRID",
         "100 AM Mall",
-        "Causeway Point"
+        "Causeway Point",
+        "Guoco Tower"
       ],
       "outlets_outstanding": [
-        "Guoco Tower",
         "Duo Galleria"
       ],
       "done_detail": {
@@ -188,6 +188,10 @@
         "Causeway Point": {
           "by": "ratharun",
           "time": "16:33"
+        },
+        "Guoco Tower": {
+          "by": "Ranjith",
+          "time": "17:27"
         }
       },
       "problems": [],
