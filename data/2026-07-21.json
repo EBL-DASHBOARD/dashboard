@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-21T03:07:59.612Z",
+  "generated": "2026-07-21T03:09:38.696Z",
   "groups": [
     {
       "id": "XH",
@@ -81,11 +81,12 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
-        "Pasir Ris Mall"
+        "Pasir Ris Mall",
+        "888 Plaza"
       ],
       "outlets_outstanding": [
         "Suntec City",
@@ -96,8 +97,7 @@
         "Institute of Mental Health",
         "78 Airport Blvd",
         "Punggol Plaza",
-        "Junction 8",
-        "888 Plaza"
+        "Junction 8"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -111,6 +111,10 @@
         "Pasir Ris Mall": {
           "by": "Ranjith",
           "time": "10:54"
+        },
+        "888 Plaza": {
+          "by": "ratharun",
+          "time": "11:09"
         }
       },
       "problems": [],
