@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-21T11:21:34.463Z",
+  "generated": "2026-07-21T11:21:39.168Z",
   "groups": [
     {
       "id": "XH",
@@ -300,7 +300,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "JKN",
         "YTP",
@@ -329,12 +329,12 @@
         "WWP",
         "PDD",
         "SSC2",
-        "WNC"
+        "WNC",
+        "MARS"
       ],
       "outlets_outstanding": [
         "R3",
         "AP4",
-        "MARS",
         "HRC"
       ],
       "done_detail": {
@@ -447,6 +447,10 @@
           "time": "19:21"
         },
         "WNC": {
+          "by": "Sudhakar",
+          "time": "19:21"
+        },
+        "MARS": {
           "by": "Sudhakar",
           "time": "19:21"
         }
