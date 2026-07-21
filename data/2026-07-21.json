@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-21T08:22:28.693Z",
+  "generated": "2026-07-21T08:33:52.617Z",
   "groups": [
     {
       "id": "XH",
@@ -81,7 +81,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -101,10 +101,10 @@
         "South Beach Tower",
         "Margaret Market",
         "GRID",
-        "100 AM Mall"
+        "100 AM Mall",
+        "Causeway Point"
       ],
       "outlets_outstanding": [
-        "Causeway Point",
         "Guoco Tower",
         "Duo Galleria"
       ],
@@ -184,6 +184,10 @@
         "100 AM Mall": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "16:22"
+        },
+        "Causeway Point": {
+          "by": "ratharun",
+          "time": "16:33"
         }
       },
       "problems": [],
