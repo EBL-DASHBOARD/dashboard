@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-21T07:15:16.759Z",
+  "generated": "2026-07-21T07:50:05.011Z",
   "groups": [
     {
       "id": "XH",
@@ -257,7 +257,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "JKN",
         "YTP",
@@ -274,10 +274,10 @@
         "KRC",
         "WXI",
         "WLCC",
-        "LTM"
+        "LTM",
+        "VIVA"
       ],
       "outlets_outstanding": [
-        "VIVA",
         "R3",
         "AP4",
         "AP1",
@@ -358,6 +358,10 @@
         "LTM": {
           "by": "Sasi",
           "time": "15:15"
+        },
+        "VIVA": {
+          "by": "Krishna",
+          "time": "15:50"
         }
       },
       "problems": [],
