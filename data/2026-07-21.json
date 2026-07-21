@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-21T10:16:44.093Z",
+  "generated": "2026-07-21T10:57:00.576Z",
   "groups": [
     {
       "id": "XH",
@@ -300,7 +300,7 @@
           ]
         }
       ],
-      "done": 25,
+      "done": 26,
       "outlets_done": [
         "JKN",
         "YTP",
@@ -326,7 +326,8 @@
         "CM1",
         "KEB",
         "R1",
-        "WWP"
+        "WWP",
+        "PDD"
       ],
       "outlets_outstanding": [
         "R3",
@@ -334,8 +335,7 @@
         "MARS",
         "SSC2",
         "WNC",
-        "HRC",
-        "PDD"
+        "HRC"
       ],
       "done_detail": {
         "JKN": {
@@ -437,6 +437,10 @@
         "WWP": {
           "by": "Sasi",
           "time": "18:16"
+        },
+        "PDD": {
+          "by": "Sasi",
+          "time": "18:57"
         }
       },
       "problems": [],
