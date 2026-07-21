@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-07-21T03:35:55.557Z",
+  "generated": "2026-07-21T03:41:18.626Z",
   "groups": [
     {
       "id": "XH",
@@ -81,21 +81,21 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 6,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
         "Pasir Ris Mall",
-        "888 Plaza"
+        "888 Plaza",
+        "White Sands",
+        "78 Airport Blvd"
       ],
       "outlets_outstanding": [
         "Suntec City",
         "Marina Square",
         "South Beach Tower",
         "Margaret Market",
-        "White Sands",
         "Institute of Mental Health",
-        "78 Airport Blvd",
         "Punggol Plaza",
         "Junction 8"
       ],
@@ -115,6 +115,14 @@
         "888 Plaza": {
           "by": "ratharun",
           "time": "11:09"
+        },
+        "White Sands": {
+          "by": "Ranjith",
+          "time": "11:41"
+        },
+        "78 Airport Blvd": {
+          "by": "Ranjith",
+          "time": "11:41"
         }
       },
       "problems": [],
