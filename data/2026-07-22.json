@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T01:39:45.391Z",
+  "generated": "2026-07-22T01:40:42.823Z",
   "groups": [
     {
       "id": "XH",
@@ -122,9 +122,10 @@
           "pm": []
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "Margaret Market"
+        "Margaret Market",
+        "Vivocity"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -137,7 +138,6 @@
         "Hillion Mall",
         "Parc Point",
         "HarbourFront Tower 1",
-        "Vivocity",
         "GENEO",
         "Alexandra Technopark B",
         "ARTRA",
@@ -150,6 +150,10 @@
         "Margaret Market": {
           "by": "SEENU.C",
           "time": "09:11"
+        },
+        "Vivocity": {
+          "by": "ratharun",
+          "time": "09:40"
         }
       },
       "problems": [],
