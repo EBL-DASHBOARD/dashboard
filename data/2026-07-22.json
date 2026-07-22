@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T09:25:25.578Z",
+  "generated": "2026-07-22T09:51:02.327Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 27,
+      "done": 29,
       "outlets_done": [
         "Margaret Market",
         "Vivocity",
@@ -150,14 +150,14 @@
         "Fairprice Hub",
         "i12 Katong",
         "V Hotel Lavender",
-        "The Poiz Centre"
+        "The Poiz Centre",
+        "New Tech Park",
+        "313 Somerset"
       ],
       "outlets_outstanding": [
         "Dairy Farm Mall",
         "Lucky Plaza",
         "Flavours @ NUS Uptown",
-        "New Tech Park",
-        "313 Somerset",
         "Mapletree Business City"
       ],
       "done_detail": {
@@ -268,6 +268,14 @@
         "The Poiz Centre": {
           "by": "Ranjith",
           "time": "17:09"
+        },
+        "New Tech Park": {
+          "by": "Ranjith",
+          "time": "17:51"
+        },
+        "313 Somerset": {
+          "by": "Ranjith",
+          "time": "17:51"
         }
       },
       "problems": [],
