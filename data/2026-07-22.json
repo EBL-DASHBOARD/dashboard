@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T07:56:31.051Z",
+  "generated": "2026-07-22T07:56:37.524Z",
   "groups": [
     {
       "id": "XH",
@@ -356,7 +356,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "JP",
         "USQ",
@@ -381,11 +381,11 @@
         "NTP",
         "CL2",
         "VIVO",
-        "CKCC"
+        "CKCC",
+        "KNX"
       ],
       "outlets_outstanding": [
         "TNC2",
-        "KNX",
         "TPM",
         "LOY",
         "GMM",
@@ -499,6 +499,10 @@
           "time": "15:35"
         },
         "CKCC": {
+          "by": "Sudhakar",
+          "time": "15:56"
+        },
+        "KNX": {
           "by": "Sudhakar",
           "time": "15:56"
         }
