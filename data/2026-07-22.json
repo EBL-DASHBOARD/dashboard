@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T04:32:01.537Z",
+  "generated": "2026-07-22T06:23:19.396Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 12,
+      "done": 14,
       "outlets_done": [
         "Margaret Market",
         "Vivocity",
@@ -135,11 +135,11 @@
         "ARTRA",
         "GENEO",
         "Le Quest",
-        "West Mall"
+        "West Mall",
+        "Century Square",
+        "Citygate"
       ],
       "outlets_outstanding": [
-        "Century Square",
-        "Citygate",
         "Dairy Farm Mall",
         "The Woodleigh Mall",
         "Junction 9",
@@ -148,7 +148,12 @@
         "Eastpoint Mall",
         "i12 Katong",
         "SingPost Centre",
-        "Flavours @ NUS Uptown"
+        "Flavours @ NUS Uptown",
+        "V Hotel Lavender",
+        "The Poiz Centre",
+        "New Tech Park",
+        "313 Somerset",
+        "Far East Plaza Kiosk E"
       ],
       "done_detail": {
         "Margaret Market": {
@@ -198,6 +203,14 @@
         "West Mall": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "12:14"
+        },
+        "Century Square": {
+          "by": "Ranjith",
+          "time": "14:23"
+        },
+        "Citygate": {
+          "by": "Ranjith",
+          "time": "14:23"
         }
       },
       "problems": [],
