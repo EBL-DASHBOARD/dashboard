@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T03:12:44.830Z",
+  "generated": "2026-07-22T03:20:08.401Z",
   "groups": [
     {
       "id": "XH",
@@ -311,7 +311,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "JP",
         "USQ",
@@ -320,7 +320,8 @@
         "SHP",
         "ARC",
         "HV2",
-        "KIT"
+        "KIT",
+        "TRM"
       ],
       "outlets_outstanding": [
         "CT",
@@ -329,7 +330,6 @@
         "KRC",
         "DV",
         "WSM",
-        "TRM",
         "TIO",
         "CL2",
         "ART",
@@ -369,6 +369,10 @@
         "KIT": {
           "by": "Sasi",
           "time": "11:12"
+        },
+        "TRM": {
+          "by": "Samy Kumar Meena",
+          "time": "11:20"
         }
       },
       "problems": [],
