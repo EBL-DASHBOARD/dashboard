@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T01:55:36.644Z",
+  "generated": "2026-07-22T02:10:54.309Z",
   "groups": [
     {
       "id": "XH",
@@ -287,12 +287,13 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "JP",
         "USQ",
         "BNV",
-        "CCKS"
+        "CCKS",
+        "SHP"
       ],
       "outlets_outstanding": [
         "CT",
@@ -310,7 +311,6 @@
         "VIVO",
         "MSQ",
         "KLP",
-        "SHP",
         "KIT"
       ],
       "done_detail": {
@@ -329,6 +329,10 @@
         "CCKS": {
           "by": "Samy Kumar Meena",
           "time": "09:55"
+        },
+        "SHP": {
+          "by": "Sasi",
+          "time": "10:10"
         }
       },
       "problems": [],
