@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T09:09:24.444Z",
+  "generated": "2026-07-22T09:15:18.671Z",
   "groups": [
     {
       "id": "XH",
@@ -401,7 +401,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "JP",
         "USQ",
@@ -429,7 +429,8 @@
         "CKCC",
         "KNX",
         "GMM",
-        "ACV"
+        "ACV",
+        "CM1"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -445,7 +446,6 @@
         "R1",
         "R3",
         "R4",
-        "CM1",
         "KTB",
         "WWP",
         "WIS"
@@ -558,6 +558,10 @@
         "ACV": {
           "by": "Sasi",
           "time": "16:20"
+        },
+        "CM1": {
+          "by": "Sasi",
+          "time": "17:15"
         }
       },
       "problems": [],
