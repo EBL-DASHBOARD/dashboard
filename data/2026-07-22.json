@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T11:16:22.374Z",
+  "generated": "2026-07-22T11:17:04.890Z",
   "groups": [
     {
       "id": "XH",
@@ -413,7 +413,7 @@
           ]
         }
       ],
-      "done": 37,
+      "done": 38,
       "outlets_done": [
         "JP",
         "USQ",
@@ -451,12 +451,12 @@
         "TNC2",
         "LOY",
         "CCP",
-        "KTB"
+        "KTB",
+        "AP4"
       ],
       "outlets_outstanding": [
         "AP2",
         "AP1",
-        "AP4",
         "R1",
         "R3",
         "R4",
@@ -610,6 +610,10 @@
         "KTB": {
           "by": "Sasi",
           "time": "19:16"
+        },
+        "AP4": {
+          "by": "Krishna",
+          "time": "19:17"
         }
       },
       "problems": [],
