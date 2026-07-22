@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T03:54:27.183Z",
+  "generated": "2026-07-22T03:54:28.761Z",
   "groups": [
     {
       "id": "XH",
@@ -315,7 +315,7 @@
           ]
         }
       ],
-      "done": 11,
+      "done": 15,
       "outlets_done": [
         "JP",
         "USQ",
@@ -327,13 +327,13 @@
         "KIT",
         "TRM",
         "ART",
-        "DV"
-      ],
-      "outlets_outstanding": [
+        "DV",
         "CT",
         "CTP",
         "BQ",
-        "KRC",
+        "KRC"
+      ],
+      "outlets_outstanding": [
         "WSM",
         "TIO",
         "CL2",
@@ -384,6 +384,22 @@
         },
         "DV": {
           "by": "Samy Kumar Meena",
+          "time": "11:54"
+        },
+        "CT": {
+          "by": "Mani 6 EBL",
+          "time": "11:54"
+        },
+        "CTP": {
+          "by": "Mani 6 EBL",
+          "time": "11:54"
+        },
+        "BQ": {
+          "by": "Mani 6 EBL",
+          "time": "11:54"
+        },
+        "KRC": {
+          "by": "Mani 6 EBL",
           "time": "11:54"
         }
       },
