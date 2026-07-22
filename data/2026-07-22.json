@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T11:15:23.611Z",
+  "generated": "2026-07-22T11:15:54.751Z",
   "groups": [
     {
       "id": "XH",
@@ -413,7 +413,7 @@
           ]
         }
       ],
-      "done": 35,
+      "done": 36,
       "outlets_done": [
         "JP",
         "USQ",
@@ -449,10 +449,10 @@
         "WWP",
         "EPT",
         "TNC2",
-        "LOY"
+        "LOY",
+        "CCP"
       ],
       "outlets_outstanding": [
-        "CCP",
         "AP2",
         "AP1",
         "AP4",
@@ -601,6 +601,10 @@
         },
         "LOY": {
           "by": "Sudhakar",
+          "time": "19:15"
+        },
+        "CCP": {
+          "by": "Samy Kumar Meena",
           "time": "19:15"
         }
       },
