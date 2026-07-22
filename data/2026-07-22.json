@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T10:00:03.058Z",
+  "generated": "2026-07-22T10:01:56.392Z",
   "groups": [
     {
       "id": "XH",
@@ -409,7 +409,7 @@
           ]
         }
       ],
-      "done": 31,
+      "done": 32,
       "outlets_done": [
         "JP",
         "USQ",
@@ -441,7 +441,8 @@
         "CM1",
         "PAL",
         "BHT",
-        "TPM"
+        "TPM",
+        "WWP"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -455,7 +456,6 @@
         "R3",
         "R4",
         "KTB",
-        "WWP",
         "WIS"
       ],
       "done_detail": {
@@ -582,6 +582,10 @@
         "TPM": {
           "by": "YAAKESH",
           "time": "18:00"
+        },
+        "WWP": {
+          "by": "Sasi",
+          "time": "18:01"
         }
       },
       "problems": [],
