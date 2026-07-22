@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T04:00:03.738Z",
+  "generated": "2026-07-22T04:00:29.118Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "Margaret Market",
         "Vivocity",
@@ -132,7 +132,8 @@
         "Tampines 1",
         "Tampines Mart",
         "HarbourFront Tower 1",
-        "ARTRA"
+        "ARTRA",
+        "GENEO"
       ],
       "outlets_outstanding": [
         "Century Square",
@@ -140,11 +141,14 @@
         "Le Quest",
         "Dairy Farm Mall",
         "West Mall",
-        "GENEO",
         "The Woodleigh Mall",
         "Junction 9",
         "Northpoint City",
-        "Lucky Plaza"
+        "Lucky Plaza",
+        "Eastpoint Mall",
+        "i12 Katong",
+        "SingPost Centre",
+        "Flavours @ NUS Uptown"
       ],
       "done_detail": {
         "Margaret Market": {
@@ -182,6 +186,10 @@
         "ARTRA": {
           "by": "ratharun",
           "time": "11:25"
+        },
+        "GENEO": {
+          "by": "ratharun",
+          "time": "12:00"
         }
       },
       "problems": [],
