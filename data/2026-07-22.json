@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T08:50:12.141Z",
+  "generated": "2026-07-22T09:09:24.444Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 25,
+      "done": 27,
       "outlets_done": [
         "Margaret Market",
         "Vivocity",
@@ -148,14 +148,14 @@
         "Westgate Tower",
         "JEM",
         "Fairprice Hub",
-        "i12 Katong"
+        "i12 Katong",
+        "V Hotel Lavender",
+        "The Poiz Centre"
       ],
       "outlets_outstanding": [
         "Dairy Farm Mall",
         "Lucky Plaza",
         "Flavours @ NUS Uptown",
-        "V Hotel Lavender",
-        "The Poiz Centre",
         "New Tech Park",
         "313 Somerset",
         "Mapletree Business City"
@@ -260,6 +260,14 @@
         "i12 Katong": {
           "by": "ratharun",
           "time": "16:50"
+        },
+        "V Hotel Lavender": {
+          "by": "Ranjith",
+          "time": "17:09"
+        },
+        "The Poiz Centre": {
+          "by": "Ranjith",
+          "time": "17:09"
         }
       },
       "problems": [],
