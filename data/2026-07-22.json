@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T07:30:28.782Z",
+  "generated": "2026-07-22T07:35:51.565Z",
   "groups": [
     {
       "id": "XH",
@@ -352,7 +352,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 23,
       "outlets_done": [
         "JP",
         "USQ",
@@ -374,11 +374,11 @@
         "WSM",
         "MSQ",
         "NEX",
-        "NTP"
+        "NTP",
+        "CL2",
+        "VIVO"
       ],
       "outlets_outstanding": [
-        "CL2",
-        "VIVO",
         "TNC2",
         "CKCC",
         "KNX",
@@ -485,6 +485,14 @@
         "NTP": {
           "by": "Sasi",
           "time": "15:30"
+        },
+        "CL2": {
+          "by": "Krishna",
+          "time": "15:35"
+        },
+        "VIVO": {
+          "by": "Krishna",
+          "time": "15:35"
         }
       },
       "problems": [],
