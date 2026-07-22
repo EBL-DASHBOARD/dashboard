@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T01:04:48.757Z",
+  "generated": "2026-07-22T01:11:28.988Z",
   "groups": [
     {
       "id": "XH",
@@ -122,8 +122,10 @@
           "pm": []
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "Margaret Market"
+      ],
       "outlets_outstanding": [
         "Tampines 1",
         "Tampines Mart",
@@ -142,10 +144,14 @@
         "The Woodleigh Mall",
         "Junction 9",
         "Northpoint City",
-        "Margaret Market",
         "Lucky Plaza"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "Margaret Market": {
+          "by": "SEENU.C",
+          "time": "09:11"
+        }
+      },
       "problems": [],
       "customers": null
     },
