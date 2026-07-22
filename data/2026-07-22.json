@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T04:14:27.719Z",
+  "generated": "2026-07-22T04:19:16.826Z",
   "groups": [
     {
       "id": "XH",
@@ -331,7 +331,7 @@
           ]
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "JP",
         "USQ",
@@ -349,10 +349,10 @@
         "BQ",
         "KRC",
         "KLP",
-        "TIO"
+        "TIO",
+        "WSM"
       ],
       "outlets_outstanding": [
-        "WSM",
         "CL2",
         "VIVO",
         "MSQ",
@@ -448,6 +448,10 @@
         "TIO": {
           "by": "Krishna",
           "time": "12:12"
+        },
+        "WSM": {
+          "by": "Samy Kumar Meena",
+          "time": "12:19"
         }
       },
       "problems": [],
