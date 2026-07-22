@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T09:15:18.671Z",
+  "generated": "2026-07-22T09:25:25.578Z",
   "groups": [
     {
       "id": "XH",
@@ -401,7 +401,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 30,
       "outlets_done": [
         "JP",
         "USQ",
@@ -430,16 +430,16 @@
         "KNX",
         "GMM",
         "ACV",
-        "CM1"
+        "CM1",
+        "PAL",
+        "BHT"
       ],
       "outlets_outstanding": [
         "TNC2",
         "TPM",
         "LOY",
-        "PAL",
         "EPT",
         "CCP",
-        "BHT",
         "AP2",
         "AP1",
         "AP4",
@@ -562,6 +562,14 @@
         "CM1": {
           "by": "Sasi",
           "time": "17:15"
+        },
+        "PAL": {
+          "by": "Samy Kumar Meena",
+          "time": "17:25"
+        },
+        "BHT": {
+          "by": "Samy Kumar Meena",
+          "time": "17:25"
         }
       },
       "problems": [],
