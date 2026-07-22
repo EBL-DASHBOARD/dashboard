@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T04:00:31.281Z",
+  "generated": "2026-07-22T04:12:11.963Z",
   "groups": [
     {
       "id": "XH",
@@ -323,7 +323,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "JP",
         "USQ",
@@ -340,11 +340,11 @@
         "CTP",
         "BQ",
         "KRC",
-        "KLP"
+        "KLP",
+        "TIO"
       ],
       "outlets_outstanding": [
         "WSM",
-        "TIO",
         "CL2",
         "VIVO",
         "MSQ",
@@ -436,6 +436,10 @@
         "KLP": {
           "by": "Sasi",
           "time": "11:55"
+        },
+        "TIO": {
+          "by": "Krishna",
+          "time": "12:12"
         }
       },
       "problems": [],
