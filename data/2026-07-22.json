@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T14:38:42.129Z",
+  "generated": "2026-07-22T15:41:15.773Z",
   "groups": [
     {
       "id": "XH",
@@ -701,9 +701,11 @@
           "pm": []
         }
       ],
-      "done": 1,
+      "done": 3,
       "outlets_done": [
-        "Collyer Quay"
+        "Collyer Quay",
+        "PLQ Tower 1",
+        "Aperia Mall"
       ],
       "outlets_outstanding": [
         "Citylink",
@@ -711,8 +713,6 @@
         "One Raffles Place Tower 2",
         "Tangs Plaza Kiosk 2",
         "Royal Group Building",
-        "PLQ Tower 1",
-        "Aperia Mall",
         "Lazada One",
         "Marina One"
       ],
@@ -720,6 +720,14 @@
         "Collyer Quay": {
           "by": "SEENU.C",
           "time": "22:38"
+        },
+        "PLQ Tower 1": {
+          "by": "Major Dhillon",
+          "time": "23:41"
+        },
+        "Aperia Mall": {
+          "by": "Major Dhillon",
+          "time": "23:41"
         }
       },
       "problems": [],
