@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T02:17:01.187Z",
+  "generated": "2026-07-22T02:21:14.616Z",
   "groups": [
     {
       "id": "XH",
@@ -122,11 +122,13 @@
           "pm": []
         }
       ],
-      "done": 3,
+      "done": 5,
       "outlets_done": [
         "Margaret Market",
         "Vivocity",
-        "Alexandra Technopark B"
+        "Alexandra Technopark B",
+        "Hillion Mall",
+        "Parc Point"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -136,8 +138,6 @@
         "Le Quest",
         "Dairy Farm Mall",
         "West Mall",
-        "Hillion Mall",
-        "Parc Point",
         "HarbourFront Tower 1",
         "GENEO",
         "ARTRA",
@@ -158,6 +158,14 @@
         "Alexandra Technopark B": {
           "by": "ratharun",
           "time": "10:17"
+        },
+        "Hillion Mall": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "10:21"
+        },
+        "Parc Point": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "10:21"
         }
       },
       "problems": [],
