@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T02:21:14.616Z",
+  "generated": "2026-07-22T02:40:45.825Z",
   "groups": [
     {
       "id": "XH",
@@ -122,17 +122,17 @@
           "pm": []
         }
       ],
-      "done": 5,
+      "done": 7,
       "outlets_done": [
         "Margaret Market",
         "Vivocity",
         "Alexandra Technopark B",
         "Hillion Mall",
-        "Parc Point"
+        "Parc Point",
+        "Tampines 1",
+        "Tampines Mart"
       ],
       "outlets_outstanding": [
-        "Tampines 1",
-        "Tampines Mart",
         "Century Square",
         "Citygate",
         "Le Quest",
@@ -166,6 +166,14 @@
         "Parc Point": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "10:21"
+        },
+        "Tampines 1": {
+          "by": "Ranjith",
+          "time": "10:40"
+        },
+        "Tampines Mart": {
+          "by": "Ranjith",
+          "time": "10:40"
         }
       },
       "problems": [],
