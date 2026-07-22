@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T03:54:28.761Z",
+  "generated": "2026-07-22T03:55:31.053Z",
   "groups": [
     {
       "id": "XH",
@@ -315,7 +315,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "JP",
         "USQ",
@@ -331,15 +331,15 @@
         "CT",
         "CTP",
         "BQ",
-        "KRC"
+        "KRC",
+        "KLP"
       ],
       "outlets_outstanding": [
         "WSM",
         "TIO",
         "CL2",
         "VIVO",
-        "MSQ",
-        "KLP"
+        "MSQ"
       ],
       "done_detail": {
         "JP": {
@@ -401,6 +401,10 @@
         "KRC": {
           "by": "Mani 6 EBL",
           "time": "11:54"
+        },
+        "KLP": {
+          "by": "Sasi",
+          "time": "11:55"
         }
       },
       "problems": [],
