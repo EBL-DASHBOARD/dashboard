@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T10:01:56.392Z",
+  "generated": "2026-07-22T10:02:09.005Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "Margaret Market",
         "Vivocity",
@@ -152,12 +152,12 @@
         "V Hotel Lavender",
         "The Poiz Centre",
         "New Tech Park",
-        "313 Somerset"
+        "313 Somerset",
+        "Flavours @ NUS Uptown"
       ],
       "outlets_outstanding": [
         "Dairy Farm Mall",
         "Lucky Plaza",
-        "Flavours @ NUS Uptown",
         "Mapletree Business City"
       ],
       "done_detail": {
@@ -276,6 +276,10 @@
         "313 Somerset": {
           "by": "Ranjith",
           "time": "17:51"
+        },
+        "Flavours @ NUS Uptown": {
+          "by": "ratharun",
+          "time": "18:02"
         }
       },
       "problems": [],
