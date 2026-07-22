@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T08:06:48.830Z",
+  "generated": "2026-07-22T08:20:10.657Z",
   "groups": [
     {
       "id": "XH",
@@ -356,7 +356,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "JP",
         "USQ",
@@ -383,7 +383,8 @@
         "VIVO",
         "CKCC",
         "KNX",
-        "GMM"
+        "GMM",
+        "ACV"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -399,7 +400,6 @@
         "R1",
         "R3",
         "R4",
-        "ACV",
         "CM1",
         "KTB",
         "WWP",
@@ -509,6 +509,10 @@
         "GMM": {
           "by": "Samy Kumar Meena",
           "time": "16:06"
+        },
+        "ACV": {
+          "by": "Sasi",
+          "time": "16:20"
         }
       },
       "problems": [],
