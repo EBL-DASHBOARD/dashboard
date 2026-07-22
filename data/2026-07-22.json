@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T04:12:11.963Z",
+  "generated": "2026-07-22T04:14:27.719Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 10,
+      "done": 12,
       "outlets_done": [
         "Margaret Market",
         "Vivocity",
@@ -133,14 +133,14 @@
         "Tampines Mart",
         "HarbourFront Tower 1",
         "ARTRA",
-        "GENEO"
+        "GENEO",
+        "Le Quest",
+        "West Mall"
       ],
       "outlets_outstanding": [
         "Century Square",
         "Citygate",
-        "Le Quest",
         "Dairy Farm Mall",
-        "West Mall",
         "The Woodleigh Mall",
         "Junction 9",
         "Northpoint City",
@@ -190,6 +190,14 @@
         "GENEO": {
           "by": "ratharun",
           "time": "12:00"
+        },
+        "Le Quest": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "12:14"
+        },
+        "West Mall": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "12:14"
         }
       },
       "problems": [],
