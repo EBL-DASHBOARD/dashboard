@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T09:51:02.327Z",
+  "generated": "2026-07-22T10:00:03.058Z",
   "groups": [
     {
       "id": "XH",
@@ -409,7 +409,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 31,
       "outlets_done": [
         "JP",
         "USQ",
@@ -440,11 +440,11 @@
         "ACV",
         "CM1",
         "PAL",
-        "BHT"
+        "BHT",
+        "TPM"
       ],
       "outlets_outstanding": [
         "TNC2",
-        "TPM",
         "LOY",
         "EPT",
         "CCP",
@@ -578,6 +578,10 @@
         "BHT": {
           "by": "Samy Kumar Meena",
           "time": "17:25"
+        },
+        "TPM": {
+          "by": "YAAKESH",
+          "time": "18:00"
         }
       },
       "problems": [],
