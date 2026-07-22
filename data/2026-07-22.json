@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T06:50:39.912Z",
+  "generated": "2026-07-22T07:07:23.645Z",
   "groups": [
     {
       "id": "XH",
@@ -352,7 +352,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "JP",
         "USQ",
@@ -372,7 +372,8 @@
         "KLP",
         "TIO",
         "WSM",
-        "MSQ"
+        "MSQ",
+        "NEX"
       ],
       "outlets_outstanding": [
         "CL2",
@@ -387,7 +388,6 @@
         "EPT",
         "CCP",
         "BHT",
-        "NEX",
         "AP2",
         "AP1",
         "AP4",
@@ -477,6 +477,10 @@
         "MSQ": {
           "by": "Sasi",
           "time": "12:32"
+        },
+        "NEX": {
+          "by": "Samy Kumar Meena",
+          "time": "15:07"
         }
       },
       "problems": [],
