@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T10:26:14.050Z",
+  "generated": "2026-07-22T11:15:16.809Z",
   "groups": [
     {
       "id": "XH",
@@ -413,7 +413,7 @@
           ]
         }
       ],
-      "done": 33,
+      "done": 34,
       "outlets_done": [
         "JP",
         "USQ",
@@ -447,10 +447,10 @@
         "BHT",
         "TPM",
         "WWP",
-        "EPT"
+        "EPT",
+        "TNC2"
       ],
       "outlets_outstanding": [
-        "TNC2",
         "LOY",
         "CCP",
         "AP2",
@@ -594,6 +594,10 @@
         "EPT": {
           "by": "Samy Kumar Meena",
           "time": "18:26"
+        },
+        "TNC2": {
+          "by": "Sudhakar",
+          "time": "19:15"
         }
       },
       "problems": [],
