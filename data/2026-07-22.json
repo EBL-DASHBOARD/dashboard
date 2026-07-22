@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T06:23:21.353Z",
+  "generated": "2026-07-22T06:23:58.004Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "Margaret Market",
         "Vivocity",
@@ -137,7 +137,8 @@
         "Le Quest",
         "West Mall",
         "Century Square",
-        "Citygate"
+        "Citygate",
+        "Far East Plaza Kiosk E"
       ],
       "outlets_outstanding": [
         "Dairy Farm Mall",
@@ -152,8 +153,7 @@
         "V Hotel Lavender",
         "The Poiz Centre",
         "New Tech Park",
-        "313 Somerset",
-        "Far East Plaza Kiosk E"
+        "313 Somerset"
       ],
       "done_detail": {
         "Margaret Market": {
@@ -209,6 +209,10 @@
           "time": "14:23"
         },
         "Citygate": {
+          "by": "Ranjith",
+          "time": "14:23"
+        },
+        "Far East Plaza Kiosk E": {
           "by": "Ranjith",
           "time": "14:23"
         }
