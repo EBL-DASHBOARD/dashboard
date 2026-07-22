@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T07:35:51.565Z",
+  "generated": "2026-07-22T07:44:15.086Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "Margaret Market",
         "Vivocity",
@@ -139,7 +139,8 @@
         "Century Square",
         "Citygate",
         "Far East Plaza Kiosk E",
-        "SingPost Centre"
+        "SingPost Centre",
+        "Eastpoint Mall"
       ],
       "outlets_outstanding": [
         "Dairy Farm Mall",
@@ -147,7 +148,6 @@
         "Junction 9",
         "Northpoint City",
         "Lucky Plaza",
-        "Eastpoint Mall",
         "i12 Katong",
         "Flavours @ NUS Uptown",
         "V Hotel Lavender",
@@ -219,6 +219,10 @@
         "SingPost Centre": {
           "by": "ratharun",
           "time": "14:50"
+        },
+        "Eastpoint Mall": {
+          "by": "ratharun",
+          "time": "15:44"
         }
       },
       "problems": [],
