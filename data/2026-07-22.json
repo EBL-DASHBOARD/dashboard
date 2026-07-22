@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T11:15:16.809Z",
+  "generated": "2026-07-22T11:15:23.611Z",
   "groups": [
     {
       "id": "XH",
@@ -413,7 +413,7 @@
           ]
         }
       ],
-      "done": 34,
+      "done": 35,
       "outlets_done": [
         "JP",
         "USQ",
@@ -448,10 +448,10 @@
         "TPM",
         "WWP",
         "EPT",
-        "TNC2"
+        "TNC2",
+        "LOY"
       ],
       "outlets_outstanding": [
-        "LOY",
         "CCP",
         "AP2",
         "AP1",
@@ -596,6 +596,10 @@
           "time": "18:26"
         },
         "TNC2": {
+          "by": "Sudhakar",
+          "time": "19:15"
+        },
+        "LOY": {
           "by": "Sudhakar",
           "time": "19:15"
         }
