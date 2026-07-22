@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T07:56:37.524Z",
+  "generated": "2026-07-22T08:06:48.830Z",
   "groups": [
     {
       "id": "XH",
@@ -356,7 +356,7 @@
           ]
         }
       ],
-      "done": 25,
+      "done": 26,
       "outlets_done": [
         "JP",
         "USQ",
@@ -382,13 +382,13 @@
         "CL2",
         "VIVO",
         "CKCC",
-        "KNX"
+        "KNX",
+        "GMM"
       ],
       "outlets_outstanding": [
         "TNC2",
         "TPM",
         "LOY",
-        "GMM",
         "PAL",
         "EPT",
         "CCP",
@@ -505,6 +505,10 @@
         "KNX": {
           "by": "Sudhakar",
           "time": "15:56"
+        },
+        "GMM": {
+          "by": "Samy Kumar Meena",
+          "time": "16:06"
         }
       },
       "problems": [],
