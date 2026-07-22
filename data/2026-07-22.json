@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T02:43:55.943Z",
+  "generated": "2026-07-22T02:46:43.677Z",
   "groups": [
     {
       "id": "XH",
@@ -311,13 +311,14 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "JP",
         "USQ",
         "BNV",
         "CCKS",
-        "SHP"
+        "SHP",
+        "ARC"
       ],
       "outlets_outstanding": [
         "CT",
@@ -329,7 +330,6 @@
         "WSM",
         "TRM",
         "TIO",
-        "ARC",
         "CL2",
         "ART",
         "VIVO",
@@ -357,6 +357,10 @@
         "SHP": {
           "by": "Sasi",
           "time": "10:10"
+        },
+        "ARC": {
+          "by": "Krishna",
+          "time": "10:46"
         }
       },
       "problems": [],
