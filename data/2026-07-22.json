@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated": "2026-07-22T02:10:54.309Z",
+  "generated": "2026-07-22T02:17:01.187Z",
   "groups": [
     {
       "id": "XH",
@@ -122,10 +122,11 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "Margaret Market",
-        "Vivocity"
+        "Vivocity",
+        "Alexandra Technopark B"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -139,7 +140,6 @@
         "Parc Point",
         "HarbourFront Tower 1",
         "GENEO",
-        "Alexandra Technopark B",
         "ARTRA",
         "The Woodleigh Mall",
         "Junction 9",
@@ -154,6 +154,10 @@
         "Vivocity": {
           "by": "ratharun",
           "time": "09:40"
+        },
+        "Alexandra Technopark B": {
+          "by": "ratharun",
+          "time": "10:17"
         }
       },
       "problems": [],
