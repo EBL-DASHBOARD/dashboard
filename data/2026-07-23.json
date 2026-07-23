@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "generated": "2026-07-23T10:15:07.488Z",
+  "generated": "2026-07-23T10:22:42.030Z",
   "groups": [
     {
       "id": "XH",
@@ -244,7 +244,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -272,7 +272,8 @@
         "WWP",
         "J9",
         "AP1",
-        "TNC2"
+        "TNC2",
+        "PDD"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -280,8 +281,7 @@
         "YS1",
         "LTM",
         "R3",
-        "HRC",
-        "PDD"
+        "HRC"
       ],
       "done_detail": {
         "YTP": {
@@ -391,6 +391,10 @@
         "TNC2": {
           "by": "YAAKESH",
           "time": "18:15"
+        },
+        "PDD": {
+          "by": "Sasi",
+          "time": "18:22"
         }
       },
       "problems": [],
