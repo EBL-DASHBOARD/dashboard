@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "generated": "2026-07-23T04:27:11.779Z",
+  "generated": "2026-07-23T04:36:37.318Z",
   "groups": [
     {
       "id": "XH",
@@ -77,20 +77,24 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
         "Tanah Merah Ferry Terminal",
-        "Junction 8"
+        "Junction 8",
+        "Woods Square"
       ],
       "outlets_outstanding": [
         "Hougang Mall",
         "Punggol Plaza",
-        "Woods Square",
         "Suntec City",
         "South Beach Tower",
-        "Zhongshan Mall"
+        "Zhongshan Mall",
+        "Waterway Point",
+        "Compass One",
+        "Causeway Point",
+        "888 Plaza"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -108,6 +112,10 @@
         "Junction 8": {
           "by": "ratharun",
           "time": "11:34"
+        },
+        "Woods Square": {
+          "by": "ratharun",
+          "time": "12:36"
         }
       },
       "problems": [],
