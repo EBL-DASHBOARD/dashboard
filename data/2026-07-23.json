@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "generated": "2026-07-23T04:36:39.250Z",
+  "generated": "2026-07-23T06:41:04.473Z",
   "groups": [
     {
       "id": "XH",
@@ -77,13 +77,14 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
         "Tanah Merah Ferry Terminal",
         "Junction 8",
-        "Woods Square"
+        "Woods Square",
+        "888 Plaza"
       ],
       "outlets_outstanding": [
         "Hougang Mall",
@@ -93,8 +94,7 @@
         "Zhongshan Mall",
         "Waterway Point",
         "Compass One",
-        "Causeway Point",
-        "888 Plaza"
+        "Causeway Point"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -116,6 +116,10 @@
         "Woods Square": {
           "by": "ratharun",
           "time": "12:36"
+        },
+        "888 Plaza": {
+          "by": "ratharun",
+          "time": "14:41"
         }
       },
       "problems": [],
