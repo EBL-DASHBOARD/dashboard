@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "generated": "2026-07-23T02:43:43.049Z",
+  "generated": "2026-07-23T02:55:22.861Z",
   "groups": [
     {
       "id": "XH",
@@ -212,7 +212,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -221,12 +221,12 @@
         "TGCC",
         "BS",
         "KH",
-        "IM"
+        "IM",
+        "MBA"
       ],
       "outlets_outstanding": [
         "BPP",
         "WXI",
-        "MBA",
         "STC"
       ],
       "done_detail": {
@@ -261,6 +261,10 @@
         "IM": {
           "by": "Krishna",
           "time": "10:43"
+        },
+        "MBA": {
+          "by": "Sasi",
+          "time": "10:55"
         }
       },
       "problems": [],
