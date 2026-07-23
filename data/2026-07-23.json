@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "generated": "2026-07-23T03:09:15.842Z",
+  "generated": "2026-07-23T03:34:50.970Z",
   "groups": [
     {
       "id": "XH",
@@ -77,16 +77,16 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
-        "Tanah Merah Ferry Terminal"
+        "Tanah Merah Ferry Terminal",
+        "Junction 8"
       ],
       "outlets_outstanding": [
         "Hougang Mall",
         "Punggol Plaza",
-        "Junction 8",
         "Woods Square",
         "Suntec City",
         "South Beach Tower",
@@ -104,6 +104,10 @@
         "Tanah Merah Ferry Terminal": {
           "by": "boss",
           "time": "11:09"
+        },
+        "Junction 8": {
+          "by": "ratharun",
+          "time": "11:34"
         }
       },
       "problems": [],
