@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "generated": "2026-07-23T08:11:42.837Z",
+  "generated": "2026-07-23T08:22:54.563Z",
   "groups": [
     {
       "id": "XH",
@@ -77,7 +77,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -85,7 +85,8 @@
         "Junction 8",
         "Woods Square",
         "888 Plaza",
-        "Causeway Point"
+        "Causeway Point",
+        "Compass One"
       ],
       "outlets_outstanding": [
         "Hougang Mall",
@@ -93,8 +94,7 @@
         "Suntec City",
         "South Beach Tower",
         "Zhongshan Mall",
-        "Waterway Point",
-        "Compass One"
+        "Waterway Point"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -124,6 +124,10 @@
         "Causeway Point": {
           "by": "ratharun",
           "time": "15:23"
+        },
+        "Compass One": {
+          "by": "ratharun",
+          "time": "16:22"
         }
       },
       "problems": [],
