@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-23T13:35:06.199Z",
+  "generated": "2026-07-23T13:44:34.613Z",
   "groups": [
     {
       "id": "XH",
@@ -144,6 +144,55 @@
         "Vivo City (9am onwards)",
         "ARTRA",
         "Marina Square"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "XHNIGHT",
+      "name": "Xh Delivery (Night)",
+      "total_locations": 9,
+      "am_total": 4,
+      "pm_total": 5,
+      "am_outlets": [
+        "PLQ Tower 1",
+        "Aperia Mall",
+        "Citylink",
+        "One Raffles Link"
+      ],
+      "pm_outlets": [
+        "Ngee Ann City",
+        "9 Penang Road",
+        "NUH Medical Centre",
+        "Lazada One",
+        "Tangs Plaza Kiosk 2"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "PLQ Tower 1",
+            "Aperia Mall",
+            "Citylink",
+            "One Raffles Link"
+          ],
+          "pm": [
+            "Ngee Ann City",
+            "9 Penang Road",
+            "NUH Medical Centre",
+            "Lazada One",
+            "Tangs Plaza Kiosk 2"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "PLQ Tower 1",
+        "Aperia Mall",
+        "Citylink",
+        "One Raffles Link"
       ],
       "done_detail": {},
       "problems": [],
