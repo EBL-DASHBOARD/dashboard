@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "generated": "2026-07-23T00:43:11.530Z",
+  "generated": "2026-07-23T01:22:14.379Z",
   "groups": [
     {
       "id": "XH",
@@ -77,8 +77,10 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "The Rail Mall"
+      ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "Hougang Mall",
@@ -86,12 +88,16 @@
         "Junction 8",
         "Woods Square",
         "Hillion Mall",
-        "The Rail Mall",
         "Suntec City",
         "South Beach Tower",
         "Zhongshan Mall"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "The Rail Mall": {
+          "by": "ratharun",
+          "time": "09:22"
+        }
+      },
       "problems": [],
       "customers": null
     },
