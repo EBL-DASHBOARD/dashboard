@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "generated": "2026-07-23T09:30:40.410Z",
+  "generated": "2026-07-23T09:30:55.707Z",
   "groups": [
     {
       "id": "XH",
@@ -240,7 +240,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -265,14 +265,14 @@
         "CM1",
         "SSC2",
         "R1",
-        "WWP"
+        "WWP",
+        "J9"
       ],
       "outlets_outstanding": [
         "PECC",
         "LOY",
         "TNC2",
         "YS1",
-        "J9",
         "LTM",
         "AP1",
         "R3",
@@ -374,6 +374,10 @@
         },
         "WWP": {
           "by": "Sasi",
+          "time": "17:30"
+        },
+        "J9": {
+          "by": "Samy Kumar Meena",
           "time": "17:30"
         }
       },
