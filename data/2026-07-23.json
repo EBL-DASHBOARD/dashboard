@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "generated": "2026-07-23T04:00:00.984Z",
+  "generated": "2026-07-23T04:27:11.779Z",
   "groups": [
     {
       "id": "XH",
@@ -309,6 +309,75 @@
           "time": "11:40"
         }
       },
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "XHNIGHT",
+      "name": "Xh Delivery (Night)",
+      "total_locations": 11,
+      "am_total": 8,
+      "pm_total": 3,
+      "am_outlets": [
+        "Jewel",
+        "Changi T1 Transit",
+        "Changi City Point",
+        "Hougang 1",
+        "ESR BizPark @ Changi",
+        "Parkway Parade",
+        "Westgate",
+        "NTU South Spine"
+      ],
+      "pm_outlets": [
+        "Coronation Shopping Plaza",
+        "Chinatown Point",
+        "Ngee Ann Polytechnic"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Jewel",
+            "Changi T1 Transit"
+          ],
+          "pm": []
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "Changi City Point",
+            "Hougang 1",
+            "ESR BizPark @ Changi",
+            "Parkway Parade"
+          ],
+          "pm": [
+            "Coronation Shopping Plaza",
+            "Chinatown Point",
+            "Ngee Ann Polytechnic"
+          ]
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Westgate",
+            "NTU South Spine"
+          ],
+          "pm": []
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Jewel",
+        "Changi T1 Transit",
+        "Changi City Point",
+        "Hougang 1",
+        "ESR BizPark @ Changi",
+        "Parkway Parade",
+        "Westgate",
+        "NTU South Spine"
+      ],
+      "done_detail": {},
       "problems": [],
       "customers": null
     }
