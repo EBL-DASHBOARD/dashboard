@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "generated": "2026-07-23T11:00:20.380Z",
+  "generated": "2026-07-23T11:25:44.277Z",
   "groups": [
     {
       "id": "XH",
@@ -244,7 +244,7 @@
           ]
         }
       ],
-      "done": 31,
+      "done": 32,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -276,12 +276,12 @@
         "PDD",
         "YS1",
         "LTM",
-        "R3"
+        "R3",
+        "HRC"
       ],
       "outlets_outstanding": [
         "PECC",
-        "LOY",
-        "HRC"
+        "LOY"
       ],
       "done_detail": {
         "YTP": {
@@ -407,6 +407,10 @@
         "R3": {
           "by": "Krishna",
           "time": "19:00"
+        },
+        "HRC": {
+          "by": "Sasi",
+          "time": "19:25"
         }
       },
       "problems": [],
