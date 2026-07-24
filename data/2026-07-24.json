@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T10:18:14.254Z",
+  "generated": "2026-07-24T10:40:45.238Z",
   "groups": [
     {
       "id": "XH",
@@ -400,7 +400,7 @@
           ]
         }
       ],
-      "done": 32,
+      "done": 33,
       "outlets_done": [
         "DV",
         "JP",
@@ -433,7 +433,8 @@
         "WIS",
         "KTB",
         "BOB",
-        "TPM"
+        "TPM",
+        "CM1"
       ],
       "outlets_outstanding": [
         "CCP",
@@ -441,7 +442,6 @@
         "AP2",
         "R3",
         "AP1",
-        "CM1",
         "WWP"
       ],
       "done_detail": {
@@ -572,6 +572,10 @@
         "TPM": {
           "by": "Sudhakar",
           "time": "18:18"
+        },
+        "CM1": {
+          "by": "Sasi",
+          "time": "18:40"
         }
       },
       "problems": [],
