@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T09:30:26.423Z",
+  "generated": "2026-07-24T09:35:37.567Z",
   "groups": [
     {
       "id": "XH",
@@ -120,7 +120,7 @@
           "pm": []
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "West Mall",
         "ARTRA",
@@ -139,7 +139,8 @@
         "Causeway Point",
         "Waterway Point",
         "Compass One",
-        "Rivervale Mall"
+        "Rivervale Mall",
+        "Plaza Singapura"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -223,6 +224,10 @@
         "Rivervale Mall": {
           "by": "Nur Azimah",
           "time": "17:30"
+        },
+        "Plaza Singapura": {
+          "by": "ratharun",
+          "time": "17:35"
         }
       },
       "problems": [],
