@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T07:30:21.079Z",
+  "generated": "2026-07-24T07:33:32.956Z",
   "groups": [
     {
       "id": "XH",
@@ -120,7 +120,7 @@
           "pm": []
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "West Mall",
         "ARTRA",
@@ -136,7 +136,8 @@
         "Punggol Coast Mall",
         "Tampines Mart",
         "Institute of Mental Health",
-        "Causeway Point"
+        "Causeway Point",
+        "Waterway Point"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -148,7 +149,6 @@
         "Margaret Market",
         "Vivo City (9am onwards)",
         "Compass One",
-        "Waterway Point",
         "Rivervale Mall"
       ],
       "done_detail": {
@@ -211,6 +211,10 @@
         "Causeway Point": {
           "by": "boss",
           "time": "15:01"
+        },
+        "Waterway Point": {
+          "by": "Nur Azimah",
+          "time": "15:33"
         }
       },
       "problems": [],
