@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T04:30:22.358Z",
+  "generated": "2026-07-24T05:01:20.707Z",
   "groups": [
     {
       "id": "XH",
@@ -120,7 +120,7 @@
           "pm": []
         }
       ],
-      "done": 10,
+      "done": 11,
       "outlets_done": [
         "West Mall",
         "ARTRA",
@@ -131,7 +131,8 @@
         "Hillion Mall",
         "Parc Point",
         "UE Square",
-        "Dairy Farm Mall"
+        "Dairy Farm Mall",
+        "The Woodleigh Mall"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -143,7 +144,6 @@
         "Flavours @ NUS Uptown",
         "GENEO",
         "Margaret Market",
-        "The Woodleigh Mall",
         "Vivo City (9am onwards)",
         "Compass One",
         "Punggol Coast Mall",
@@ -190,6 +190,10 @@
         "Dairy Farm Mall": {
           "by": "Nur Azimah",
           "time": "12:30"
+        },
+        "The Woodleigh Mall": {
+          "by": "ratharun",
+          "time": "13:01"
         }
       },
       "problems": [],
