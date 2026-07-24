@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T09:35:37.567Z",
+  "generated": "2026-07-24T09:45:57.819Z",
   "groups": [
     {
       "id": "XH",
@@ -400,7 +400,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "DV",
         "JP",
@@ -427,7 +427,8 @@
         "R4",
         "AP4",
         "YS1",
-        "NTP"
+        "NTP",
+        "ACV"
       ],
       "outlets_outstanding": [
         "CCP",
@@ -440,7 +441,6 @@
         "R3",
         "R1",
         "AP1",
-        "ACV",
         "CM1",
         "WWP"
       ],
@@ -548,6 +548,10 @@
         "NTP": {
           "by": "Sasi",
           "time": "17:00"
+        },
+        "ACV": {
+          "by": "Sasi",
+          "time": "17:45"
         }
       },
       "problems": [],
