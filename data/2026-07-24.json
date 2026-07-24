@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T02:44:55.087Z",
+  "generated": "2026-07-24T02:45:45.614Z",
   "groups": [
     {
       "id": "XH",
@@ -338,14 +338,15 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "DV",
         "JP",
         "CCKS",
         "USQ",
         "BNV",
-        "ART"
+        "ART",
+        "SHP"
       ],
       "outlets_outstanding": [
         "KRC",
@@ -356,8 +357,7 @@
         "HV2",
         "TIO",
         "CL2",
-        "KIT",
-        "SHP"
+        "KIT"
       ],
       "done_detail": {
         "DV": {
@@ -383,6 +383,10 @@
         "ART": {
           "by": "Krishna",
           "time": "10:16"
+        },
+        "SHP": {
+          "by": "Sasi",
+          "time": "10:45"
         }
       },
       "problems": [],
