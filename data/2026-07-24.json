@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T02:15:24.278Z",
+  "generated": "2026-07-24T02:16:47.964Z",
   "groups": [
     {
       "id": "XH",
@@ -334,13 +334,14 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "DV",
         "JP",
         "CCKS",
         "USQ",
-        "BNV"
+        "BNV",
+        "ART"
       ],
       "outlets_outstanding": [
         "KRC",
@@ -351,7 +352,6 @@
         "HV2",
         "TIO",
         "CL2",
-        "ART",
         "KIT",
         "SHP"
       ],
@@ -375,6 +375,10 @@
         "BNV": {
           "by": "YAAKESH",
           "time": "10:03"
+        },
+        "ART": {
+          "by": "Krishna",
+          "time": "10:16"
         }
       },
       "problems": [],
