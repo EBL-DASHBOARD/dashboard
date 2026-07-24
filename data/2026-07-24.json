@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T11:32:53.203Z",
+  "generated": "2026-07-24T12:06:43.111Z",
   "groups": [
     {
       "id": "XH",
@@ -400,7 +400,7 @@
           ]
         }
       ],
-      "done": 38,
+      "done": 39,
       "outlets_done": [
         "DV",
         "JP",
@@ -439,11 +439,10 @@
         "CCP",
         "EPT",
         "WWP",
-        "R3"
-      ],
-      "outlets_outstanding": [
+        "R3",
         "AP1"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "DV": {
           "by": "Sasi",
@@ -596,6 +595,10 @@
         "R3": {
           "by": "Krishna",
           "time": "19:32"
+        },
+        "AP1": {
+          "by": "Krishna",
+          "time": "20:06"
         }
       },
       "problems": [],
