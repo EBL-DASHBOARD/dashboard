@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T07:01:18.101Z",
+  "generated": "2026-07-24T07:30:21.079Z",
   "groups": [
     {
       "id": "XH",
@@ -383,7 +383,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "DV",
         "JP",
@@ -402,14 +402,14 @@
         "BQ",
         "PS",
         "WLCC",
-        "PAL"
+        "PAL",
+        "KNX"
       ],
       "outlets_outstanding": [
         "CCP",
         "BHT",
         "EPT",
         "BOB",
-        "KNX",
         "TPM",
         "KTB",
         "WIS",
@@ -499,6 +499,10 @@
         "PAL": {
           "by": "Sasi",
           "time": "15:01"
+        },
+        "KNX": {
+          "by": "Sudhakar",
+          "time": "15:30"
         }
       },
       "problems": [],
