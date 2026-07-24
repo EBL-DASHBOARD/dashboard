@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T02:16:47.964Z",
+  "generated": "2026-07-24T02:44:55.087Z",
   "groups": [
     {
       "id": "XH",
@@ -120,12 +120,13 @@
           "pm": []
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "West Mall",
         "ARTRA",
         "Le Quest",
-        "AltitudeX"
+        "AltitudeX",
+        "Marina Square"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -143,8 +144,7 @@
         "UE Square",
         "The Woodleigh Mall",
         "63 Pagoda Street",
-        "Vivo City (9am onwards)",
-        "Marina Square"
+        "Vivo City (9am onwards)"
       ],
       "done_detail": {
         "West Mall": {
@@ -162,6 +162,10 @@
         "AltitudeX": {
           "by": "ratharun",
           "time": "10:15"
+        },
+        "Marina Square": {
+          "by": "SEENU.C",
+          "time": "10:44"
         }
       },
       "problems": [],
