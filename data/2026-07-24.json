@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T08:00:07.631Z",
+  "generated": "2026-07-24T08:01:18.225Z",
   "groups": [
     {
       "id": "XH",
@@ -387,7 +387,7 @@
           ]
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "DV",
         "JP",
@@ -408,7 +408,8 @@
         "WLCC",
         "PAL",
         "KNX",
-        "WNC"
+        "WNC",
+        "NEX"
       ],
       "outlets_outstanding": [
         "CCP",
@@ -426,7 +427,6 @@
         "R1",
         "AP1",
         "ACV",
-        "NEX",
         "NTP",
         "CM1",
         "WWP"
@@ -511,6 +511,10 @@
         "WNC": {
           "by": "Samy Kumar Meena",
           "time": "16:00"
+        },
+        "NEX": {
+          "by": "Sasi",
+          "time": "16:01"
         }
       },
       "problems": [],
