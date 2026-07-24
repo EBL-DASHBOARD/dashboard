@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T16:48:48.572Z",
+  "generated": "2026-07-24T18:52:52.042Z",
   "groups": [
     {
       "id": "XH",
@@ -270,10 +270,12 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 4,
       "outlets_done": [
         "PLQ Tower 1",
-        "Aperia Mall"
+        "Aperia Mall",
+        "Ngee Ann City",
+        "Tangs Plaza Kiosk 2"
       ],
       "outlets_outstanding": [
         "Citylink",
@@ -287,6 +289,14 @@
         "Aperia Mall": {
           "by": "SEENU.C",
           "time": "00:48"
+        },
+        "Ngee Ann City": {
+          "by": "SEENU.C",
+          "time": "02:52"
+        },
+        "Tangs Plaza Kiosk 2": {
+          "by": "SEENU.C",
+          "time": "02:52"
         }
       },
       "problems": [],
