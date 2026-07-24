@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T01:44:10.129Z",
+  "generated": "2026-07-24T02:03:03.546Z",
   "groups": [
     {
       "id": "XH",
@@ -330,15 +330,15 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "DV",
         "JP",
         "CCKS",
-        "USQ"
+        "USQ",
+        "BNV"
       ],
       "outlets_outstanding": [
-        "BNV",
         "KRC",
         "BQ",
         "PS",
@@ -367,6 +367,10 @@
         "USQ": {
           "by": "Sasi",
           "time": "09:44"
+        },
+        "BNV": {
+          "by": "YAAKESH",
+          "time": "10:03"
         }
       },
       "problems": [],
