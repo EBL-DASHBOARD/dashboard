@@ -1,0 +1,85 @@
+{
+  "date": "2026-07-25",
+  "generated": "2026-07-24T12:01:32.840Z",
+  "groups": [
+    {
+      "id": "XH",
+      "name": "Xh Delivery",
+      "total_locations": 18,
+      "am_total": 9,
+      "pm_total": 9,
+      "am_outlets": [
+        "Pasir Ris Mall",
+        "White Sands",
+        "Punggol Plaza",
+        "Junction 8",
+        "Compass One",
+        "Citygate",
+        "Suntec City",
+        "Hillion Mall",
+        "Lucky Plaza (AM)"
+      ],
+      "pm_outlets": [
+        "Downtown East",
+        "Causeway Point",
+        "Waterway Point",
+        "888 Plaza",
+        "V Hotel Lavender",
+        "100 AM Mall",
+        "Guoco Tower",
+        "SingPost Centre",
+        "i12 Katong"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Pasir Ris Mall",
+            "White Sands",
+            "Punggol Plaza",
+            "Junction 8",
+            "Compass One"
+          ],
+          "pm": [
+            "Downtown East",
+            "Causeway Point",
+            "Waterway Point",
+            "888 Plaza"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "Citygate",
+            "Suntec City",
+            "Hillion Mall",
+            "Lucky Plaza (AM)"
+          ],
+          "pm": [
+            "V Hotel Lavender",
+            "100 AM Mall",
+            "Guoco Tower",
+            "SingPost Centre",
+            "i12 Katong"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Pasir Ris Mall",
+        "White Sands",
+        "Punggol Plaza",
+        "Junction 8",
+        "Compass One",
+        "Citygate",
+        "Suntec City",
+        "Hillion Mall",
+        "Lucky Plaza (AM)"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
