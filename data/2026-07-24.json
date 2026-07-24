@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T03:42:49.027Z",
+  "generated": "2026-07-24T04:00:00.334Z",
   "groups": [
     {
       "id": "XH",
@@ -369,7 +369,30 @@
         "BQ",
         "PS",
         "TIO",
-        "CL2"
+        "CL2",
+        "CCP",
+        "BHT",
+        "EPT",
+        "BOB",
+        "KNX",
+        "TPM",
+        "KTB",
+        "WIS",
+        "WLCC",
+        "WNC",
+        "YS1",
+        "AP2",
+        "AP4",
+        "R3",
+        "R4",
+        "R1",
+        "AP1",
+        "ACV",
+        "NEX",
+        "NTP",
+        "CM1",
+        "WWP",
+        "PAL"
       ],
       "done_detail": {
         "DV": {
