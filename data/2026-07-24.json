@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T00:38:58.936Z",
+  "generated": "2026-07-24T00:50:13.798Z",
   "groups": [
     {
       "id": "XH",
@@ -322,8 +322,10 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "DV"
+      ],
       "outlets_outstanding": [
         "BNV",
         "KRC",
@@ -339,10 +341,14 @@
         "ART",
         "KIT",
         "USQ",
-        "DV",
         "SHP"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "DV": {
+          "by": "Sasi",
+          "time": "08:50"
+        }
+      },
       "problems": [],
       "customers": null
     }
