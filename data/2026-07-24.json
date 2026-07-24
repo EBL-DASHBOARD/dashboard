@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T11:19:03.914Z",
+  "generated": "2026-07-24T11:31:16.871Z",
   "groups": [
     {
       "id": "XH",
@@ -400,7 +400,7 @@
           ]
         }
       ],
-      "done": 36,
+      "done": 37,
       "outlets_done": [
         "DV",
         "JP",
@@ -437,12 +437,12 @@
         "CM1",
         "AP2",
         "CCP",
-        "EPT"
+        "EPT",
+        "WWP"
       ],
       "outlets_outstanding": [
         "R3",
-        "AP1",
-        "WWP"
+        "AP1"
       ],
       "done_detail": {
         "DV": {
@@ -588,6 +588,10 @@
         "EPT": {
           "by": "Sudhakar",
           "time": "19:19"
+        },
+        "WWP": {
+          "by": "Sasi",
+          "time": "19:31"
         }
       },
       "problems": [],
