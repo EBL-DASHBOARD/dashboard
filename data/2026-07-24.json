@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T10:15:04.358Z",
+  "generated": "2026-07-24T10:17:51.277Z",
   "groups": [
     {
       "id": "XH",
@@ -400,7 +400,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 31,
       "outlets_done": [
         "DV",
         "JP",
@@ -431,12 +431,12 @@
         "ACV",
         "R1",
         "WIS",
-        "KTB"
+        "KTB",
+        "BOB"
       ],
       "outlets_outstanding": [
         "CCP",
         "EPT",
-        "BOB",
         "TPM",
         "AP2",
         "R3",
@@ -564,6 +564,10 @@
         "KTB": {
           "by": "Samy Kumar Meena",
           "time": "18:15"
+        },
+        "BOB": {
+          "by": "Sudhakar",
+          "time": "18:17"
         }
       },
       "problems": [],
