@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-24T16:41:25.534Z",
+  "generated": "2026-07-24T16:43:25.526Z",
   "groups": [
     {
       "id": "XH",
@@ -76,6 +76,213 @@
         "Suntec City",
         "Hillion Mall",
         "Lucky Plaza (AM)"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 60,
+      "am_total": 26,
+      "pm_total": 34,
+      "am_outlets": [
+        "BS",
+        "CT",
+        "CTP",
+        "STC",
+        "KRC",
+        "BNV",
+        "WSM",
+        "HV2",
+        "YTP",
+        "TRM",
+        "KH",
+        "CCKS",
+        "BPP",
+        "SHP",
+        "KLP",
+        "KIT",
+        "TY",
+        "TIO",
+        "WXI",
+        "VIVO",
+        "ARC",
+        "IM",
+        "JP",
+        "DV",
+        "TGCC",
+        "JKN"
+      ],
+      "pm_outlets": [
+        "PECC",
+        "TNC2",
+        "LOY",
+        "CKCC",
+        "KNX",
+        "TPM",
+        "EPT",
+        "CCP",
+        "AP4",
+        "BHT",
+        "BOB",
+        "VIVA",
+        "HRC",
+        "NTP",
+        "GMM",
+        "NEX",
+        "PAL",
+        "KEB",
+        "R4",
+        "R3",
+        "AP2",
+        "R1",
+        "AP1",
+        "CM1",
+        "ACV",
+        "PDD",
+        "FEN",
+        "WWP",
+        "MARS",
+        "LTM",
+        "SSC2",
+        "WLCC",
+        "J9",
+        "YS1"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [
+            "BS",
+            "CT",
+            "CTP",
+            "STC",
+            "KRC",
+            "BNV"
+          ],
+          "pm": [
+            "PECC",
+            "TNC2",
+            "LOY",
+            "CKCC",
+            "KNX",
+            "TPM"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "WSM",
+            "HV2",
+            "YTP",
+            "TRM",
+            "KH",
+            "CCKS",
+            "BPP"
+          ],
+          "pm": [
+            "EPT",
+            "CCP",
+            "AP4",
+            "BHT",
+            "BOB",
+            "VIVA"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "SHP",
+            "KLP",
+            "KIT",
+            "TY"
+          ],
+          "pm": [
+            "HRC",
+            "NTP",
+            "GMM",
+            "NEX",
+            "PAL",
+            "KEB"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "TIO",
+            "WXI",
+            "VIVO",
+            "ARC"
+          ],
+          "pm": [
+            "R4",
+            "R3",
+            "AP2",
+            "R1",
+            "AP1"
+          ]
+        },
+        {
+          "name": "EBL6-4",
+          "am": [
+            "IM",
+            "JP",
+            "DV",
+            "TGCC",
+            "JKN"
+          ],
+          "pm": [
+            "CM1",
+            "ACV",
+            "PDD",
+            "FEN",
+            "WWP"
+          ]
+        },
+        {
+          "name": "EBL6-6",
+          "am": [],
+          "pm": [
+            "MARS",
+            "LTM",
+            "SSC2",
+            "WLCC",
+            "J9",
+            "YS1"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "BS",
+        "CT",
+        "CTP",
+        "STC",
+        "KRC",
+        "BNV",
+        "WSM",
+        "HV2",
+        "YTP",
+        "TRM",
+        "KH",
+        "CCKS",
+        "BPP",
+        "SHP",
+        "KLP",
+        "KIT",
+        "TY",
+        "TIO",
+        "WXI",
+        "VIVO",
+        "ARC",
+        "IM",
+        "JP",
+        "DV",
+        "TGCC",
+        "JKN"
       ],
       "done_detail": {},
       "problems": [],
