@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T00:50:13.798Z",
+  "generated": "2026-07-24T01:01:48.385Z",
   "groups": [
     {
       "id": "XH",
@@ -322,16 +322,16 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "DV"
+        "DV",
+        "JP"
       ],
       "outlets_outstanding": [
         "BNV",
         "KRC",
         "BQ",
         "PS",
-        "JP",
         "TRM",
         "BPP",
         "CCKS",
@@ -347,6 +347,10 @@
         "DV": {
           "by": "Sasi",
           "time": "08:50"
+        },
+        "JP": {
+          "by": "Samy Kumar Meena",
+          "time": "09:01"
         }
       },
       "problems": [],
