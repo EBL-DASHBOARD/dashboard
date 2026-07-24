@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T08:35:41.430Z",
+  "generated": "2026-07-24T08:45:02.458Z",
   "groups": [
     {
       "id": "XH",
@@ -120,7 +120,7 @@
           "pm": []
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "West Mall",
         "ARTRA",
@@ -137,7 +137,8 @@
         "Tampines Mart",
         "Institute of Mental Health",
         "Causeway Point",
-        "Waterway Point"
+        "Waterway Point",
+        "Compass One"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -148,7 +149,6 @@
         "GENEO",
         "Margaret Market",
         "Vivo City (9am onwards)",
-        "Compass One",
         "Rivervale Mall"
       ],
       "done_detail": {
@@ -215,6 +215,10 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "15:33"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "16:45"
         }
       },
       "problems": [],
