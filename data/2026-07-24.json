@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T09:00:21.669Z",
+  "generated": "2026-07-24T09:30:26.423Z",
   "groups": [
     {
       "id": "XH",
@@ -120,7 +120,7 @@
           "pm": []
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "West Mall",
         "ARTRA",
@@ -138,7 +138,8 @@
         "Institute of Mental Health",
         "Causeway Point",
         "Waterway Point",
-        "Compass One"
+        "Compass One",
+        "Rivervale Mall"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -148,8 +149,7 @@
         "Flavours @ NUS Uptown",
         "GENEO",
         "Margaret Market",
-        "Vivo City (9am onwards)",
-        "Rivervale Mall"
+        "Vivo City (9am onwards)"
       ],
       "done_detail": {
         "West Mall": {
@@ -219,6 +219,10 @@
         "Compass One": {
           "by": "Nur Azimah",
           "time": "16:45"
+        },
+        "Rivervale Mall": {
+          "by": "Nur Azimah",
+          "time": "17:30"
         }
       },
       "problems": [],
