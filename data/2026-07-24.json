@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T10:40:45.238Z",
+  "generated": "2026-07-24T11:05:06.112Z",
   "groups": [
     {
       "id": "XH",
@@ -400,7 +400,7 @@
           ]
         }
       ],
-      "done": 33,
+      "done": 34,
       "outlets_done": [
         "DV",
         "JP",
@@ -434,12 +434,12 @@
         "KTB",
         "BOB",
         "TPM",
-        "CM1"
+        "CM1",
+        "AP2"
       ],
       "outlets_outstanding": [
         "CCP",
         "EPT",
-        "AP2",
         "R3",
         "AP1",
         "WWP"
@@ -576,6 +576,10 @@
         "CM1": {
           "by": "Sasi",
           "time": "18:40"
+        },
+        "AP2": {
+          "by": "Krishna",
+          "time": "19:05"
         }
       },
       "problems": [],
