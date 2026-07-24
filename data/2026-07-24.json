@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T12:06:43.111Z",
+  "generated": "2026-07-24T16:48:48.572Z",
   "groups": [
     {
       "id": "XH",
@@ -270,15 +270,25 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
-      "outlets_outstanding": [
+      "done": 2,
+      "outlets_done": [
         "PLQ Tower 1",
-        "Aperia Mall",
+        "Aperia Mall"
+      ],
+      "outlets_outstanding": [
         "Citylink",
         "One Raffles Link"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "PLQ Tower 1": {
+          "by": "SEENU.C",
+          "time": "00:48"
+        },
+        "Aperia Mall": {
+          "by": "SEENU.C",
+          "time": "00:48"
+        }
+      },
       "problems": [],
       "customers": null
     },
