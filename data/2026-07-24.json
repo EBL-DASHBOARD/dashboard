@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T03:15:28.946Z",
+  "generated": "2026-07-24T03:15:58.056Z",
   "groups": [
     {
       "id": "XH",
@@ -120,23 +120,23 @@
           "pm": []
         }
       ],
-      "done": 6,
+      "done": 8,
       "outlets_done": [
         "West Mall",
         "ARTRA",
         "Le Quest",
         "AltitudeX",
         "Marina Square",
-        "63 Pagoda Street"
+        "63 Pagoda Street",
+        "Hillion Mall",
+        "Parc Point"
       ],
       "outlets_outstanding": [
         "Tampines 1",
         "Century Square",
         "Tampines Mart",
         "Institute of Mental Health",
-        "Hillion Mall",
         "Dairy Farm Mall",
-        "Parc Point",
         "Junction 9",
         "Northpoint City",
         "Flavours @ NUS Uptown",
@@ -170,6 +170,14 @@
         "63 Pagoda Street": {
           "by": "ratharun",
           "time": "11:11"
+        },
+        "Hillion Mall": {
+          "by": "Nur Azimah",
+          "time": "11:15"
+        },
+        "Parc Point": {
+          "by": "Nur Azimah",
+          "time": "11:15"
         }
       },
       "problems": [],
