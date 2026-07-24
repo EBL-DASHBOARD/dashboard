@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T07:01:04.339Z",
+  "generated": "2026-07-24T07:01:18.101Z",
   "groups": [
     {
       "id": "XH",
@@ -120,7 +120,7 @@
           "pm": []
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "West Mall",
         "ARTRA",
@@ -135,7 +135,8 @@
         "The Woodleigh Mall",
         "Punggol Coast Mall",
         "Tampines Mart",
-        "Institute of Mental Health"
+        "Institute of Mental Health",
+        "Causeway Point"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -206,6 +207,10 @@
         "Institute of Mental Health": {
           "by": "boss",
           "time": "15:00"
+        },
+        "Causeway Point": {
+          "by": "boss",
+          "time": "15:01"
         }
       },
       "problems": [],
