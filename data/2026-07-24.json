@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T08:01:18.225Z",
+  "generated": "2026-07-24T08:29:29.636Z",
   "groups": [
     {
       "id": "XH",
@@ -387,7 +387,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "DV",
         "JP",
@@ -409,11 +409,11 @@
         "PAL",
         "KNX",
         "WNC",
-        "NEX"
+        "NEX",
+        "BHT"
       ],
       "outlets_outstanding": [
         "CCP",
-        "BHT",
         "EPT",
         "BOB",
         "TPM",
@@ -515,6 +515,10 @@
         "NEX": {
           "by": "Sasi",
           "time": "16:01"
+        },
+        "BHT": {
+          "by": "Sudhakar",
+          "time": "16:29"
         }
       },
       "problems": [],
