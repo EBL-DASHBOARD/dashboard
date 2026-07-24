@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-07-24T05:01:20.707Z",
+  "generated": "2026-07-24T06:44:43.737Z",
   "groups": [
     {
       "id": "XH",
@@ -120,7 +120,7 @@
           "pm": []
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "West Mall",
         "ARTRA",
@@ -132,7 +132,8 @@
         "Parc Point",
         "UE Square",
         "Dairy Farm Mall",
-        "The Woodleigh Mall"
+        "The Woodleigh Mall",
+        "Punggol Coast Mall"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -146,7 +147,6 @@
         "Margaret Market",
         "Vivo City (9am onwards)",
         "Compass One",
-        "Punggol Coast Mall",
         "Waterway Point",
         "Rivervale Mall"
       ],
@@ -194,6 +194,10 @@
         "The Woodleigh Mall": {
           "by": "ratharun",
           "time": "13:01"
+        },
+        "Punggol Coast Mall": {
+          "by": "Nur Azimah",
+          "time": "14:44"
         }
       },
       "problems": [],
