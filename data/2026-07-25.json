@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T07:14:48.136Z",
+  "generated": "2026-07-25T07:48:12.637Z",
   "groups": [
     {
       "id": "XH",
@@ -284,7 +284,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -314,7 +314,8 @@
         "JKN",
         "BHT",
         "KNX",
-        "PAL"
+        "PAL",
+        "PDD"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -339,7 +340,6 @@
         "AP1",
         "CM1",
         "ACV",
-        "PDD",
         "FEN",
         "WWP",
         "MARS",
@@ -465,6 +465,10 @@
         "PAL": {
           "by": "Sasi",
           "time": "15:14"
+        },
+        "PDD": {
+          "by": "YAAKESH",
+          "time": "15:48"
         }
       },
       "problems": [],
