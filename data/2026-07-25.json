@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T06:56:36.169Z",
+  "generated": "2026-07-25T07:04:47.505Z",
   "groups": [
     {
       "id": "XH",
@@ -284,7 +284,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -312,14 +312,14 @@
         "CTP",
         "JP",
         "JKN",
-        "BHT"
+        "BHT",
+        "KNX"
       ],
       "outlets_outstanding": [
         "PECC",
         "TNC2",
         "LOY",
         "CKCC",
-        "KNX",
         "TPM",
         "EPT",
         "CCP",
@@ -457,6 +457,10 @@
         "BHT": {
           "by": "Samy Kumar Meena",
           "time": "14:56"
+        },
+        "KNX": {
+          "by": "Rsathiyaselvi",
+          "time": "15:04"
         }
       },
       "problems": [],
