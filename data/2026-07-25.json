@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T04:09:29.433Z",
+  "generated": "2026-07-25T04:46:05.639Z",
   "groups": [
     {
       "id": "XH",
@@ -64,17 +64,17 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 7,
       "outlets_done": [
         "Citygate",
         "Suntec City",
-        "Hillion Mall"
-      ],
-      "outlets_outstanding": [
+        "Hillion Mall",
         "Pasir Ris Mall",
         "White Sands",
         "Punggol Plaza",
-        "Junction 8",
+        "Junction 8"
+      ],
+      "outlets_outstanding": [
         "Compass One",
         "Lucky Plaza (AM)"
       ],
@@ -90,6 +90,22 @@
         "Hillion Mall": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "12:09"
+        },
+        "Pasir Ris Mall": {
+          "by": "boss",
+          "time": "12:46"
+        },
+        "White Sands": {
+          "by": "boss",
+          "time": "12:46"
+        },
+        "Punggol Plaza": {
+          "by": "boss",
+          "time": "12:46"
+        },
+        "Junction 8": {
+          "by": "boss",
+          "time": "12:46"
         }
       },
       "problems": [],
