@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T07:48:12.637Z",
+  "generated": "2026-07-25T07:55:55.483Z",
   "groups": [
     {
       "id": "XH",
@@ -284,7 +284,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 31,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -315,7 +315,8 @@
         "BHT",
         "KNX",
         "PAL",
-        "PDD"
+        "PDD",
+        "BOB"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -326,7 +327,6 @@
         "EPT",
         "CCP",
         "AP4",
-        "BOB",
         "VIVA",
         "HRC",
         "NTP",
@@ -469,6 +469,10 @@
         "PDD": {
           "by": "YAAKESH",
           "time": "15:48"
+        },
+        "BOB": {
+          "by": "Samy Kumar Meena",
+          "time": "15:55"
         }
       },
       "problems": [],
