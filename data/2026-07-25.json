@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T00:49:49.181Z",
+  "generated": "2026-07-25T01:07:58.755Z",
   "groups": [
     {
       "id": "XH",
@@ -254,10 +254,11 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "YTP",
-        "WXI"
+        "WXI",
+        "TY"
       ],
       "outlets_outstanding": [
         "BS",
@@ -275,7 +276,6 @@
         "SHP",
         "KLP",
         "KIT",
-        "TY",
         "TIO",
         "VIVO",
         "ARC",
@@ -293,6 +293,10 @@
         "WXI": {
           "by": "Krishna",
           "time": "08:49"
+        },
+        "TY": {
+          "by": "Sasi",
+          "time": "09:07"
         }
       },
       "problems": [],
