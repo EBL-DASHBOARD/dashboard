@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T08:43:10.445Z",
+  "generated": "2026-07-25T09:07:06.680Z",
   "groups": [
     {
       "id": "XH",
@@ -304,7 +304,7 @@
           ]
         }
       ],
-      "done": 40,
+      "done": 41,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -345,7 +345,8 @@
         "R4",
         "NEX",
         "TNC2",
-        "VIVA"
+        "VIVA",
+        "WWP"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -365,7 +366,6 @@
         "CM1",
         "ACV",
         "FEN",
-        "WWP",
         "LTM",
         "YS1"
       ],
@@ -529,6 +529,10 @@
         "VIVA": {
           "by": "Samy Kumar Meena",
           "time": "16:43"
+        },
+        "WWP": {
+          "by": "Sudhakar",
+          "time": "17:07"
         }
       },
       "problems": [],
