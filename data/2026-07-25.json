@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T04:49:20.304Z",
+  "generated": "2026-07-25T04:51:41.473Z",
   "groups": [
     {
       "id": "XH",
@@ -284,7 +284,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 24,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -304,14 +304,14 @@
         "TIO",
         "TRM",
         "WSM",
-        "STC"
-      ],
-      "outlets_outstanding": [
-        "BS",
-        "CT",
-        "CTP",
+        "STC",
         "KRC",
         "BNV",
+        "BS",
+        "CT",
+        "CTP"
+      ],
+      "outlets_outstanding": [
         "JP",
         "JKN",
         "PECC",
@@ -425,6 +425,26 @@
         "STC": {
           "by": "ratharun",
           "time": "12:49"
+        },
+        "KRC": {
+          "by": "Rsathiyaselvi",
+          "time": "12:51"
+        },
+        "BNV": {
+          "by": "Rsathiyaselvi",
+          "time": "12:51"
+        },
+        "BS": {
+          "by": "Rsathiyaselvi",
+          "time": "12:51"
+        },
+        "CT": {
+          "by": "Rsathiyaselvi",
+          "time": "12:51"
+        },
+        "CTP": {
+          "by": "Rsathiyaselvi",
+          "time": "12:51"
         }
       },
       "problems": [],
