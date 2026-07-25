@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T04:53:20.377Z",
+  "generated": "2026-07-25T06:56:36.169Z",
   "groups": [
     {
       "id": "XH",
@@ -284,7 +284,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -311,7 +311,8 @@
         "CT",
         "CTP",
         "JP",
-        "JKN"
+        "JKN",
+        "BHT"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -323,7 +324,6 @@
         "EPT",
         "CCP",
         "AP4",
-        "BHT",
         "BOB",
         "VIVA",
         "HRC",
@@ -453,6 +453,10 @@
         "JKN": {
           "by": "Sudhakar",
           "time": "12:53"
+        },
+        "BHT": {
+          "by": "Samy Kumar Meena",
+          "time": "14:56"
         }
       },
       "problems": [],
