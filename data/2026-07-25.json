@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T10:58:30.914Z",
+  "generated": "2026-07-25T11:07:48.435Z",
   "groups": [
     {
       "id": "XH",
@@ -304,7 +304,7 @@
           ]
         }
       ],
-      "done": 52,
+      "done": 54,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -357,13 +357,13 @@
         "EPT",
         "AP4",
         "ACV",
-        "FEN"
+        "FEN",
+        "KEB",
+        "HRC"
       ],
       "outlets_outstanding": [
         "PECC",
         "LOY",
-        "HRC",
-        "KEB",
         "R3",
         "AP1",
         "LTM",
@@ -577,6 +577,14 @@
         "FEN": {
           "by": "Sudhakar",
           "time": "18:58"
+        },
+        "KEB": {
+          "by": "Sasi",
+          "time": "19:07"
+        },
+        "HRC": {
+          "by": "Sasi",
+          "time": "19:07"
         }
       },
       "problems": [],
