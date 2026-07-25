@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T08:40:46.133Z",
+  "generated": "2026-07-25T08:43:10.445Z",
   "groups": [
     {
       "id": "XH",
@@ -304,7 +304,7 @@
           ]
         }
       ],
-      "done": 39,
+      "done": 40,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -344,7 +344,8 @@
         "GMM",
         "R4",
         "NEX",
-        "TNC2"
+        "TNC2",
+        "VIVA"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -354,7 +355,6 @@
         "EPT",
         "CCP",
         "AP4",
-        "VIVA",
         "HRC",
         "NTP",
         "KEB",
@@ -525,6 +525,10 @@
         "TNC2": {
           "by": "Rsathiyaselvi",
           "time": "16:40"
+        },
+        "VIVA": {
+          "by": "Samy Kumar Meena",
+          "time": "16:43"
         }
       },
       "problems": [],
