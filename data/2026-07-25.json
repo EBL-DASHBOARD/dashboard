@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T01:48:04.734Z",
+  "generated": "2026-07-25T01:50:50.645Z",
   "groups": [
     {
       "id": "XH",
@@ -254,14 +254,15 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "YTP",
         "WXI",
         "TY",
         "CCKS",
         "ARC",
-        "IM"
+        "IM",
+        "SHP"
       ],
       "outlets_outstanding": [
         "BS",
@@ -275,7 +276,6 @@
         "TRM",
         "KH",
         "BPP",
-        "SHP",
         "KLP",
         "KIT",
         "TIO",
@@ -309,6 +309,10 @@
         "IM": {
           "by": "YAAKESH",
           "time": "09:48"
+        },
+        "SHP": {
+          "by": "Sasi",
+          "time": "09:50"
         }
       },
       "problems": [],
