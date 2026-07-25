@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T08:40:31.376Z",
+  "generated": "2026-07-25T08:40:46.133Z",
   "groups": [
     {
       "id": "XH",
@@ -304,7 +304,7 @@
           ]
         }
       ],
-      "done": 38,
+      "done": 39,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -343,11 +343,11 @@
         "J9",
         "GMM",
         "R4",
-        "NEX"
+        "NEX",
+        "TNC2"
       ],
       "outlets_outstanding": [
         "PECC",
-        "TNC2",
         "LOY",
         "CKCC",
         "TPM",
@@ -520,6 +520,10 @@
         },
         "NEX": {
           "by": "Sasi",
+          "time": "16:40"
+        },
+        "TNC2": {
+          "by": "Rsathiyaselvi",
           "time": "16:40"
         }
       },
