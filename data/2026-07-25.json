@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T04:51:41.473Z",
+  "generated": "2026-07-25T04:53:11.794Z",
   "groups": [
     {
       "id": "XH",
@@ -284,7 +284,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -309,10 +309,10 @@
         "BNV",
         "BS",
         "CT",
-        "CTP"
+        "CTP",
+        "JP"
       ],
       "outlets_outstanding": [
-        "JP",
         "JKN",
         "PECC",
         "TNC2",
@@ -445,6 +445,10 @@
         "CTP": {
           "by": "Rsathiyaselvi",
           "time": "12:51"
+        },
+        "JP": {
+          "by": "Sudhakar",
+          "time": "12:53"
         }
       },
       "problems": [],
