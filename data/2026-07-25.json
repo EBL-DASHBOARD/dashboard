@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T01:43:31.532Z",
+  "generated": "2026-07-25T01:48:04.734Z",
   "groups": [
     {
       "id": "XH",
@@ -254,13 +254,14 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "YTP",
         "WXI",
         "TY",
         "CCKS",
-        "ARC"
+        "ARC",
+        "IM"
       ],
       "outlets_outstanding": [
         "BS",
@@ -279,7 +280,6 @@
         "KIT",
         "TIO",
         "VIVO",
-        "IM",
         "JP",
         "DV",
         "TGCC",
@@ -305,6 +305,10 @@
         "ARC": {
           "by": "Krishna",
           "time": "09:43"
+        },
+        "IM": {
+          "by": "YAAKESH",
+          "time": "09:48"
         }
       },
       "problems": [],
