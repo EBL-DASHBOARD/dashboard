@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T07:56:53.342Z",
+  "generated": "2026-07-25T07:58:12.085Z",
   "groups": [
     {
       "id": "XH",
@@ -284,7 +284,7 @@
           ]
         }
       ],
-      "done": 36,
+      "done": 37,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -321,7 +321,8 @@
         "SSC2",
         "WLCC",
         "J9",
-        "GMM"
+        "GMM",
+        "R4"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -337,7 +338,6 @@
         "NTP",
         "NEX",
         "KEB",
-        "R4",
         "R3",
         "AP2",
         "R1",
@@ -493,6 +493,10 @@
         "GMM": {
           "by": "Sasi",
           "time": "15:56"
+        },
+        "R4": {
+          "by": "Krishna",
+          "time": "15:58"
         }
       },
       "problems": [],
