@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T11:07:48.435Z",
+  "generated": "2026-07-25T11:14:10.113Z",
   "groups": [
     {
       "id": "XH",
@@ -304,7 +304,7 @@
           ]
         }
       ],
-      "done": 54,
+      "done": 60,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -359,9 +359,7 @@
         "ACV",
         "FEN",
         "KEB",
-        "HRC"
-      ],
-      "outlets_outstanding": [
+        "HRC",
         "PECC",
         "LOY",
         "R3",
@@ -369,6 +367,7 @@
         "LTM",
         "YS1"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "YTP": {
           "by": "Samy Kumar Meena",
@@ -585,6 +584,30 @@
         "HRC": {
           "by": "Sasi",
           "time": "19:07"
+        },
+        "PECC": {
+          "by": "Major Dhillon",
+          "time": "19:14"
+        },
+        "LOY": {
+          "by": "Major Dhillon",
+          "time": "19:14"
+        },
+        "R3": {
+          "by": "Major Dhillon",
+          "time": "19:14"
+        },
+        "AP1": {
+          "by": "Major Dhillon",
+          "time": "19:14"
+        },
+        "LTM": {
+          "by": "Major Dhillon",
+          "time": "19:14"
+        },
+        "YS1": {
+          "by": "Major Dhillon",
+          "time": "19:14"
         }
       },
       "problems": [],
