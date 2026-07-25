@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T07:56:17.436Z",
+  "generated": "2026-07-25T07:56:53.342Z",
   "groups": [
     {
       "id": "XH",
@@ -284,7 +284,7 @@
           ]
         }
       ],
-      "done": 35,
+      "done": 36,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -320,7 +320,8 @@
         "MARS",
         "SSC2",
         "WLCC",
-        "J9"
+        "J9",
+        "GMM"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -334,7 +335,6 @@
         "VIVA",
         "HRC",
         "NTP",
-        "GMM",
         "NEX",
         "KEB",
         "R4",
@@ -488,6 +488,10 @@
         },
         "J9": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "15:56"
+        },
+        "GMM": {
+          "by": "Sasi",
           "time": "15:56"
         }
       },
