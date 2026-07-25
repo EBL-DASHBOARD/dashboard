@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T07:04:47.505Z",
+  "generated": "2026-07-25T07:14:48.136Z",
   "groups": [
     {
       "id": "XH",
@@ -284,7 +284,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -313,7 +313,8 @@
         "JP",
         "JKN",
         "BHT",
-        "KNX"
+        "KNX",
+        "PAL"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -330,7 +331,6 @@
         "NTP",
         "GMM",
         "NEX",
-        "PAL",
         "KEB",
         "R4",
         "R3",
@@ -461,6 +461,10 @@
         "KNX": {
           "by": "Rsathiyaselvi",
           "time": "15:04"
+        },
+        "PAL": {
+          "by": "Sasi",
+          "time": "15:14"
         }
       },
       "problems": [],
