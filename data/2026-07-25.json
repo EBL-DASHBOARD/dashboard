@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T09:07:10.570Z",
+  "generated": "2026-07-25T09:10:14.153Z",
   "groups": [
     {
       "id": "XH",
@@ -304,7 +304,7 @@
           ]
         }
       ],
-      "done": 42,
+      "done": 43,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -347,7 +347,8 @@
         "TNC2",
         "VIVA",
         "WWP",
-        "CM1"
+        "CM1",
+        "NTP"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -358,7 +359,6 @@
         "CCP",
         "AP4",
         "HRC",
-        "NTP",
         "KEB",
         "R3",
         "AP2",
@@ -537,6 +537,10 @@
         "CM1": {
           "by": "Sudhakar",
           "time": "17:07"
+        },
+        "NTP": {
+          "by": "Sasi",
+          "time": "17:10"
         }
       },
       "problems": [],
