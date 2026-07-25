@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T08:02:09.224Z",
+  "generated": "2026-07-25T08:07:40.618Z",
   "groups": [
     {
       "id": "XH",
@@ -64,7 +64,7 @@
           ]
         }
       ],
-      "done": 9,
+      "done": 11,
       "outlets_done": [
         "Citygate",
         "Suntec City",
@@ -74,7 +74,9 @@
         "Punggol Plaza",
         "Junction 8",
         "Causeway Point",
-        "888 Plaza"
+        "888 Plaza",
+        "Guoco Tower",
+        "100 AM Mall"
       ],
       "outlets_outstanding": [
         "Compass One",
@@ -116,6 +118,14 @@
         "888 Plaza": {
           "by": "boss",
           "time": "16:02"
+        },
+        "Guoco Tower": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "16:07"
+        },
+        "100 AM Mall": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "16:07"
         }
       },
       "problems": [],
