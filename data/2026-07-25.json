@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated": "2026-07-25T03:39:35.278Z",
+  "generated": "2026-07-25T03:50:39.028Z",
   "groups": [
     {
       "id": "XH",
@@ -254,7 +254,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -270,7 +270,8 @@
         "VIVO",
         "KIT",
         "DV",
-        "TGCC"
+        "TGCC",
+        "TIO"
       ],
       "outlets_outstanding": [
         "BS",
@@ -281,7 +282,6 @@
         "BNV",
         "WSM",
         "TRM",
-        "TIO",
         "JP",
         "JKN"
       ],
@@ -345,6 +345,10 @@
         "TGCC": {
           "by": "Sudhakar",
           "time": "11:39"
+        },
+        "TIO": {
+          "by": "Krishna",
+          "time": "11:50"
         }
       },
       "problems": [],
