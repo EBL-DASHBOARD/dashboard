@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T05:53:47.738Z",
+  "generated": "2026-07-27T06:43:26.048Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -217,7 +217,7 @@
           "pm": []
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -241,14 +241,14 @@
         "Century Square",
         "Tampines 1",
         "Tanah Merah Ferry Terminal",
-        "Zhongshan Mall"
+        "Zhongshan Mall",
+        "Waterway Point"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
         "Compass One",
         "Rivervale Mall",
         "Causeway Point",
-        "Waterway Point",
         "Westgate Tower",
         "JEM",
         "Fairprice Hub",
@@ -357,6 +357,10 @@
         "Zhongshan Mall": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "13:09"
+        },
+        "Waterway Point": {
+          "by": "Nur Azimah",
+          "time": "14:43"
         }
       },
       "problems": [],
