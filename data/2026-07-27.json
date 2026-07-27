@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T08:02:51.729Z",
+  "generated": "2026-07-27T08:13:23.737Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -217,7 +217,7 @@
           "pm": []
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -246,7 +246,8 @@
         "Flavours @ NUS Uptown",
         "Punggol Coast Mall",
         "Compass One",
-        "Galaxis"
+        "Galaxis",
+        "Royal Square"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
@@ -262,7 +263,6 @@
         "Far East Plaza Kiosk E",
         "V Hotel Lavender",
         "The Poiz Centre",
-        "Royal Square",
         "New Tech Park"
       ],
       "done_detail": {
@@ -377,6 +377,10 @@
         "Galaxis": {
           "by": "ratharun",
           "time": "16:02"
+        },
+        "Royal Square": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "16:13"
         }
       },
       "problems": [],
