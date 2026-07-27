@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T02:30:18.182Z",
+  "generated": "2026-07-27T02:34:41.393Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -214,13 +214,15 @@
           "pm": []
         }
       ],
-      "done": 5,
+      "done": 7,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
         "Le Quest",
         "Hougang Mall",
-        "ARTRA"
+        "ARTRA",
+        "Vivocity",
+        "AltitudeX"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -237,8 +239,6 @@
         "Junction 9",
         "Northpoint City",
         "Woods Square",
-        "Vivocity",
-        "AltitudeX",
         "HarbourFront Tower 1",
         "GENEO",
         "Lucky Plaza"
@@ -263,6 +263,14 @@
         "ARTRA": {
           "by": "SEENU.C",
           "time": "09:55"
+        },
+        "Vivocity": {
+          "by": "Major Dhillon",
+          "time": "10:34"
+        },
+        "AltitudeX": {
+          "by": "Major Dhillon",
+          "time": "10:34"
         }
       },
       "problems": [],
