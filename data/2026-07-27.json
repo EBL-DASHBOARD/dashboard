@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T04:44:45.315Z",
+  "generated": "2026-07-27T04:44:48.224Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -497,7 +497,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -519,10 +519,10 @@
         "PS",
         "KIT",
         "ARC",
-        "TIO"
+        "TIO",
+        "ART"
       ],
       "outlets_outstanding": [
-        "ART",
         "BNV",
         "TNC2",
         "KNX",
@@ -636,6 +636,10 @@
           "time": "12:44"
         },
         "TIO": {
+          "by": "Sudhakar",
+          "time": "12:44"
+        },
+        "ART": {
           "by": "Sudhakar",
           "time": "12:44"
         }
