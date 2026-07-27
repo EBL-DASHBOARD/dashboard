@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T07:50:22.422Z",
+  "generated": "2026-07-27T07:53:20.689Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -528,7 +528,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -556,7 +556,8 @@
         "GMM",
         "NEX",
         "KNX",
-        "NTP"
+        "NTP",
+        "AP4"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -577,7 +578,6 @@
         "KEB",
         "R3",
         "AP2",
-        "AP4",
         "AP1",
         "R1",
         "YS1",
@@ -693,6 +693,10 @@
         "NTP": {
           "by": "Sasi",
           "time": "15:50"
+        },
+        "AP4": {
+          "by": "Krishna",
+          "time": "15:53"
         }
       },
       "problems": [],
