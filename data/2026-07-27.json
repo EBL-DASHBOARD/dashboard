@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T09:43:07.897Z",
+  "generated": "2026-07-27T09:43:26.622Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -217,7 +217,7 @@
           "pm": []
         }
       ],
-      "done": 34,
+      "done": 35,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -252,11 +252,11 @@
         "Westgate Tower",
         "JEM",
         "Rivervale Mall",
-        "Mapletree Business City"
+        "Mapletree Business City",
+        "Causeway Point"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
-        "Causeway Point",
         "Fairprice Hub",
         "Eastpoint Mall",
         "313 Somerset",
@@ -401,6 +401,10 @@
         "Mapletree Business City": {
           "by": "ratharun",
           "time": "17:41"
+        },
+        "Causeway Point": {
+          "by": "Nur Azimah",
+          "time": "17:43"
         }
       },
       "problems": [],
