@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-28",
+  "generated": "2026-07-27T10:54:40.546Z",
+  "groups": [
+    {
+      "id": "XH",
+      "name": "Xh Delivery",
+      "total_locations": 22,
+      "am_total": 13,
+      "pm_total": 9,
+      "am_outlets": [
+        "Suntec City",
+        "Marina Square",
+        "Margaret Market",
+        "South Beach Tower",
+        "Lucky Plaza (AM)",
+        "Pasir Ris Mall",
+        "White Sands",
+        "Institute of Mental Health",
+        "Junction 8",
+        "Punggol Plaza",
+        "The Rail Mall",
+        "Hillion Mall",
+        "888 Plaza"
+      ],
+      "pm_outlets": [
+        "GRID",
+        "Duo Galleria",
+        "100 AM Mall",
+        "Downtown East",
+        "Plaza Singapura",
+        "Guoco Tower",
+        "Waterway Point",
+        "Causeway Point",
+        "Compass One"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Suntec City",
+            "Marina Square",
+            "Margaret Market",
+            "South Beach Tower",
+            "Lucky Plaza (AM)"
+          ],
+          "pm": [
+            "GRID",
+            "Duo Galleria",
+            "100 AM Mall"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "Pasir Ris Mall",
+            "White Sands",
+            "Institute of Mental Health",
+            "Junction 8"
+          ],
+          "pm": [
+            "Downtown East",
+            "Plaza Singapura",
+            "Guoco Tower"
+          ]
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Punggol Plaza",
+            "The Rail Mall",
+            "Hillion Mall",
+            "888 Plaza"
+          ],
+          "pm": [
+            "Waterway Point",
+            "Causeway Point",
+            "Compass One"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Suntec City",
+        "Marina Square",
+        "Margaret Market",
+        "South Beach Tower",
+        "Lucky Plaza (AM)",
+        "Pasir Ris Mall",
+        "White Sands",
+        "Institute of Mental Health",
+        "Junction 8",
+        "Punggol Plaza",
+        "The Rail Mall",
+        "Hillion Mall",
+        "888 Plaza"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
