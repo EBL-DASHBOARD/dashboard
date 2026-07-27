@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T08:55:43.591Z",
+  "generated": "2026-07-27T08:56:12.352Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -552,7 +552,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -582,7 +582,8 @@
         "KNX",
         "NTP",
         "AP4",
-        "PAL"
+        "PAL",
+        "KEB"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -599,7 +600,6 @@
         "HRC",
         "WWP",
         "ACV",
-        "KEB",
         "R3",
         "AP2",
         "AP1",
@@ -725,6 +725,10 @@
         "PAL": {
           "by": "Samy Kumar Meena",
           "time": "15:57"
+        },
+        "KEB": {
+          "by": "Sasi",
+          "time": "16:56"
         }
       },
       "problems": [],
