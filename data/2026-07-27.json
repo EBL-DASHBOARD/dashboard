@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T07:57:46.548Z",
+  "generated": "2026-07-27T08:02:51.729Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -217,7 +217,7 @@
           "pm": []
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -245,7 +245,8 @@
         "Waterway Point",
         "Flavours @ NUS Uptown",
         "Punggol Coast Mall",
-        "Compass One"
+        "Compass One",
+        "Galaxis"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
@@ -255,7 +256,6 @@
         "JEM",
         "Fairprice Hub",
         "120 Robinson",
-        "Galaxis",
         "Mapletree Business City",
         "Eastpoint Mall",
         "313 Somerset",
@@ -373,6 +373,10 @@
         "Compass One": {
           "by": "Nur Azimah",
           "time": "15:40"
+        },
+        "Galaxis": {
+          "by": "ratharun",
+          "time": "16:02"
         }
       },
       "problems": [],
