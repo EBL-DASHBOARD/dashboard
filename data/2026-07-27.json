@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T08:27:29.272Z",
+  "generated": "2026-07-27T08:32:07.028Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -217,7 +217,7 @@
           "pm": []
         }
       ],
-      "done": 30,
+      "done": 32,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -248,14 +248,14 @@
         "Compass One",
         "Galaxis",
         "Royal Square",
-        "120 Robinson"
+        "120 Robinson",
+        "Westgate Tower",
+        "JEM"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
         "Rivervale Mall",
         "Causeway Point",
-        "Westgate Tower",
-        "JEM",
         "Fairprice Hub",
         "Mapletree Business City",
         "Eastpoint Mall",
@@ -385,6 +385,14 @@
         "120 Robinson": {
           "by": "ratharun",
           "time": "16:27"
+        },
+        "Westgate Tower": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "16:32"
+        },
+        "JEM": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "16:32"
         }
       },
       "problems": [],
