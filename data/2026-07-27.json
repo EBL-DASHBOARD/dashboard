@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T04:00:00.093Z",
+  "generated": "2026-07-27T04:02:57.126Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -473,7 +473,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -489,7 +489,8 @@
         "KLP",
         "TRM",
         "BQ",
-        "CT"
+        "CT",
+        "KRC"
       ],
       "outlets_outstanding": [
         "ARC",
@@ -499,7 +500,6 @@
         "KIT",
         "PS",
         "BNV",
-        "KRC",
         "TNC2",
         "KNX",
         "LOY",
@@ -590,6 +590,10 @@
         "CT": {
           "by": "Sudhakar",
           "time": "11:36"
+        },
+        "KRC": {
+          "by": "Krishna",
+          "time": "12:02"
         }
       },
       "problems": [],
