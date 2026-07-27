@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T09:30:13.669Z",
+  "generated": "2026-07-27T09:30:20.308Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -552,7 +552,7 @@
           ]
         }
       ],
-      "done": 33,
+      "done": 34,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -586,7 +586,8 @@
         "KEB",
         "CKCC",
         "TNC2",
-        "KTB"
+        "KTB",
+        "YS1"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -605,7 +606,6 @@
         "AP2",
         "AP1",
         "R1",
-        "YS1",
         "MARS",
         "WIS"
       ],
@@ -739,6 +739,10 @@
           "time": "17:10"
         },
         "KTB": {
+          "by": "Rajesh",
+          "time": "17:30"
+        },
+        "YS1": {
           "by": "Rajesh",
           "time": "17:30"
         }
