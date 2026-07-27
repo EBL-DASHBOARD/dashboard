@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T08:13:23.737Z",
+  "generated": "2026-07-27T08:27:29.272Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -217,7 +217,7 @@
           "pm": []
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -247,7 +247,8 @@
         "Punggol Coast Mall",
         "Compass One",
         "Galaxis",
-        "Royal Square"
+        "Royal Square",
+        "120 Robinson"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
@@ -256,7 +257,6 @@
         "Westgate Tower",
         "JEM",
         "Fairprice Hub",
-        "120 Robinson",
         "Mapletree Business City",
         "Eastpoint Mall",
         "313 Somerset",
@@ -381,6 +381,10 @@
         "Royal Square": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "16:13"
+        },
+        "120 Robinson": {
+          "by": "ratharun",
+          "time": "16:27"
         }
       },
       "problems": [],
