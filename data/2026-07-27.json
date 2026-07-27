@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T04:26:18.967Z",
+  "generated": "2026-07-27T04:33:15.476Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -214,7 +214,7 @@
           "pm": []
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -232,7 +232,8 @@
         "Hillion Mall",
         "HarbourFront Tower 1",
         "GENEO",
-        "Northpoint City"
+        "Northpoint City",
+        "Woods Square"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -240,7 +241,6 @@
         "UE Square",
         "Century Square",
         "Tampines 1",
-        "Woods Square",
         "Lucky Plaza",
         "Compass One",
         "Rivervale Mall",
@@ -248,7 +248,11 @@
         "Waterway Point",
         "Westgate Tower",
         "JEM",
-        "Fairprice Hub"
+        "Fairprice Hub",
+        "120 Robinson",
+        "Galaxis",
+        "Mapletree Business City",
+        "Flavours @ NUS Uptown"
       ],
       "done_detail": {
         "West Mall": {
@@ -318,6 +322,10 @@
         "Northpoint City": {
           "by": "ratharun",
           "time": "11:53"
+        },
+        "Woods Square": {
+          "by": "ratharun",
+          "time": "12:33"
         }
       },
       "problems": [],
