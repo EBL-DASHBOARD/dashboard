@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T09:10:06.011Z",
+  "generated": "2026-07-27T09:10:13.933Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -552,7 +552,7 @@
           ]
         }
       ],
-      "done": 31,
+      "done": 32,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -584,10 +584,10 @@
         "AP4",
         "PAL",
         "KEB",
-        "CKCC"
+        "CKCC",
+        "TNC2"
       ],
       "outlets_outstanding": [
-        "TNC2",
         "LOY",
         "PECC",
         "TPM",
@@ -731,6 +731,10 @@
           "time": "16:56"
         },
         "CKCC": {
+          "by": "Sudhakar",
+          "time": "17:10"
+        },
+        "TNC2": {
           "by": "Sudhakar",
           "time": "17:10"
         }
