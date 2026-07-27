@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T01:55:28.850Z",
+  "generated": "2026-07-27T02:02:03.058Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -418,13 +418,14 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "CCKS",
         "JP",
         "KH",
         "DV",
-        "USQ"
+        "USQ",
+        "IM"
       ],
       "outlets_outstanding": [
         "ARC",
@@ -441,7 +442,6 @@
         "SHP",
         "KLP",
         "PS",
-        "IM",
         "CL2",
         "BNV",
         "KRC"
@@ -466,6 +466,10 @@
         "USQ": {
           "by": "Sasi",
           "time": "09:39"
+        },
+        "IM": {
+          "by": "Krishna",
+          "time": "10:02"
         }
       },
       "problems": [],
