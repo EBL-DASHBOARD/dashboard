@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T09:30:20.308Z",
+  "generated": "2026-07-27T09:32:23.661Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -552,7 +552,7 @@
           ]
         }
       ],
-      "done": 34,
+      "done": 36,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -587,15 +587,15 @@
         "CKCC",
         "TNC2",
         "KTB",
-        "YS1"
+        "YS1",
+        "BHT",
+        "BOB"
       ],
       "outlets_outstanding": [
         "LOY",
         "PECC",
         "TPM",
         "VIVA",
-        "BOB",
-        "BHT",
         "CCP",
         "EPT",
         "CM1",
@@ -745,6 +745,14 @@
         "YS1": {
           "by": "Rajesh",
           "time": "17:30"
+        },
+        "BHT": {
+          "by": "Samy Kumar Meena",
+          "time": "17:32"
+        },
+        "BOB": {
+          "by": "Samy Kumar Meena",
+          "time": "17:32"
         }
       },
       "problems": [],
