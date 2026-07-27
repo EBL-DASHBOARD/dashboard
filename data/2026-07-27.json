@@ -1,75 +1,78 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T05:33:54.113Z",
+  "generated": "2026-07-27T05:53:47.738Z",
   "groups": [
     {
       "id": "XHNIGHT",
       "name": "Xh Delivery (Night)",
-      "total_locations": 13,
-      "am_total": 8,
+      "total_locations": 14,
+      "am_total": 9,
       "pm_total": 5,
       "am_outlets": [
-        "Jewel",
-        "Changi T1 Transit",
-        "Icon Link",
-        "Chinatown Point",
-        "Changi City Point",
-        "Hougang 1",
-        "ESR BizPark @ Changi",
-        "Parkway Parade"
+        "Citylink",
+        "One Raffles Link",
+        "One Raffles Place Tower 2",
+        "Tangs Plaza Kiosk 2",
+        "Royal Group Building",
+        "PLQ Tower 1",
+        "Aperia Mall",
+        "Lazada One",
+        "Marina One"
       ],
       "pm_outlets": [
-        "Coronation Shopping Plaza",
-        "The Strategy",
-        "Ngee Ann Polytechnic B",
-        "Westgate",
-        "NTU South Spine"
+        "Ngee Ann City",
+        "Collyer Quay",
+        "9 Penang Road",
+        "NUH Medical Centre",
+        "77 Robinson"
       ],
       "trucks": [
         {
           "name": "TRUCK 1",
           "am": [
-            "Jewel",
-            "Changi T1 Transit"
+            "Citylink",
+            "One Raffles Link",
+            "One Raffles Place Tower 2",
+            "Tangs Plaza Kiosk 2",
+            "Royal Group Building"
           ],
-          "pm": []
+          "pm": [
+            "Ngee Ann City",
+            "Collyer Quay",
+            "9 Penang Road",
+            "NUH Medical Centre",
+            "77 Robinson"
+          ]
         },
         {
           "name": "TRUCK 2",
           "am": [
-            "Icon Link",
-            "Chinatown Point"
+            "PLQ Tower 1",
+            "Aperia Mall"
           ],
           "pm": []
         },
         {
           "name": "TRUCK 3",
           "am": [
-            "Changi City Point",
-            "Hougang 1",
-            "ESR BizPark @ Changi",
-            "Parkway Parade"
+            "Lazada One",
+            "Marina One"
           ],
-          "pm": [
-            "Coronation Shopping Plaza",
-            "The Strategy",
-            "Ngee Ann Polytechnic B",
-            "Westgate",
-            "NTU South Spine"
-          ]
+          "pm": []
         }
       ],
       "done": 0,
       "outlets_done": [],
       "outlets_outstanding": [
-        "Jewel",
-        "Changi T1 Transit",
-        "Icon Link",
-        "Chinatown Point",
-        "Changi City Point",
-        "Hougang 1",
-        "ESR BizPark @ Changi",
-        "Parkway Parade"
+        "Citylink",
+        "One Raffles Link",
+        "One Raffles Place Tower 2",
+        "Tangs Plaza Kiosk 2",
+        "Royal Group Building",
+        "PLQ Tower 1",
+        "Aperia Mall",
+        "Lazada One",
+        "Marina One"
       ],
       "done_detail": {},
       "problems": [],
