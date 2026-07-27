@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T03:36:52.696Z",
+  "generated": "2026-07-27T03:47:26.327Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -214,7 +214,7 @@
           "pm": []
         }
       ],
-      "done": 12,
+      "done": 14,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -227,7 +227,9 @@
         "The Woodleigh Mall",
         "63 Pagoda Street",
         "Tampines Mart",
-        "Junction 9"
+        "Junction 9",
+        "Dairy Farm Mall",
+        "Hillion Mall"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -235,13 +237,15 @@
         "UE Square",
         "Century Square",
         "Tampines 1",
-        "Dairy Farm Mall",
-        "Hillion Mall",
         "Northpoint City",
         "Woods Square",
         "HarbourFront Tower 1",
         "GENEO",
-        "Lucky Plaza"
+        "Lucky Plaza",
+        "Compass One",
+        "Rivervale Mall",
+        "Causeway Point",
+        "Waterway Point"
       ],
       "done_detail": {
         "West Mall": {
@@ -291,6 +295,14 @@
         "Junction 9": {
           "by": "ratharun",
           "time": "11:17"
+        },
+        "Dairy Farm Mall": {
+          "by": "Nur Azimah",
+          "time": "11:47"
+        },
+        "Hillion Mall": {
+          "by": "Nur Azimah",
+          "time": "11:47"
         }
       },
       "problems": [],
