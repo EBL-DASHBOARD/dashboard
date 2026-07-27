@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T01:39:54.293Z",
+  "generated": "2026-07-27T01:55:28.850Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -214,12 +214,13 @@
           "pm": []
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
         "Le Quest",
-        "Hougang Mall"
+        "Hougang Mall",
+        "ARTRA"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -240,7 +241,6 @@
         "AltitudeX",
         "HarbourFront Tower 1",
         "GENEO",
-        "ARTRA",
         "Lucky Plaza"
       ],
       "done_detail": {
@@ -259,6 +259,10 @@
         "Hougang Mall": {
           "by": "ratharun",
           "time": "09:36"
+        },
+        "ARTRA": {
+          "by": "SEENU.C",
+          "time": "09:55"
         }
       },
       "problems": [],
