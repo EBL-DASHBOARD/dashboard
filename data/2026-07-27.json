@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T17:08:47.276Z",
+  "generated": "2026-07-27T18:43:58.991Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -61,18 +61,19 @@
           "pm": []
         }
       ],
-      "done": 5,
+      "done": 7,
       "outlets_done": [
         "Collyer Quay",
         "PLQ Tower 1",
         "Aperia Mall",
         "One Raffles Place Tower 2",
-        "Royal Group Building"
+        "Royal Group Building",
+        "Ngee Ann City",
+        "Tangs Plaza Kiosk 2"
       ],
       "outlets_outstanding": [
         "Citylink",
         "One Raffles Link",
-        "Tangs Plaza Kiosk 2",
         "Lazada One",
         "Marina One"
       ],
@@ -96,6 +97,14 @@
         "Royal Group Building": {
           "by": "SEENU.C",
           "time": "01:08"
+        },
+        "Ngee Ann City": {
+          "by": "SEENU.C",
+          "time": "02:43"
+        },
+        "Tangs Plaza Kiosk 2": {
+          "by": "SEENU.C",
+          "time": "02:43"
         }
       },
       "problems": [],
