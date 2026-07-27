@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T07:17:57.257Z",
+  "generated": "2026-07-27T07:40:14.618Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -217,7 +217,7 @@
           "pm": []
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -244,11 +244,11 @@
         "Zhongshan Mall",
         "Waterway Point",
         "Flavours @ NUS Uptown",
-        "Punggol Coast Mall"
+        "Punggol Coast Mall",
+        "Compass One"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
-        "Compass One",
         "Rivervale Mall",
         "Causeway Point",
         "Westgate Tower",
@@ -369,6 +369,10 @@
         "Punggol Coast Mall": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "15:17"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "15:40"
         }
       },
       "problems": [],
