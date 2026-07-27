@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T02:02:14.796Z",
+  "generated": "2026-07-27T02:14:04.744Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -418,7 +418,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -426,7 +426,8 @@
         "DV",
         "USQ",
         "IM",
-        "VIVO"
+        "VIVO",
+        "BPP"
       ],
       "outlets_outstanding": [
         "ARC",
@@ -435,7 +436,6 @@
         "BQ",
         "CT",
         "WSM",
-        "BPP",
         "HV2",
         "TRM",
         "KIT",
@@ -474,6 +474,10 @@
         "VIVO": {
           "by": "YAAKESH",
           "time": "10:02"
+        },
+        "BPP": {
+          "by": "Samy Kumar Meena",
+          "time": "10:14"
         }
       },
       "problems": [],
