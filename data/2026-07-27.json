@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T08:32:07.028Z",
+  "generated": "2026-07-27T08:55:43.591Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -217,7 +217,7 @@
           "pm": []
         }
       ],
-      "done": 32,
+      "done": 33,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -250,11 +250,11 @@
         "Royal Square",
         "120 Robinson",
         "Westgate Tower",
-        "JEM"
+        "JEM",
+        "Rivervale Mall"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
-        "Rivervale Mall",
         "Causeway Point",
         "Fairprice Hub",
         "Mapletree Business City",
@@ -393,6 +393,10 @@
         "JEM": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "16:32"
+        },
+        "Rivervale Mall": {
+          "by": "Nur Azimah",
+          "time": "16:55"
         }
       },
       "problems": [],
