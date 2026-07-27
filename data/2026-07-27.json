@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T01:27:42.261Z",
+  "generated": "2026-07-27T01:32:00.171Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -214,10 +214,11 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "West Mall",
-        "Alexandra Technopark B"
+        "Alexandra Technopark B",
+        "Le Quest"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -230,7 +231,6 @@
         "Tampines 1",
         "Dairy Farm Mall",
         "Hillion Mall",
-        "Le Quest",
         "Parc Point",
         "Hougang Mall",
         "Junction 9",
@@ -251,6 +251,10 @@
         "Alexandra Technopark B": {
           "by": "SEENU.C",
           "time": "09:09"
+        },
+        "Le Quest": {
+          "by": "Nur Azimah",
+          "time": "09:32"
         }
       },
       "problems": [],
