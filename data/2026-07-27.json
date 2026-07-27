@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T11:07:32.952Z",
+  "generated": "2026-07-27T11:33:05.520Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -560,7 +560,7 @@
           ]
         }
       ],
-      "done": 45,
+      "done": 47,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -606,12 +606,12 @@
         "TPM",
         "LOY",
         "MARS",
-        "AP2"
+        "AP2",
+        "CCP",
+        "EPT"
       ],
       "outlets_outstanding": [
         "PECC",
-        "CCP",
-        "EPT",
         "HRC",
         "WWP",
         "R3",
@@ -797,6 +797,14 @@
         "AP2": {
           "by": "Krishna",
           "time": "19:07"
+        },
+        "CCP": {
+          "by": "Samy Kumar Meena",
+          "time": "19:33"
+        },
+        "EPT": {
+          "by": "Samy Kumar Meena",
+          "time": "19:33"
         }
       },
       "problems": [],
