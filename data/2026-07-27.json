@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T11:07:19.256Z",
+  "generated": "2026-07-27T11:07:32.952Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -560,7 +560,7 @@
           ]
         }
       ],
-      "done": 44,
+      "done": 45,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -605,7 +605,8 @@
         "CM1",
         "TPM",
         "LOY",
-        "MARS"
+        "MARS",
+        "AP2"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -614,7 +615,6 @@
         "HRC",
         "WWP",
         "R3",
-        "AP2",
         "AP1"
       ],
       "done_detail": {
@@ -792,6 +792,10 @@
         },
         "MARS": {
           "by": "Rajesh",
+          "time": "19:07"
+        },
+        "AP2": {
+          "by": "Krishna",
           "time": "19:07"
         }
       },
