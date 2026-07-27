@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T03:03:08.951Z",
+  "generated": "2026-07-27T03:15:37.337Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -442,7 +442,7 @@
           ]
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -454,7 +454,8 @@
         "BPP",
         "SHP",
         "HV2",
-        "CL2"
+        "CL2",
+        "KLP"
       ],
       "outlets_outstanding": [
         "ARC",
@@ -465,7 +466,6 @@
         "WSM",
         "TRM",
         "KIT",
-        "KLP",
         "PS",
         "BNV",
         "KRC"
@@ -514,6 +514,10 @@
         "CL2": {
           "by": "Krishna",
           "time": "11:01"
+        },
+        "KLP": {
+          "by": "Sasi",
+          "time": "11:15"
         }
       },
       "problems": [],
