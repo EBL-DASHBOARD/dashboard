@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T00:40:54.606Z",
+  "generated": "2026-07-27T00:43:43.870Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -402,8 +402,10 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "CCKS"
+      ],
       "outlets_outstanding": [
         "ARC",
         "TIO",
@@ -414,7 +416,6 @@
         "WSM",
         "BPP",
         "HV2",
-        "CCKS",
         "TRM",
         "KH",
         "DV",
@@ -429,7 +430,12 @@
         "BNV",
         "KRC"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "CCKS": {
+          "by": "Samy Kumar Meena",
+          "time": "08:43"
+        }
+      },
       "problems": [],
       "customers": null
     }
