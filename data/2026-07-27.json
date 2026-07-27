@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T10:13:50.721Z",
+  "generated": "2026-07-27T10:23:51.053Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -560,7 +560,7 @@
           ]
         }
       ],
-      "done": 39,
+      "done": 40,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -600,7 +600,8 @@
         "BOB",
         "ACV",
         "VIVA",
-        "R1"
+        "R1",
+        "WIS"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -614,8 +615,7 @@
         "R3",
         "AP2",
         "AP1",
-        "MARS",
-        "WIS"
+        "MARS"
       ],
       "done_detail": {
         "CCKS": {
@@ -773,6 +773,10 @@
         "R1": {
           "by": "Krishna",
           "time": "18:13"
+        },
+        "WIS": {
+          "by": "Rajesh",
+          "time": "18:23"
         }
       },
       "problems": [],
