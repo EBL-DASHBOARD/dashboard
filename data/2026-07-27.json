@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T03:15:37.337Z",
+  "generated": "2026-07-27T03:17:38.395Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -214,7 +214,7 @@
           "pm": []
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -226,7 +226,8 @@
         "Parc Point",
         "The Woodleigh Mall",
         "63 Pagoda Street",
-        "Tampines Mart"
+        "Tampines Mart",
+        "Junction 9"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -236,7 +237,6 @@
         "Tampines 1",
         "Dairy Farm Mall",
         "Hillion Mall",
-        "Junction 9",
         "Northpoint City",
         "Woods Square",
         "HarbourFront Tower 1",
@@ -287,6 +287,10 @@
         "Tampines Mart": {
           "by": "boss",
           "time": "11:03"
+        },
+        "Junction 9": {
+          "by": "ratharun",
+          "time": "11:17"
         }
       },
       "problems": [],
