@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T06:43:26.048Z",
+  "generated": "2026-07-27T07:08:54.345Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -516,7 +516,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -540,7 +540,8 @@
         "ARC",
         "TIO",
         "ART",
-        "BNV"
+        "BNV",
+        "GMM"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -551,7 +552,6 @@
         "TPM",
         "VIVA",
         "PAL",
-        "GMM",
         "BOB",
         "BHT",
         "CCP",
@@ -665,6 +665,10 @@
         "BNV": {
           "by": "Krishna",
           "time": "13:33"
+        },
+        "GMM": {
+          "by": "Samy Kumar Meena",
+          "time": "15:08"
         }
       },
       "problems": [],
