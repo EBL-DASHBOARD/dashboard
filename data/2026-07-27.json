@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T09:10:13.933Z",
+  "generated": "2026-07-27T09:30:13.669Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -552,7 +552,7 @@
           ]
         }
       ],
-      "done": 32,
+      "done": 33,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -585,7 +585,8 @@
         "PAL",
         "KEB",
         "CKCC",
-        "TNC2"
+        "TNC2",
+        "KTB"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -606,7 +607,6 @@
         "R1",
         "YS1",
         "MARS",
-        "KTB",
         "WIS"
       ],
       "done_detail": {
@@ -737,6 +737,10 @@
         "TNC2": {
           "by": "Sudhakar",
           "time": "17:10"
+        },
+        "KTB": {
+          "by": "Rajesh",
+          "time": "17:30"
         }
       },
       "problems": [],
