@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T07:15:53.680Z",
+  "generated": "2026-07-27T07:17:57.257Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -217,7 +217,7 @@
           "pm": []
         }
       ],
-      "done": 25,
+      "done": 26,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -243,7 +243,8 @@
         "Tanah Merah Ferry Terminal",
         "Zhongshan Mall",
         "Waterway Point",
-        "Flavours @ NUS Uptown"
+        "Flavours @ NUS Uptown",
+        "Punggol Coast Mall"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
@@ -260,7 +261,6 @@
         "313 Somerset",
         "Far East Plaza Kiosk E",
         "V Hotel Lavender",
-        "Punggol Coast Mall",
         "The Poiz Centre",
         "Royal Square",
         "New Tech Park"
@@ -365,6 +365,10 @@
         "Flavours @ NUS Uptown": {
           "by": "ratharun",
           "time": "15:15"
+        },
+        "Punggol Coast Mall": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "15:17"
         }
       },
       "problems": [],
