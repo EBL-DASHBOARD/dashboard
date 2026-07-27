@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T11:38:03.846Z",
+  "generated": "2026-07-27T11:40:19.109Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -560,7 +560,7 @@
           ]
         }
       ],
-      "done": 48,
+      "done": 50,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -609,11 +609,11 @@
         "AP2",
         "CCP",
         "EPT",
-        "PECC"
+        "PECC",
+        "WWP",
+        "HRC"
       ],
       "outlets_outstanding": [
-        "HRC",
-        "WWP",
         "R3",
         "AP1"
       ],
@@ -809,6 +809,14 @@
         "PECC": {
           "by": "YAAKESH",
           "time": "19:38"
+        },
+        "WWP": {
+          "by": "Sasi",
+          "time": "19:40"
+        },
+        "HRC": {
+          "by": "Sasi",
+          "time": "19:40"
         }
       },
       "problems": [],
