@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T10:23:51.053Z",
+  "generated": "2026-07-27T10:30:37.230Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -560,7 +560,7 @@
           ]
         }
       ],
-      "done": 40,
+      "done": 41,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -601,7 +601,8 @@
         "ACV",
         "VIVA",
         "R1",
-        "WIS"
+        "WIS",
+        "CM1"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -609,7 +610,6 @@
         "TPM",
         "CCP",
         "EPT",
-        "CM1",
         "HRC",
         "WWP",
         "R3",
@@ -777,6 +777,10 @@
         "WIS": {
           "by": "Rajesh",
           "time": "18:23"
+        },
+        "CM1": {
+          "by": "Sasi",
+          "time": "18:30"
         }
       },
       "problems": [],
