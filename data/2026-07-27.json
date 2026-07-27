@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T03:47:28.281Z",
+  "generated": "2026-07-27T03:52:10.133Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -214,7 +214,7 @@
           "pm": []
         }
       ],
-      "done": 14,
+      "done": 16,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -229,7 +229,9 @@
         "Tampines Mart",
         "Junction 9",
         "Dairy Farm Mall",
-        "Hillion Mall"
+        "Hillion Mall",
+        "HarbourFront Tower 1",
+        "GENEO"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -239,13 +241,14 @@
         "Tampines 1",
         "Northpoint City",
         "Woods Square",
-        "HarbourFront Tower 1",
-        "GENEO",
         "Lucky Plaza",
         "Compass One",
         "Rivervale Mall",
         "Causeway Point",
-        "Waterway Point"
+        "Waterway Point",
+        "Westgate Tower",
+        "JEM",
+        "Fairprice Hub"
       ],
       "done_detail": {
         "West Mall": {
@@ -303,6 +306,14 @@
         "Hillion Mall": {
           "by": "Nur Azimah",
           "time": "11:47"
+        },
+        "HarbourFront Tower 1": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "11:52"
+        },
+        "GENEO": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "11:52"
         }
       },
       "problems": [],
