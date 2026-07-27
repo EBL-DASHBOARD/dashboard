@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-26T22:00:04.233Z",
+  "generated": "2026-07-27T00:40:54.606Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -214,8 +214,10 @@
           "pm": []
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "West Mall"
+      ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "Zhongshan Mall",
@@ -228,7 +230,6 @@
         "Dairy Farm Mall",
         "Hillion Mall",
         "Le Quest",
-        "West Mall",
         "Parc Point",
         "Hougang Mall",
         "Junction 9",
@@ -242,7 +243,12 @@
         "ARTRA",
         "Lucky Plaza"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "West Mall": {
+          "by": "Nur Azimah",
+          "time": "08:40"
+        }
+      },
       "problems": [],
       "customers": null
     },
