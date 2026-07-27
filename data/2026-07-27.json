@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T03:01:55.624Z",
+  "generated": "2026-07-27T03:03:08.951Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -214,7 +214,7 @@
           "pm": []
         }
       ],
-      "done": 10,
+      "done": 11,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -225,13 +225,13 @@
         "AltitudeX",
         "Parc Point",
         "The Woodleigh Mall",
-        "63 Pagoda Street"
+        "63 Pagoda Street",
+        "Tampines Mart"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "Zhongshan Mall",
         "UE Square",
-        "Tampines Mart",
         "Century Square",
         "Tampines 1",
         "Dairy Farm Mall",
@@ -283,6 +283,10 @@
         "63 Pagoda Street": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "10:49"
+        },
+        "Tampines Mart": {
+          "by": "boss",
+          "time": "11:03"
         }
       },
       "problems": [],
