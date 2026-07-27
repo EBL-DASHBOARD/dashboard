@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T07:53:20.689Z",
+  "generated": "2026-07-27T07:57:46.548Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -528,7 +528,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -557,7 +557,8 @@
         "NEX",
         "KNX",
         "NTP",
-        "AP4"
+        "AP4",
+        "PAL"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -566,7 +567,6 @@
         "CKCC",
         "TPM",
         "VIVA",
-        "PAL",
         "BOB",
         "BHT",
         "CCP",
@@ -697,6 +697,10 @@
         "AP4": {
           "by": "Krishna",
           "time": "15:53"
+        },
+        "PAL": {
+          "by": "Samy Kumar Meena",
+          "time": "15:57"
         }
       },
       "problems": [],
