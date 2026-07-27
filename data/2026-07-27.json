@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T03:36:47.687Z",
+  "generated": "2026-07-27T03:36:52.696Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -446,7 +446,7 @@
           ]
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -461,13 +461,13 @@
         "CL2",
         "KLP",
         "TRM",
-        "BQ"
+        "BQ",
+        "CT"
       ],
       "outlets_outstanding": [
         "ARC",
         "TIO",
         "ART",
-        "CT",
         "WSM",
         "KIT",
         "PS",
@@ -528,6 +528,10 @@
           "time": "11:27"
         },
         "BQ": {
+          "by": "Sudhakar",
+          "time": "11:36"
+        },
+        "CT": {
           "by": "Sudhakar",
           "time": "11:36"
         }
