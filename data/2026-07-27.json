@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T04:02:57.126Z",
+  "generated": "2026-07-27T04:03:52.034Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -473,7 +473,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -490,13 +490,13 @@
         "TRM",
         "BQ",
         "CT",
-        "KRC"
+        "KRC",
+        "WSM"
       ],
       "outlets_outstanding": [
         "ARC",
         "TIO",
         "ART",
-        "WSM",
         "KIT",
         "PS",
         "BNV",
@@ -594,6 +594,10 @@
         "KRC": {
           "by": "Krishna",
           "time": "12:02"
+        },
+        "WSM": {
+          "by": "Samy Kumar Meena",
+          "time": "12:03"
         }
       },
       "problems": [],
