@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T03:27:54.039Z",
+  "generated": "2026-07-27T03:36:47.687Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -446,7 +446,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -460,13 +460,13 @@
         "HV2",
         "CL2",
         "KLP",
-        "TRM"
+        "TRM",
+        "BQ"
       ],
       "outlets_outstanding": [
         "ARC",
         "TIO",
         "ART",
-        "BQ",
         "CT",
         "WSM",
         "KIT",
@@ -526,6 +526,10 @@
         "TRM": {
           "by": "Samy Kumar Meena",
           "time": "11:27"
+        },
+        "BQ": {
+          "by": "Sudhakar",
+          "time": "11:36"
         }
       },
       "problems": [],
