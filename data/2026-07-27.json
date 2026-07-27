@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T11:40:19.109Z",
+  "generated": "2026-07-27T12:36:07.142Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -560,7 +560,7 @@
           ]
         }
       ],
-      "done": 50,
+      "done": 52,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -611,12 +611,11 @@
         "EPT",
         "PECC",
         "WWP",
-        "HRC"
-      ],
-      "outlets_outstanding": [
+        "HRC",
         "R3",
         "AP1"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "CCKS": {
           "by": "Samy Kumar Meena",
@@ -817,6 +816,14 @@
         "HRC": {
           "by": "Sasi",
           "time": "19:40"
+        },
+        "R3": {
+          "by": "Krishna",
+          "time": "20:36"
+        },
+        "AP1": {
+          "by": "Krishna",
+          "time": "20:36"
         }
       },
       "problems": [],
