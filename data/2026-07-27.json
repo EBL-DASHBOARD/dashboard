@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T07:10:20.353Z",
+  "generated": "2026-07-27T07:15:53.680Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -217,7 +217,7 @@
           "pm": []
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -242,7 +242,8 @@
         "Tampines 1",
         "Tanah Merah Ferry Terminal",
         "Zhongshan Mall",
-        "Waterway Point"
+        "Waterway Point",
+        "Flavours @ NUS Uptown"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
@@ -255,7 +256,6 @@
         "120 Robinson",
         "Galaxis",
         "Mapletree Business City",
-        "Flavours @ NUS Uptown",
         "Eastpoint Mall",
         "313 Somerset",
         "Far East Plaza Kiosk E",
@@ -361,6 +361,10 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "14:43"
+        },
+        "Flavours @ NUS Uptown": {
+          "by": "ratharun",
+          "time": "15:15"
         }
       },
       "problems": [],
