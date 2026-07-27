@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T10:13:28.370Z",
+  "generated": "2026-07-27T10:13:50.721Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -560,7 +560,7 @@
           ]
         }
       ],
-      "done": 38,
+      "done": 39,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -599,7 +599,8 @@
         "BHT",
         "BOB",
         "ACV",
-        "VIVA"
+        "VIVA",
+        "R1"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -613,7 +614,6 @@
         "R3",
         "AP2",
         "AP1",
-        "R1",
         "MARS",
         "WIS"
       ],
@@ -768,6 +768,10 @@
         },
         "VIVA": {
           "by": "Samy Kumar Meena",
+          "time": "18:13"
+        },
+        "R1": {
+          "by": "Krishna",
           "time": "18:13"
         }
       },
