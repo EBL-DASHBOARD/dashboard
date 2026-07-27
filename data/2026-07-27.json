@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T07:40:14.618Z",
+  "generated": "2026-07-27T07:46:04.646Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -528,7 +528,7 @@
           ]
         }
       ],
-      "done": 25,
+      "done": 26,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -554,11 +554,11 @@
         "ART",
         "BNV",
         "GMM",
-        "NEX"
+        "NEX",
+        "KNX"
       ],
       "outlets_outstanding": [
         "TNC2",
-        "KNX",
         "LOY",
         "PECC",
         "CKCC",
@@ -685,6 +685,10 @@
         "NEX": {
           "by": "Sasi",
           "time": "15:10"
+        },
+        "KNX": {
+          "by": "YAAKESH",
+          "time": "15:46"
         }
       },
       "problems": [],
