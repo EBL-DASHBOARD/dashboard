@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T04:33:17.927Z",
+  "generated": "2026-07-27T04:36:27.705Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -214,7 +214,7 @@
           "pm": []
         }
       ],
-      "done": 18,
+      "done": 21,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -233,14 +233,14 @@
         "HarbourFront Tower 1",
         "GENEO",
         "Northpoint City",
-        "Woods Square"
+        "Woods Square",
+        "UE Square",
+        "Century Square",
+        "Tampines 1"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "Zhongshan Mall",
-        "UE Square",
-        "Century Square",
-        "Tampines 1",
         "Lucky Plaza",
         "Compass One",
         "Rivervale Mall",
@@ -252,7 +252,11 @@
         "120 Robinson",
         "Galaxis",
         "Mapletree Business City",
-        "Flavours @ NUS Uptown"
+        "Flavours @ NUS Uptown",
+        "Eastpoint Mall",
+        "313 Somerset",
+        "Far East Plaza Kiosk E",
+        "V Hotel Lavender"
       ],
       "done_detail": {
         "West Mall": {
@@ -326,6 +330,18 @@
         "Woods Square": {
           "by": "ratharun",
           "time": "12:33"
+        },
+        "UE Square": {
+          "by": "boss",
+          "time": "12:36"
+        },
+        "Century Square": {
+          "by": "boss",
+          "time": "12:36"
+        },
+        "Tampines 1": {
+          "by": "boss",
+          "time": "12:36"
         }
       },
       "problems": [],
