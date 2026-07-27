@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T09:41:45.586Z",
+  "generated": "2026-07-27T09:43:07.897Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -556,7 +556,7 @@
           ]
         }
       ],
-      "done": 36,
+      "done": 37,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -593,7 +593,8 @@
         "KTB",
         "YS1",
         "BHT",
-        "BOB"
+        "BOB",
+        "ACV"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -605,7 +606,6 @@
         "CM1",
         "HRC",
         "WWP",
-        "ACV",
         "R3",
         "AP2",
         "AP1",
@@ -757,6 +757,10 @@
         "BOB": {
           "by": "Samy Kumar Meena",
           "time": "17:32"
+        },
+        "ACV": {
+          "by": "Sasi",
+          "time": "17:43"
         }
       },
       "problems": [],
