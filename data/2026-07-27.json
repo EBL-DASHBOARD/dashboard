@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-07-27T02:54:07.744Z",
+  "generated": "2026-07-27T03:01:55.624Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -438,7 +438,7 @@
           ]
         }
       ],
-      "done": 10,
+      "done": 11,
       "outlets_done": [
         "CCKS",
         "JP",
@@ -449,7 +449,8 @@
         "VIVO",
         "BPP",
         "SHP",
-        "HV2"
+        "HV2",
+        "CL2"
       ],
       "outlets_outstanding": [
         "ARC",
@@ -462,7 +463,6 @@
         "KIT",
         "KLP",
         "PS",
-        "CL2",
         "BNV",
         "KRC"
       ],
@@ -506,6 +506,10 @@
         "HV2": {
           "by": "Samy Kumar Meena",
           "time": "10:54"
+        },
+        "CL2": {
+          "by": "Krishna",
+          "time": "11:01"
         }
       },
       "problems": [],
