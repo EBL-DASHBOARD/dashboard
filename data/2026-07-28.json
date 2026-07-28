@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated": "2026-07-28T07:06:41.998Z",
+  "generated": "2026-07-28T07:34:26.341Z",
   "groups": [
     {
       "id": "XH",
@@ -79,7 +79,7 @@
           ]
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -91,14 +91,14 @@
         "Marina Square",
         "Margaret Market",
         "South Beach Tower",
-        "Waterway Point"
+        "Waterway Point",
+        "Compass One"
       ],
       "outlets_outstanding": [
         "Lucky Plaza (AM)",
         "Institute of Mental Health",
         "Junction 8",
-        "Causeway Point",
-        "Compass One"
+        "Causeway Point"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -144,6 +144,10 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "14:45"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "15:34"
         }
       },
       "problems": [],
