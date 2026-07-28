@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated": "2026-07-28T02:12:20.791Z",
+  "generated": "2026-07-28T02:20:21.275Z",
   "groups": [
     {
       "id": "XH",
@@ -79,10 +79,11 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "The Rail Mall",
-        "Hillion Mall"
+        "Hillion Mall",
+        "888 Plaza"
       ],
       "outlets_outstanding": [
         "Suntec City",
@@ -94,8 +95,7 @@
         "White Sands",
         "Institute of Mental Health",
         "Junction 8",
-        "Punggol Plaza",
-        "888 Plaza"
+        "Punggol Plaza"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -105,6 +105,10 @@
         "Hillion Mall": {
           "by": "Nur Azimah",
           "time": "09:43"
+        },
+        "888 Plaza": {
+          "by": "Nur Azimah",
+          "time": "10:20"
         }
       },
       "problems": [],
