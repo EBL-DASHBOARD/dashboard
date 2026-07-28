@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated": "2026-07-28T10:50:41.405Z",
+  "generated": "2026-07-28T10:51:34.471Z",
   "groups": [
     {
       "id": "XH",
@@ -262,7 +262,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 29,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -290,13 +290,13 @@
         "SSC2",
         "CM1",
         "R1",
-        "WWP"
+        "WWP",
+        "J9",
+        "YS1"
       ],
       "outlets_outstanding": [
         "R3",
         "AP1",
-        "J9",
-        "YS1",
         "HRC",
         "PDD"
       ],
@@ -408,6 +408,14 @@
         "WWP": {
           "by": "Sasi",
           "time": "18:50"
+        },
+        "J9": {
+          "by": "Samy Kumar Meena",
+          "time": "18:51"
+        },
+        "YS1": {
+          "by": "Samy Kumar Meena",
+          "time": "18:51"
         }
       },
       "problems": [],
