@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated": "2026-07-28T05:19:31.541Z",
+  "generated": "2026-07-28T06:45:37.485Z",
   "groups": [
     {
       "id": "XH",
@@ -79,7 +79,7 @@
           ]
         }
       ],
-      "done": 10,
+      "done": 11,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -90,13 +90,13 @@
         "Suntec City",
         "Marina Square",
         "Margaret Market",
-        "South Beach Tower"
+        "South Beach Tower",
+        "Waterway Point"
       ],
       "outlets_outstanding": [
         "Lucky Plaza (AM)",
         "Institute of Mental Health",
         "Junction 8",
-        "Waterway Point",
         "Causeway Point",
         "Compass One"
       ],
@@ -140,6 +140,10 @@
         "South Beach Tower": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "13:19"
+        },
+        "Waterway Point": {
+          "by": "Nur Azimah",
+          "time": "14:45"
         }
       },
       "problems": [],
