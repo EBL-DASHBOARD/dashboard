@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated": "2026-07-28T00:38:29.942Z",
+  "generated": "2026-07-28T00:41:38.782Z",
   "groups": [
     {
       "id": "XH",
@@ -205,14 +205,14 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "YTP"
+        "YTP",
+        "WXI"
       ],
       "outlets_outstanding": [
         "IM",
         "CT",
-        "WXI",
         "KRC",
         "JKN",
         "WSM",
@@ -229,6 +229,10 @@
         "YTP": {
           "by": "Samy Kumar Meena",
           "time": "08:38"
+        },
+        "WXI": {
+          "by": "Krishna",
+          "time": "08:41"
         }
       },
       "problems": [],
