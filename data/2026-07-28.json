@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated": "2026-07-28T02:11:49.444Z",
+  "generated": "2026-07-28T02:12:12.552Z",
   "groups": [
     {
       "id": "XH",
@@ -209,18 +209,18 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "YTP",
         "WXI",
         "TY",
         "KH",
         "KRC",
-        "BPP"
+        "BPP",
+        "CT"
       ],
       "outlets_outstanding": [
         "IM",
-        "CT",
         "JKN",
         "WSM",
         "TGCC",
@@ -253,6 +253,10 @@
         "BPP": {
           "by": "Samy Kumar Meena",
           "time": "10:11"
+        },
+        "CT": {
+          "by": "Krishna",
+          "time": "10:12"
         }
       },
       "problems": [],
