@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated": "2026-07-28T03:34:12.786Z",
+  "generated": "2026-07-28T04:00:01.905Z",
   "groups": [
     {
       "id": "XH",
@@ -246,7 +246,25 @@
       "outlets_outstanding": [
         "JKN",
         "STC",
-        "BS"
+        "BS",
+        "R3",
+        "AP1",
+        "R1",
+        "AP4",
+        "VIVA",
+        "WNC",
+        "SSC2",
+        "WLCC",
+        "J9",
+        "YS1",
+        "MARS",
+        "LTM",
+        "HRC",
+        "PDD",
+        "WWP",
+        "FEN",
+        "CM1",
+        "KEB"
       ],
       "done_detail": {
         "YTP": {
