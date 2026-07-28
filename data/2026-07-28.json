@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated": "2026-07-28T07:34:26.341Z",
+  "generated": "2026-07-28T07:37:26.529Z",
   "groups": [
     {
       "id": "XH",
@@ -79,7 +79,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 14,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -92,7 +92,9 @@
         "Margaret Market",
         "South Beach Tower",
         "Waterway Point",
-        "Compass One"
+        "Compass One",
+        "Guoco Tower",
+        "Plaza Singapura"
       ],
       "outlets_outstanding": [
         "Lucky Plaza (AM)",
@@ -148,6 +150,14 @@
         "Compass One": {
           "by": "Nur Azimah",
           "time": "15:34"
+        },
+        "Guoco Tower": {
+          "by": "boss",
+          "time": "15:37"
+        },
+        "Plaza Singapura": {
+          "by": "boss",
+          "time": "15:37"
         }
       },
       "problems": [],
