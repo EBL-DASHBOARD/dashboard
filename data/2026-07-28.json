@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated": "2026-07-28T04:47:43.537Z",
+  "generated": "2026-07-28T05:19:31.541Z",
   "groups": [
     {
       "id": "XH",
@@ -79,20 +79,20 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 10,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
         "888 Plaza",
         "Pasir Ris Mall",
         "White Sands",
-        "Punggol Plaza"
-      ],
-      "outlets_outstanding": [
+        "Punggol Plaza",
         "Suntec City",
         "Marina Square",
         "Margaret Market",
-        "South Beach Tower",
+        "South Beach Tower"
+      ],
+      "outlets_outstanding": [
         "Lucky Plaza (AM)",
         "Institute of Mental Health",
         "Junction 8",
@@ -124,6 +124,22 @@
         "Punggol Plaza": {
           "by": "Nur Azimah",
           "time": "11:23"
+        },
+        "Suntec City": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "13:19"
+        },
+        "Marina Square": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "13:19"
+        },
+        "Margaret Market": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "13:19"
+        },
+        "South Beach Tower": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "13:19"
         }
       },
       "problems": [],
