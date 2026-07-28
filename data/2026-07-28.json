@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated": "2026-07-28T03:11:51.767Z",
+  "generated": "2026-07-28T03:23:47.085Z",
   "groups": [
     {
       "id": "XH",
@@ -79,13 +79,14 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
         "888 Plaza",
         "Pasir Ris Mall",
-        "White Sands"
+        "White Sands",
+        "Punggol Plaza"
       ],
       "outlets_outstanding": [
         "Suntec City",
@@ -95,7 +96,9 @@
         "Lucky Plaza (AM)",
         "Institute of Mental Health",
         "Junction 8",
-        "Punggol Plaza"
+        "Waterway Point",
+        "Causeway Point",
+        "Compass One"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -117,6 +120,10 @@
         "White Sands": {
           "by": "boss",
           "time": "10:55"
+        },
+        "Punggol Plaza": {
+          "by": "Nur Azimah",
+          "time": "11:23"
         }
       },
       "problems": [],
