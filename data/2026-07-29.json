@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-28T11:27:44.246Z",
+  "generated": "2026-07-28T14:08:03.822Z",
   "groups": [
     {
       "id": "XH",
@@ -132,6 +132,165 @@
         "The Woodleigh Mall",
         "Junction 9",
         "Northpoint City"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 45,
+      "am_total": 22,
+      "pm_total": 23,
+      "am_outlets": [
+        "CT",
+        "BNV",
+        "CTP",
+        "KRC",
+        "BQ",
+        "PS",
+        "CCKS",
+        "JP",
+        "HV2",
+        "TRM",
+        "WSM",
+        "ART",
+        "CL2",
+        "TIO",
+        "VIVO",
+        "ARC",
+        "USQ",
+        "MSQ",
+        "SHP",
+        "DV",
+        "KIT",
+        "KLP"
+      ],
+      "pm_outlets": [
+        "BHT",
+        "PECC",
+        "TPM",
+        "LOY",
+        "KNX",
+        "TNC2",
+        "PAL",
+        "GMM",
+        "R4",
+        "R1",
+        "AP2",
+        "R3",
+        "AP4",
+        "AP1",
+        "EPT",
+        "CCP",
+        "NEX",
+        "ACV",
+        "WIS",
+        "NTP",
+        "CM1",
+        "KTB",
+        "WWP"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [
+            "CT",
+            "BNV",
+            "CTP",
+            "KRC",
+            "BQ",
+            "PS"
+          ],
+          "pm": []
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "CCKS",
+            "JP",
+            "HV2",
+            "TRM",
+            "WSM"
+          ],
+          "pm": [
+            "BHT",
+            "PECC",
+            "TPM",
+            "LOY",
+            "KNX",
+            "TNC2",
+            "PAL",
+            "GMM"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "ART",
+            "CL2",
+            "TIO",
+            "VIVO",
+            "ARC"
+          ],
+          "pm": [
+            "R4",
+            "R1",
+            "AP2",
+            "R3",
+            "AP4",
+            "AP1",
+            "EPT",
+            "CCP"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "USQ",
+            "MSQ",
+            "SHP",
+            "DV",
+            "KIT",
+            "KLP"
+          ],
+          "pm": [
+            "NEX",
+            "ACV",
+            "WIS",
+            "NTP",
+            "CM1",
+            "KTB",
+            "WWP"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "CT",
+        "BNV",
+        "CTP",
+        "KRC",
+        "BQ",
+        "PS",
+        "CCKS",
+        "JP",
+        "HV2",
+        "TRM",
+        "WSM",
+        "ART",
+        "CL2",
+        "TIO",
+        "VIVO",
+        "ARC",
+        "USQ",
+        "MSQ",
+        "SHP",
+        "DV",
+        "KIT",
+        "KLP"
       ],
       "done_detail": {},
       "problems": [],
