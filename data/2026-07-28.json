@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated": "2026-07-28T09:01:22.121Z",
+  "generated": "2026-07-28T09:32:12.867Z",
   "groups": [
     {
       "id": "XH",
@@ -262,7 +262,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -286,13 +286,13 @@
         "LTM",
         "WNC",
         "AP4",
-        "FEN"
+        "FEN",
+        "SSC2"
       ],
       "outlets_outstanding": [
         "R3",
         "AP1",
         "R1",
-        "SSC2",
         "J9",
         "YS1",
         "HRC",
@@ -392,6 +392,10 @@
         "FEN": {
           "by": "Sasi",
           "time": "17:01"
+        },
+        "SSC2": {
+          "by": "Samy Kumar Meena",
+          "time": "17:32"
         }
       },
       "problems": [],
