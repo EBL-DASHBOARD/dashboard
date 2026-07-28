@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated": "2026-07-28T19:56:02.144Z",
+  "generated": "2026-07-28T20:48:08.305Z",
   "groups": [
     {
       "id": "XH",
@@ -493,7 +493,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "Changi City Point",
         "Changi T1 Transit",
@@ -502,7 +502,8 @@
         "Hougang 1",
         "Coronation Shopping Plaza",
         "Westgate",
-        "The Strategy"
+        "The Strategy",
+        "NTU South Spine"
       ],
       "outlets_outstanding": [
         "Icon Link",
@@ -541,6 +542,10 @@
         "The Strategy": {
           "by": "SEENU.C",
           "time": "03:56"
+        },
+        "NTU South Spine": {
+          "by": "SEENU.C",
+          "time": "04:48"
         }
       },
       "problems": [],
