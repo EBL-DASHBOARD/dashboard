@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated": "2026-07-28T15:27:06.309Z",
+  "generated": "2026-07-28T15:39:07.782Z",
   "groups": [
     {
       "id": "XH",
@@ -493,13 +493,13 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 3,
       "outlets_done": [
-        "Changi City Point"
+        "Changi City Point",
+        "Changi T1 Transit",
+        "Jewel"
       ],
       "outlets_outstanding": [
-        "Jewel",
-        "Changi T1 Transit",
         "Icon Link",
         "Chinatown Point",
         "Hougang 1",
@@ -510,6 +510,14 @@
         "Changi City Point": {
           "by": "SEENU.C",
           "time": "23:27"
+        },
+        "Changi T1 Transit": {
+          "by": "~ Mahadeb ~",
+          "time": "23:39"
+        },
+        "Jewel": {
+          "by": "~ Mahadeb ~",
+          "time": "23:39"
         }
       },
       "problems": [],
