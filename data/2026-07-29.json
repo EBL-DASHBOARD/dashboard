@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T04:15:40.441Z",
+  "generated": "2026-07-29T04:16:03.161Z",
   "groups": [
     {
       "id": "XH",
@@ -112,7 +112,7 @@
           ]
         }
       ],
-      "done": 14,
+      "done": 16,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -127,12 +127,12 @@
         "Hillion Mall",
         "Dairy Farm Mall",
         "Citygate",
-        "GENEO"
+        "GENEO",
+        "Junction 9",
+        "Northpoint City"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
-        "Junction 9",
-        "Northpoint City",
         "Rivervale Mall",
         "Compass One",
         "Punggol Coast Mall",
@@ -140,7 +140,12 @@
         "Eastpoint Mall",
         "i12 Katong",
         "SingPost Centre",
-        "Flavours @ NUS Uptown"
+        "Flavours @ NUS Uptown",
+        "Mapletree Business City",
+        "Galaxis",
+        "Westgate Tower",
+        "JEM",
+        "Fairprice Hub"
       ],
       "done_detail": {
         "West Mall": {
@@ -198,6 +203,14 @@
         "GENEO": {
           "by": "Major Dhillon",
           "time": "12:15"
+        },
+        "Junction 9": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "12:16"
+        },
+        "Northpoint City": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "12:16"
         }
       },
       "problems": [],
