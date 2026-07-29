@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T10:12:18.277Z",
+  "generated": "2026-07-29T10:57:58.846Z",
   "groups": [
     {
       "id": "XH",
@@ -407,7 +407,7 @@
           ]
         }
       ],
-      "done": 35,
+      "done": 38,
       "outlets_done": [
         "CL2",
         "DV",
@@ -443,16 +443,16 @@
         "CCP",
         "WWP",
         "TNC2",
-        "TPM"
+        "TPM",
+        "R4",
+        "AP4",
+        "AP2"
       ],
       "outlets_outstanding": [
         "PECC",
         "LOY",
-        "R4",
         "R1",
-        "AP2",
         "R3",
-        "AP4",
         "AP1",
         "WIS",
         "KTB"
@@ -597,6 +597,18 @@
         "TPM": {
           "by": "Samy Kumar Meena",
           "time": "18:12"
+        },
+        "R4": {
+          "by": "Krishna",
+          "time": "18:57"
+        },
+        "AP4": {
+          "by": "Krishna",
+          "time": "18:57"
+        },
+        "AP2": {
+          "by": "Krishna",
+          "time": "18:57"
         }
       },
       "problems": [],
