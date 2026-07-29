@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T03:44:43.524Z",
+  "generated": "2026-07-29T03:44:46.720Z",
   "groups": [
     {
       "id": "XH",
@@ -320,7 +320,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "CL2",
         "DV",
@@ -337,11 +337,11 @@
         "TIO",
         "TRM",
         "WSM",
-        "BQ"
+        "BQ",
+        "CTP"
       ],
       "outlets_outstanding": [
         "CT",
-        "CTP",
         "PS",
         "VIVO",
         "MSQ",
@@ -409,6 +409,10 @@
           "time": "11:39"
         },
         "BQ": {
+          "by": "Sudhakar",
+          "time": "11:44"
+        },
+        "CTP": {
           "by": "Sudhakar",
           "time": "11:44"
         }
