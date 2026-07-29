@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T02:26:44.377Z",
+  "generated": "2026-07-29T02:31:42.779Z",
   "groups": [
     {
       "id": "XH",
@@ -112,13 +112,15 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 7,
       "outlets_done": [
         "West Mall",
         "Le Quest",
         "Alexandra Technopark B",
         "Tampines 1",
-        "Century Square"
+        "Century Square",
+        "ARTRA",
+        "The Woodleigh Mall"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
@@ -129,8 +131,6 @@
         "HarbourFront Tower 1",
         "Vivocity",
         "GENEO",
-        "ARTRA",
-        "The Woodleigh Mall",
         "Junction 9",
         "Northpoint City"
       ],
@@ -154,6 +154,14 @@
         "Century Square": {
           "by": "boss",
           "time": "10:20"
+        },
+        "ARTRA": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "10:31"
+        },
+        "The Woodleigh Mall": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "10:31"
         }
       },
       "problems": [],
