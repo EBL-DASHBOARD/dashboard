@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T01:42:57.679Z",
+  "generated": "2026-07-29T02:09:09.563Z",
   "groups": [
     {
       "id": "XH",
@@ -112,10 +112,11 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "West Mall",
-        "Le Quest"
+        "Le Quest",
+        "Alexandra Technopark B"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -128,7 +129,6 @@
         "HarbourFront Tower 1",
         "Vivocity",
         "GENEO",
-        "Alexandra Technopark B",
         "ARTRA",
         "The Woodleigh Mall",
         "Junction 9",
@@ -142,6 +142,10 @@
         "Le Quest": {
           "by": "Nur Azimah",
           "time": "09:35"
+        },
+        "Alexandra Technopark B": {
+          "by": "Major Dhillon",
+          "time": "10:09"
         }
       },
       "problems": [],
