@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T07:10:30.156Z",
+  "generated": "2026-07-29T07:25:21.200Z",
   "groups": [
     {
       "id": "XH",
@@ -112,7 +112,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 18,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -129,7 +129,9 @@
         "Citygate",
         "GENEO",
         "Junction 9",
-        "Northpoint City"
+        "Northpoint City",
+        "SingPost Centre",
+        "Flavours @ NUS Uptown"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
@@ -139,8 +141,6 @@
         "Waterway Point",
         "Eastpoint Mall",
         "i12 Katong",
-        "SingPost Centre",
-        "Flavours @ NUS Uptown",
         "Mapletree Business City",
         "Galaxis",
         "Westgate Tower",
@@ -211,6 +211,14 @@
         "Northpoint City": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "12:16"
+        },
+        "SingPost Centre": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "15:25"
+        },
+        "Flavours @ NUS Uptown": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "15:25"
         }
       },
       "problems": [],
