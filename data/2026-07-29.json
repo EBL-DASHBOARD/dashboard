@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T08:55:39.263Z",
+  "generated": "2026-07-29T08:58:29.987Z",
   "groups": [
     {
       "id": "XH",
@@ -112,7 +112,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 23,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -134,13 +134,13 @@
         "Flavours @ NUS Uptown",
         "Punggol Coast Mall",
         "New Tech Park",
-        "313 Somerset"
+        "313 Somerset",
+        "Compass One",
+        "Waterway Point"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
         "Rivervale Mall",
-        "Compass One",
-        "Waterway Point",
         "Eastpoint Mall",
         "i12 Katong",
         "Mapletree Business City",
@@ -233,6 +233,14 @@
         "313 Somerset": {
           "by": "boss",
           "time": "16:55"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "16:58"
+        },
+        "Waterway Point": {
+          "by": "Nur Azimah",
+          "time": "16:58"
         }
       },
       "problems": [],
