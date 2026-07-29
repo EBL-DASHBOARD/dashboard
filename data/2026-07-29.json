@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T09:27:35.139Z",
+  "generated": "2026-07-29T09:52:53.228Z",
   "groups": [
     {
       "id": "XH",
@@ -112,7 +112,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 31,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -143,11 +143,11 @@
         "JEM",
         "Fairprice Hub",
         "Eastpoint Mall",
-        "i12 Katong"
+        "i12 Katong",
+        "Rivervale Mall"
       ],
       "outlets_outstanding": [
-        "Tampines Mart",
-        "Rivervale Mall"
+        "Tampines Mart"
       ],
       "done_detail": {
         "West Mall": {
@@ -269,6 +269,10 @@
         "i12 Katong": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "17:27"
+        },
+        "Rivervale Mall": {
+          "by": "Nur Azimah",
+          "time": "17:52"
         }
       },
       "problems": [],
