@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T04:30:02.385Z",
+  "generated": "2026-07-29T04:30:13.439Z",
   "groups": [
     {
       "id": "XH",
@@ -345,7 +345,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "CL2",
         "DV",
@@ -367,10 +367,10 @@
         "KLP",
         "MSQ",
         "CT",
-        "PS"
+        "PS",
+        "VIVO"
       ],
       "outlets_outstanding": [
-        "VIVO",
         "BHT",
         "PECC",
         "TPM",
@@ -478,6 +478,10 @@
         },
         "PS": {
           "by": "YAAKESH",
+          "time": "12:30"
+        },
+        "VIVO": {
+          "by": "Krishna",
           "time": "12:30"
         }
       },
