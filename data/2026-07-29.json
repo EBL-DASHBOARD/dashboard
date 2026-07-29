@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T07:27:03.286Z",
+  "generated": "2026-07-29T07:32:28.920Z",
   "groups": [
     {
       "id": "XH",
@@ -112,7 +112,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -131,13 +131,13 @@
         "Junction 9",
         "Northpoint City",
         "SingPost Centre",
-        "Flavours @ NUS Uptown"
+        "Flavours @ NUS Uptown",
+        "Punggol Coast Mall"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
         "Rivervale Mall",
         "Compass One",
-        "Punggol Coast Mall",
         "Waterway Point",
         "Eastpoint Mall",
         "i12 Katong",
@@ -219,6 +219,10 @@
         "Flavours @ NUS Uptown": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "15:25"
+        },
+        "Punggol Coast Mall": {
+          "by": "Nur Azimah",
+          "time": "15:32"
         }
       },
       "problems": [],
