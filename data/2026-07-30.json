@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generated": "2026-07-29T12:22:36.846Z",
+  "generated": "2026-07-29T13:09:17.706Z",
   "groups": [
     {
       "id": "XH",
@@ -96,6 +96,133 @@
         "South Beach Tower",
         "Lucky Plaza",
         "Zhongshan Mall"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 34,
+      "am_total": 12,
+      "pm_total": 22,
+      "am_outlets": [
+        "CCKS",
+        "BPP",
+        "TGCC",
+        "KH",
+        "YTP",
+        "JKN",
+        "WSM",
+        "IM",
+        "WXI",
+        "BS",
+        "TY",
+        "MBA"
+      ],
+      "pm_outlets": [
+        "LOY",
+        "PECC",
+        "CKCC",
+        "TNC2",
+        "WLCC",
+        "J9",
+        "LTM",
+        "YS1",
+        "MARS",
+        "SSC2",
+        "AP4",
+        "R3",
+        "AP1",
+        "R1",
+        "VIVA",
+        "BOB",
+        "KEB",
+        "PDD",
+        "CM1",
+        "FEN",
+        "WWP",
+        "HRC"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [],
+          "pm": [
+            "LOY",
+            "PECC",
+            "CKCC",
+            "TNC2"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "CCKS",
+            "BPP",
+            "TGCC",
+            "KH",
+            "YTP"
+          ],
+          "pm": [
+            "WLCC",
+            "J9",
+            "LTM",
+            "YS1",
+            "MARS",
+            "SSC2"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "JKN",
+            "WSM",
+            "IM",
+            "WXI"
+          ],
+          "pm": [
+            "AP4",
+            "R3",
+            "AP1",
+            "R1",
+            "VIVA",
+            "BOB"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "BS",
+            "TY",
+            "MBA"
+          ],
+          "pm": [
+            "KEB",
+            "PDD",
+            "CM1",
+            "FEN",
+            "WWP",
+            "HRC"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "CCKS",
+        "BPP",
+        "TGCC",
+        "KH",
+        "YTP",
+        "JKN",
+        "WSM",
+        "IM",
+        "WXI",
+        "BS",
+        "TY",
+        "MBA"
       ],
       "done_detail": {},
       "problems": [],
