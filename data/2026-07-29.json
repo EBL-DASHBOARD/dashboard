@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T03:21:21.138Z",
+  "generated": "2026-07-29T03:24:27.564Z",
   "groups": [
     {
       "id": "XH",
@@ -312,7 +312,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "CL2",
         "DV",
@@ -325,7 +325,8 @@
         "SHP",
         "ART",
         "HV2",
-        "KIT"
+        "KIT",
+        "TIO"
       ],
       "outlets_outstanding": [
         "CT",
@@ -334,7 +335,6 @@
         "PS",
         "TRM",
         "WSM",
-        "TIO",
         "VIVO",
         "MSQ",
         "KLP"
@@ -387,6 +387,10 @@
         "KIT": {
           "by": "Sasi",
           "time": "11:21"
+        },
+        "TIO": {
+          "by": "Krishna",
+          "time": "11:24"
         }
       },
       "problems": [],
