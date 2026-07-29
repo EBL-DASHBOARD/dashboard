@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T02:26:39.423Z",
+  "generated": "2026-07-29T02:26:44.377Z",
   "groups": [
     {
       "id": "XH",
@@ -288,7 +288,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "CL2",
         "DV",
@@ -296,11 +296,11 @@
         "USQ",
         "CCKS",
         "ARC",
-        "KRC"
+        "KRC",
+        "BNV"
       ],
       "outlets_outstanding": [
         "CT",
-        "BNV",
         "CTP",
         "BQ",
         "PS",
@@ -341,6 +341,10 @@
           "time": "09:42"
         },
         "KRC": {
+          "by": "Sudhakar",
+          "time": "10:26"
+        },
+        "BNV": {
           "by": "Sudhakar",
           "time": "10:26"
         }
