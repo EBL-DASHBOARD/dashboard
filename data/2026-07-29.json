@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T09:26:11.897Z",
+  "generated": "2026-07-29T09:27:35.139Z",
   "groups": [
     {
       "id": "XH",
@@ -112,7 +112,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 30,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -141,13 +141,13 @@
         "Galaxis",
         "Westgate Tower",
         "JEM",
-        "Fairprice Hub"
+        "Fairprice Hub",
+        "Eastpoint Mall",
+        "i12 Katong"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
-        "Rivervale Mall",
-        "Eastpoint Mall",
-        "i12 Katong"
+        "Rivervale Mall"
       ],
       "done_detail": {
         "West Mall": {
@@ -261,6 +261,14 @@
         "Fairprice Hub": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "17:26"
+        },
+        "Eastpoint Mall": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "17:27"
+        },
+        "i12 Katong": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "17:27"
         }
       },
       "problems": [],
