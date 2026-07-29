@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T04:05:59.874Z",
+  "generated": "2026-07-29T04:15:38.896Z",
   "groups": [
     {
       "id": "XH",
@@ -112,7 +112,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -126,17 +126,21 @@
         "HarbourFront Tower 1",
         "Hillion Mall",
         "Dairy Farm Mall",
-        "Citygate"
+        "Citygate",
+        "GENEO"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
-        "GENEO",
         "Junction 9",
         "Northpoint City",
         "Rivervale Mall",
         "Compass One",
         "Punggol Coast Mall",
-        "Waterway Point"
+        "Waterway Point",
+        "Eastpoint Mall",
+        "i12 Katong",
+        "SingPost Centre",
+        "Flavours @ NUS Uptown"
       ],
       "done_detail": {
         "West Mall": {
@@ -190,6 +194,10 @@
         "Citygate": {
           "by": "boss",
           "time": "12:05"
+        },
+        "GENEO": {
+          "by": "Major Dhillon",
+          "time": "12:15"
         }
       },
       "problems": [],
