@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-28T17:15:01.704Z",
+  "generated": "2026-07-29T00:34:29.986Z",
   "groups": [
     {
       "id": "XH",
@@ -112,8 +112,10 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "West Mall"
+      ],
       "outlets_outstanding": [
         "Tampines 1",
         "Tampines Mart",
@@ -121,7 +123,6 @@
         "Citygate",
         "Le Quest",
         "Dairy Farm Mall",
-        "West Mall",
         "Hillion Mall",
         "Parc Point",
         "HarbourFront Tower 1",
@@ -133,7 +134,12 @@
         "Junction 9",
         "Northpoint City"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "West Mall": {
+          "by": "Nur Azimah",
+          "time": "08:34"
+        }
+      },
       "problems": [],
       "customers": null
     },
