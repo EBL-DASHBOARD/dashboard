@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T11:11:56.053Z",
+  "generated": "2026-07-29T11:32:48.740Z",
   "groups": [
     {
       "id": "XH",
@@ -407,7 +407,7 @@
           ]
         }
       ],
-      "done": 40,
+      "done": 42,
       "outlets_done": [
         "CL2",
         "DV",
@@ -448,14 +448,14 @@
         "AP4",
         "AP2",
         "PECC",
-        "LOY"
+        "LOY",
+        "KTB",
+        "WIS"
       ],
       "outlets_outstanding": [
         "R1",
         "R3",
-        "AP1",
-        "WIS",
-        "KTB"
+        "AP1"
       ],
       "done_detail": {
         "CL2": {
@@ -617,6 +617,14 @@
         "LOY": {
           "by": "Samy Kumar Meena",
           "time": "19:11"
+        },
+        "KTB": {
+          "by": "Sasi",
+          "time": "19:32"
+        },
+        "WIS": {
+          "by": "Sasi",
+          "time": "19:32"
         }
       },
       "problems": [],
