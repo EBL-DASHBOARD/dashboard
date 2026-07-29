@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T02:09:09.563Z",
+  "generated": "2026-07-29T02:20:34.994Z",
   "groups": [
     {
       "id": "XH",
@@ -112,16 +112,16 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 5,
       "outlets_done": [
         "West Mall",
         "Le Quest",
-        "Alexandra Technopark B"
+        "Alexandra Technopark B",
+        "Tampines 1",
+        "Century Square"
       ],
       "outlets_outstanding": [
-        "Tampines 1",
         "Tampines Mart",
-        "Century Square",
         "Citygate",
         "Dairy Farm Mall",
         "Hillion Mall",
@@ -146,6 +146,14 @@
         "Alexandra Technopark B": {
           "by": "Major Dhillon",
           "time": "10:09"
+        },
+        "Tampines 1": {
+          "by": "boss",
+          "time": "10:20"
+        },
+        "Century Square": {
+          "by": "boss",
+          "time": "10:20"
         }
       },
       "problems": [],
