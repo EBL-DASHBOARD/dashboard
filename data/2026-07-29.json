@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T11:32:48.740Z",
+  "generated": "2026-07-29T13:02:26.272Z",
   "groups": [
     {
       "id": "XH",
@@ -407,7 +407,7 @@
           ]
         }
       ],
-      "done": 42,
+      "done": 45,
       "outlets_done": [
         "CL2",
         "DV",
@@ -450,13 +450,12 @@
         "PECC",
         "LOY",
         "KTB",
-        "WIS"
-      ],
-      "outlets_outstanding": [
+        "WIS",
         "R1",
-        "R3",
-        "AP1"
+        "AP1",
+        "R3"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "CL2": {
           "by": "Krishna",
@@ -625,6 +624,18 @@
         "WIS": {
           "by": "Sasi",
           "time": "19:32"
+        },
+        "R1": {
+          "by": "Krishna",
+          "time": "21:02"
+        },
+        "AP1": {
+          "by": "Krishna",
+          "time": "21:02"
+        },
+        "R3": {
+          "by": "Krishna",
+          "time": "21:02"
         }
       },
       "problems": [],
