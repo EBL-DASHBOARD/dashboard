@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T03:28:09.388Z",
+  "generated": "2026-07-29T03:39:28.277Z",
   "groups": [
     {
       "id": "XH",
@@ -320,7 +320,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 15,
       "outlets_done": [
         "CL2",
         "DV",
@@ -334,15 +334,15 @@
         "ART",
         "HV2",
         "KIT",
-        "TIO"
+        "TIO",
+        "TRM",
+        "WSM"
       ],
       "outlets_outstanding": [
         "CT",
         "CTP",
         "BQ",
         "PS",
-        "TRM",
-        "WSM",
         "VIVO",
         "MSQ",
         "KLP"
@@ -399,6 +399,14 @@
         "TIO": {
           "by": "Krishna",
           "time": "11:24"
+        },
+        "TRM": {
+          "by": "Samy Kumar Meena",
+          "time": "11:39"
+        },
+        "WSM": {
+          "by": "Samy Kumar Meena",
+          "time": "11:39"
         }
       },
       "problems": [],
