@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T03:24:27.564Z",
+  "generated": "2026-07-29T03:28:07.852Z",
   "groups": [
     {
       "id": "XH",
@@ -112,7 +112,7 @@
           ]
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -124,15 +124,19 @@
         "Parc Point",
         "Vivocity",
         "HarbourFront Tower 1",
-        "Hillion Mall"
+        "Hillion Mall",
+        "Dairy Farm Mall"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
         "Citygate",
-        "Dairy Farm Mall",
         "GENEO",
         "Junction 9",
-        "Northpoint City"
+        "Northpoint City",
+        "Rivervale Mall",
+        "Compass One",
+        "Punggol Coast Mall",
+        "Waterway Point"
       ],
       "done_detail": {
         "West Mall": {
@@ -178,6 +182,10 @@
         "Hillion Mall": {
           "by": "Nur Azimah",
           "time": "11:03"
+        },
+        "Dairy Farm Mall": {
+          "by": "Nur Azimah",
+          "time": "11:28"
         }
       },
       "problems": [],
