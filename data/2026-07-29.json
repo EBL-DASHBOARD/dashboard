@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T13:02:26.272Z",
+  "generated": "2026-07-29T15:16:30.348Z",
   "groups": [
     {
       "id": "XH",
@@ -700,8 +700,10 @@
           "pm": []
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "Collyer Quay"
+      ],
       "outlets_outstanding": [
         "Citylink",
         "One Raffles Link",
@@ -713,7 +715,12 @@
         "Lazada One",
         "Marina One"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "Collyer Quay": {
+          "by": "SEENU.C",
+          "time": "23:16"
+        }
+      },
       "problems": [],
       "customers": null
     }
