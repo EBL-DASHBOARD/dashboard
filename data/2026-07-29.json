@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T02:31:42.779Z",
+  "generated": "2026-07-29T02:31:46.470Z",
   "groups": [
     {
       "id": "XH",
@@ -112,7 +112,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -120,14 +120,14 @@
         "Tampines 1",
         "Century Square",
         "ARTRA",
-        "The Woodleigh Mall"
+        "The Woodleigh Mall",
+        "Parc Point"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
         "Citygate",
         "Dairy Farm Mall",
         "Hillion Mall",
-        "Parc Point",
         "HarbourFront Tower 1",
         "Vivocity",
         "GENEO",
@@ -161,6 +161,10 @@
         },
         "The Woodleigh Mall": {
           "by": "#நVin🇮🇹🚀🔥",
+          "time": "10:31"
+        },
+        "Parc Point": {
+          "by": "Nur Azimah",
           "time": "10:31"
         }
       },
