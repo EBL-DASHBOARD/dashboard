@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T04:16:04.841Z",
+  "generated": "2026-07-29T04:30:02.385Z",
   "groups": [
     {
       "id": "XH",
@@ -345,7 +345,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 21,
       "outlets_done": [
         "CL2",
         "DV",
@@ -365,11 +365,11 @@
         "BQ",
         "CTP",
         "KLP",
-        "MSQ"
+        "MSQ",
+        "CT",
+        "PS"
       ],
       "outlets_outstanding": [
-        "CT",
-        "PS",
         "VIVO",
         "BHT",
         "PECC",
@@ -471,6 +471,14 @@
         "MSQ": {
           "by": "Sasi",
           "time": "11:51"
+        },
+        "CT": {
+          "by": "YAAKESH",
+          "time": "12:30"
+        },
+        "PS": {
+          "by": "YAAKESH",
+          "time": "12:30"
         }
       },
       "problems": [],
