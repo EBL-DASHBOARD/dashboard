@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T04:30:13.439Z",
+  "generated": "2026-07-29T06:59:20.898Z",
   "groups": [
     {
       "id": "XH",
@@ -345,7 +345,7 @@
           ]
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "CL2",
         "DV",
@@ -368,7 +368,8 @@
         "MSQ",
         "CT",
         "PS",
-        "VIVO"
+        "VIVO",
+        "GMM"
       ],
       "outlets_outstanding": [
         "BHT",
@@ -378,7 +379,6 @@
         "KNX",
         "TNC2",
         "PAL",
-        "GMM",
         "R4",
         "R1",
         "AP2",
@@ -483,6 +483,10 @@
         "VIVO": {
           "by": "Krishna",
           "time": "12:30"
+        },
+        "GMM": {
+          "by": "Samy Kumar Meena",
+          "time": "14:59"
         }
       },
       "problems": [],
