@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T07:25:21.200Z",
+  "generated": "2026-07-29T07:27:03.286Z",
   "groups": [
     {
       "id": "XH",
@@ -353,7 +353,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 25,
       "outlets_done": [
         "CL2",
         "DV",
@@ -377,7 +377,9 @@
         "CT",
         "PS",
         "VIVO",
-        "GMM"
+        "GMM",
+        "NEX",
+        "NTP"
       ],
       "outlets_outstanding": [
         "BHT",
@@ -395,10 +397,8 @@
         "AP1",
         "EPT",
         "CCP",
-        "NEX",
         "ACV",
         "WIS",
-        "NTP",
         "CM1",
         "KTB",
         "WWP"
@@ -495,6 +495,14 @@
         "GMM": {
           "by": "Samy Kumar Meena",
           "time": "14:59"
+        },
+        "NEX": {
+          "by": "Sasi",
+          "time": "15:27"
+        },
+        "NTP": {
+          "by": "Sasi",
+          "time": "15:27"
         }
       },
       "problems": [],
