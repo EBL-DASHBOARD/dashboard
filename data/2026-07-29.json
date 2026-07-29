@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T01:42:39.024Z",
+  "generated": "2026-07-29T01:42:57.679Z",
   "groups": [
     {
       "id": "XH",
@@ -276,13 +276,14 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "CL2",
         "DV",
         "JP",
         "USQ",
-        "CCKS"
+        "CCKS",
+        "ARC"
       ],
       "outlets_outstanding": [
         "CT",
@@ -297,7 +298,6 @@
         "ART",
         "TIO",
         "VIVO",
-        "ARC",
         "MSQ",
         "SHP",
         "KIT",
@@ -322,6 +322,10 @@
         },
         "CCKS": {
           "by": "Samy Kumar Meena",
+          "time": "09:42"
+        },
+        "ARC": {
+          "by": "Krishna",
           "time": "09:42"
         }
       },
