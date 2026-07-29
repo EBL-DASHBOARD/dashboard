@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T08:58:29.987Z",
+  "generated": "2026-07-29T09:04:02.185Z",
   "groups": [
     {
       "id": "XH",
@@ -375,7 +375,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 31,
       "outlets_done": [
         "CL2",
         "DV",
@@ -405,7 +405,9 @@
         "PAL",
         "EPT",
         "KNX",
-        "BHT"
+        "BHT",
+        "ACV",
+        "CM1"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -419,9 +421,7 @@
         "AP4",
         "AP1",
         "CCP",
-        "ACV",
         "WIS",
-        "CM1",
         "KTB",
         "WWP"
       ],
@@ -541,6 +541,14 @@
         "BHT": {
           "by": "Samy Kumar Meena",
           "time": "16:50"
+        },
+        "ACV": {
+          "by": "Sasi",
+          "time": "17:04"
+        },
+        "CM1": {
+          "by": "Sasi",
+          "time": "17:04"
         }
       },
       "problems": [],
