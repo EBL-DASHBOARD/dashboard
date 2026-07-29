@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T03:02:32.375Z",
+  "generated": "2026-07-29T03:03:09.397Z",
   "groups": [
     {
       "id": "XH",
@@ -112,7 +112,7 @@
           ]
         }
       ],
-      "done": 10,
+      "done": 11,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -123,13 +123,13 @@
         "The Woodleigh Mall",
         "Parc Point",
         "Vivocity",
-        "HarbourFront Tower 1"
+        "HarbourFront Tower 1",
+        "Hillion Mall"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
         "Citygate",
         "Dairy Farm Mall",
-        "Hillion Mall",
         "GENEO",
         "Junction 9",
         "Northpoint City"
@@ -174,6 +174,10 @@
         "HarbourFront Tower 1": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "11:02"
+        },
+        "Hillion Mall": {
+          "by": "Nur Azimah",
+          "time": "11:03"
         }
       },
       "problems": [],
