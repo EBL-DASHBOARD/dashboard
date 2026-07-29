@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T08:50:50.459Z",
+  "generated": "2026-07-29T08:55:39.263Z",
   "groups": [
     {
       "id": "XH",
@@ -112,7 +112,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 21,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -132,7 +132,9 @@
         "Northpoint City",
         "SingPost Centre",
         "Flavours @ NUS Uptown",
-        "Punggol Coast Mall"
+        "Punggol Coast Mall",
+        "New Tech Park",
+        "313 Somerset"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
@@ -223,6 +225,14 @@
         "Punggol Coast Mall": {
           "by": "Nur Azimah",
           "time": "15:32"
+        },
+        "New Tech Park": {
+          "by": "boss",
+          "time": "16:55"
+        },
+        "313 Somerset": {
+          "by": "boss",
+          "time": "16:55"
         }
       },
       "problems": [],
