@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T03:51:53.842Z",
+  "generated": "2026-07-29T04:00:00.218Z",
   "groups": [
     {
       "id": "XH",
@@ -345,7 +345,30 @@
       "outlets_outstanding": [
         "CT",
         "PS",
-        "VIVO"
+        "VIVO",
+        "BHT",
+        "PECC",
+        "TPM",
+        "LOY",
+        "KNX",
+        "TNC2",
+        "PAL",
+        "GMM",
+        "R4",
+        "R1",
+        "AP2",
+        "R3",
+        "AP4",
+        "AP1",
+        "EPT",
+        "CCP",
+        "NEX",
+        "ACV",
+        "WIS",
+        "NTP",
+        "CM1",
+        "KTB",
+        "WWP"
       ],
       "done_detail": {
         "CL2": {
