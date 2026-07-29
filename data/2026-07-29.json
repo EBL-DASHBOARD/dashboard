@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated": "2026-07-29T02:20:34.994Z",
+  "generated": "2026-07-29T02:26:39.423Z",
   "groups": [
     {
       "id": "XH",
@@ -288,20 +288,20 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "CL2",
         "DV",
         "JP",
         "USQ",
         "CCKS",
-        "ARC"
+        "ARC",
+        "KRC"
       ],
       "outlets_outstanding": [
         "CT",
         "BNV",
         "CTP",
-        "KRC",
         "BQ",
         "PS",
         "HV2",
@@ -339,6 +339,10 @@
         "ARC": {
           "by": "Krishna",
           "time": "09:42"
+        },
+        "KRC": {
+          "by": "Sudhakar",
+          "time": "10:26"
         }
       },
       "problems": [],
