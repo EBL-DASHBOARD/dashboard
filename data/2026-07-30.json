@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generated": "2026-07-30T08:38:50.883Z",
+  "generated": "2026-07-30T09:01:04.037Z",
   "groups": [
     {
       "id": "XH",
@@ -254,7 +254,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 20,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -273,17 +273,17 @@
         "BOB",
         "WLCC",
         "FEN",
-        "VIVA"
+        "VIVA",
+        "SSC2",
+        "J9"
       ],
       "outlets_outstanding": [
         "LOY",
         "PECC",
         "CKCC",
         "TNC2",
-        "J9",
         "LTM",
         "YS1",
-        "SSC2",
         "AP4",
         "R3",
         "AP1",
@@ -365,6 +365,14 @@
         "VIVA": {
           "by": "Krishna",
           "time": "16:07"
+        },
+        "SSC2": {
+          "by": "Samy Kumar Meena",
+          "time": "17:01"
+        },
+        "J9": {
+          "by": "Samy Kumar Meena",
+          "time": "17:01"
         }
       },
       "problems": [],
