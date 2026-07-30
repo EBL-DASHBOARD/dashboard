@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generated": "2026-07-30T06:56:15.612Z",
+  "generated": "2026-07-30T07:03:05.801Z",
   "groups": [
     {
       "id": "XH",
@@ -246,7 +246,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -260,7 +260,8 @@
         "WXI",
         "BPP",
         "TGCC",
-        "MARS"
+        "MARS",
+        "KEB"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -278,7 +279,6 @@
         "R1",
         "VIVA",
         "BOB",
-        "KEB",
         "PDD",
         "CM1",
         "FEN",
@@ -337,6 +337,10 @@
         "MARS": {
           "by": "Samy Kumar Meena",
           "time": "14:56"
+        },
+        "KEB": {
+          "by": "Sasi",
+          "time": "15:03"
         }
       },
       "problems": [],
