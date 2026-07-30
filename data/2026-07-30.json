@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generated": "2026-07-30T07:50:20.788Z",
+  "generated": "2026-07-30T08:07:57.505Z",
   "groups": [
     {
       "id": "XH",
@@ -250,7 +250,7 @@
           ]
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -268,7 +268,8 @@
         "KEB",
         "BOB",
         "WLCC",
-        "FEN"
+        "FEN",
+        "VIVA"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -283,7 +284,6 @@
         "R3",
         "AP1",
         "R1",
-        "VIVA",
         "PDD",
         "CM1",
         "WWP",
@@ -357,6 +357,10 @@
         "FEN": {
           "by": "Sasi",
           "time": "15:50"
+        },
+        "VIVA": {
+          "by": "Krishna",
+          "time": "16:07"
         }
       },
       "problems": [],
