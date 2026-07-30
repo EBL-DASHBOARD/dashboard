@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generated": "2026-07-30T11:13:41.569Z",
+  "generated": "2026-07-30T11:53:33.113Z",
   "groups": [
     {
       "id": "XH",
@@ -258,7 +258,7 @@
           ]
         }
       ],
-      "done": 33,
+      "done": 34,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -292,11 +292,10 @@
         "R3",
         "HRC",
         "PECC",
-        "LOY"
-      ],
-      "outlets_outstanding": [
+        "LOY",
         "AP1"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "YTP": {
           "by": "Samy Kumar Meena",
@@ -429,6 +428,10 @@
         "LOY": {
           "by": "Sudhakar",
           "time": "19:13"
+        },
+        "AP1": {
+          "by": "Krishna",
+          "time": "19:53"
         }
       },
       "problems": [],
