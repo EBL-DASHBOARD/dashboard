@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generated": "2026-07-30T06:34:25.062Z",
+  "generated": "2026-07-30T06:56:15.612Z",
   "groups": [
     {
       "id": "XH",
@@ -246,7 +246,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -259,7 +259,8 @@
         "MBA",
         "WXI",
         "BPP",
-        "TGCC"
+        "TGCC",
+        "MARS"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -270,7 +271,6 @@
         "J9",
         "LTM",
         "YS1",
-        "MARS",
         "SSC2",
         "AP4",
         "R3",
@@ -333,6 +333,10 @@
         "TGCC": {
           "by": "Samy Kumar Meena",
           "time": "11:16"
+        },
+        "MARS": {
+          "by": "Samy Kumar Meena",
+          "time": "14:56"
         }
       },
       "problems": [],
