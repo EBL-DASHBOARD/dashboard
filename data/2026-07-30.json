@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generated": "2026-07-30T04:00:00.134Z",
+  "generated": "2026-07-30T04:36:08.381Z",
   "groups": [
     {
       "id": "XH",
@@ -81,15 +81,15 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 4,
       "outlets_done": [
         "The Rail Mall",
-        "Hillion Mall"
+        "Hillion Mall",
+        "Hougang Mall",
+        "Punggol Plaza"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
-        "Hougang Mall",
-        "Punggol Plaza",
         "United Square",
         "Junction 8",
         "Woods Square",
@@ -106,6 +106,14 @@
         "Hillion Mall": {
           "by": "Nur Azimah",
           "time": "09:39"
+        },
+        "Hougang Mall": {
+          "by": "Ranjith",
+          "time": "12:36"
+        },
+        "Punggol Plaza": {
+          "by": "Ranjith",
+          "time": "12:36"
         }
       },
       "problems": [],
