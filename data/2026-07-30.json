@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generated": "2026-07-30T08:07:57.505Z",
+  "generated": "2026-07-30T08:38:50.883Z",
   "groups": [
     {
       "id": "XH",
@@ -81,7 +81,7 @@
           ]
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -91,7 +91,8 @@
         "Junction 8",
         "Woods Square",
         "Waterway Point",
-        "Compass One"
+        "Compass One",
+        "Causeway Point"
       ],
       "outlets_outstanding": [
         "United Square",
@@ -99,7 +100,6 @@
         "South Beach Tower",
         "Lucky Plaza",
         "Zhongshan Mall",
-        "Causeway Point",
         "888 Plaza"
       ],
       "done_detail": {
@@ -138,6 +138,10 @@
         "Compass One": {
           "by": "Nur Azimah",
           "time": "15:30"
+        },
+        "Causeway Point": {
+          "by": "Nur Azimah",
+          "time": "16:38"
         }
       },
       "problems": [],
