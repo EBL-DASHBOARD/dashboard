@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generated": "2026-07-30T15:27:34.506Z",
+  "generated": "2026-07-30T16:20:28.991Z",
   "groups": [
     {
       "id": "XH",
@@ -490,14 +490,14 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 4,
       "outlets_done": [
         "Westgate",
-        "Changi City Point"
+        "Changi City Point",
+        "Jewel",
+        "Changi T1 Transit"
       ],
       "outlets_outstanding": [
-        "Jewel",
-        "Changi T1 Transit",
         "Hougang 1",
         "ESR BizPark @ Changi",
         "Parkway Parade",
@@ -511,6 +511,14 @@
         "Changi City Point": {
           "by": "SEENU.C",
           "time": "23:27"
+        },
+        "Jewel": {
+          "by": "~ Mahadeb ~",
+          "time": "00:20"
+        },
+        "Changi T1 Transit": {
+          "by": "~ Mahadeb ~",
+          "time": "00:20"
         }
       },
       "problems": [],
