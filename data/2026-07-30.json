@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generated": "2026-07-30T05:26:39.669Z",
+  "generated": "2026-07-30T06:34:07.806Z",
   "groups": [
     {
       "id": "XH",
@@ -81,22 +81,26 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 7,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
         "Hougang Mall",
         "Punggol Plaza",
-        "Tanah Merah Ferry Terminal"
+        "Tanah Merah Ferry Terminal",
+        "Junction 8",
+        "Woods Square"
       ],
       "outlets_outstanding": [
         "United Square",
-        "Junction 8",
-        "Woods Square",
         "Suntec City",
         "South Beach Tower",
         "Lucky Plaza",
-        "Zhongshan Mall"
+        "Zhongshan Mall",
+        "Waterway Point",
+        "Compass One",
+        "Causeway Point",
+        "888 Plaza"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -118,6 +122,14 @@
         "Tanah Merah Ferry Terminal": {
           "by": "Ranjith",
           "time": "13:26"
+        },
+        "Junction 8": {
+          "by": "Nur Azimah",
+          "time": "14:34"
+        },
+        "Woods Square": {
+          "by": "Nur Azimah",
+          "time": "14:34"
         }
       },
       "problems": [],
