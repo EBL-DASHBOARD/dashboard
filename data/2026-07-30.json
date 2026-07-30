@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generated": "2026-07-30T07:05:02.034Z",
+  "generated": "2026-07-30T07:30:54.314Z",
   "groups": [
     {
       "id": "XH",
@@ -81,7 +81,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -90,7 +90,8 @@
         "Tanah Merah Ferry Terminal",
         "Junction 8",
         "Woods Square",
-        "Waterway Point"
+        "Waterway Point",
+        "Compass One"
       ],
       "outlets_outstanding": [
         "United Square",
@@ -98,7 +99,6 @@
         "South Beach Tower",
         "Lucky Plaza",
         "Zhongshan Mall",
-        "Compass One",
         "Causeway Point",
         "888 Plaza"
       ],
@@ -134,6 +134,10 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "14:34"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "15:30"
         }
       },
       "problems": [],
