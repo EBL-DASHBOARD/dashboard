@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T08:31:32.838Z",
+  "generated": "2026-07-31T08:46:23.508Z",
   "groups": [
     {
       "id": "XH",
@@ -363,7 +363,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "CL2",
         "DV",
@@ -390,7 +390,8 @@
         "WLCC",
         "R4",
         "AP4",
-        "ACV"
+        "ACV",
+        "WNC"
       ],
       "outlets_outstanding": [
         "BOB",
@@ -400,7 +401,6 @@
         "CCP",
         "WIS",
         "J9",
-        "WNC",
         "SSC2",
         "YS1",
         "AP2",
@@ -516,6 +516,10 @@
         "ACV": {
           "by": "Sasi",
           "time": "16:31"
+        },
+        "WNC": {
+          "by": "Samy Kumar Meena",
+          "time": "16:46"
         }
       },
       "problems": [],
