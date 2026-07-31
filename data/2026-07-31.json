@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T02:25:26.245Z",
+  "generated": "2026-07-31T02:25:41.259Z",
   "groups": [
     {
       "id": "XH",
@@ -298,7 +298,7 @@
           ]
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "CL2",
         "DV",
@@ -308,7 +308,8 @@
         "YTP",
         "CCKS",
         "KRC",
-        "BNV"
+        "BNV",
+        "SHP"
       ],
       "outlets_outstanding": [
         "BQ",
@@ -316,7 +317,6 @@
         "ART",
         "TIO",
         "VIVO",
-        "SHP",
         "KIT",
         "PS"
       ],
@@ -355,6 +355,10 @@
         },
         "BNV": {
           "by": "YAAKESH",
+          "time": "10:25"
+        },
+        "SHP": {
+          "by": "Sasi",
           "time": "10:25"
         }
       },
