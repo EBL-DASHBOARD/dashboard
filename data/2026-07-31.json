@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T03:57:31.435Z",
+  "generated": "2026-07-31T04:00:00.496Z",
   "groups": [
     {
       "id": "XH",
@@ -338,7 +338,35 @@
         "VIVO",
         "BQ"
       ],
-      "outlets_outstanding": [],
+      "outlets_outstanding": [
+        "PAL",
+        "KNX",
+        "BOB",
+        "EPT",
+        "TPM",
+        "BHT",
+        "CCP",
+        "WIS",
+        "J9",
+        "WLCC",
+        "MARS",
+        "WNC",
+        "SSC2",
+        "YS1",
+        "AP4",
+        "AP2",
+        "R4",
+        "R1",
+        "R3",
+        "AP1",
+        "WWP",
+        "NEX",
+        "LTM",
+        "KTB",
+        "ACV",
+        "NTP",
+        "CM1"
+      ],
       "done_detail": {
         "CL2": {
           "by": "Krishna",
