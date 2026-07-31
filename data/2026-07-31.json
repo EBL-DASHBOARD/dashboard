@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T00:51:19.615Z",
+  "generated": "2026-07-31T00:51:55.401Z",
   "groups": [
     {
       "id": "XH",
@@ -286,9 +286,10 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "CL2"
+        "CL2",
+        "DV"
       ],
       "outlets_outstanding": [
         "BNV",
@@ -302,7 +303,6 @@
         "ART",
         "TIO",
         "VIVO",
-        "DV",
         "USQ",
         "SHP",
         "KIT",
@@ -311,6 +311,10 @@
       "done_detail": {
         "CL2": {
           "by": "Krishna",
+          "time": "08:51"
+        },
+        "DV": {
+          "by": "Sasi",
           "time": "08:51"
         }
       },
