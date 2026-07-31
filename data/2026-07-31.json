@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T09:48:12.832Z",
+  "generated": "2026-07-31T09:52:24.170Z",
   "groups": [
     {
       "id": "XH",
@@ -571,6 +571,55 @@
           "time": "17:32"
         }
       },
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "XHNIGHT",
+      "name": "Xh Delivery (Night)",
+      "total_locations": 9,
+      "am_total": 4,
+      "pm_total": 5,
+      "am_outlets": [
+        "PLQ Tower 1",
+        "Aperia Mall",
+        "Citylink",
+        "One Raffles Link"
+      ],
+      "pm_outlets": [
+        "Ngee Ann City",
+        "9 Penang Road",
+        "NUH Medical Centre",
+        "Lazada One",
+        "Tangs Plaza Kiosk 2"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "PLQ Tower 1",
+            "Aperia Mall",
+            "Citylink",
+            "One Raffles Link"
+          ],
+          "pm": [
+            "Ngee Ann City",
+            "9 Penang Road",
+            "NUH Medical Centre",
+            "Lazada One",
+            "Tangs Plaza Kiosk 2"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "PLQ Tower 1",
+        "Aperia Mall",
+        "Citylink",
+        "One Raffles Link"
+      ],
+      "done_detail": {},
       "problems": [],
       "customers": null
     }
