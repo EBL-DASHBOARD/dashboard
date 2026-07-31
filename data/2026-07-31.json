@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T00:51:55.401Z",
+  "generated": "2026-07-31T01:17:18.206Z",
   "groups": [
     {
       "id": "XH",
@@ -122,9 +122,10 @@
           "pm": []
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "West Mall"
+        "West Mall",
+        "ARTRA"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -145,7 +146,6 @@
         "63 Pagoda Street",
         "AltitudeX",
         "Vivo City (9am onward)",
-        "ARTRA",
         "Marina Square",
         "Lucky Plaza (AM)"
       ],
@@ -153,6 +153,10 @@
         "West Mall": {
           "by": "Nur Azimah",
           "time": "08:42"
+        },
+        "ARTRA": {
+          "by": "SEENU.C",
+          "time": "09:17"
         }
       },
       "problems": [],
