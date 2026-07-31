@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T02:40:02.166Z",
+  "generated": "2026-07-31T03:13:31.123Z",
   "groups": [
     {
       "id": "XH",
@@ -122,14 +122,15 @@
           "pm": []
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "West Mall",
         "ARTRA",
         "Le Quest",
         "63 Pagoda Street",
         "UE Square",
-        "Parc Point"
+        "Parc Point",
+        "Marina Square"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -146,7 +147,6 @@
         "The Woodleigh Mall",
         "AltitudeX",
         "Vivo City (9am onward)",
-        "Marina Square",
         "Lucky Plaza (AM)"
       ],
       "done_detail": {
@@ -173,6 +173,10 @@
         "Parc Point": {
           "by": "Nur Azimah",
           "time": "10:40"
+        },
+        "Marina Square": {
+          "by": "SEENU.C",
+          "time": "11:13"
         }
       },
       "problems": [],
