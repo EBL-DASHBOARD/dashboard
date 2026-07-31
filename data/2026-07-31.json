@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T10:00:26.404Z",
+  "generated": "2026-07-31T10:20:51.367Z",
   "groups": [
     {
       "id": "XH",
@@ -396,7 +396,7 @@
           ]
         }
       ],
-      "done": 33,
+      "done": 35,
       "outlets_done": [
         "CL2",
         "DV",
@@ -430,14 +430,14 @@
         "CM1",
         "R1",
         "BHT",
-        "TPM"
+        "TPM",
+        "J9",
+        "YS1"
       ],
       "outlets_outstanding": [
         "EPT",
         "CCP",
         "WIS",
-        "J9",
-        "YS1",
         "AP2",
         "R3",
         "AP1",
@@ -577,6 +577,14 @@
         "TPM": {
           "by": "Sudhakar",
           "time": "18:00"
+        },
+        "J9": {
+          "by": "Samy Kumar Meena",
+          "time": "18:20"
+        },
+        "YS1": {
+          "by": "Samy Kumar Meena",
+          "time": "18:20"
         }
       },
       "problems": [],
