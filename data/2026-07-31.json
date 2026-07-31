@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T01:44:07.855Z",
+  "generated": "2026-07-31T01:51:52.577Z",
   "groups": [
     {
       "id": "XH",
@@ -122,11 +122,12 @@
           "pm": []
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "West Mall",
         "ARTRA",
-        "Le Quest"
+        "Le Quest",
+        "63 Pagoda Street"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -143,7 +144,6 @@
         "Margaret Market",
         "UE Square",
         "The Woodleigh Mall",
-        "63 Pagoda Street",
         "AltitudeX",
         "Vivo City (9am onward)",
         "Marina Square",
@@ -161,6 +161,10 @@
         "Le Quest": {
           "by": "Nur Azimah",
           "time": "09:41"
+        },
+        "63 Pagoda Street": {
+          "by": "Rsathiyaselvi",
+          "time": "09:51"
         }
       },
       "problems": [],
