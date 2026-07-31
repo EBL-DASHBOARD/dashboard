@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T09:44:50.343Z",
+  "generated": "2026-07-31T09:48:12.832Z",
   "groups": [
     {
       "id": "XH",
@@ -262,7 +262,7 @@
           "time": "17:33",
           "by": "Nur Azimah",
           "text": "Customer refusing to accept delivery due to damage",
-          "escalated": false,
+          "escalated": true,
           "resolved": false
         }
       ],
