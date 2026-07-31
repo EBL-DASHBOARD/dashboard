@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T01:38:02.691Z",
+  "generated": "2026-07-31T01:41:56.987Z",
   "groups": [
     {
       "id": "XH",
@@ -122,17 +122,17 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "West Mall",
-        "ARTRA"
+        "ARTRA",
+        "Le Quest"
       ],
       "outlets_outstanding": [
         "Tampines 1",
         "Century Square",
         "Tampines Mart",
         "Institute of Mental Health",
-        "Le Quest",
         "Hillion Mall",
         "Dairy Farm Mall",
         "Parc Point",
@@ -157,6 +157,10 @@
         "ARTRA": {
           "by": "SEENU.C",
           "time": "09:17"
+        },
+        "Le Quest": {
+          "by": "Nur Azimah",
+          "time": "09:41"
         }
       },
       "problems": [],
