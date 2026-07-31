@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T01:17:18.206Z",
+  "generated": "2026-07-31T01:38:02.691Z",
   "groups": [
     {
       "id": "XH",
@@ -290,20 +290,20 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 4,
       "outlets_done": [
         "CL2",
-        "DV"
+        "DV",
+        "JP",
+        "ARC"
       ],
       "outlets_outstanding": [
         "BNV",
         "KRC",
         "BQ",
-        "JP",
         "BPP",
         "YTP",
         "CCKS",
-        "ARC",
         "ART",
         "TIO",
         "VIVO",
@@ -320,6 +320,14 @@
         "DV": {
           "by": "Sasi",
           "time": "08:51"
+        },
+        "JP": {
+          "by": "Samy Kumar Meena",
+          "time": "08:58"
+        },
+        "ARC": {
+          "by": "Krishna",
+          "time": "09:38"
         }
       },
       "problems": [],
