@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T09:18:27.801Z",
+  "generated": "2026-07-31T09:21:00.656Z",
   "groups": [
     {
       "id": "XH",
@@ -380,7 +380,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "CL2",
         "DV",
@@ -409,7 +409,8 @@
         "AP4",
         "ACV",
         "WNC",
-        "BOB"
+        "BOB",
+        "SSC2"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -418,7 +419,6 @@
         "CCP",
         "WIS",
         "J9",
-        "SSC2",
         "YS1",
         "AP2",
         "R1",
@@ -541,6 +541,10 @@
         "BOB": {
           "by": "YAAKESH",
           "time": "16:53"
+        },
+        "SSC2": {
+          "by": "Samy Kumar Meena",
+          "time": "17:21"
         }
       },
       "problems": [],
