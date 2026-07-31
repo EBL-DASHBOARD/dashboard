@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T03:25:10.765Z",
+  "generated": "2026-07-31T03:25:50.979Z",
   "groups": [
     {
       "id": "XH",
@@ -314,7 +314,7 @@
           ]
         }
       ],
-      "done": 14,
+      "done": 16,
       "outlets_done": [
         "CL2",
         "DV",
@@ -329,12 +329,12 @@
         "ART",
         "BPP",
         "KIT",
-        "PS"
-      ],
-      "outlets_outstanding": [
-        "BQ",
+        "PS",
         "TIO",
         "VIVO"
+      ],
+      "outlets_outstanding": [
+        "BQ"
       ],
       "done_detail": {
         "CL2": {
@@ -391,6 +391,14 @@
         },
         "PS": {
           "by": "Sasi",
+          "time": "11:25"
+        },
+        "TIO": {
+          "by": "Krishna",
+          "time": "11:25"
+        },
+        "VIVO": {
+          "by": "Krishna",
           "time": "11:25"
         }
       },
