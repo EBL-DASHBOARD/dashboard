@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T07:16:01.281Z",
+  "generated": "2026-07-31T07:30:35.841Z",
   "groups": [
     {
       "id": "XH",
@@ -334,7 +334,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 22,
       "outlets_done": [
         "CL2",
         "DV",
@@ -354,10 +354,12 @@
         "VIVO",
         "BQ",
         "MARS",
-        "KNX"
+        "KNX",
+        "PAL",
+        "LTM",
+        "KTB"
       ],
       "outlets_outstanding": [
-        "PAL",
         "BOB",
         "EPT",
         "TPM",
@@ -377,8 +379,6 @@
         "AP1",
         "WWP",
         "NEX",
-        "LTM",
-        "KTB",
         "ACV",
         "NTP",
         "CM1"
@@ -459,6 +459,18 @@
         "KNX": {
           "by": "Sudhakar",
           "time": "15:16"
+        },
+        "PAL": {
+          "by": "Sudhakar",
+          "time": "15:16"
+        },
+        "LTM": {
+          "by": "Sasi",
+          "time": "15:30"
+        },
+        "KTB": {
+          "by": "Sasi",
+          "time": "15:30"
         }
       },
       "problems": [],
