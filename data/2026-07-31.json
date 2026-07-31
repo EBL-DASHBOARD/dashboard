@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T07:58:03.496Z",
+  "generated": "2026-07-31T08:00:52.155Z",
   "groups": [
     {
       "id": "XH",
@@ -359,7 +359,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 25,
       "outlets_done": [
         "CL2",
         "DV",
@@ -383,7 +383,9 @@
         "PAL",
         "LTM",
         "KTB",
-        "WLCC"
+        "WLCC",
+        "R4",
+        "AP4"
       ],
       "outlets_outstanding": [
         "BOB",
@@ -396,9 +398,7 @@
         "WNC",
         "SSC2",
         "YS1",
-        "AP4",
         "AP2",
-        "R4",
         "R1",
         "R3",
         "AP1",
@@ -500,6 +500,14 @@
         "WLCC": {
           "by": "Samy Kumar Meena",
           "time": "15:58"
+        },
+        "R4": {
+          "by": "Krishna",
+          "time": "16:00"
+        },
+        "AP4": {
+          "by": "Krishna",
+          "time": "16:00"
         }
       },
       "problems": [],
