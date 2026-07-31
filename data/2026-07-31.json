@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T03:30:12.379Z",
+  "generated": "2026-07-31T03:57:31.435Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "West Mall",
         "ARTRA",
@@ -131,7 +131,8 @@
         "UE Square",
         "Parc Point",
         "Marina Square",
-        "Hillion Mall"
+        "Hillion Mall",
+        "The Woodleigh Mall"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -144,7 +145,6 @@
         "Flavours @ NUS Uptown",
         "GENEO",
         "Margaret Market",
-        "The Woodleigh Mall",
         "AltitudeX",
         "Vivo City (9am onward)",
         "Lucky Plaza (AM)"
@@ -181,6 +181,10 @@
         "Hillion Mall": {
           "by": "Nur Azimah",
           "time": "11:23"
+        },
+        "The Woodleigh Mall": {
+          "by": "Rsathiyaselvi",
+          "time": "11:57"
         }
       },
       "problems": [],
