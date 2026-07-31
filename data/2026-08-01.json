@@ -1,0 +1,89 @@
+{
+  "date": "2026-08-01",
+  "generated": "2026-07-31T09:59:27.038Z",
+  "groups": [
+    {
+      "id": "XH",
+      "name": "Xh Delivery",
+      "total_locations": 17,
+      "am_total": 8,
+      "pm_total": 9,
+      "am_outlets": [
+        "Pasir Ris Mall",
+        "White Sands",
+        "Junction 8",
+        "Citygate",
+        "Suntec City",
+        "Hillion Mall",
+        "Compass One",
+        "Punggol Plaza"
+      ],
+      "pm_outlets": [
+        "Causeway Point",
+        "Waterway Point",
+        "888 Plaza",
+        "Downtown East",
+        "SingPost Centre",
+        "i12 Katong",
+        "V Hotel Lavender",
+        "100 AM Mall",
+        "Guoco Tower"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Pasir Ris Mall",
+            "White Sands",
+            "Junction 8"
+          ],
+          "pm": [
+            "Causeway Point",
+            "Waterway Point",
+            "888 Plaza"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "Citygate",
+            "Suntec City",
+            "Hillion Mall"
+          ],
+          "pm": [
+            "Downtown East",
+            "SingPost Centre",
+            "i12 Katong"
+          ]
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Compass One",
+            "Punggol Plaza"
+          ],
+          "pm": [
+            "V Hotel Lavender",
+            "100 AM Mall",
+            "Guoco Tower"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Pasir Ris Mall",
+        "White Sands",
+        "Junction 8",
+        "Citygate",
+        "Suntec City",
+        "Hillion Mall",
+        "Compass One",
+        "Punggol Plaza"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
