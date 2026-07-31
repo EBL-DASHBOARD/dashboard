@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T02:07:09.560Z",
+  "generated": "2026-07-31T02:25:26.245Z",
   "groups": [
     {
       "id": "XH",
@@ -298,7 +298,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 9,
       "outlets_done": [
         "CL2",
         "DV",
@@ -306,11 +306,11 @@
         "ARC",
         "USQ",
         "YTP",
-        "CCKS"
+        "CCKS",
+        "KRC",
+        "BNV"
       ],
       "outlets_outstanding": [
-        "BNV",
-        "KRC",
         "BQ",
         "BPP",
         "ART",
@@ -348,6 +348,14 @@
         "CCKS": {
           "by": "Samy Kumar Meena",
           "time": "10:07"
+        },
+        "KRC": {
+          "by": "YAAKESH",
+          "time": "10:25"
+        },
+        "BNV": {
+          "by": "YAAKESH",
+          "time": "10:25"
         }
       },
       "problems": [],
