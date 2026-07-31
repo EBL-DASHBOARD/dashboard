@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-30T18:02:32.660Z",
+  "generated": "2026-07-31T00:42:55.831Z",
   "groups": [
     {
       "id": "XH",
@@ -122,14 +122,15 @@
           "pm": []
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "West Mall"
+      ],
       "outlets_outstanding": [
         "Tampines 1",
         "Century Square",
         "Tampines Mart",
         "Institute of Mental Health",
-        "West Mall",
         "Le Quest",
         "Hillion Mall",
         "Dairy Farm Mall",
@@ -148,7 +149,12 @@
         "Marina Square",
         "Lucky Plaza (AM)"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "West Mall": {
+          "by": "Nur Azimah",
+          "time": "08:42"
+        }
+      },
       "problems": [],
       "customers": null
     },
