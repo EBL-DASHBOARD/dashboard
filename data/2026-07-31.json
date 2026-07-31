@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T09:33:13.242Z",
+  "generated": "2026-07-31T09:44:50.343Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 22,
+      "done": 24,
       "outlets_done": [
         "West Mall",
         "ARTRA",
@@ -145,7 +145,9 @@
         "Plaza Singapura",
         "Eastpoint Mall",
         "The Poiz Centre",
-        "New Tech Park"
+        "New Tech Park",
+        "Compass One",
+        "Rivervale Mall"
       ],
       "outlets_outstanding": [
         "Junction 9",
@@ -155,8 +157,6 @@
         "Margaret Market",
         "Vivo City (9am onward)",
         "Lucky Plaza (AM)",
-        "Compass One",
-        "Rivervale Mall",
         "Causeway Point"
       ],
       "done_detail": {
@@ -247,6 +247,14 @@
         "New Tech Park": {
           "by": "boss",
           "time": "17:18"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "17:44"
+        },
+        "Rivervale Mall": {
+          "by": "Nur Azimah",
+          "time": "17:44"
         }
       },
       "problems": [
