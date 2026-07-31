@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T11:38:09.484Z",
+  "generated": "2026-07-31T11:39:04.308Z",
   "groups": [
     {
       "id": "XH",
@@ -400,7 +400,7 @@
           ]
         }
       ],
-      "done": 42,
+      "done": 44,
       "outlets_done": [
         "CL2",
         "DV",
@@ -443,12 +443,11 @@
         "EPT",
         "CCP",
         "NTP",
-        "NEX"
-      ],
-      "outlets_outstanding": [
+        "NEX",
         "R3",
         "AP1"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "CL2": {
           "by": "Krishna",
@@ -617,6 +616,14 @@
         "NEX": {
           "by": "Sasi",
           "time": "19:38"
+        },
+        "R3": {
+          "by": "Krishna",
+          "time": "19:39"
+        },
+        "AP1": {
+          "by": "Krishna",
+          "time": "19:39"
         }
       },
       "problems": [],
