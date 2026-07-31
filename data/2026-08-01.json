@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-07-31T09:59:27.038Z",
+  "generated": "2026-07-31T15:14:44.127Z",
   "groups": [
     {
       "id": "XH",
@@ -80,6 +80,239 @@
         "Hillion Mall",
         "Compass One",
         "Punggol Plaza"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 64,
+      "am_total": 30,
+      "pm_total": 34,
+      "am_outlets": [
+        "CTP",
+        "BQ",
+        "CT",
+        "BNV",
+        "BPP",
+        "CCKS",
+        "KH",
+        "YTP",
+        "TY",
+        "SHP",
+        "KLP",
+        "KIT",
+        "TRM",
+        "HV2",
+        "DV",
+        "WSM",
+        "WXI",
+        "CL2",
+        "VIVO",
+        "ARC",
+        "TIO",
+        "JP",
+        "IM",
+        "TGCC",
+        "JKN",
+        "BS",
+        "STC",
+        "USQ",
+        "MSQ",
+        "KRC"
+      ],
+      "pm_outlets": [
+        "BHT",
+        "TPM",
+        "VIVA",
+        "BOB",
+        "PECC",
+        "AP1",
+        "PAL",
+        "CCP",
+        "EPT",
+        "KNX",
+        "GMM",
+        "HRC",
+        "KTB",
+        "WLCC",
+        "WIS",
+        "SSC2",
+        "YS1",
+        "MARS",
+        "J9",
+        "AP4",
+        "AP2",
+        "R3",
+        "R1",
+        "LOY",
+        "CKCC",
+        "TNC2",
+        "WWP",
+        "CM1",
+        "PDD",
+        "NTP",
+        "ACV",
+        "NEX",
+        "KEB",
+        "FEN"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [
+            "CTP",
+            "BQ",
+            "CT",
+            "BNV"
+          ],
+          "pm": [
+            "BHT",
+            "TPM",
+            "VIVA",
+            "BOB"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "BPP",
+            "CCKS",
+            "KH",
+            "YTP"
+          ],
+          "pm": [
+            "PECC",
+            "AP1",
+            "PAL",
+            "CCP",
+            "EPT"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "TY",
+            "SHP",
+            "KLP",
+            "KIT"
+          ],
+          "pm": [
+            "KNX",
+            "GMM",
+            "HRC"
+          ]
+        },
+        {
+          "name": "EBL6-7",
+          "am": [
+            "TRM",
+            "HV2",
+            "DV",
+            "WSM"
+          ],
+          "pm": [
+            "KTB",
+            "WLCC",
+            "WIS",
+            "SSC2",
+            "YS1",
+            "MARS",
+            "J9"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "WXI",
+            "CL2",
+            "VIVO",
+            "ARC",
+            "TIO"
+          ],
+          "pm": [
+            "AP4",
+            "AP2",
+            "R3",
+            "R1"
+          ]
+        },
+        {
+          "name": "EBL6-4",
+          "am": [
+            "JP",
+            "IM",
+            "TGCC",
+            "JKN"
+          ],
+          "pm": [
+            "LOY",
+            "CKCC",
+            "TNC2"
+          ]
+        },
+        {
+          "name": "EBL6-6",
+          "am": [
+            "BS",
+            "STC",
+            "USQ",
+            "MSQ",
+            "KRC"
+          ],
+          "pm": [
+            "WWP",
+            "CM1",
+            "PDD",
+            "NTP"
+          ]
+        },
+        {
+          "name": "EBL6-8",
+          "am": [],
+          "pm": [
+            "ACV",
+            "NEX",
+            "KEB",
+            "FEN"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "CTP",
+        "BQ",
+        "CT",
+        "BNV",
+        "BPP",
+        "CCKS",
+        "KH",
+        "YTP",
+        "TY",
+        "SHP",
+        "KLP",
+        "KIT",
+        "TRM",
+        "HV2",
+        "DV",
+        "WSM",
+        "WXI",
+        "CL2",
+        "VIVO",
+        "ARC",
+        "TIO",
+        "JP",
+        "IM",
+        "TGCC",
+        "JKN",
+        "BS",
+        "STC",
+        "USQ",
+        "MSQ",
+        "KRC"
       ],
       "done_detail": {},
       "problems": [],
