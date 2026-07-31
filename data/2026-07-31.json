@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T05:18:46.883Z",
+  "generated": "2026-07-31T07:09:20.015Z",
   "groups": [
     {
       "id": "XH",
@@ -330,7 +330,7 @@
           ]
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "CL2",
         "DV",
@@ -348,7 +348,8 @@
         "PS",
         "TIO",
         "VIVO",
-        "BQ"
+        "BQ",
+        "MARS"
       ],
       "outlets_outstanding": [
         "PAL",
@@ -361,7 +362,6 @@
         "WIS",
         "J9",
         "WLCC",
-        "MARS",
         "WNC",
         "SSC2",
         "YS1",
@@ -447,6 +447,10 @@
         "BQ": {
           "by": "YAAKESH",
           "time": "11:30"
+        },
+        "MARS": {
+          "by": "Samy Kumar Meena",
+          "time": "15:09"
         }
       },
       "problems": [],
