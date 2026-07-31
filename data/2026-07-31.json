@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T07:30:35.841Z",
+  "generated": "2026-07-31T07:46:20.764Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 12,
+      "done": 16,
       "outlets_done": [
         "West Mall",
         "ARTRA",
@@ -135,13 +135,13 @@
         "The Woodleigh Mall",
         "Dairy Farm Mall",
         "AltitudeX",
-        "Punggol Coast Mall"
-      ],
-      "outlets_outstanding": [
+        "Punggol Coast Mall",
         "Tampines 1",
         "Century Square",
         "Tampines Mart",
-        "Institute of Mental Health",
+        "Institute of Mental Health"
+      ],
+      "outlets_outstanding": [
         "Junction 9",
         "Northpoint City",
         "Flavours @ NUS Uptown",
@@ -151,7 +151,11 @@
         "Lucky Plaza (AM)",
         "Compass One",
         "Waterway Point",
-        "Rivervale Mall"
+        "Rivervale Mall",
+        "Eastpoint Mall",
+        "The Poiz Centre",
+        "New Tech Park",
+        "Causeway Point"
       ],
       "done_detail": {
         "West Mall": {
@@ -201,6 +205,22 @@
         "Punggol Coast Mall": {
           "by": "Nur Azimah",
           "time": "15:11"
+        },
+        "Tampines 1": {
+          "by": "boss",
+          "time": "15:46"
+        },
+        "Century Square": {
+          "by": "boss",
+          "time": "15:46"
+        },
+        "Tampines Mart": {
+          "by": "boss",
+          "time": "15:46"
+        },
+        "Institute of Mental Health": {
+          "by": "boss",
+          "time": "15:46"
         }
       },
       "problems": [],
