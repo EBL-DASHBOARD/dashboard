@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T08:53:57.597Z",
+  "generated": "2026-07-31T09:18:27.801Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 19,
+      "done": 22,
       "outlets_done": [
         "West Mall",
         "ARTRA",
@@ -142,7 +142,10 @@
         "Institute of Mental Health",
         "Far East Plaza Kiosk E",
         "Waterway Point",
-        "Plaza Singapura"
+        "Plaza Singapura",
+        "Eastpoint Mall",
+        "The Poiz Centre",
+        "New Tech Park"
       ],
       "outlets_outstanding": [
         "Junction 9",
@@ -154,9 +157,6 @@
         "Lucky Plaza (AM)",
         "Compass One",
         "Rivervale Mall",
-        "Eastpoint Mall",
-        "The Poiz Centre",
-        "New Tech Park",
         "Causeway Point"
       ],
       "done_detail": {
@@ -235,6 +235,18 @@
         "Plaza Singapura": {
           "by": "Rsathiyaselvi",
           "time": "16:53"
+        },
+        "Eastpoint Mall": {
+          "by": "boss",
+          "time": "17:18"
+        },
+        "The Poiz Centre": {
+          "by": "boss",
+          "time": "17:18"
+        },
+        "New Tech Park": {
+          "by": "boss",
+          "time": "17:18"
         }
       },
       "problems": [],
