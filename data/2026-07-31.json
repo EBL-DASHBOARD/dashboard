@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated": "2026-07-31T04:00:00.496Z",
+  "generated": "2026-07-31T04:03:03.616Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "West Mall",
         "ARTRA",
@@ -132,14 +132,14 @@
         "Parc Point",
         "Marina Square",
         "Hillion Mall",
-        "The Woodleigh Mall"
+        "The Woodleigh Mall",
+        "Dairy Farm Mall"
       ],
       "outlets_outstanding": [
         "Tampines 1",
         "Century Square",
         "Tampines Mart",
         "Institute of Mental Health",
-        "Dairy Farm Mall",
         "Junction 9",
         "Northpoint City",
         "Flavours @ NUS Uptown",
@@ -147,7 +147,11 @@
         "Margaret Market",
         "AltitudeX",
         "Vivo City (9am onward)",
-        "Lucky Plaza (AM)"
+        "Lucky Plaza (AM)",
+        "Compass One",
+        "Punggol Coast Mall",
+        "Waterway Point",
+        "Rivervale Mall"
       ],
       "done_detail": {
         "West Mall": {
@@ -185,6 +189,10 @@
         "The Woodleigh Mall": {
           "by": "Rsathiyaselvi",
           "time": "11:57"
+        },
+        "Dairy Farm Mall": {
+          "by": "Nur Azimah",
+          "time": "12:03"
         }
       },
       "problems": [],
