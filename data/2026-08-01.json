@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T11:35:09.851Z",
+  "generated": "2026-08-01T12:02:12.667Z",
   "groups": [
     {
       "id": "XH",
@@ -305,7 +305,7 @@
           ]
         }
       ],
-      "done": 54,
+      "done": 55,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -360,10 +360,10 @@
         "ACV",
         "AP2",
         "TPM",
-        "MARS"
+        "MARS",
+        "KLP"
       ],
       "outlets_outstanding": [
-        "KLP",
         "IM",
         "CCP",
         "R3",
@@ -590,6 +590,10 @@
         "MARS": {
           "by": "Rajesh",
           "time": "19:35"
+        },
+        "KLP": {
+          "by": "😈AJITH😈",
+          "time": "20:02"
         }
       },
       "problems": [],
