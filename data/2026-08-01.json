@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T12:22:27.043Z",
+  "generated": "2026-08-01T12:37:04.214Z",
   "groups": [
     {
       "id": "XH",
@@ -305,7 +305,7 @@
           ]
         }
       ],
-      "done": 60,
+      "done": 61,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -366,11 +366,11 @@
         "WWP",
         "CM1",
         "PDD",
-        "NTP"
+        "NTP",
+        "R3"
       ],
       "outlets_outstanding": [
         "CCP",
-        "R3",
         "CKCC",
         "KEB"
       ],
@@ -614,6 +614,10 @@
         "NTP": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "20:22"
+        },
+        "R3": {
+          "by": "Krishna",
+          "time": "20:37"
         }
       },
       "problems": [],
