@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T09:33:37.408Z",
+  "generated": "2026-08-01T10:00:06.192Z",
   "groups": [
     {
       "id": "XH",
@@ -305,7 +305,7 @@
           ]
         }
       ],
-      "done": 42,
+      "done": 43,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -348,12 +348,12 @@
         "WIS",
         "GMM",
         "LOY",
-        "TNC2"
+        "TNC2",
+        "BHT"
       ],
       "outlets_outstanding": [
         "KLP",
         "IM",
-        "BHT",
         "TPM",
         "PECC",
         "AP1",
@@ -542,6 +542,10 @@
         "TNC2": {
           "by": "Siva",
           "time": "17:33"
+        },
+        "BHT": {
+          "by": "YAAKESH",
+          "time": "18:00"
         }
       },
       "problems": [],
