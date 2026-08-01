@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T07:09:09.275Z",
+  "generated": "2026-08-01T08:02:08.230Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -327,7 +327,8 @@
         "CT",
         "MSQ",
         "STC",
-        "PAL"
+        "PAL",
+        "EPT"
       ],
       "outlets_outstanding": [
         "KLP",
@@ -339,7 +340,6 @@
         "PECC",
         "AP1",
         "CCP",
-        "EPT",
         "KNX",
         "GMM",
         "HRC",
@@ -482,6 +482,10 @@
         "PAL": {
           "by": "Samy Kumar Meena",
           "time": "15:09"
+        },
+        "EPT": {
+          "by": "Samy Kumar Meena",
+          "time": "16:02"
         }
       },
       "problems": [],
