@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T11:19:38.089Z",
+  "generated": "2026-08-01T11:25:22.944Z",
   "groups": [
     {
       "id": "XH",
@@ -305,7 +305,7 @@
           ]
         }
       ],
-      "done": 52,
+      "done": 53,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -358,12 +358,12 @@
         "PECC",
         "AP1",
         "ACV",
-        "AP2"
+        "AP2",
+        "TPM"
       ],
       "outlets_outstanding": [
         "KLP",
         "IM",
-        "TPM",
         "CCP",
         "MARS",
         "R3",
@@ -582,6 +582,10 @@
         "AP2": {
           "by": "Krishna",
           "time": "19:19"
+        },
+        "TPM": {
+          "by": "Sudhakar",
+          "time": "19:25"
         }
       },
       "problems": [],
