@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T03:21:03.958Z",
+  "generated": "2026-08-01T03:22:46.892Z",
   "groups": [
     {
       "id": "XH",
@@ -280,7 +280,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -297,13 +297,13 @@
         "KH",
         "BPP",
         "BNV",
-        "BQ"
+        "BQ",
+        "KIT"
       ],
       "outlets_outstanding": [
         "CTP",
         "CT",
         "KLP",
-        "KIT",
         "WSM",
         "VIVO",
         "TIO",
@@ -379,6 +379,10 @@
         "BQ": {
           "by": "YAAKESH",
           "time": "11:21"
+        },
+        "KIT": {
+          "by": "Sasi",
+          "time": "11:22"
         }
       },
       "problems": [],
