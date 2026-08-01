@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T10:10:51.839Z",
+  "generated": "2026-08-01T10:13:08.442Z",
   "groups": [
     {
       "id": "XH",
@@ -305,7 +305,7 @@
           ]
         }
       ],
-      "done": 44,
+      "done": 45,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -350,7 +350,8 @@
         "LOY",
         "TNC2",
         "BHT",
-        "FEN"
+        "FEN",
+        "R1"
       ],
       "outlets_outstanding": [
         "KLP",
@@ -365,7 +366,6 @@
         "MARS",
         "AP2",
         "R3",
-        "R1",
         "CKCC",
         "WWP",
         "CM1",
@@ -550,6 +550,10 @@
         "FEN": {
           "by": "kannan",
           "time": "18:10"
+        },
+        "R1": {
+          "by": "Krishna",
+          "time": "18:13"
         }
       },
       "problems": [],
