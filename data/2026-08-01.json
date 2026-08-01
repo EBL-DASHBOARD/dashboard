@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T03:49:06.017Z",
+  "generated": "2026-08-01T03:52:18.454Z",
   "groups": [
     {
       "id": "XH",
@@ -286,7 +286,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -305,13 +305,13 @@
         "BNV",
         "BQ",
         "KIT",
-        "TIO"
+        "TIO",
+        "WSM"
       ],
       "outlets_outstanding": [
         "CTP",
         "CT",
         "KLP",
-        "WSM",
         "VIVO",
         "IM",
         "TGCC",
@@ -393,6 +393,10 @@
         "TIO": {
           "by": "Krishna",
           "time": "11:49"
+        },
+        "WSM": {
+          "by": "Rajesh",
+          "time": "11:52"
         }
       },
       "problems": [],
