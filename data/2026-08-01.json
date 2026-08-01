@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T09:19:07.839Z",
+  "generated": "2026-08-01T09:19:15.413Z",
   "groups": [
     {
       "id": "XH",
@@ -305,7 +305,7 @@
           ]
         }
       ],
-      "done": 37,
+      "done": 38,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -343,7 +343,8 @@
         "VIVA",
         "BOB",
         "NEX",
-        "YS1"
+        "YS1",
+        "J9"
       ],
       "outlets_outstanding": [
         "KLP",
@@ -359,7 +360,6 @@
         "WIS",
         "SSC2",
         "MARS",
-        "J9",
         "AP2",
         "R3",
         "R1",
@@ -520,6 +520,10 @@
           "time": "16:52"
         },
         "YS1": {
+          "by": "Rajesh",
+          "time": "17:19"
+        },
+        "J9": {
           "by": "Rajesh",
           "time": "17:19"
         }
