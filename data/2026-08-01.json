@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T08:52:26.732Z",
+  "generated": "2026-08-01T09:19:07.839Z",
   "groups": [
     {
       "id": "XH",
@@ -305,7 +305,7 @@
           ]
         }
       ],
-      "done": 36,
+      "done": 37,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -342,7 +342,8 @@
         "KTB",
         "VIVA",
         "BOB",
-        "NEX"
+        "NEX",
+        "YS1"
       ],
       "outlets_outstanding": [
         "KLP",
@@ -357,7 +358,6 @@
         "WLCC",
         "WIS",
         "SSC2",
-        "YS1",
         "MARS",
         "J9",
         "AP2",
@@ -518,6 +518,10 @@
         "NEX": {
           "by": "kannan",
           "time": "16:52"
+        },
+        "YS1": {
+          "by": "Rajesh",
+          "time": "17:19"
         }
       },
       "problems": [],
