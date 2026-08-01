@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T10:00:06.192Z",
+  "generated": "2026-08-01T10:10:51.839Z",
   "groups": [
     {
       "id": "XH",
@@ -305,7 +305,7 @@
           ]
         }
       ],
-      "done": 43,
+      "done": 44,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -349,7 +349,8 @@
         "GMM",
         "LOY",
         "TNC2",
-        "BHT"
+        "BHT",
+        "FEN"
       ],
       "outlets_outstanding": [
         "KLP",
@@ -371,8 +372,7 @@
         "PDD",
         "NTP",
         "ACV",
-        "KEB",
-        "FEN"
+        "KEB"
       ],
       "done_detail": {
         "YTP": {
@@ -546,6 +546,10 @@
         "BHT": {
           "by": "YAAKESH",
           "time": "18:00"
+        },
+        "FEN": {
+          "by": "kannan",
+          "time": "18:10"
         }
       },
       "problems": [],
