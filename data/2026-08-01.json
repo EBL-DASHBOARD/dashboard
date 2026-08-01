@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T11:00:56.758Z",
+  "generated": "2026-08-01T11:01:26.964Z",
   "groups": [
     {
       "id": "XH",
@@ -305,7 +305,7 @@
           ]
         }
       ],
-      "done": 48,
+      "done": 50,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -354,14 +354,14 @@
         "R1",
         "SSC2",
         "HRC",
-        "WLCC"
+        "WLCC",
+        "PECC",
+        "AP1"
       ],
       "outlets_outstanding": [
         "KLP",
         "IM",
         "TPM",
-        "PECC",
-        "AP1",
         "CCP",
         "MARS",
         "AP2",
@@ -566,6 +566,14 @@
         "WLCC": {
           "by": "Rajesh",
           "time": "19:00"
+        },
+        "PECC": {
+          "by": "Samy Kumar Meena",
+          "time": "19:01"
+        },
+        "AP1": {
+          "by": "Samy Kumar Meena",
+          "time": "19:01"
         }
       },
       "problems": [],
