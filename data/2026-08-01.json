@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T08:23:16.581Z",
+  "generated": "2026-08-01T08:44:28.860Z",
   "groups": [
     {
       "id": "XH",
@@ -305,7 +305,7 @@
           ]
         }
       ],
-      "done": 32,
+      "done": 33,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -338,7 +338,8 @@
         "PAL",
         "EPT",
         "AP4",
-        "KNX"
+        "KNX",
+        "KTB"
       ],
       "outlets_outstanding": [
         "KLP",
@@ -352,7 +353,6 @@
         "CCP",
         "GMM",
         "HRC",
-        "KTB",
         "WLCC",
         "WIS",
         "SSC2",
@@ -502,6 +502,10 @@
         "KNX": {
           "by": "Sasi",
           "time": "16:20"
+        },
+        "KTB": {
+          "by": "Rajesh",
+          "time": "16:44"
         }
       },
       "problems": [],
