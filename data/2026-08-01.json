@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T03:08:15.086Z",
+  "generated": "2026-08-01T03:18:07.181Z",
   "groups": [
     {
       "id": "XH",
@@ -280,7 +280,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 14,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -293,15 +293,15 @@
         "WXI",
         "HV2",
         "ARC",
-        "TRM"
+        "TRM",
+        "KH",
+        "BPP"
       ],
       "outlets_outstanding": [
         "CTP",
         "BQ",
         "CT",
         "BNV",
-        "BPP",
-        "KH",
         "KLP",
         "KIT",
         "WSM",
@@ -363,6 +363,14 @@
         "TRM": {
           "by": "Rajesh",
           "time": "11:08"
+        },
+        "KH": {
+          "by": "Samy Kumar Meena",
+          "time": "11:18"
+        },
+        "BPP": {
+          "by": "Samy Kumar Meena",
+          "time": "11:18"
         }
       },
       "problems": [],
