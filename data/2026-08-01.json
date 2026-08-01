@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T10:24:11.302Z",
+  "generated": "2026-08-01T10:33:43.527Z",
   "groups": [
     {
       "id": "XH",
@@ -305,7 +305,7 @@
           ]
         }
       ],
-      "done": 46,
+      "done": 47,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -352,7 +352,8 @@
         "BHT",
         "FEN",
         "R1",
-        "SSC2"
+        "SSC2",
+        "HRC"
       ],
       "outlets_outstanding": [
         "KLP",
@@ -361,7 +362,6 @@
         "PECC",
         "AP1",
         "CCP",
-        "HRC",
         "WLCC",
         "MARS",
         "AP2",
@@ -558,6 +558,10 @@
         "SSC2": {
           "by": "Rajesh",
           "time": "18:24"
+        },
+        "HRC": {
+          "by": "Sasi",
+          "time": "18:33"
         }
       },
       "problems": [],
