@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T04:04:32.329Z",
+  "generated": "2026-08-01T04:06:22.799Z",
   "groups": [
     {
       "id": "XH",
@@ -286,7 +286,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -310,14 +310,14 @@
         "KRC",
         "USQ",
         "BS",
-        "CTP"
+        "CTP",
+        "TGCC"
       ],
       "outlets_outstanding": [
         "CT",
         "KLP",
         "VIVO",
         "IM",
-        "TGCC",
         "STC",
         "MSQ",
         "BHT",
@@ -447,6 +447,10 @@
         "CTP": {
           "by": "Sudhakar",
           "time": "12:04"
+        },
+        "TGCC": {
+          "by": "Rsathiyaselvi",
+          "time": "12:06"
         }
       },
       "problems": [],
