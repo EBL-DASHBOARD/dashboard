@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T03:52:18.454Z",
+  "generated": "2026-08-01T03:52:32.660Z",
   "groups": [
     {
       "id": "XH",
@@ -286,7 +286,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 22,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -306,7 +306,10 @@
         "BQ",
         "KIT",
         "TIO",
-        "WSM"
+        "WSM",
+        "KRC",
+        "USQ",
+        "BS"
       ],
       "outlets_outstanding": [
         "CTP",
@@ -315,11 +318,8 @@
         "VIVO",
         "IM",
         "TGCC",
-        "BS",
         "STC",
-        "USQ",
-        "MSQ",
-        "KRC"
+        "MSQ"
       ],
       "done_detail": {
         "YTP": {
@@ -396,6 +396,18 @@
         },
         "WSM": {
           "by": "Rajesh",
+          "time": "11:52"
+        },
+        "KRC": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "11:52"
+        },
+        "USQ": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "11:52"
+        },
+        "BS": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "11:52"
         }
       },
