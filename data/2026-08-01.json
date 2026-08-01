@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T01:11:05.491Z",
+  "generated": "2026-08-01T01:25:42.458Z",
   "groups": [
     {
       "id": "XH",
@@ -280,11 +280,12 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "YTP",
         "CL2",
-        "TY"
+        "TY",
+        "DV"
       ],
       "outlets_outstanding": [
         "CTP",
@@ -299,7 +300,6 @@
         "KIT",
         "TRM",
         "HV2",
-        "DV",
         "WSM",
         "WXI",
         "VIVO",
@@ -327,6 +327,10 @@
         "TY": {
           "by": "Sasi",
           "time": "09:11"
+        },
+        "DV": {
+          "by": "Rajesh",
+          "time": "09:25"
         }
       },
       "problems": [],
