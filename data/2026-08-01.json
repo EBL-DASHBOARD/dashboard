@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T01:02:17.097Z",
+  "generated": "2026-08-01T01:11:05.491Z",
   "groups": [
     {
       "id": "XH",
@@ -280,10 +280,11 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "YTP",
-        "CL2"
+        "CL2",
+        "TY"
       ],
       "outlets_outstanding": [
         "CTP",
@@ -293,7 +294,6 @@
         "BPP",
         "CCKS",
         "KH",
-        "TY",
         "SHP",
         "KLP",
         "KIT",
@@ -323,6 +323,10 @@
         "CL2": {
           "by": "Krishna",
           "time": "09:02"
+        },
+        "TY": {
+          "by": "Sasi",
+          "time": "09:11"
         }
       },
       "problems": [],
