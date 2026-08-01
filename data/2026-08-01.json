@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T04:00:00.227Z",
+  "generated": "2026-08-01T04:04:32.329Z",
   "groups": [
     {
       "id": "XH",
@@ -286,7 +286,7 @@
           ]
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -309,10 +309,10 @@
         "WSM",
         "KRC",
         "USQ",
-        "BS"
+        "BS",
+        "CTP"
       ],
       "outlets_outstanding": [
-        "CTP",
         "CT",
         "KLP",
         "VIVO",
@@ -443,6 +443,10 @@
         "BS": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "11:52"
+        },
+        "CTP": {
+          "by": "Sudhakar",
+          "time": "12:04"
         }
       },
       "problems": [],
