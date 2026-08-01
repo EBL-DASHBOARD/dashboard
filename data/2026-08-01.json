@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T08:44:28.860Z",
+  "generated": "2026-08-01T08:51:08.501Z",
   "groups": [
     {
       "id": "XH",
@@ -305,7 +305,7 @@
           ]
         }
       ],
-      "done": 33,
+      "done": 35,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -339,15 +339,15 @@
         "EPT",
         "AP4",
         "KNX",
-        "KTB"
+        "KTB",
+        "VIVA",
+        "BOB"
       ],
       "outlets_outstanding": [
         "KLP",
         "IM",
         "BHT",
         "TPM",
-        "VIVA",
-        "BOB",
         "PECC",
         "AP1",
         "CCP",
@@ -506,6 +506,14 @@
         "KTB": {
           "by": "Rajesh",
           "time": "16:44"
+        },
+        "VIVA": {
+          "by": "YAAKESH",
+          "time": "16:51"
+        },
+        "BOB": {
+          "by": "YAAKESH",
+          "time": "16:51"
         }
       },
       "problems": [],
