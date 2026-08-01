@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T02:01:24.704Z",
+  "generated": "2026-08-01T02:27:01.551Z",
   "groups": [
     {
       "id": "XH",
@@ -280,7 +280,7 @@
           ]
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -290,7 +290,8 @@
         "CCKS",
         "JP",
         "JKN",
-        "WXI"
+        "WXI",
+        "HV2"
       ],
       "outlets_outstanding": [
         "CTP",
@@ -302,7 +303,6 @@
         "KLP",
         "KIT",
         "TRM",
-        "HV2",
         "WSM",
         "VIVO",
         "ARC",
@@ -351,6 +351,10 @@
         "WXI": {
           "by": "Krishna",
           "time": "10:01"
+        },
+        "HV2": {
+          "by": "Rajesh",
+          "time": "10:27"
         }
       },
       "problems": [],
