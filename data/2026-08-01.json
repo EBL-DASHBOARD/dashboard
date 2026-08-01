@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-08-01T08:20:57.948Z",
+  "generated": "2026-08-01T08:23:16.581Z",
   "groups": [
     {
       "id": "XH",
@@ -69,11 +69,13 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 5,
       "outlets_done": [
         "Compass One",
         "Punggol Plaza",
-        "V Hotel Lavender"
+        "V Hotel Lavender",
+        "100 AM Mall",
+        "Guoco Tower"
       ],
       "outlets_outstanding": [
         "Pasir Ris Mall",
@@ -81,9 +83,7 @@
         "Junction 8",
         "Citygate",
         "Suntec City",
-        "Hillion Mall",
-        "100 AM Mall",
-        "Guoco Tower"
+        "Hillion Mall"
       ],
       "done_detail": {
         "Compass One": {
@@ -97,6 +97,14 @@
         "V Hotel Lavender": {
           "by": "Nur Azimah",
           "time": "14:26"
+        },
+        "100 AM Mall": {
+          "by": "Nur Azimah",
+          "time": "16:23"
+        },
+        "Guoco Tower": {
+          "by": "Nur Azimah",
+          "time": "16:23"
         }
       },
       "problems": [],
