@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-02T15:19:54.174Z",
+  "generated": "2026-08-02T15:45:44.751Z",
   "groups": [
     {
       "id": "XH",
@@ -189,7 +189,7 @@
         "CCKS",
         "TRM",
         "WSM",
-        "SHP",
+        "CUP",
         "KLP",
         "KLP",
         "KIT",
@@ -273,7 +273,7 @@
         {
           "name": "EBL6-5",
           "am": [
-            "SHP",
+            "CUP",
             "KLP",
             "KLP",
             "KIT",
@@ -336,7 +336,7 @@
         "CCKS",
         "TRM",
         "WSM",
-        "SHP",
+        "CUP",
         "KLP",
         "KIT",
         "USQ",
