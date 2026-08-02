@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "generated": "2026-08-02T15:24:17.765Z",
+  "generated": "2026-08-02T15:39:48.479Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -59,9 +59,10 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "Changi City Point"
+        "Changi City Point",
+        "ESR BizPark @ Changi"
       ],
       "outlets_outstanding": [
         "Jewel",
@@ -69,13 +70,16 @@
         "Icon Link",
         "Chinatown Point",
         "Hougang 1",
-        "ESR BizPark @ Changi",
         "Parkway Parade"
       ],
       "done_detail": {
         "Changi City Point": {
           "by": "SEENU.C",
           "time": "23:24"
+        },
+        "ESR BizPark @ Changi": {
+          "by": "SEENU.C",
+          "time": "23:39"
         }
       },
       "problems": [],
