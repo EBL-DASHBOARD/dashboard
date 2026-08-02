@@ -1,0 +1,177 @@
+{
+  "date": "2026-08-03",
+  "generated": "2026-08-02T12:22:23.294Z",
+  "groups": [
+    {
+      "id": "XH",
+      "name": "Xh Delivery",
+      "total_locations": 43,
+      "am_total": 24,
+      "pm_total": 19,
+      "am_outlets": [
+        "Tanah Merah Ferry Terminal",
+        "Zhongshan Mall",
+        "The Woodleigh Mall",
+        "63 Pagoda Street",
+        "UE Square",
+        "Tampines Mart",
+        "Century Square",
+        "Tampines 1",
+        "Dairy Farm Mall",
+        "Hillion Mall",
+        "Le Quest",
+        "West Mall",
+        "Parc Point",
+        "Hougang Mall",
+        "Junction 9",
+        "Northpoint City",
+        "Woods Square",
+        "Vivocity",
+        "AltitudeX",
+        "HarbourFront Tower 1",
+        "GENEO",
+        "ARTRA",
+        "Alexandra Technopark B",
+        "Lucky Plaza"
+      ],
+      "pm_outlets": [
+        "Punggol Coast Mall",
+        "The Poiz Centre",
+        "Royal Square",
+        "New Tech Park",
+        "Eastpoint Mall",
+        "313 Somerset",
+        "Far East Plaza Kiosk E",
+        "V Hotel Lavender",
+        "Compass One",
+        "Rivervale Mall",
+        "Causeway Point",
+        "Waterway Point",
+        "120 Robinson",
+        "Galaxis",
+        "Mapletree Business City",
+        "Flavours @ NUS Uptown",
+        "Westgate Tower",
+        "JEM",
+        "Fairprice Hub"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Tanah Merah Ferry Terminal",
+            "Zhongshan Mall",
+            "The Woodleigh Mall",
+            "63 Pagoda Street"
+          ],
+          "pm": [
+            "Punggol Coast Mall",
+            "The Poiz Centre",
+            "Royal Square",
+            "New Tech Park"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "UE Square",
+            "Tampines Mart",
+            "Century Square",
+            "Tampines 1"
+          ],
+          "pm": [
+            "Eastpoint Mall",
+            "313 Somerset",
+            "Far East Plaza Kiosk E",
+            "V Hotel Lavender"
+          ]
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Dairy Farm Mall",
+            "Hillion Mall",
+            "Le Quest",
+            "West Mall",
+            "Parc Point"
+          ],
+          "pm": [
+            "Compass One",
+            "Rivervale Mall",
+            "Causeway Point",
+            "Waterway Point"
+          ]
+        },
+        {
+          "name": "TRUCK 4",
+          "am": [
+            "Hougang Mall",
+            "Junction 9",
+            "Northpoint City",
+            "Woods Square"
+          ],
+          "pm": [
+            "120 Robinson",
+            "Galaxis",
+            "Mapletree Business City",
+            "Flavours @ NUS Uptown"
+          ]
+        },
+        {
+          "name": "TRUCK 5",
+          "am": [
+            "Vivocity",
+            "AltitudeX",
+            "HarbourFront Tower 1",
+            "GENEO",
+            "ARTRA"
+          ],
+          "pm": [
+            "Westgate Tower",
+            "JEM",
+            "Fairprice Hub"
+          ]
+        },
+        {
+          "name": "TRUCK 6",
+          "am": [
+            "Alexandra Technopark B",
+            "Lucky Plaza"
+          ],
+          "pm": []
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Tanah Merah Ferry Terminal",
+        "Zhongshan Mall",
+        "The Woodleigh Mall",
+        "63 Pagoda Street",
+        "UE Square",
+        "Tampines Mart",
+        "Century Square",
+        "Tampines 1",
+        "Dairy Farm Mall",
+        "Hillion Mall",
+        "Le Quest",
+        "West Mall",
+        "Parc Point",
+        "Hougang Mall",
+        "Junction 9",
+        "Northpoint City",
+        "Woods Square",
+        "Vivocity",
+        "AltitudeX",
+        "HarbourFront Tower 1",
+        "GENEO",
+        "ARTRA",
+        "Alexandra Technopark B",
+        "Lucky Plaza"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
