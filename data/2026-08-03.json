@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T08:09:00.281Z",
+  "generated": "2026-08-03T08:15:15.874Z",
   "groups": [
     {
       "id": "XH",
@@ -453,7 +453,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -482,7 +482,8 @@
         "KTB",
         "BHT",
         "KNX",
-        "GMM"
+        "GMM",
+        "R4"
       ],
       "outlets_outstanding": [
         "CUP",
@@ -499,7 +500,6 @@
         "CM1",
         "WIS",
         "YS1",
-        "R4",
         "AP4",
         "R3",
         "AP2",
@@ -621,6 +621,10 @@
         "GMM": {
           "by": "Sudhakar",
           "time": "15:54"
+        },
+        "R4": {
+          "by": "Krishna",
+          "time": "16:15"
         }
       },
       "problems": [],
