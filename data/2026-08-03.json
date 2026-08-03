@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T03:02:47.485Z",
+  "generated": "2026-08-03T03:10:46.240Z",
   "groups": [
     {
       "id": "XH",
@@ -141,7 +141,7 @@
           "pm": []
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -153,7 +153,8 @@
         "Vivocity",
         "Tampines Mart",
         "Tampines 1",
-        "Junction 9"
+        "Junction 9",
+        "Hillion Mall"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -163,7 +164,6 @@
         "UE Square",
         "Century Square",
         "Dairy Farm Mall",
-        "Hillion Mall",
         "Northpoint City",
         "Woods Square",
         "GENEO",
@@ -214,6 +214,10 @@
         "Junction 9": {
           "by": "Rsathiyaselvi",
           "time": "11:02"
+        },
+        "Hillion Mall": {
+          "by": "Nur Azimah",
+          "time": "11:10"
         }
       },
       "problems": [],
