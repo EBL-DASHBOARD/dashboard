@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T01:24:03.191Z",
+  "generated": "2026-08-03T01:25:35.799Z",
   "groups": [
     {
       "id": "XH",
@@ -141,11 +141,12 @@
           "pm": []
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
-        "Hougang Mall"
+        "Hougang Mall",
+        "HarbourFront Tower 1"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -165,7 +166,6 @@
         "Woods Square",
         "Vivocity",
         "AltitudeX",
-        "HarbourFront Tower 1",
         "GENEO",
         "ARTRA",
         "Lucky Plaza"
@@ -182,6 +182,10 @@
         "Hougang Mall": {
           "by": "Rsathiyaselvi",
           "time": "09:24"
+        },
+        "HarbourFront Tower 1": {
+          "by": "palanivelumuthukumar",
+          "time": "09:25"
         }
       },
       "problems": [],
