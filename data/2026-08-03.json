@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T10:10:14.275Z",
+  "generated": "2026-08-03T10:19:05.214Z",
   "groups": [
     {
       "id": "XH",
@@ -513,7 +513,7 @@
           ]
         }
       ],
-      "done": 40,
+      "done": 41,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -554,7 +554,8 @@
         "EPT",
         "WIS",
         "CKCC",
-        "WWP"
+        "WWP",
+        "AP2"
       ],
       "outlets_outstanding": [
         "CUP",
@@ -564,7 +565,6 @@
         "ACV",
         "CM1",
         "R3",
-        "AP2",
         "R1",
         "NTP",
         "KEB"
@@ -729,6 +729,10 @@
         "WWP": {
           "by": "Sudhakar",
           "time": "18:10"
+        },
+        "AP2": {
+          "by": "Krishna",
+          "time": "18:19"
         }
       },
       "problems": [],
