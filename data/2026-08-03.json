@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T09:00:16.216Z",
+  "generated": "2026-08-03T09:03:38.331Z",
   "groups": [
     {
       "id": "XH",
@@ -481,7 +481,7 @@
           ]
         }
       ],
-      "done": 33,
+      "done": 34,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -515,7 +515,8 @@
         "TNC2",
         "BOB",
         "AP4",
-        "YS1"
+        "YS1",
+        "HRC"
       ],
       "outlets_outstanding": [
         "CUP",
@@ -533,7 +534,6 @@
         "AP2",
         "R1",
         "NTP",
-        "HRC",
         "WWP",
         "KEB"
       ],
@@ -669,6 +669,10 @@
         "YS1": {
           "by": "Sasi",
           "time": "17:00"
+        },
+        "HRC": {
+          "by": "Sudhakar",
+          "time": "17:03"
         }
       },
       "problems": [],
