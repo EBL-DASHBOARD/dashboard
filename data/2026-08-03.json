@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T03:35:22.709Z",
+  "generated": "2026-08-03T03:36:12.994Z",
   "groups": [
     {
       "id": "XH",
@@ -141,7 +141,7 @@
           "pm": []
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -155,7 +155,8 @@
         "Tampines 1",
         "Junction 9",
         "Hillion Mall",
-        "ARTRA"
+        "ARTRA",
+        "Dairy Farm Mall"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -164,11 +165,14 @@
         "63 Pagoda Street",
         "UE Square",
         "Century Square",
-        "Dairy Farm Mall",
         "Northpoint City",
         "Woods Square",
         "GENEO",
-        "Lucky Plaza"
+        "Lucky Plaza",
+        "Compass One",
+        "Rivervale Mall",
+        "Causeway Point",
+        "Waterway Point"
       ],
       "done_detail": {
         "West Mall": {
@@ -222,6 +226,10 @@
         "ARTRA": {
           "by": "palanivelumuthukumar",
           "time": "11:35"
+        },
+        "Dairy Farm Mall": {
+          "by": "Nur Azimah",
+          "time": "11:36"
         }
       },
       "problems": [],
