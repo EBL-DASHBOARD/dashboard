@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T04:21:12.961Z",
+  "generated": "2026-08-03T04:26:38.130Z",
   "groups": [
     {
       "id": "XH",
@@ -417,7 +417,7 @@
           ]
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -435,10 +435,10 @@
         "TIO",
         "KLP",
         "BPP",
-        "WSM"
+        "WSM",
+        "PS"
       ],
       "outlets_outstanding": [
-        "PS",
         "CUP",
         "KIT",
         "VIVO",
@@ -541,6 +541,10 @@
         "WSM": {
           "by": "Samy Kumar Meena",
           "time": "12:21"
+        },
+        "PS": {
+          "by": "Rana",
+          "time": "12:26"
         }
       },
       "problems": [],
