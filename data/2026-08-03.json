@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T06:33:50.892Z",
+  "generated": "2026-08-03T06:34:02.387Z",
   "groups": [
     {
       "id": "XH",
@@ -141,7 +141,7 @@
           "pm": []
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -165,7 +165,8 @@
         "GENEO",
         "Woods Square",
         "UE Square",
-        "Century Square"
+        "Century Square",
+        "Eastpoint Mall"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
@@ -184,7 +185,6 @@
         "Galaxis",
         "Mapletree Business City",
         "Flavours @ NUS Uptown",
-        "Eastpoint Mall",
         "313 Somerset",
         "Far East Plaza Kiosk E",
         "V Hotel Lavender"
@@ -281,6 +281,10 @@
         "Century Square": {
           "by": "boss",
           "time": "14:33"
+        },
+        "Eastpoint Mall": {
+          "by": "boss",
+          "time": "14:34"
         }
       },
       "problems": [],
