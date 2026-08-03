@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T04:43:06.900Z",
+  "generated": "2026-08-03T06:33:50.892Z",
   "groups": [
     {
       "id": "XH",
@@ -141,7 +141,7 @@
           "pm": []
         }
       ],
-      "done": 21,
+      "done": 23,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -163,11 +163,11 @@
         "The Woodleigh Mall",
         "63 Pagoda Street",
         "GENEO",
-        "Woods Square"
+        "Woods Square",
+        "UE Square",
+        "Century Square"
       ],
       "outlets_outstanding": [
-        "UE Square",
-        "Century Square",
         "Lucky Plaza",
         "Compass One",
         "Rivervale Mall",
@@ -183,7 +183,11 @@
         "120 Robinson",
         "Galaxis",
         "Mapletree Business City",
-        "Flavours @ NUS Uptown"
+        "Flavours @ NUS Uptown",
+        "Eastpoint Mall",
+        "313 Somerset",
+        "Far East Plaza Kiosk E",
+        "V Hotel Lavender"
       ],
       "done_detail": {
         "West Mall": {
@@ -269,6 +273,14 @@
         "Woods Square": {
           "by": "Rsathiyaselvi",
           "time": "12:43"
+        },
+        "UE Square": {
+          "by": "boss",
+          "time": "14:33"
+        },
+        "Century Square": {
+          "by": "boss",
+          "time": "14:33"
         }
       },
       "problems": [],
