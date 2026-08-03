@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T11:42:17.407Z",
+  "generated": "2026-08-03T12:03:12.685Z",
   "groups": [
     {
       "id": "XH",
@@ -513,7 +513,7 @@
           ]
         }
       ],
-      "done": 48,
+      "done": 49,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -562,11 +562,11 @@
         "KEB",
         "NTP",
         "R3",
-        "CM1"
+        "CM1",
+        "LOY"
       ],
       "outlets_outstanding": [
         "CUP",
-        "LOY",
         "R1"
       ],
       "done_detail": {
@@ -761,6 +761,10 @@
         "CM1": {
           "by": "Sasi",
           "time": "19:42"
+        },
+        "LOY": {
+          "by": "Rana",
+          "time": "20:03"
         }
       },
       "problems": [],
