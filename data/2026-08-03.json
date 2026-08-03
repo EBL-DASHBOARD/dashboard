@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T08:15:15.874Z",
+  "generated": "2026-08-03T08:38:28.598Z",
   "groups": [
     {
       "id": "XH",
@@ -453,7 +453,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -483,12 +483,12 @@
         "BHT",
         "KNX",
         "GMM",
-        "R4"
+        "R4",
+        "TNC2"
       ],
       "outlets_outstanding": [
         "CUP",
         "PECC",
-        "TNC2",
         "LOY",
         "CKCC",
         "TPM",
@@ -625,6 +625,10 @@
         "R4": {
           "by": "Krishna",
           "time": "16:15"
+        },
+        "TNC2": {
+          "by": "Rana",
+          "time": "16:38"
         }
       },
       "problems": [],
