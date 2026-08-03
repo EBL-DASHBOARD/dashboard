@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T07:54:25.928Z",
+  "generated": "2026-08-03T07:54:32.045Z",
   "groups": [
     {
       "id": "XH",
@@ -445,7 +445,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -472,7 +472,8 @@
         "PAL",
         "CCP",
         "KTB",
-        "BHT"
+        "BHT",
+        "KNX"
       ],
       "outlets_outstanding": [
         "CUP",
@@ -494,7 +495,6 @@
         "R3",
         "AP2",
         "R1",
-        "KNX",
         "NTP",
         "HRC",
         "WWP",
@@ -604,6 +604,10 @@
         },
         "BHT": {
           "by": "Samy Kumar Meena",
+          "time": "15:54"
+        },
+        "KNX": {
+          "by": "Sudhakar",
           "time": "15:54"
         }
       },
