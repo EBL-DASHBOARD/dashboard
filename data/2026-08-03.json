@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T09:36:12.900Z",
+  "generated": "2026-08-03T09:51:11.620Z",
   "groups": [
     {
       "id": "XH",
@@ -505,7 +505,7 @@
           ]
         }
       ],
-      "done": 35,
+      "done": 37,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -541,7 +541,9 @@
         "AP4",
         "YS1",
         "HRC",
-        "TPM"
+        "TPM",
+        "VIVA",
+        "EPT"
       ],
       "outlets_outstanding": [
         "CUP",
@@ -549,8 +551,6 @@
         "LOY",
         "CKCC",
         "AP1",
-        "EPT",
-        "VIVA",
         "ACV",
         "CM1",
         "WIS",
@@ -701,6 +701,14 @@
         "TPM": {
           "by": "Rana",
           "time": "17:20"
+        },
+        "VIVA": {
+          "by": "Samy Kumar Meena",
+          "time": "17:51"
+        },
+        "EPT": {
+          "by": "Samy Kumar Meena",
+          "time": "17:51"
         }
       },
       "problems": [],
