@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T04:34:00.703Z",
+  "generated": "2026-08-03T04:38:29.854Z",
   "groups": [
     {
       "id": "XH",
@@ -417,7 +417,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -437,12 +437,12 @@
         "BPP",
         "WSM",
         "PS",
-        "VIVO"
+        "VIVO",
+        "KRC"
       ],
       "outlets_outstanding": [
         "CUP",
         "KIT",
-        "KRC",
         "BNV",
         "PECC",
         "TNC2",
@@ -549,6 +549,10 @@
         "VIVO": {
           "by": "Krishna",
           "time": "12:34"
+        },
+        "KRC": {
+          "by": "Sudhakar",
+          "time": "12:38"
         }
       },
       "problems": [],
