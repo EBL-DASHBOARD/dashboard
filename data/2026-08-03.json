@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-02T22:00:04.733Z",
+  "generated": "2026-08-03T00:31:25.233Z",
   "groups": [
     {
       "id": "XH",
@@ -141,8 +141,10 @@
           "pm": []
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "West Mall"
+      ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "Zhongshan Mall",
@@ -155,7 +157,6 @@
         "Dairy Farm Mall",
         "Hillion Mall",
         "Le Quest",
-        "West Mall",
         "Parc Point",
         "Hougang Mall",
         "Junction 9",
@@ -169,7 +170,12 @@
         "Alexandra Technopark B",
         "Lucky Plaza"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "West Mall": {
+          "by": "Nur Azimah",
+          "time": "08:31"
+        }
+      },
       "problems": [],
       "customers": null
     },
