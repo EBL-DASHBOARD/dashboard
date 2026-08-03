@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T09:26:04.463Z",
+  "generated": "2026-08-03T09:36:12.900Z",
   "groups": [
     {
       "id": "XH",
@@ -703,6 +703,82 @@
           "time": "17:20"
         }
       },
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "XHNIGHT",
+      "name": "Xh Delivery (Night)",
+      "total_locations": 14,
+      "am_total": 9,
+      "pm_total": 5,
+      "am_outlets": [
+        "Citylink",
+        "One Raffles Link",
+        "One Raffles Place Tower 2",
+        "Tangs Plaza Kiosk 2",
+        "Royal Group Building",
+        "PLQ Tower 1",
+        "Aperia Mall",
+        "Lazada One",
+        "Marina One"
+      ],
+      "pm_outlets": [
+        "Ngee Ann City",
+        "Collyer Quay",
+        "9 Penang Road",
+        "NUH Medical Centre",
+        "77 Robinson"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Citylink",
+            "One Raffles Link",
+            "One Raffles Place Tower 2",
+            "Tangs Plaza Kiosk 2",
+            "Royal Group Building"
+          ],
+          "pm": [
+            "Ngee Ann City",
+            "Collyer Quay",
+            "9 Penang Road",
+            "NUH Medical Centre",
+            "77 Robinson"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "PLQ Tower 1",
+            "Aperia Mall"
+          ],
+          "pm": []
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Lazada One",
+            "Marina One"
+          ],
+          "pm": []
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Citylink",
+        "One Raffles Link",
+        "One Raffles Place Tower 2",
+        "Tangs Plaza Kiosk 2",
+        "Royal Group Building",
+        "PLQ Tower 1",
+        "Aperia Mall",
+        "Lazada One",
+        "Marina One"
+      ],
+      "done_detail": {},
       "problems": [],
       "customers": null
     }
