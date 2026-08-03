@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T01:25:35.799Z",
+  "generated": "2026-08-03T01:38:37.471Z",
   "groups": [
     {
       "id": "XH",
@@ -141,12 +141,13 @@
           "pm": []
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
         "Hougang Mall",
-        "HarbourFront Tower 1"
+        "HarbourFront Tower 1",
+        "Le Quest"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -159,7 +160,6 @@
         "Tampines 1",
         "Dairy Farm Mall",
         "Hillion Mall",
-        "Le Quest",
         "Parc Point",
         "Junction 9",
         "Northpoint City",
@@ -186,6 +186,10 @@
         "HarbourFront Tower 1": {
           "by": "palanivelumuthukumar",
           "time": "09:25"
+        },
+        "Le Quest": {
+          "by": "Nur Azimah",
+          "time": "09:38"
         }
       },
       "problems": [],
