@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T09:03:38.331Z",
+  "generated": "2026-08-03T09:08:15.268Z",
   "groups": [
     {
       "id": "XH",
@@ -141,7 +141,7 @@
           "pm": []
         }
       ],
-      "done": 34,
+      "done": 37,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -176,7 +176,10 @@
         "Punggol Coast Mall",
         "The Poiz Centre",
         "Royal Square",
-        "New Tech Park"
+        "New Tech Park",
+        "313 Somerset",
+        "Far East Plaza Kiosk E",
+        "V Hotel Lavender"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
@@ -184,10 +187,7 @@
         "Causeway Point",
         "Galaxis",
         "Mapletree Business City",
-        "Flavours @ NUS Uptown",
-        "313 Somerset",
-        "Far East Plaza Kiosk E",
-        "V Hotel Lavender"
+        "Flavours @ NUS Uptown"
       ],
       "done_detail": {
         "West Mall": {
@@ -325,6 +325,18 @@
         "New Tech Park": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "16:48"
+        },
+        "313 Somerset": {
+          "by": "boss",
+          "time": "17:08"
+        },
+        "Far East Plaza Kiosk E": {
+          "by": "boss",
+          "time": "17:08"
+        },
+        "V Hotel Lavender": {
+          "by": "boss",
+          "time": "17:08"
         }
       },
       "problems": [],
