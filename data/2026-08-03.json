@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T11:01:49.947Z",
+  "generated": "2026-08-03T11:10:42.235Z",
   "groups": [
     {
       "id": "XH",
@@ -513,7 +513,7 @@
           ]
         }
       ],
-      "done": 43,
+      "done": 44,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -557,11 +557,11 @@
         "WWP",
         "AP2",
         "AP1",
-        "ACV"
+        "ACV",
+        "PECC"
       ],
       "outlets_outstanding": [
         "CUP",
-        "PECC",
         "LOY",
         "CM1",
         "R3",
@@ -741,6 +741,10 @@
         "ACV": {
           "by": "Sasi",
           "time": "19:01"
+        },
+        "PECC": {
+          "by": "Rana",
+          "time": "19:10"
         }
       },
       "problems": [],
