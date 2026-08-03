@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T08:38:28.598Z",
+  "generated": "2026-08-03T08:43:59.925Z",
   "groups": [
     {
       "id": "XH",
@@ -141,7 +141,7 @@
           "pm": []
         }
       ],
-      "done": 27,
+      "done": 30,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -169,7 +169,10 @@
         "Eastpoint Mall",
         "Waterway Point",
         "120 Robinson",
-        "Compass One"
+        "Compass One",
+        "Westgate Tower",
+        "JEM",
+        "Fairprice Hub"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
@@ -179,9 +182,6 @@
         "The Poiz Centre",
         "Royal Square",
         "New Tech Park",
-        "Westgate Tower",
-        "JEM",
-        "Fairprice Hub",
         "Galaxis",
         "Mapletree Business City",
         "Flavours @ NUS Uptown",
@@ -297,6 +297,18 @@
         "Compass One": {
           "by": "Nur Azimah",
           "time": "16:09"
+        },
+        "Westgate Tower": {
+          "by": "palanivelumuthukumar",
+          "time": "16:43"
+        },
+        "JEM": {
+          "by": "palanivelumuthukumar",
+          "time": "16:43"
+        },
+        "Fairprice Hub": {
+          "by": "palanivelumuthukumar",
+          "time": "16:43"
         }
       },
       "problems": [],
