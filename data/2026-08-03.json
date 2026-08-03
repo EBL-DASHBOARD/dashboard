@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T04:00:00.109Z",
+  "generated": "2026-08-03T04:02:01.753Z",
   "groups": [
     {
       "id": "XH",
@@ -141,7 +141,7 @@
           "pm": []
         }
       ],
-      "done": 15,
+      "done": 19,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -157,13 +157,13 @@
         "Hillion Mall",
         "ARTRA",
         "Dairy Farm Mall",
-        "Northpoint City"
-      ],
-      "outlets_outstanding": [
+        "Northpoint City",
         "Tanah Merah Ferry Terminal",
         "Zhongshan Mall",
         "The Woodleigh Mall",
-        "63 Pagoda Street",
+        "63 Pagoda Street"
+      ],
+      "outlets_outstanding": [
         "UE Square",
         "Century Square",
         "Woods Square",
@@ -172,7 +172,11 @@
         "Compass One",
         "Rivervale Mall",
         "Causeway Point",
-        "Waterway Point"
+        "Waterway Point",
+        "Punggol Coast Mall",
+        "The Poiz Centre",
+        "Royal Square",
+        "New Tech Park"
       ],
       "done_detail": {
         "West Mall": {
@@ -234,6 +238,22 @@
         "Northpoint City": {
           "by": "Rsathiyaselvi",
           "time": "11:51"
+        },
+        "Tanah Merah Ferry Terminal": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "12:02"
+        },
+        "Zhongshan Mall": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "12:02"
+        },
+        "The Woodleigh Mall": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "12:02"
+        },
+        "63 Pagoda Street": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "12:02"
         }
       },
       "problems": [],
