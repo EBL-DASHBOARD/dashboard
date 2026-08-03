@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T07:54:49.504Z",
+  "generated": "2026-08-03T07:57:12.620Z",
   "groups": [
     {
       "id": "XH",
@@ -141,7 +141,7 @@
           "pm": []
         }
       ],
-      "done": 25,
+      "done": 26,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -167,7 +167,8 @@
         "UE Square",
         "Century Square",
         "Eastpoint Mall",
-        "Waterway Point"
+        "Waterway Point",
+        "120 Robinson"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
@@ -181,7 +182,6 @@
         "Westgate Tower",
         "JEM",
         "Fairprice Hub",
-        "120 Robinson",
         "Galaxis",
         "Mapletree Business City",
         "Flavours @ NUS Uptown",
@@ -289,6 +289,10 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "14:44"
+        },
+        "120 Robinson": {
+          "by": "Rsathiyaselvi",
+          "time": "15:57"
         }
       },
       "problems": [],
