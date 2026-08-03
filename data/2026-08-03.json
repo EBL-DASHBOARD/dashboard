@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T01:59:23.088Z",
+  "generated": "2026-08-03T02:42:20.943Z",
   "groups": [
     {
       "id": "XH",
@@ -141,14 +141,15 @@
           "pm": []
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
         "Hougang Mall",
         "HarbourFront Tower 1",
         "Le Quest",
-        "AltitudeX"
+        "AltitudeX",
+        "Parc Point"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -161,7 +162,6 @@
         "Tampines 1",
         "Dairy Farm Mall",
         "Hillion Mall",
-        "Parc Point",
         "Junction 9",
         "Northpoint City",
         "Woods Square",
@@ -194,6 +194,10 @@
         "AltitudeX": {
           "by": "palanivelumuthukumar",
           "time": "09:59"
+        },
+        "Parc Point": {
+          "by": "Nur Azimah",
+          "time": "10:42"
         }
       },
       "problems": [],
