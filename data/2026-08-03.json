@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T09:52:13.392Z",
+  "generated": "2026-08-03T10:04:35.954Z",
   "groups": [
     {
       "id": "XH",
@@ -141,7 +141,7 @@
           "pm": []
         }
       ],
-      "done": 40,
+      "done": 42,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -182,12 +182,12 @@
         "V Hotel Lavender",
         "Galaxis",
         "Mapletree Business City",
-        "Flavours @ NUS Uptown"
-      ],
-      "outlets_outstanding": [
-        "Lucky Plaza",
+        "Flavours @ NUS Uptown",
         "Rivervale Mall",
         "Causeway Point"
+      ],
+      "outlets_outstanding": [
+        "Lucky Plaza"
       ],
       "done_detail": {
         "West Mall": {
@@ -349,6 +349,14 @@
         "Flavours @ NUS Uptown": {
           "by": "Rsathiyaselvi",
           "time": "17:26"
+        },
+        "Rivervale Mall": {
+          "by": "Nur Azimah",
+          "time": "18:04"
+        },
+        "Causeway Point": {
+          "by": "Nur Azimah",
+          "time": "18:04"
         }
       },
       "problems": [],
