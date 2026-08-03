@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T03:52:08.646Z",
+  "generated": "2026-08-03T04:00:00.109Z",
   "groups": [
     {
       "id": "XH",
@@ -416,7 +416,35 @@
         "KIT",
         "VIVO",
         "KRC",
-        "BNV"
+        "BNV",
+        "PECC",
+        "TNC2",
+        "LOY",
+        "CKCC",
+        "TPM",
+        "AP1",
+        "EPT",
+        "PAL",
+        "BOB",
+        "VIVA",
+        "BHT",
+        "ACV",
+        "CM1",
+        "WIS",
+        "YS1",
+        "KTB",
+        "R4",
+        "AP4",
+        "R3",
+        "AP2",
+        "R1",
+        "CCP",
+        "KNX",
+        "NTP",
+        "HRC",
+        "WWP",
+        "KEB",
+        "GMM"
       ],
       "done_detail": {
         "CCKS": {
