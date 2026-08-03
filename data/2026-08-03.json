@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T09:00:06.367Z",
+  "generated": "2026-08-03T09:00:16.216Z",
   "groups": [
     {
       "id": "XH",
@@ -481,7 +481,7 @@
           ]
         }
       ],
-      "done": 32,
+      "done": 33,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -514,7 +514,8 @@
         "R4",
         "TNC2",
         "BOB",
-        "AP4"
+        "AP4",
+        "YS1"
       ],
       "outlets_outstanding": [
         "CUP",
@@ -528,7 +529,6 @@
         "ACV",
         "CM1",
         "WIS",
-        "YS1",
         "R3",
         "AP2",
         "R1",
@@ -664,6 +664,10 @@
         },
         "AP4": {
           "by": "Krishna",
+          "time": "17:00"
+        },
+        "YS1": {
+          "by": "Sasi",
           "time": "17:00"
         }
       },
