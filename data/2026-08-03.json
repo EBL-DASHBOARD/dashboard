@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T02:42:20.943Z",
+  "generated": "2026-08-03T02:43:22.025Z",
   "groups": [
     {
       "id": "XH",
@@ -141,7 +141,7 @@
           "pm": []
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -149,7 +149,8 @@
         "HarbourFront Tower 1",
         "Le Quest",
         "AltitudeX",
-        "Parc Point"
+        "Parc Point",
+        "Vivocity"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -165,7 +166,6 @@
         "Junction 9",
         "Northpoint City",
         "Woods Square",
-        "Vivocity",
         "GENEO",
         "ARTRA",
         "Lucky Plaza"
@@ -198,6 +198,10 @@
         "Parc Point": {
           "by": "Nur Azimah",
           "time": "10:42"
+        },
+        "Vivocity": {
+          "by": "palanivelumuthukumar",
+          "time": "10:43"
         }
       },
       "problems": [],
