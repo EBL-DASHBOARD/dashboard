@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T09:20:24.481Z",
+  "generated": "2026-08-03T09:26:04.463Z",
   "groups": [
     {
       "id": "XH",
@@ -141,7 +141,7 @@
           "pm": []
         }
       ],
-      "done": 37,
+      "done": 40,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -179,15 +179,15 @@
         "New Tech Park",
         "313 Somerset",
         "Far East Plaza Kiosk E",
-        "V Hotel Lavender"
+        "V Hotel Lavender",
+        "Galaxis",
+        "Mapletree Business City",
+        "Flavours @ NUS Uptown"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
         "Rivervale Mall",
-        "Causeway Point",
-        "Galaxis",
-        "Mapletree Business City",
-        "Flavours @ NUS Uptown"
+        "Causeway Point"
       ],
       "done_detail": {
         "West Mall": {
@@ -337,6 +337,18 @@
         "V Hotel Lavender": {
           "by": "boss",
           "time": "17:08"
+        },
+        "Galaxis": {
+          "by": "Rsathiyaselvi",
+          "time": "17:26"
+        },
+        "Mapletree Business City": {
+          "by": "Rsathiyaselvi",
+          "time": "17:26"
+        },
+        "Flavours @ NUS Uptown": {
+          "by": "Rsathiyaselvi",
+          "time": "17:26"
         }
       },
       "problems": [],
