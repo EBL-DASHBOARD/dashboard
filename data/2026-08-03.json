@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T04:41:38.042Z",
+  "generated": "2026-08-03T04:43:04.899Z",
   "groups": [
     {
       "id": "XH",
@@ -141,7 +141,7 @@
           "pm": []
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -162,12 +162,12 @@
         "Zhongshan Mall",
         "The Woodleigh Mall",
         "63 Pagoda Street",
-        "GENEO"
+        "GENEO",
+        "Woods Square"
       ],
       "outlets_outstanding": [
         "UE Square",
         "Century Square",
-        "Woods Square",
         "Lucky Plaza",
         "Compass One",
         "Rivervale Mall",
@@ -179,7 +179,11 @@
         "New Tech Park",
         "Westgate Tower",
         "JEM",
-        "Fairprice Hub"
+        "Fairprice Hub",
+        "120 Robinson",
+        "Galaxis",
+        "Mapletree Business City",
+        "Flavours @ NUS Uptown"
       ],
       "done_detail": {
         "West Mall": {
@@ -261,6 +265,10 @@
         "GENEO": {
           "by": "palanivelumuthukumar",
           "time": "12:10"
+        },
+        "Woods Square": {
+          "by": "Rsathiyaselvi",
+          "time": "12:43"
         }
       },
       "problems": [],
