@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T04:38:33.076Z",
+  "generated": "2026-08-03T04:41:38.042Z",
   "groups": [
     {
       "id": "XH",
@@ -417,7 +417,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -439,11 +439,11 @@
         "PS",
         "VIVO",
         "KRC",
-        "BNV"
+        "BNV",
+        "KIT"
       ],
       "outlets_outstanding": [
         "CUP",
-        "KIT",
         "PECC",
         "TNC2",
         "LOY",
@@ -557,6 +557,10 @@
         "BNV": {
           "by": "Sudhakar",
           "time": "12:38"
+        },
+        "KIT": {
+          "by": "Sasi",
+          "time": "12:41"
         }
       },
       "problems": [],
