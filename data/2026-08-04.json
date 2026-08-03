@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-08-03T12:32:20.710Z",
+  "generated": "2026-08-03T13:46:05.804Z",
   "groups": [
     {
       "id": "XH",
@@ -109,6 +109,131 @@
         "Lucky Plaza",
         "United Square",
         "Margaret Market"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 32,
+      "am_total": 14,
+      "pm_total": 18,
+      "am_outlets": [
+        "TGCC",
+        "BPP26",
+        "KH260",
+        "YTP26",
+        "WSM",
+        "JKN26",
+        "KRC26",
+        "WXI26",
+        "IM-260",
+        "TY-260",
+        "KIT260",
+        "BS-260",
+        "MBA",
+        "STC26"
+      ],
+      "pm_outlets": [
+        "SSC2",
+        "WNC2",
+        "WLCC",
+        "LTM26",
+        "MARS",
+        "J9-2608",
+        "YS1-26",
+        "R1-260",
+        "AP4-26",
+        "AP1-26",
+        "R3-260",
+        "VIVA",
+        "KEB26",
+        "PDD26",
+        "HRC26",
+        "WWP",
+        "FEN26",
+        "CM1-2"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [],
+          "pm": [
+            "SSC2",
+            "WNC2",
+            "WLCC"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "TGCC",
+            "BPP26",
+            "KH260",
+            "YTP26",
+            "WSM"
+          ],
+          "pm": [
+            "LTM26",
+            "MARS",
+            "J9-2608",
+            "YS1-26"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "JKN26",
+            "KRC26",
+            "WXI26",
+            "IM-260"
+          ],
+          "pm": [
+            "R1-260",
+            "AP4-26",
+            "AP1-26",
+            "R3-260",
+            "VIVA"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "TY-260",
+            "KIT260",
+            "BS-260",
+            "MBA",
+            "STC26"
+          ],
+          "pm": [
+            "KEB26",
+            "PDD26",
+            "HRC26",
+            "WWP",
+            "FEN26",
+            "CM1-2"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "TGCC",
+        "BPP26",
+        "KH260",
+        "YTP26",
+        "WSM",
+        "JKN26",
+        "KRC26",
+        "WXI26",
+        "IM-260",
+        "TY-260",
+        "KIT260",
+        "BS-260",
+        "MBA",
+        "STC26"
       ],
       "done_detail": {},
       "problems": [],
