@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T07:57:12.620Z",
+  "generated": "2026-08-03T08:09:00.281Z",
   "groups": [
     {
       "id": "XH",
@@ -141,7 +141,7 @@
           "pm": []
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -168,11 +168,11 @@
         "Century Square",
         "Eastpoint Mall",
         "Waterway Point",
-        "120 Robinson"
+        "120 Robinson",
+        "Compass One"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
-        "Compass One",
         "Rivervale Mall",
         "Causeway Point",
         "Punggol Coast Mall",
@@ -293,6 +293,10 @@
         "120 Robinson": {
           "by": "Rsathiyaselvi",
           "time": "15:57"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "16:09"
         }
       },
       "problems": [],
