@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T01:38:37.471Z",
+  "generated": "2026-08-03T01:42:28.473Z",
   "groups": [
     {
       "id": "XH",
@@ -346,11 +346,12 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "CCKS",
         "CL2",
-        "DV"
+        "DV",
+        "ARC"
       ],
       "outlets_outstanding": [
         "CT",
@@ -366,7 +367,6 @@
         "KIT",
         "USQ",
         "VIVO",
-        "ARC",
         "TIO",
         "ART",
         "KRC",
@@ -386,6 +386,10 @@
         "DV": {
           "by": "Sasi",
           "time": "09:03"
+        },
+        "ARC": {
+          "by": "Krishna",
+          "time": "09:42"
         }
       },
       "problems": [],
