@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T07:54:32.045Z",
+  "generated": "2026-08-03T07:54:49.504Z",
   "groups": [
     {
       "id": "XH",
@@ -445,7 +445,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -473,7 +473,8 @@
         "CCP",
         "KTB",
         "BHT",
-        "KNX"
+        "KNX",
+        "GMM"
       ],
       "outlets_outstanding": [
         "CUP",
@@ -498,8 +499,7 @@
         "NTP",
         "HRC",
         "WWP",
-        "KEB",
-        "GMM"
+        "KEB"
       ],
       "done_detail": {
         "CCKS": {
@@ -607,6 +607,10 @@
           "time": "15:54"
         },
         "KNX": {
+          "by": "Sudhakar",
+          "time": "15:54"
+        },
+        "GMM": {
           "by": "Sudhakar",
           "time": "15:54"
         }
