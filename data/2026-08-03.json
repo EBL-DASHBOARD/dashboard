@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T01:03:56.766Z",
+  "generated": "2026-08-03T01:19:22.950Z",
   "groups": [
     {
       "id": "XH",
@@ -141,9 +141,10 @@
           "pm": []
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "West Mall"
+        "West Mall",
+        "Alexandra Technopark B"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -167,13 +168,16 @@
         "HarbourFront Tower 1",
         "GENEO",
         "ARTRA",
-        "Alexandra Technopark B",
         "Lucky Plaza"
       ],
       "done_detail": {
         "West Mall": {
           "by": "Nur Azimah",
           "time": "08:31"
+        },
+        "Alexandra Technopark B": {
+          "by": "SEENU.C",
+          "time": "09:19"
         }
       },
       "problems": [],
