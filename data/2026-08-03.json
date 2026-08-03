@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T08:46:40.282Z",
+  "generated": "2026-08-03T08:48:47.444Z",
   "groups": [
     {
       "id": "XH",
@@ -141,7 +141,7 @@
           "pm": []
         }
       ],
-      "done": 30,
+      "done": 34,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -172,16 +172,16 @@
         "Compass One",
         "Westgate Tower",
         "JEM",
-        "Fairprice Hub"
+        "Fairprice Hub",
+        "Punggol Coast Mall",
+        "The Poiz Centre",
+        "Royal Square",
+        "New Tech Park"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
         "Rivervale Mall",
         "Causeway Point",
-        "Punggol Coast Mall",
-        "The Poiz Centre",
-        "Royal Square",
-        "New Tech Park",
         "Galaxis",
         "Mapletree Business City",
         "Flavours @ NUS Uptown",
@@ -309,6 +309,22 @@
         "Fairprice Hub": {
           "by": "palanivelumuthukumar",
           "time": "16:43"
+        },
+        "Punggol Coast Mall": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "16:48"
+        },
+        "The Poiz Centre": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "16:48"
+        },
+        "Royal Square": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "16:48"
+        },
+        "New Tech Park": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "16:48"
         }
       },
       "problems": [],
