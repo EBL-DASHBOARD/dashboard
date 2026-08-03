@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T01:54:19.193Z",
+  "generated": "2026-08-03T01:59:23.088Z",
   "groups": [
     {
       "id": "XH",
@@ -141,13 +141,14 @@
           "pm": []
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
         "Hougang Mall",
         "HarbourFront Tower 1",
-        "Le Quest"
+        "Le Quest",
+        "AltitudeX"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -165,7 +166,6 @@
         "Northpoint City",
         "Woods Square",
         "Vivocity",
-        "AltitudeX",
         "GENEO",
         "ARTRA",
         "Lucky Plaza"
@@ -190,6 +190,10 @@
         "Le Quest": {
           "by": "Nur Azimah",
           "time": "09:38"
+        },
+        "AltitudeX": {
+          "by": "palanivelumuthukumar",
+          "time": "09:59"
         }
       },
       "problems": [],
