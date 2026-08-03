@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T03:10:46.240Z",
+  "generated": "2026-08-03T03:28:05.685Z",
   "groups": [
     {
       "id": "XH",
@@ -374,7 +374,7 @@
           ]
         }
       ],
-      "done": 9,
+      "done": 11,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -384,7 +384,9 @@
         "CT",
         "USQ",
         "ART",
-        "BQ"
+        "BQ",
+        "JP",
+        "IM"
       ],
       "outlets_outstanding": [
         "PS",
@@ -398,8 +400,6 @@
         "VIVO",
         "TIO",
         "KRC",
-        "JP",
-        "IM",
         "BNV"
       ],
       "done_detail": {
@@ -438,6 +438,14 @@
         "BQ": {
           "by": "Rana",
           "time": "10:49"
+        },
+        "JP": {
+          "by": "YAAKESH",
+          "time": "11:28"
+        },
+        "IM": {
+          "by": "YAAKESH",
+          "time": "11:28"
         }
       },
       "problems": [],
