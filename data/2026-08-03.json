@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T08:43:59.925Z",
+  "generated": "2026-08-03T08:46:40.282Z",
   "groups": [
     {
       "id": "XH",
@@ -465,7 +465,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 31,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -496,7 +496,8 @@
         "KNX",
         "GMM",
         "R4",
-        "TNC2"
+        "TNC2",
+        "BOB"
       ],
       "outlets_outstanding": [
         "CUP",
@@ -506,7 +507,6 @@
         "TPM",
         "AP1",
         "EPT",
-        "BOB",
         "VIVA",
         "ACV",
         "CM1",
@@ -641,6 +641,10 @@
         "TNC2": {
           "by": "Rana",
           "time": "16:38"
+        },
+        "BOB": {
+          "by": "Samy Kumar Meena",
+          "time": "16:46"
         }
       },
       "problems": [],
