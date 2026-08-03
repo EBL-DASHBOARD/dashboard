@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T03:51:27.984Z",
+  "generated": "2026-08-03T03:52:08.646Z",
   "groups": [
     {
       "id": "XH",
@@ -390,7 +390,7 @@
           ]
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -405,14 +405,14 @@
         "IM",
         "HV2",
         "TRM",
-        "TIO"
+        "TIO",
+        "KLP"
       ],
       "outlets_outstanding": [
         "PS",
         "BPP",
         "WSM",
         "CUP",
-        "KLP",
         "KIT",
         "VIVO",
         "KRC",
@@ -474,6 +474,10 @@
         "TIO": {
           "by": "Krishna",
           "time": "11:41"
+        },
+        "KLP": {
+          "by": "Sasi",
+          "time": "11:52"
         }
       },
       "problems": [],
