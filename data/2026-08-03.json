@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T08:48:47.444Z",
+  "generated": "2026-08-03T09:00:06.367Z",
   "groups": [
     {
       "id": "XH",
@@ -481,7 +481,7 @@
           ]
         }
       ],
-      "done": 31,
+      "done": 32,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -513,7 +513,8 @@
         "GMM",
         "R4",
         "TNC2",
-        "BOB"
+        "BOB",
+        "AP4"
       ],
       "outlets_outstanding": [
         "CUP",
@@ -528,7 +529,6 @@
         "CM1",
         "WIS",
         "YS1",
-        "AP4",
         "R3",
         "AP2",
         "R1",
@@ -661,6 +661,10 @@
         "BOB": {
           "by": "Samy Kumar Meena",
           "time": "16:46"
+        },
+        "AP4": {
+          "by": "Krishna",
+          "time": "17:00"
         }
       },
       "problems": [],
