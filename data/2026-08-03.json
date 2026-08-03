@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T04:02:03.964Z",
+  "generated": "2026-08-03T04:10:58.423Z",
   "groups": [
     {
       "id": "XH",
@@ -141,7 +141,7 @@
           "pm": []
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -161,13 +161,13 @@
         "Tanah Merah Ferry Terminal",
         "Zhongshan Mall",
         "The Woodleigh Mall",
-        "63 Pagoda Street"
+        "63 Pagoda Street",
+        "GENEO"
       ],
       "outlets_outstanding": [
         "UE Square",
         "Century Square",
         "Woods Square",
-        "GENEO",
         "Lucky Plaza",
         "Compass One",
         "Rivervale Mall",
@@ -176,7 +176,10 @@
         "Punggol Coast Mall",
         "The Poiz Centre",
         "Royal Square",
-        "New Tech Park"
+        "New Tech Park",
+        "Westgate Tower",
+        "JEM",
+        "Fairprice Hub"
       ],
       "done_detail": {
         "West Mall": {
@@ -254,6 +257,10 @@
         "63 Pagoda Street": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "12:02"
+        },
+        "GENEO": {
+          "by": "palanivelumuthukumar",
+          "time": "12:10"
         }
       },
       "problems": [],
