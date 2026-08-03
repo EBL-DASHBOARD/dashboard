@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T09:08:15.268Z",
+  "generated": "2026-08-03T09:20:24.481Z",
   "groups": [
     {
       "id": "XH",
@@ -493,7 +493,7 @@
           ]
         }
       ],
-      "done": 34,
+      "done": 35,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -528,14 +528,14 @@
         "BOB",
         "AP4",
         "YS1",
-        "HRC"
+        "HRC",
+        "TPM"
       ],
       "outlets_outstanding": [
         "CUP",
         "PECC",
         "LOY",
         "CKCC",
-        "TPM",
         "AP1",
         "EPT",
         "VIVA",
@@ -685,6 +685,10 @@
         "HRC": {
           "by": "Sudhakar",
           "time": "17:03"
+        },
+        "TPM": {
+          "by": "Rana",
+          "time": "17:20"
         }
       },
       "problems": [],
