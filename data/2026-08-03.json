@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T06:34:02.387Z",
+  "generated": "2026-08-03T06:44:14.295Z",
   "groups": [
     {
       "id": "XH",
@@ -141,7 +141,7 @@
           "pm": []
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -166,14 +166,14 @@
         "Woods Square",
         "UE Square",
         "Century Square",
-        "Eastpoint Mall"
+        "Eastpoint Mall",
+        "Waterway Point"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
         "Compass One",
         "Rivervale Mall",
         "Causeway Point",
-        "Waterway Point",
         "Punggol Coast Mall",
         "The Poiz Centre",
         "Royal Square",
@@ -285,6 +285,10 @@
         "Eastpoint Mall": {
           "by": "boss",
           "time": "14:34"
+        },
+        "Waterway Point": {
+          "by": "Nur Azimah",
+          "time": "14:44"
         }
       },
       "problems": [],
