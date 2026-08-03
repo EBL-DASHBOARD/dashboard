@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T02:49:47.178Z",
+  "generated": "2026-08-03T02:50:41.162Z",
   "groups": [
     {
       "id": "XH",
@@ -141,7 +141,7 @@
           "pm": []
         }
       ],
-      "done": 8,
+      "done": 10,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -150,7 +150,9 @@
         "Le Quest",
         "AltitudeX",
         "Parc Point",
-        "Vivocity"
+        "Vivocity",
+        "Tampines Mart",
+        "Tampines 1"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -158,9 +160,7 @@
         "The Woodleigh Mall",
         "63 Pagoda Street",
         "UE Square",
-        "Tampines Mart",
         "Century Square",
-        "Tampines 1",
         "Dairy Farm Mall",
         "Hillion Mall",
         "Junction 9",
@@ -202,6 +202,14 @@
         "Vivocity": {
           "by": "palanivelumuthukumar",
           "time": "10:43"
+        },
+        "Tampines Mart": {
+          "by": "boss",
+          "time": "10:50"
+        },
+        "Tampines 1": {
+          "by": "boss",
+          "time": "10:50"
         }
       },
       "problems": [],
