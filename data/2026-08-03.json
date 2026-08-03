@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T16:11:04.874Z",
+  "generated": "2026-08-03T17:26:52.813Z",
   "groups": [
     {
       "id": "XH",
@@ -833,12 +833,13 @@
           "pm": []
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "PLQ Tower 1",
         "Aperia Mall",
         "One Raffles Place Tower 2",
-        "Royal Group Building"
+        "Royal Group Building",
+        "Collyer Quay"
       ],
       "outlets_outstanding": [
         "Citylink",
@@ -863,6 +864,10 @@
         "Royal Group Building": {
           "by": "SEENU.C",
           "time": "00:11"
+        },
+        "Collyer Quay": {
+          "by": "SEENU.C",
+          "time": "01:26"
         }
       },
       "problems": [],
