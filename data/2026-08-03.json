@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated": "2026-08-03T07:46:25.986Z",
+  "generated": "2026-08-03T07:54:25.928Z",
   "groups": [
     {
       "id": "XH",
@@ -445,7 +445,7 @@
           ]
         }
       ],
-      "done": 25,
+      "done": 26,
       "outlets_done": [
         "CCKS",
         "CL2",
@@ -471,7 +471,8 @@
         "KIT",
         "PAL",
         "CCP",
-        "KTB"
+        "KTB",
+        "BHT"
       ],
       "outlets_outstanding": [
         "CUP",
@@ -484,7 +485,6 @@
         "EPT",
         "BOB",
         "VIVA",
-        "BHT",
         "ACV",
         "CM1",
         "WIS",
@@ -601,6 +601,10 @@
         "KTB": {
           "by": "Sasi",
           "time": "15:46"
+        },
+        "BHT": {
+          "by": "Samy Kumar Meena",
+          "time": "15:54"
         }
       },
       "problems": [],
