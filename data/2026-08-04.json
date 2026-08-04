@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-08-04T07:43:29.703Z",
+  "generated": "2026-08-04T08:35:09.307Z",
   "groups": [
     {
       "id": "XH",
@@ -91,7 +91,7 @@
           "pm": []
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "The Rail Mall",
         "Margaret Market",
@@ -107,7 +107,8 @@
         "South Beach Tower",
         "Institute of Mental Health",
         "Downtown East",
-        "Waterway Point"
+        "Waterway Point",
+        "Plaza Singapura"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
@@ -117,7 +118,6 @@
         "GRID",
         "Duo Galleria",
         "100 AM Mall",
-        "Plaza Singapura",
         "Guoco Tower"
       ],
       "done_detail": {
@@ -180,6 +180,10 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "15:43"
+        },
+        "Plaza Singapura": {
+          "by": "boss",
+          "time": "16:35"
         }
       },
       "problems": [],
