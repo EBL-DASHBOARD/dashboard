@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-08-04T10:50:21.171Z",
+  "generated": "2026-08-04T11:49:47.802Z",
   "groups": [
     {
       "id": "XH",
@@ -304,7 +304,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "WSM",
         "TGCC",
@@ -312,7 +312,8 @@
         "VIVA",
         "MARS",
         "WLCC",
-        "WWP"
+        "WWP",
+        "SSC2"
       ],
       "outlets_outstanding": [
         "BPP26",
@@ -326,7 +327,6 @@
         "KIT260",
         "BS-260",
         "STC26",
-        "SSC2",
         "WNC2",
         "LTM26",
         "J9-2608",
@@ -369,6 +369,10 @@
         "WWP": {
           "by": "Sasi",
           "time": "18:50"
+        },
+        "SSC2": {
+          "by": "Sudhakar",
+          "time": "19:49"
         }
       },
       "problems": [],
