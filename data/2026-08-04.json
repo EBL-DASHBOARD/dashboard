@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-08-04T08:35:09.307Z",
+  "generated": "2026-08-04T08:43:08.371Z",
   "groups": [
     {
       "id": "XH",
@@ -91,7 +91,7 @@
           "pm": []
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "The Rail Mall",
         "Margaret Market",
@@ -108,12 +108,12 @@
         "Institute of Mental Health",
         "Downtown East",
         "Waterway Point",
-        "Plaza Singapura"
+        "Plaza Singapura",
+        "Compass One"
       ],
       "outlets_outstanding": [
         "Lucky Plaza",
         "United Square",
-        "Compass One",
         "Causeway Point",
         "GRID",
         "Duo Galleria",
@@ -184,6 +184,10 @@
         "Plaza Singapura": {
           "by": "boss",
           "time": "16:35"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "16:43"
         }
       },
       "problems": [],
