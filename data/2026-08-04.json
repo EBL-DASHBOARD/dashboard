@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-08-04T07:11:36.227Z",
+  "generated": "2026-08-04T07:22:19.923Z",
   "groups": [
     {
       "id": "XH",
@@ -284,12 +284,13 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "WSM",
         "TGCC",
         "MBA",
-        "VIVA"
+        "VIVA",
+        "MARS"
       ],
       "outlets_outstanding": [
         "BPP26",
@@ -307,7 +308,6 @@
         "WNC2",
         "WLCC",
         "LTM26",
-        "MARS",
         "J9-2608",
         "YS1-26",
         "R1-260",
@@ -337,6 +337,10 @@
         "VIVA": {
           "by": "Krishna",
           "time": "15:11"
+        },
+        "MARS": {
+          "by": "Samy Kumar Meena",
+          "time": "15:22"
         }
       },
       "problems": [],
