@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-08-04T22:15:32.751Z",
+  "generated": "2026-08-04T22:52:58.886Z",
   "groups": [
     {
       "id": "XH",
@@ -435,7 +435,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "Jewel",
         "Changi T1 Transit",
@@ -443,7 +443,8 @@
         "ESR BizPark @ Changi",
         "Hougang 1",
         "Coronation Shopping Plaza",
-        "Westgate"
+        "Westgate",
+        "The Strategy"
       ],
       "outlets_outstanding": [
         "Icon Link",
@@ -478,6 +479,10 @@
         "Westgate": {
           "by": "SEENU.C",
           "time": "06:15"
+        },
+        "The Strategy": {
+          "by": "SEENU.C",
+          "time": "06:52"
         }
       },
       "problems": [],
