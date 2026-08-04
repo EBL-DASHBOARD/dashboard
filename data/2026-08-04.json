@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-08-04T01:10:58.014Z",
+  "generated": "2026-08-04T01:36:14.348Z",
   "groups": [
     {
       "id": "XH",
@@ -91,10 +91,11 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "The Rail Mall",
-        "Margaret Market"
+        "Margaret Market",
+        "Hillion Mall"
       ],
       "outlets_outstanding": [
         "Suntec City",
@@ -106,7 +107,6 @@
         "78 Airport Blvd",
         "Punggol Plaza",
         "Junction 8",
-        "Hillion Mall",
         "888 Plaza",
         "Lucky Plaza",
         "United Square"
@@ -119,6 +119,10 @@
         "Margaret Market": {
           "by": "SEENU.C",
           "time": "09:10"
+        },
+        "Hillion Mall": {
+          "by": "Nur Azimah",
+          "time": "09:36"
         }
       },
       "problems": [],
