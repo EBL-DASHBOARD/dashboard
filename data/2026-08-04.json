@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-08-04T09:38:46.877Z",
+  "generated": "2026-08-04T10:50:21.171Z",
   "groups": [
     {
       "id": "XH",
@@ -304,14 +304,15 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "WSM",
         "TGCC",
         "MBA",
         "VIVA",
         "MARS",
-        "WLCC"
+        "WLCC",
+        "WWP"
       ],
       "outlets_outstanding": [
         "BPP26",
@@ -337,7 +338,6 @@
         "KEB26",
         "PDD26",
         "HRC26",
-        "WWP",
         "FEN26",
         "CM1-2"
       ],
@@ -365,6 +365,10 @@
         "WLCC": {
           "by": "Sudhakar",
           "time": "17:38"
+        },
+        "WWP": {
+          "by": "Sasi",
+          "time": "18:50"
         }
       },
       "problems": [],
