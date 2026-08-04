@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-08-04T19:34:15.288Z",
+  "generated": "2026-08-04T21:22:04.684Z",
   "groups": [
     {
       "id": "XH",
@@ -435,13 +435,14 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "Jewel",
         "Changi T1 Transit",
         "Changi City Point",
         "ESR BizPark @ Changi",
-        "Hougang 1"
+        "Hougang 1",
+        "Coronation Shopping Plaza"
       ],
       "outlets_outstanding": [
         "Icon Link",
@@ -468,6 +469,10 @@
         "Hougang 1": {
           "by": "SEENU.C",
           "time": "03:34"
+        },
+        "Coronation Shopping Plaza": {
+          "by": "SEENU.C",
+          "time": "05:22"
         }
       },
       "problems": [],
