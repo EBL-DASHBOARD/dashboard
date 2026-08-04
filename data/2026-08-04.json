@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-08-04T05:27:42.759Z",
+  "generated": "2026-08-04T05:40:07.591Z",
   "groups": [
     {
       "id": "XH",
@@ -91,7 +91,7 @@
           "pm": []
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "The Rail Mall",
         "Margaret Market",
@@ -104,10 +104,10 @@
         "888 Plaza",
         "Suntec City",
         "Marina Square",
-        "South Beach Tower"
+        "South Beach Tower",
+        "Institute of Mental Health"
       ],
       "outlets_outstanding": [
-        "Institute of Mental Health",
         "Lucky Plaza",
         "United Square",
         "Waterway Point",
@@ -115,7 +115,10 @@
         "Causeway Point",
         "GRID",
         "Duo Galleria",
-        "100 AM Mall"
+        "100 AM Mall",
+        "Downtown East",
+        "Plaza Singapura",
+        "Guoco Tower"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -165,6 +168,10 @@
         "South Beach Tower": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "13:27"
+        },
+        "Institute of Mental Health": {
+          "by": "boss",
+          "time": "13:40"
         }
       },
       "problems": [],
