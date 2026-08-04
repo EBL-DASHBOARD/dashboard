@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-08-04T04:26:55.286Z",
+  "generated": "2026-08-04T04:33:54.911Z",
   "groups": [
     {
       "id": "XH",
@@ -91,7 +91,7 @@
           "pm": []
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "The Rail Mall",
         "Margaret Market",
@@ -100,16 +100,19 @@
         "Punggol Plaza",
         "Pasir Ris Mall",
         "White Sands",
-        "78 Airport Blvd"
+        "78 Airport Blvd",
+        "888 Plaza"
       ],
       "outlets_outstanding": [
         "Suntec City",
         "Marina Square",
         "South Beach Tower",
         "Institute of Mental Health",
-        "888 Plaza",
         "Lucky Plaza",
-        "United Square"
+        "United Square",
+        "Waterway Point",
+        "Compass One",
+        "Causeway Point"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -143,6 +146,10 @@
         "78 Airport Blvd": {
           "by": "boss",
           "time": "12:26"
+        },
+        "888 Plaza": {
+          "by": "Nur Azimah",
+          "time": "12:33"
         }
       },
       "problems": [],
