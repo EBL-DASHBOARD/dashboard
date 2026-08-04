@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-08-03T16:08:12.607Z",
+  "generated": "2026-08-04T00:40:39.353Z",
   "groups": [
     {
       "id": "XH",
@@ -91,8 +91,10 @@
           "pm": []
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "The Rail Mall"
+      ],
       "outlets_outstanding": [
         "Suntec City",
         "Marina Square",
@@ -103,14 +105,18 @@
         "78 Airport Blvd",
         "Punggol Plaza",
         "Junction 8",
-        "The Rail Mall",
         "Hillion Mall",
         "888 Plaza",
         "Lucky Plaza",
         "United Square",
         "Margaret Market"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "The Rail Mall": {
+          "by": "Nur Azimah",
+          "time": "08:40"
+        }
+      },
       "problems": [],
       "customers": null
     },
