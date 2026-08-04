@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-08-04T03:41:30.603Z",
+  "generated": "2026-08-04T03:41:51.681Z",
   "groups": [
     {
       "id": "XH",
@@ -91,12 +91,13 @@
           "pm": []
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "The Rail Mall",
         "Margaret Market",
         "Hillion Mall",
-        "Junction 8"
+        "Junction 8",
+        "Punggol Plaza"
       ],
       "outlets_outstanding": [
         "Suntec City",
@@ -106,7 +107,6 @@
         "White Sands",
         "Institute of Mental Health",
         "78 Airport Blvd",
-        "Punggol Plaza",
         "888 Plaza",
         "Lucky Plaza",
         "United Square"
@@ -127,6 +127,10 @@
         "Junction 8": {
           "by": "Nur Azimah",
           "time": "10:38"
+        },
+        "Punggol Plaza": {
+          "by": "Nur Azimah",
+          "time": "11:41"
         }
       },
       "problems": [],
