@@ -1,0 +1,153 @@
+{
+  "date": "2026-08-05",
+  "generated": "2026-08-04T13:04:21.895Z",
+  "groups": [
+    {
+      "id": "XH",
+      "name": "Xh Delivery",
+      "total_locations": 37,
+      "am_total": 19,
+      "pm_total": 18,
+      "am_outlets": [
+        "Tampines 1",
+        "Tampines Mart",
+        "Century Square",
+        "Citygate",
+        "Le Quest",
+        "Dairy Farm Mall",
+        "West Mall",
+        "Hillion Mall",
+        "Parc Point",
+        "HarbourFront Tower 1",
+        "Vivocity",
+        "GENEO",
+        "Alexandra Technopark B",
+        "ARTRA",
+        "Junction 9",
+        "Northpoint City",
+        "Rivervale Plaza (2pallet)",
+        "United Square",
+        "The Woodleigh Mall"
+      ],
+      "pm_outlets": [
+        "V Hotel Lavender",
+        "The Poiz Centre",
+        "New Tech Park",
+        "313 Somerset",
+        "Far East Plaza Kiosk E",
+        "Rivervale Mall",
+        "Compass One",
+        "Punggol Coast Mall",
+        "Waterway Point",
+        "Eastpoint Mall",
+        "i12 Katong",
+        "SingPost Centre",
+        "Flavours @ NUS Uptown",
+        "Galaxis",
+        "Mapletree Business City",
+        "Westgate Tower",
+        "JEM",
+        "Fairprice Hub"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Tampines 1",
+            "Tampines Mart",
+            "Century Square",
+            "Citygate"
+          ],
+          "pm": [
+            "V Hotel Lavender",
+            "The Poiz Centre",
+            "New Tech Park",
+            "313 Somerset",
+            "Far East Plaza Kiosk E"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "Le Quest",
+            "Dairy Farm Mall",
+            "West Mall",
+            "Hillion Mall",
+            "Parc Point"
+          ],
+          "pm": [
+            "Rivervale Mall",
+            "Compass One",
+            "Punggol Coast Mall",
+            "Waterway Point"
+          ]
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "HarbourFront Tower 1",
+            "Vivocity",
+            "GENEO",
+            "Alexandra Technopark B",
+            "ARTRA"
+          ],
+          "pm": [
+            "Eastpoint Mall",
+            "i12 Katong",
+            "SingPost Centre",
+            "Flavours @ NUS Uptown",
+            "Galaxis"
+          ]
+        },
+        {
+          "name": "TRUCK 4",
+          "am": [
+            "Junction 9",
+            "Northpoint City",
+            "Rivervale Plaza (2pallet)"
+          ],
+          "pm": [
+            "Mapletree Business City",
+            "Westgate Tower",
+            "JEM",
+            "Fairprice Hub"
+          ]
+        },
+        {
+          "name": "TRUCK 5",
+          "am": [
+            "United Square",
+            "The Woodleigh Mall"
+          ],
+          "pm": []
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Tampines 1",
+        "Tampines Mart",
+        "Century Square",
+        "Citygate",
+        "Le Quest",
+        "Dairy Farm Mall",
+        "West Mall",
+        "Hillion Mall",
+        "Parc Point",
+        "HarbourFront Tower 1",
+        "Vivocity",
+        "GENEO",
+        "Alexandra Technopark B",
+        "ARTRA",
+        "Junction 9",
+        "Northpoint City",
+        "Rivervale Plaza (2pallet)",
+        "United Square",
+        "The Woodleigh Mall"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
