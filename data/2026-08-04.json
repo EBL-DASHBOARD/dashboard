@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-08-04T00:40:39.353Z",
+  "generated": "2026-08-04T01:10:58.014Z",
   "groups": [
     {
       "id": "XH",
@@ -91,9 +91,10 @@
           "pm": []
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "The Rail Mall"
+        "The Rail Mall",
+        "Margaret Market"
       ],
       "outlets_outstanding": [
         "Suntec City",
@@ -108,13 +109,16 @@
         "Hillion Mall",
         "888 Plaza",
         "Lucky Plaza",
-        "United Square",
-        "Margaret Market"
+        "United Square"
       ],
       "done_detail": {
         "The Rail Mall": {
           "by": "Nur Azimah",
           "time": "08:40"
+        },
+        "Margaret Market": {
+          "by": "SEENU.C",
+          "time": "09:10"
         }
       },
       "problems": [],
