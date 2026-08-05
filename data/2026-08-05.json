@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T04:12:02.340Z",
+  "generated": "2026-08-05T04:26:08.307Z",
   "groups": [
     {
       "id": "XH",
@@ -353,7 +353,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 17,
       "outlets_done": [
         "CL2",
         "JP",
@@ -369,15 +369,15 @@
         "ART",
         "CTP",
         "TRM",
-        "DV"
+        "DV",
+        "KLP",
+        "MSQ"
       ],
       "outlets_outstanding": [
         "CT",
         "PS",
         "VIVO",
         "TIO",
-        "MSQ",
-        "KLP",
         "TPM",
         "LOY",
         "PECC",
@@ -462,6 +462,14 @@
         "DV": {
           "by": "Samy Kumar Meena",
           "time": "11:56"
+        },
+        "KLP": {
+          "by": "Sasi",
+          "time": "12:26"
+        },
+        "MSQ": {
+          "by": "Sasi",
+          "time": "12:26"
         }
       },
       "problems": [],
