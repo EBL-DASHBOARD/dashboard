@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T04:00:00.024Z",
+  "generated": "2026-08-05T04:12:02.340Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 13,
+      "done": 15,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -136,11 +136,11 @@
         "ARTRA",
         "The Woodleigh Mall",
         "GENEO",
-        "Dairy Farm Mall"
+        "Dairy Farm Mall",
+        "Century Square",
+        "Citygate"
       ],
       "outlets_outstanding": [
-        "Century Square",
-        "Citygate",
         "Junction 9",
         "Northpoint City",
         "Rivervale Plaza (2pallet)",
@@ -153,7 +153,12 @@
         "Rivervale Mall",
         "Compass One",
         "Punggol Coast Mall",
-        "Waterway Point"
+        "Waterway Point",
+        "V Hotel Lavender",
+        "The Poiz Centre",
+        "New Tech Park",
+        "313 Somerset",
+        "Far East Plaza Kiosk E"
       ],
       "done_detail": {
         "West Mall": {
@@ -207,6 +212,14 @@
         "Dairy Farm Mall": {
           "by": "Nur Azimah",
           "time": "11:40"
+        },
+        "Century Square": {
+          "by": "boss",
+          "time": "12:12"
+        },
+        "Citygate": {
+          "by": "boss",
+          "time": "12:12"
         }
       },
       "problems": [],
