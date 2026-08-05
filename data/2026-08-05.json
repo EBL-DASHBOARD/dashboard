@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T03:16:13.238Z",
+  "generated": "2026-08-05T03:18:01.642Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -132,14 +132,14 @@
         "Hillion Mall",
         "Tampines 1",
         "Tampines Mart",
-        "Parc Point"
+        "Parc Point",
+        "ARTRA"
       ],
       "outlets_outstanding": [
         "Century Square",
         "Citygate",
         "Dairy Farm Mall",
         "GENEO",
-        "ARTRA",
         "Junction 9",
         "Northpoint City",
         "Rivervale Plaza (2pallet)",
@@ -182,6 +182,10 @@
         "Parc Point": {
           "by": "Nur Azimah",
           "time": "11:13"
+        },
+        "ARTRA": {
+          "by": "Rsathiyaselvi",
+          "time": "11:18"
         }
       },
       "problems": [],
