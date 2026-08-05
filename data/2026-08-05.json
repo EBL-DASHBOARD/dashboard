@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T03:18:01.642Z",
+  "generated": "2026-08-05T03:23:01.447Z",
   "groups": [
     {
       "id": "XH",
@@ -319,7 +319,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "CL2",
         "JP",
@@ -332,11 +332,11 @@
         "KIT",
         "HV2",
         "ARC",
-        "ART"
+        "ART",
+        "CTP"
       ],
       "outlets_outstanding": [
         "CT",
-        "CTP",
         "PS",
         "DV",
         "TRM",
@@ -393,6 +393,10 @@
         "ART": {
           "by": "Krishna",
           "time": "11:16"
+        },
+        "CTP": {
+          "by": "YAAKESH",
+          "time": "11:23"
         }
       },
       "problems": [],
