@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T03:40:53.156Z",
+  "generated": "2026-08-05T03:56:17.571Z",
   "groups": [
     {
       "id": "XH",
@@ -340,7 +340,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 15,
       "outlets_done": [
         "CL2",
         "JP",
@@ -354,13 +354,13 @@
         "HV2",
         "ARC",
         "ART",
-        "CTP"
+        "CTP",
+        "TRM",
+        "DV"
       ],
       "outlets_outstanding": [
         "CT",
         "PS",
-        "DV",
-        "TRM",
         "VIVO",
         "TIO",
         "MSQ",
@@ -418,6 +418,14 @@
         "CTP": {
           "by": "YAAKESH",
           "time": "11:23"
+        },
+        "TRM": {
+          "by": "Samy Kumar Meena",
+          "time": "11:56"
+        },
+        "DV": {
+          "by": "Samy Kumar Meena",
+          "time": "11:56"
         }
       },
       "problems": [],
