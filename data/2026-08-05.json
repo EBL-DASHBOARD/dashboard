@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T09:06:41.810Z",
+  "generated": "2026-08-05T09:07:16.037Z",
   "groups": [
     {
       "id": "XH",
@@ -385,7 +385,7 @@
           ]
         }
       ],
-      "done": 31,
+      "done": 32,
       "outlets_done": [
         "CL2",
         "JP",
@@ -417,14 +417,14 @@
         "R4",
         "WIS",
         "TNC2",
-        "LOY"
+        "LOY",
+        "GMM"
       ],
       "outlets_outstanding": [
         "PECC",
         "CCP",
         "BOB",
         "BHT",
-        "GMM",
         "AP2",
         "AP4",
         "R3",
@@ -558,6 +558,10 @@
         "LOY": {
           "by": "YAAKESH",
           "time": "17:06"
+        },
+        "GMM": {
+          "by": "Samy Kumar Meena",
+          "time": "17:07"
         }
       },
       "problems": [],
