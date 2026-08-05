@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T03:56:17.571Z",
+  "generated": "2026-08-05T04:00:00.024Z",
   "groups": [
     {
       "id": "XH",
@@ -364,7 +364,30 @@
         "VIVO",
         "TIO",
         "MSQ",
-        "KLP"
+        "KLP",
+        "TPM",
+        "LOY",
+        "PECC",
+        "TNC2",
+        "KNX",
+        "CCP",
+        "BOB",
+        "BHT",
+        "NTP",
+        "GMM",
+        "NEX",
+        "AP2",
+        "AP4",
+        "R3",
+        "R4",
+        "R1",
+        "AP1",
+        "EPT",
+        "ACV",
+        "WIS",
+        "WWP",
+        "CM1",
+        "KTB"
       ],
       "done_detail": {
         "CL2": {
