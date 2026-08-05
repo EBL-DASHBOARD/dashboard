@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T11:11:10.930Z",
+  "generated": "2026-08-05T11:15:24.971Z",
   "groups": [
     {
       "id": "XH",
@@ -401,7 +401,7 @@
           ]
         }
       ],
-      "done": 39,
+      "done": 41,
       "outlets_done": [
         "CL2",
         "JP",
@@ -441,14 +441,14 @@
         "BHT",
         "BOB",
         "PECC",
-        "CCP"
+        "CCP",
+        "WWP",
+        "CM1"
       ],
       "outlets_outstanding": [
         "R3",
         "R1",
-        "AP1",
-        "WWP",
-        "CM1"
+        "AP1"
       ],
       "done_detail": {
         "CL2": {
@@ -606,6 +606,14 @@
         "CCP": {
           "by": "Sudhakar",
           "time": "19:11"
+        },
+        "WWP": {
+          "by": "Sasi",
+          "time": "19:15"
+        },
+        "CM1": {
+          "by": "Sasi",
+          "time": "19:15"
         }
       },
       "problems": [],
