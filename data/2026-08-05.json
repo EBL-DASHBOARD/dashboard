@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T09:11:52.764Z",
+  "generated": "2026-08-05T09:32:25.091Z",
   "groups": [
     {
       "id": "XH",
@@ -389,7 +389,7 @@
           ]
         }
       ],
-      "done": 33,
+      "done": 34,
       "outlets_done": [
         "CL2",
         "JP",
@@ -423,7 +423,8 @@
         "TNC2",
         "LOY",
         "GMM",
-        "AP4"
+        "AP4",
+        "ACV"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -434,7 +435,6 @@
         "R3",
         "R1",
         "AP1",
-        "ACV",
         "WWP",
         "CM1"
       ],
@@ -570,6 +570,10 @@
         "AP4": {
           "by": "Krishna",
           "time": "17:11"
+        },
+        "ACV": {
+          "by": "Sasi",
+          "time": "17:32"
         }
       },
       "problems": [],
