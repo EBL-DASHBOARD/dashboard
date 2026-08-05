@@ -1,0 +1,105 @@
+{
+  "date": "2026-08-06",
+  "generated": "2026-08-05T11:58:22.001Z",
+  "groups": [
+    {
+      "id": "XH",
+      "name": "Xh Delivery",
+      "total_locations": 23,
+      "am_total": 12,
+      "pm_total": 11,
+      "am_outlets": [
+        "Tanah Merah Ferry Terminal",
+        "Hougang Mall",
+        "Punggol Plaza",
+        "Zhongshan Mall",
+        "Junction 8",
+        "Woods Square",
+        "Hillion Mall",
+        "The Rail Mall",
+        "Suntec City",
+        "South Beach Tower",
+        "Lucky Plaza (AM)",
+        "Ngee Ann City (Same store lucky plaza)"
+      ],
+      "pm_outlets": [
+        "Downtown East",
+        "Pasir Ris Mall",
+        "White Sands",
+        "Royal Square",
+        "Waterway Point",
+        "Compass One",
+        "Causeway Point",
+        "888 Plaza",
+        "Duo Galleria",
+        "120 Robinson",
+        "Guoco Tower"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Tanah Merah Ferry Terminal",
+            "Hougang Mall",
+            "Punggol Plaza",
+            "Zhongshan Mall"
+          ],
+          "pm": [
+            "Downtown East",
+            "Pasir Ris Mall",
+            "White Sands",
+            "Royal Square"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "Junction 8",
+            "Woods Square",
+            "Hillion Mall",
+            "The Rail Mall"
+          ],
+          "pm": [
+            "Waterway Point",
+            "Compass One",
+            "Causeway Point",
+            "888 Plaza"
+          ]
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Suntec City",
+            "South Beach Tower",
+            "Lucky Plaza (AM)",
+            "Ngee Ann City (Same store lucky plaza)"
+          ],
+          "pm": [
+            "Duo Galleria",
+            "120 Robinson",
+            "Guoco Tower"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Tanah Merah Ferry Terminal",
+        "Hougang Mall",
+        "Punggol Plaza",
+        "Zhongshan Mall",
+        "Junction 8",
+        "Woods Square",
+        "Hillion Mall",
+        "The Rail Mall",
+        "Suntec City",
+        "South Beach Tower",
+        "Lucky Plaza (AM)",
+        "Ngee Ann City (Same store lucky plaza)"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
