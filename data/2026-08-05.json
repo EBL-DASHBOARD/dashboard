@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T07:30:06.585Z",
+  "generated": "2026-08-05T07:53:52.409Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -142,7 +142,8 @@
         "Punggol Coast Mall",
         "SingPost Centre",
         "V Hotel Lavender",
-        "Far East Plaza Kiosk E"
+        "Far East Plaza Kiosk E",
+        "Compass One"
       ],
       "outlets_outstanding": [
         "Junction 9",
@@ -154,7 +155,6 @@
         "Flavours @ NUS Uptown",
         "Galaxis",
         "Rivervale Mall",
-        "Compass One",
         "Waterway Point",
         "The Poiz Centre",
         "New Tech Park",
@@ -236,6 +236,10 @@
         "Far East Plaza Kiosk E": {
           "by": "boss",
           "time": "15:11"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "15:53"
         }
       },
       "problems": [],
