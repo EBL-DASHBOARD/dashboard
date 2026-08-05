@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T03:38:42.711Z",
+  "generated": "2026-08-05T03:40:51.499Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -135,12 +135,12 @@
         "Parc Point",
         "ARTRA",
         "The Woodleigh Mall",
-        "GENEO"
+        "GENEO",
+        "Dairy Farm Mall"
       ],
       "outlets_outstanding": [
         "Century Square",
         "Citygate",
-        "Dairy Farm Mall",
         "Junction 9",
         "Northpoint City",
         "Rivervale Plaza (2pallet)",
@@ -149,7 +149,11 @@
         "i12 Katong",
         "SingPost Centre",
         "Flavours @ NUS Uptown",
-        "Galaxis"
+        "Galaxis",
+        "Rivervale Mall",
+        "Compass One",
+        "Punggol Coast Mall",
+        "Waterway Point"
       ],
       "done_detail": {
         "West Mall": {
@@ -199,6 +203,10 @@
         "GENEO": {
           "by": "Rsathiyaselvi",
           "time": "11:38"
+        },
+        "Dairy Farm Mall": {
+          "by": "Nur Azimah",
+          "time": "11:40"
         }
       },
       "problems": [],
