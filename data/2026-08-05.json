@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T03:27:51.068Z",
+  "generated": "2026-08-05T03:38:40.563Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -134,17 +134,22 @@
         "Tampines Mart",
         "Parc Point",
         "ARTRA",
-        "The Woodleigh Mall"
+        "The Woodleigh Mall",
+        "GENEO"
       ],
       "outlets_outstanding": [
         "Century Square",
         "Citygate",
         "Dairy Farm Mall",
-        "GENEO",
         "Junction 9",
         "Northpoint City",
         "Rivervale Plaza (2pallet)",
-        "United Square"
+        "United Square",
+        "Eastpoint Mall",
+        "i12 Katong",
+        "SingPost Centre",
+        "Flavours @ NUS Uptown",
+        "Galaxis"
       ],
       "done_detail": {
         "West Mall": {
@@ -190,6 +195,10 @@
         "The Woodleigh Mall": {
           "by": "Aravind🤍",
           "time": "11:27"
+        },
+        "GENEO": {
+          "by": "Rsathiyaselvi",
+          "time": "11:38"
         }
       },
       "problems": [],
