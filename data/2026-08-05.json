@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T07:11:52.166Z",
+  "generated": "2026-08-05T07:16:07.694Z",
   "groups": [
     {
       "id": "XH",
@@ -369,7 +369,7 @@
           ]
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "CL2",
         "JP",
@@ -392,7 +392,8 @@
         "PS",
         "TIO",
         "VIVO",
-        "NTP"
+        "NTP",
+        "KTB"
       ],
       "outlets_outstanding": [
         "TPM",
@@ -415,8 +416,7 @@
         "ACV",
         "WIS",
         "WWP",
-        "CM1",
-        "KTB"
+        "CM1"
       ],
       "done_detail": {
         "CL2": {
@@ -506,6 +506,10 @@
         "NTP": {
           "by": "Samy Kumar Meena",
           "time": "14:58"
+        },
+        "KTB": {
+          "by": "Sasi",
+          "time": "15:16"
         }
       },
       "problems": [],
