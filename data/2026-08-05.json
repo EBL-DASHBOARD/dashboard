@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T07:16:07.694Z",
+  "generated": "2026-08-05T07:18:44.714Z",
   "groups": [
     {
       "id": "XH",
@@ -369,7 +369,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "CL2",
         "JP",
@@ -393,7 +393,8 @@
         "TIO",
         "VIVO",
         "NTP",
-        "KTB"
+        "KTB",
+        "EPT"
       ],
       "outlets_outstanding": [
         "TPM",
@@ -412,7 +413,6 @@
         "R4",
         "R1",
         "AP1",
-        "EPT",
         "ACV",
         "WIS",
         "WWP",
@@ -510,6 +510,10 @@
         "KTB": {
           "by": "Sasi",
           "time": "15:16"
+        },
+        "EPT": {
+          "by": "Krishna",
+          "time": "15:18"
         }
       },
       "problems": [],
