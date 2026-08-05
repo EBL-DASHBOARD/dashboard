@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T03:02:16.015Z",
+  "generated": "2026-08-05T03:05:42.267Z",
   "groups": [
     {
       "id": "XH",
@@ -303,7 +303,7 @@
           ]
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "CL2",
         "JP",
@@ -313,14 +313,14 @@
         "SHP",
         "BNV",
         "BQ",
-        "KIT"
+        "KIT",
+        "HV2"
       ],
       "outlets_outstanding": [
         "CT",
         "CTP",
         "PS",
         "DV",
-        "HV2",
         "TRM",
         "VIVO",
         "TIO",
@@ -365,6 +365,10 @@
         "KIT": {
           "by": "Sasi",
           "time": "11:02"
+        },
+        "HV2": {
+          "by": "Samy Kumar Meena",
+          "time": "11:05"
         }
       },
       "problems": [],
