@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T08:25:46.051Z",
+  "generated": "2026-08-05T08:35:52.044Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -145,7 +145,8 @@
         "Far East Plaza Kiosk E",
         "Compass One",
         "313 Somerset",
-        "i12 Katong"
+        "i12 Katong",
+        "Waterway Point"
       ],
       "outlets_outstanding": [
         "Junction 9",
@@ -156,7 +157,6 @@
         "Flavours @ NUS Uptown",
         "Galaxis",
         "Rivervale Mall",
-        "Waterway Point",
         "The Poiz Centre",
         "New Tech Park"
       ],
@@ -248,6 +248,10 @@
         "i12 Katong": {
           "by": "Rsathiyaselvi",
           "time": "16:21"
+        },
+        "Waterway Point": {
+          "by": "Nur Azimah",
+          "time": "16:35"
         }
       },
       "problems": [],
