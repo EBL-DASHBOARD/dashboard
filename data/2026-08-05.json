@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T04:27:52.952Z",
+  "generated": "2026-08-05T06:40:20.703Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -138,7 +138,8 @@
         "GENEO",
         "Dairy Farm Mall",
         "Century Square",
-        "Citygate"
+        "Citygate",
+        "Punggol Coast Mall"
       ],
       "outlets_outstanding": [
         "Junction 9",
@@ -152,7 +153,6 @@
         "Galaxis",
         "Rivervale Mall",
         "Compass One",
-        "Punggol Coast Mall",
         "Waterway Point",
         "V Hotel Lavender",
         "The Poiz Centre",
@@ -220,6 +220,10 @@
         "Citygate": {
           "by": "boss",
           "time": "12:12"
+        },
+        "Punggol Coast Mall": {
+          "by": "Nur Azimah",
+          "time": "14:40"
         }
       },
       "problems": [],
