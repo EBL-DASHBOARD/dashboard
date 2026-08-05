@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T02:52:46.485Z",
+  "generated": "2026-08-05T03:02:16.015Z",
   "groups": [
     {
       "id": "XH",
@@ -303,7 +303,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "CL2",
         "JP",
@@ -312,7 +312,8 @@
         "KRC",
         "SHP",
         "BNV",
-        "BQ"
+        "BQ",
+        "KIT"
       ],
       "outlets_outstanding": [
         "CT",
@@ -326,7 +327,6 @@
         "ART",
         "ARC",
         "MSQ",
-        "KIT",
         "KLP"
       ],
       "done_detail": {
@@ -361,6 +361,10 @@
         "BQ": {
           "by": "YAAKESH",
           "time": "10:26"
+        },
+        "KIT": {
+          "by": "Sasi",
+          "time": "11:02"
         }
       },
       "problems": [],
