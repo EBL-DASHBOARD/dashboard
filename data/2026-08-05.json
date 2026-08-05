@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T01:20:38.923Z",
+  "generated": "2026-08-05T01:30:21.338Z",
   "groups": [
     {
       "id": "XH",
@@ -122,16 +122,16 @@
           "pm": []
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "West Mall"
+        "West Mall",
+        "Le Quest"
       ],
       "outlets_outstanding": [
         "Tampines 1",
         "Tampines Mart",
         "Century Square",
         "Citygate",
-        "Le Quest",
         "Dairy Farm Mall",
         "Hillion Mall",
         "Parc Point",
@@ -150,6 +150,10 @@
         "West Mall": {
           "by": "Nur Azimah",
           "time": "08:31"
+        },
+        "Le Quest": {
+          "by": "Nur Azimah",
+          "time": "09:30"
         }
       },
       "problems": [],
