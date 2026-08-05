@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T06:40:20.703Z",
+  "generated": "2026-08-05T06:57:30.148Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -139,7 +139,8 @@
         "Dairy Farm Mall",
         "Century Square",
         "Citygate",
-        "Punggol Coast Mall"
+        "Punggol Coast Mall",
+        "SingPost Centre"
       ],
       "outlets_outstanding": [
         "Junction 9",
@@ -148,7 +149,6 @@
         "United Square",
         "Eastpoint Mall",
         "i12 Katong",
-        "SingPost Centre",
         "Flavours @ NUS Uptown",
         "Galaxis",
         "Rivervale Mall",
@@ -224,6 +224,10 @@
         "Punggol Coast Mall": {
           "by": "Nur Azimah",
           "time": "14:40"
+        },
+        "SingPost Centre": {
+          "by": "Rsathiyaselvi",
+          "time": "14:57"
         }
       },
       "problems": [],
