@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T08:15:42.039Z",
+  "generated": "2026-08-05T08:21:56.369Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -144,7 +144,8 @@
         "V Hotel Lavender",
         "Far East Plaza Kiosk E",
         "Compass One",
-        "313 Somerset"
+        "313 Somerset",
+        "i12 Katong"
       ],
       "outlets_outstanding": [
         "Junction 9",
@@ -152,7 +153,6 @@
         "Rivervale Plaza (2pallet)",
         "United Square",
         "Eastpoint Mall",
-        "i12 Katong",
         "Flavours @ NUS Uptown",
         "Galaxis",
         "Rivervale Mall",
@@ -244,6 +244,10 @@
         "313 Somerset": {
           "by": "boss",
           "time": "16:15"
+        },
+        "i12 Katong": {
+          "by": "Rsathiyaselvi",
+          "time": "16:21"
         }
       },
       "problems": [],
