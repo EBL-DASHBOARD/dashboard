@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T10:50:51.019Z",
+  "generated": "2026-08-05T11:11:07.874Z",
   "groups": [
     {
       "id": "XH",
@@ -401,7 +401,7 @@
           ]
         }
       ],
-      "done": 37,
+      "done": 38,
       "outlets_done": [
         "CL2",
         "JP",
@@ -439,10 +439,10 @@
         "ACV",
         "AP2",
         "BHT",
-        "BOB"
+        "BOB",
+        "PECC"
       ],
       "outlets_outstanding": [
-        "PECC",
         "CCP",
         "R3",
         "R1",
@@ -598,6 +598,10 @@
         "BOB": {
           "by": "Samy Kumar Meena",
           "time": "18:50"
+        },
+        "PECC": {
+          "by": "Sudhakar",
+          "time": "19:11"
         }
       },
       "problems": [],
