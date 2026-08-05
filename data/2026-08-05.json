@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T08:21:56.369Z",
+  "generated": "2026-08-05T08:25:46.051Z",
   "groups": [
     {
       "id": "XH",
@@ -381,7 +381,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "CL2",
         "JP",
@@ -409,7 +409,8 @@
         "EPT",
         "KNX",
         "TPM",
-        "NEX"
+        "NEX",
+        "R4"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -422,7 +423,6 @@
         "AP2",
         "AP4",
         "R3",
-        "R4",
         "R1",
         "AP1",
         "ACV",
@@ -538,6 +538,10 @@
         "NEX": {
           "by": "Samy Kumar Meena",
           "time": "16:15"
+        },
+        "R4": {
+          "by": "Krishna",
+          "time": "16:25"
         }
       },
       "problems": [],
