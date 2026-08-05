@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T01:52:52.475Z",
+  "generated": "2026-08-05T02:11:03.523Z",
   "groups": [
     {
       "id": "XH",
@@ -122,11 +122,12 @@
           "pm": []
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "West Mall",
         "Le Quest",
-        "Alexandra Technopark B"
+        "Alexandra Technopark B",
+        "Vivocity"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -137,7 +138,6 @@
         "Hillion Mall",
         "Parc Point",
         "HarbourFront Tower 1",
-        "Vivocity",
         "GENEO",
         "ARTRA",
         "Junction 9",
@@ -158,6 +158,10 @@
         "Alexandra Technopark B": {
           "by": "Rsathiyaselvi",
           "time": "09:48"
+        },
+        "Vivocity": {
+          "by": "Rsathiyaselvi",
+          "time": "10:11"
         }
       },
       "problems": [],
