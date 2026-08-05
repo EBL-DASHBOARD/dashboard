@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T11:15:24.971Z",
+  "generated": "2026-08-05T11:21:32.512Z",
   "groups": [
     {
       "id": "XH",
@@ -401,7 +401,7 @@
           ]
         }
       ],
-      "done": 41,
+      "done": 42,
       "outlets_done": [
         "CL2",
         "JP",
@@ -443,10 +443,10 @@
         "PECC",
         "CCP",
         "WWP",
-        "CM1"
+        "CM1",
+        "R3"
       ],
       "outlets_outstanding": [
-        "R3",
         "R1",
         "AP1"
       ],
@@ -614,6 +614,10 @@
         "CM1": {
           "by": "Sasi",
           "time": "19:15"
+        },
+        "R3": {
+          "by": "Krishna",
+          "time": "19:21"
         }
       },
       "problems": [],
