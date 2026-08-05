@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T09:40:32.669Z",
+  "generated": "2026-08-05T10:01:14.976Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -149,14 +149,14 @@
         "Waterway Point",
         "Rivervale Mall",
         "Eastpoint Mall",
-        "Galaxis"
+        "Galaxis",
+        "Flavours @ NUS Uptown"
       ],
       "outlets_outstanding": [
         "Junction 9",
         "Northpoint City",
         "Rivervale Plaza (2pallet)",
         "United Square",
-        "Flavours @ NUS Uptown",
         "The Poiz Centre",
         "New Tech Park"
       ],
@@ -264,6 +264,10 @@
         "Galaxis": {
           "by": "Rsathiyaselvi",
           "time": "17:40"
+        },
+        "Flavours @ NUS Uptown": {
+          "by": "Rsathiyaselvi",
+          "time": "18:01"
         }
       },
       "problems": [],
