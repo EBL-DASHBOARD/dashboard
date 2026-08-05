@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T06:58:44.547Z",
+  "generated": "2026-08-05T07:11:52.166Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 17,
+      "done": 19,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -140,7 +140,9 @@
         "Century Square",
         "Citygate",
         "Punggol Coast Mall",
-        "SingPost Centre"
+        "SingPost Centre",
+        "V Hotel Lavender",
+        "Far East Plaza Kiosk E"
       ],
       "outlets_outstanding": [
         "Junction 9",
@@ -154,11 +156,9 @@
         "Rivervale Mall",
         "Compass One",
         "Waterway Point",
-        "V Hotel Lavender",
         "The Poiz Centre",
         "New Tech Park",
-        "313 Somerset",
-        "Far East Plaza Kiosk E"
+        "313 Somerset"
       ],
       "done_detail": {
         "West Mall": {
@@ -228,6 +228,14 @@
         "SingPost Centre": {
           "by": "Rsathiyaselvi",
           "time": "14:57"
+        },
+        "V Hotel Lavender": {
+          "by": "boss",
+          "time": "15:11"
+        },
+        "Far East Plaza Kiosk E": {
+          "by": "boss",
+          "time": "15:11"
         }
       },
       "problems": [],
