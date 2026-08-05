@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T08:41:25.028Z",
+  "generated": "2026-08-05T09:06:41.810Z",
   "groups": [
     {
       "id": "XH",
@@ -385,7 +385,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 31,
       "outlets_done": [
         "CL2",
         "JP",
@@ -415,12 +415,12 @@
         "TPM",
         "NEX",
         "R4",
-        "WIS"
+        "WIS",
+        "TNC2",
+        "LOY"
       ],
       "outlets_outstanding": [
-        "LOY",
         "PECC",
-        "TNC2",
         "CCP",
         "BOB",
         "BHT",
@@ -550,6 +550,14 @@
         "WIS": {
           "by": "Sasi",
           "time": "16:41"
+        },
+        "TNC2": {
+          "by": "YAAKESH",
+          "time": "17:06"
+        },
+        "LOY": {
+          "by": "YAAKESH",
+          "time": "17:06"
         }
       },
       "problems": [],
