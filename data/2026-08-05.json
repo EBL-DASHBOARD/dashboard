@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T03:12:17.452Z",
+  "generated": "2026-08-05T03:13:02.081Z",
   "groups": [
     {
       "id": "XH",
@@ -122,7 +122,7 @@
           "pm": []
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -131,13 +131,13 @@
         "HarbourFront Tower 1",
         "Hillion Mall",
         "Tampines 1",
-        "Tampines Mart"
+        "Tampines Mart",
+        "Parc Point"
       ],
       "outlets_outstanding": [
         "Century Square",
         "Citygate",
         "Dairy Farm Mall",
-        "Parc Point",
         "GENEO",
         "ARTRA",
         "Junction 9",
@@ -178,6 +178,10 @@
         "Tampines Mart": {
           "by": "boss",
           "time": "11:12"
+        },
+        "Parc Point": {
+          "by": "Nur Azimah",
+          "time": "11:13"
         }
       },
       "problems": [],
