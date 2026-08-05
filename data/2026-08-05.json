@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated": "2026-08-05T04:26:24.578Z",
+  "generated": "2026-08-05T04:27:52.952Z",
   "groups": [
     {
       "id": "XH",
@@ -353,7 +353,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 21,
       "outlets_done": [
         "CL2",
         "JP",
@@ -373,11 +373,11 @@
         "KLP",
         "MSQ",
         "CT",
-        "PS"
+        "PS",
+        "TIO",
+        "VIVO"
       ],
       "outlets_outstanding": [
-        "VIVO",
-        "TIO",
         "TPM",
         "LOY",
         "PECC",
@@ -478,6 +478,14 @@
         "PS": {
           "by": "YAAKESH",
           "time": "12:26"
+        },
+        "TIO": {
+          "by": "Krishna",
+          "time": "12:27"
+        },
+        "VIVO": {
+          "by": "Krishna",
+          "time": "12:27"
         }
       },
       "problems": [],
