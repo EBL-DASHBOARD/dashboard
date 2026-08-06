@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated": "2026-08-06T03:55:22.006Z",
+  "generated": "2026-08-06T04:00:00.079Z",
   "groups": [
     {
       "id": "XH",
@@ -254,7 +254,28 @@
       ],
       "outlets_outstanding": [
         "BPP",
-        "TGCC"
+        "TGCC",
+        "TNC2",
+        "CKCC",
+        "LOY",
+        "PECC",
+        "VIVA",
+        "YS1",
+        "J9",
+        "LTM",
+        "MARS",
+        "SSC2",
+        "WLCC",
+        "R1",
+        "AP1",
+        "R3",
+        "AP4",
+        "HRC",
+        "PDD",
+        "WWP",
+        "FEN",
+        "KEB",
+        "CM1"
       ],
       "done_detail": {
         "YTP": {
