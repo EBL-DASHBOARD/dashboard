@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated": "2026-08-06T07:16:53.944Z",
+  "generated": "2026-08-06T07:30:23.779Z",
   "groups": [
     {
       "id": "XH",
@@ -81,7 +81,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 9,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -89,18 +89,22 @@
         "Hougang Mall",
         "Junction 8",
         "Woods Square",
-        "Waterway Point"
+        "Waterway Point",
+        "Punggol Plaza",
+        "Zhongshan Mall"
       ],
       "outlets_outstanding": [
-        "Punggol Plaza",
-        "Zhongshan Mall",
         "Suntec City",
         "South Beach Tower",
         "Lucky Plaza (AM)",
         "Ngee Ann City (Same store lucky plaza)",
         "Compass One",
         "Causeway Point",
-        "888 Plaza"
+        "888 Plaza",
+        "Downtown East",
+        "Pasir Ris Mall",
+        "White Sands",
+        "Royal Square"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -130,6 +134,14 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "14:44"
+        },
+        "Punggol Plaza": {
+          "by": "boss",
+          "time": "15:30"
+        },
+        "Zhongshan Mall": {
+          "by": "boss",
+          "time": "15:30"
         }
       },
       "problems": [],
