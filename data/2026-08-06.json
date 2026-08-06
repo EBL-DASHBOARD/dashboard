@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated": "2026-08-06T06:44:36.593Z",
+  "generated": "2026-08-06T06:53:11.904Z",
   "groups": [
     {
       "id": "XH",
@@ -242,7 +242,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -256,7 +256,8 @@
         "WXI",
         "STC",
         "BPP",
-        "TGCC"
+        "TGCC",
+        "HRC"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -274,7 +275,6 @@
         "AP1",
         "R3",
         "AP4",
-        "HRC",
         "PDD",
         "WWP",
         "FEN",
@@ -333,6 +333,10 @@
         "TGCC": {
           "by": "Samy Kumar Meena",
           "time": "12:09"
+        },
+        "HRC": {
+          "by": "Krishna",
+          "time": "14:53"
         }
       },
       "problems": [],
