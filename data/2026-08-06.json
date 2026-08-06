@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated": "2026-08-06T06:53:11.904Z",
+  "generated": "2026-08-06T07:16:53.944Z",
   "groups": [
     {
       "id": "XH",
@@ -242,7 +242,7 @@
           ]
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -257,11 +257,11 @@
         "STC",
         "BPP",
         "TGCC",
-        "HRC"
+        "HRC",
+        "CKCC"
       ],
       "outlets_outstanding": [
         "TNC2",
-        "CKCC",
         "LOY",
         "PECC",
         "VIVA",
@@ -337,6 +337,10 @@
         "HRC": {
           "by": "Krishna",
           "time": "14:53"
+        },
+        "CKCC": {
+          "by": "Samy Kumar Meena",
+          "time": "15:16"
         }
       },
       "problems": [],
