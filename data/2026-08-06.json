@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated": "2026-08-06T15:03:12.180Z",
+  "generated": "2026-08-06T15:33:53.248Z",
   "groups": [
     {
       "id": "XH",
@@ -502,14 +502,14 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 4,
       "outlets_done": [
         "NTU South Spine",
-        "Westgate"
+        "Westgate",
+        "Jewel",
+        "Changi T1 Transit"
       ],
       "outlets_outstanding": [
-        "Jewel",
-        "Changi T1 Transit",
         "Changi City Point",
         "Hougang 1",
         "ESR BizPark @ Changi",
@@ -523,6 +523,14 @@
         "Westgate": {
           "by": "ratharun",
           "time": "23:03"
+        },
+        "Jewel": {
+          "by": "~ Mahadeb ~",
+          "time": "23:33"
+        },
+        "Changi T1 Transit": {
+          "by": "~ Mahadeb ~",
+          "time": "23:33"
         }
       },
       "problems": [],
