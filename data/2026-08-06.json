@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated": "2026-08-06T11:39:02.841Z",
+  "generated": "2026-08-06T12:37:32.058Z",
   "groups": [
     {
       "id": "XH",
@@ -270,7 +270,7 @@
           ]
         }
       ],
-      "done": 33,
+      "done": 34,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -304,11 +304,10 @@
         "YS1",
         "LTM",
         "WWP",
-        "PDD"
-      ],
-      "outlets_outstanding": [
+        "PDD",
         "R3"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "YTP": {
           "by": "Samy Kumar Meena",
@@ -441,6 +440,10 @@
         "PDD": {
           "by": "Sasi",
           "time": "19:39"
+        },
+        "R3": {
+          "by": "Krishna",
+          "time": "20:37"
         }
       },
       "problems": [],
