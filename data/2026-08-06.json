@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated": "2026-08-06T07:35:09.907Z",
+  "generated": "2026-08-06T07:39:39.071Z",
   "groups": [
     {
       "id": "XH",
@@ -81,7 +81,7 @@
           ]
         }
       ],
-      "done": 10,
+      "done": 11,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -92,14 +92,14 @@
         "Waterway Point",
         "Punggol Plaza",
         "Zhongshan Mall",
-        "Downtown East"
+        "Downtown East",
+        "Compass One"
       ],
       "outlets_outstanding": [
         "Suntec City",
         "South Beach Tower",
         "Lucky Plaza (AM)",
         "Ngee Ann City (Same store lucky plaza)",
-        "Compass One",
         "Causeway Point",
         "888 Plaza",
         "Pasir Ris Mall",
@@ -146,6 +146,10 @@
         "Downtown East": {
           "by": "boss",
           "time": "15:30"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "15:39"
         }
       },
       "problems": [],
