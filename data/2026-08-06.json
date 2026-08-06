@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated": "2026-08-06T00:39:51.210Z",
+  "generated": "2026-08-06T00:40:15.564Z",
   "groups": [
     {
       "id": "XH",
@@ -81,8 +81,10 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "The Rail Mall"
+      ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "Hougang Mall",
@@ -91,13 +93,17 @@
         "Junction 8",
         "Woods Square",
         "Hillion Mall",
-        "The Rail Mall",
         "Suntec City",
         "South Beach Tower",
         "Lucky Plaza (AM)",
         "Ngee Ann City (Same store lucky plaza)"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "The Rail Mall": {
+          "by": "Nur Azimah",
+          "time": "08:40"
+        }
+      },
       "problems": [],
       "customers": null
     },
