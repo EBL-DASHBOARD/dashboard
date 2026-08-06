@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated": "2026-08-06T08:38:35.493Z",
+  "generated": "2026-08-06T09:12:34.331Z",
   "groups": [
     {
       "id": "XH",
@@ -266,7 +266,7 @@
           ]
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -287,7 +287,8 @@
         "TNC2",
         "VIVA",
         "MARS",
-        "WLCC"
+        "WLCC",
+        "FEN"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -302,7 +303,6 @@
         "AP4",
         "PDD",
         "WWP",
-        "FEN",
         "CM1"
       ],
       "done_detail": {
@@ -385,6 +385,10 @@
         "WLCC": {
           "by": "Sudhakar",
           "time": "16:38"
+        },
+        "FEN": {
+          "by": "Sasi",
+          "time": "17:12"
         }
       },
       "problems": [],
