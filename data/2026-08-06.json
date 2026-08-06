@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated": "2026-08-06T09:25:11.721Z",
+  "generated": "2026-08-06T09:31:44.496Z",
   "groups": [
     {
       "id": "XH",
@@ -266,7 +266,7 @@
           ]
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -289,7 +289,8 @@
         "MARS",
         "WLCC",
         "FEN",
-        "PECC"
+        "PECC",
+        "AP4"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -300,7 +301,6 @@
         "R1",
         "AP1",
         "R3",
-        "AP4",
         "PDD",
         "WWP",
         "CM1"
@@ -393,6 +393,10 @@
         "PECC": {
           "by": "Samy Kumar Meena",
           "time": "17:25"
+        },
+        "AP4": {
+          "by": "Krishna",
+          "time": "17:31"
         }
       },
       "problems": [],
