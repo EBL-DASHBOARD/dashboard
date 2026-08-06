@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated": "2026-08-06T11:38:06.902Z",
+  "generated": "2026-08-06T11:39:02.841Z",
   "groups": [
     {
       "id": "XH",
@@ -270,7 +270,7 @@
           ]
         }
       ],
-      "done": 31,
+      "done": 33,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -302,12 +302,12 @@
         "R1",
         "AP1",
         "YS1",
-        "LTM"
+        "LTM",
+        "WWP",
+        "PDD"
       ],
       "outlets_outstanding": [
-        "R3",
-        "PDD",
-        "WWP"
+        "R3"
       ],
       "done_detail": {
         "YTP": {
@@ -433,6 +433,14 @@
         "LTM": {
           "by": "YAAKESH",
           "time": "19:38"
+        },
+        "WWP": {
+          "by": "Sasi",
+          "time": "19:39"
+        },
+        "PDD": {
+          "by": "Sasi",
+          "time": "19:39"
         }
       },
       "problems": [],
