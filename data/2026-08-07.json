@@ -1,0 +1,134 @@
+{
+  "date": "2026-08-07",
+  "generated": "2026-08-06T03:01:04.232Z",
+  "groups": [
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 34,
+      "am_total": 13,
+      "pm_total": 21,
+      "am_outlets": [
+        "KH",
+        "CCKS",
+        "BPP",
+        "TGCC",
+        "YTP",
+        "IM",
+        "JKN",
+        "WSM",
+        "WXI",
+        "BS",
+        "MBA",
+        "STC",
+        "TY"
+      ],
+      "pm_outlets": [
+        "TNC2",
+        "CKCC",
+        "LOY",
+        "PECC",
+        "YS1",
+        "J9",
+        "LTM",
+        "MARS",
+        "SSC2",
+        "WLCC",
+        "R1",
+        "AP1",
+        "R3",
+        "AP4",
+        "HRC",
+        "VIVA",
+        "PDD",
+        "WWP",
+        "FEN",
+        "KEB",
+        "CM1"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [],
+          "pm": [
+            "TNC2",
+            "CKCC",
+            "LOY",
+            "PECC"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "KH",
+            "CCKS",
+            "BPP",
+            "TGCC",
+            "YTP"
+          ],
+          "pm": [
+            "YS1",
+            "J9",
+            "LTM",
+            "MARS",
+            "SSC2",
+            "WLCC"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "IM",
+            "JKN",
+            "WSM",
+            "WXI"
+          ],
+          "pm": [
+            "R1",
+            "AP1",
+            "R3",
+            "AP4",
+            "HRC",
+            "VIVA"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "BS",
+            "MBA",
+            "STC",
+            "TY"
+          ],
+          "pm": [
+            "PDD",
+            "WWP",
+            "FEN",
+            "KEB",
+            "CM1"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "KH",
+        "CCKS",
+        "BPP",
+        "TGCC",
+        "YTP",
+        "IM",
+        "JKN",
+        "WSM",
+        "WXI",
+        "BS",
+        "MBA",
+        "STC",
+        "TY"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
