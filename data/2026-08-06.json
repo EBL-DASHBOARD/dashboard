@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated": "2026-08-06T14:20:33.818Z",
+  "generated": "2026-08-06T15:03:12.180Z",
   "groups": [
     {
       "id": "XH",
@@ -502,9 +502,10 @@
           "pm": []
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "NTU South Spine"
+        "NTU South Spine",
+        "Westgate"
       ],
       "outlets_outstanding": [
         "Jewel",
@@ -512,13 +513,16 @@
         "Changi City Point",
         "Hougang 1",
         "ESR BizPark @ Changi",
-        "Parkway Parade",
-        "Westgate"
+        "Parkway Parade"
       ],
       "done_detail": {
         "NTU South Spine": {
           "by": "ratharun",
           "time": "22:20"
+        },
+        "Westgate": {
+          "by": "ratharun",
+          "time": "23:03"
         }
       },
       "problems": [],
