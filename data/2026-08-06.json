@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated": "2026-08-06T04:09:36.218Z",
+  "generated": "2026-08-06T06:44:36.593Z",
   "groups": [
     {
       "id": "XH",
@@ -81,14 +81,15 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
         "Tanah Merah Ferry Terminal",
         "Hougang Mall",
         "Junction 8",
-        "Woods Square"
+        "Woods Square",
+        "Waterway Point"
       ],
       "outlets_outstanding": [
         "Punggol Plaza",
@@ -97,7 +98,6 @@
         "South Beach Tower",
         "Lucky Plaza (AM)",
         "Ngee Ann City (Same store lucky plaza)",
-        "Waterway Point",
         "Compass One",
         "Causeway Point",
         "888 Plaza"
@@ -126,6 +126,10 @@
         "Woods Square": {
           "by": "Nur Azimah",
           "time": "11:38"
+        },
+        "Waterway Point": {
+          "by": "Nur Azimah",
+          "time": "14:44"
         }
       },
       "problems": [],
