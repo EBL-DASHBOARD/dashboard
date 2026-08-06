@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated": "2026-08-06T08:37:11.262Z",
+  "generated": "2026-08-06T08:37:54.578Z",
   "groups": [
     {
       "id": "XH",
@@ -266,7 +266,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -285,7 +285,8 @@
         "CKCC",
         "KEB",
         "TNC2",
-        "VIVA"
+        "VIVA",
+        "MARS"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -293,7 +294,6 @@
         "YS1",
         "J9",
         "LTM",
-        "MARS",
         "SSC2",
         "WLCC",
         "R1",
@@ -377,6 +377,10 @@
         "VIVA": {
           "by": "Krishna",
           "time": "16:24"
+        },
+        "MARS": {
+          "by": "Sudhakar",
+          "time": "16:37"
         }
       },
       "problems": [],
