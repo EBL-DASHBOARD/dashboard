@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated": "2026-08-06T07:30:38.775Z",
+  "generated": "2026-08-06T07:35:09.907Z",
   "groups": [
     {
       "id": "XH",
@@ -258,7 +258,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "YTP",
         "JKN",
@@ -274,7 +274,8 @@
         "BPP",
         "TGCC",
         "HRC",
-        "CKCC"
+        "CKCC",
+        "KEB"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -294,7 +295,6 @@
         "PDD",
         "WWP",
         "FEN",
-        "KEB",
         "CM1"
       ],
       "done_detail": {
@@ -357,6 +357,10 @@
         "CKCC": {
           "by": "Samy Kumar Meena",
           "time": "15:16"
+        },
+        "KEB": {
+          "by": "Sasi",
+          "time": "15:35"
         }
       },
       "problems": [],
