@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated": "2026-08-06T09:31:44.496Z",
+  "generated": "2026-08-06T10:03:27.586Z",
   "groups": [
     {
       "id": "XH",
@@ -81,7 +81,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "The Rail Mall",
         "Hillion Mall",
@@ -94,14 +94,14 @@
         "Zhongshan Mall",
         "Downtown East",
         "Compass One",
-        "Causeway Point"
+        "Causeway Point",
+        "888 Plaza"
       ],
       "outlets_outstanding": [
         "Suntec City",
         "South Beach Tower",
         "Lucky Plaza (AM)",
         "Ngee Ann City (Same store lucky plaza)",
-        "888 Plaza",
         "Pasir Ris Mall",
         "White Sands",
         "Royal Square"
@@ -154,6 +154,10 @@
         "Causeway Point": {
           "by": "Nur Azimah",
           "time": "16:37"
+        },
+        "888 Plaza": {
+          "by": "Nur Azimah",
+          "time": "18:03"
         }
       },
       "problems": [],
