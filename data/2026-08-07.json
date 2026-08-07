@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T09:21:14.063Z",
+  "generated": "2026-08-07T09:24:48.216Z",
   "groups": [
     {
       "id": "EBL6",
@@ -418,7 +418,7 @@
           "pm": []
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -433,7 +433,8 @@
         "Dairy Farm Mall",
         "Punggol Coast Mall",
         "Waterway Point",
-        "Compass One"
+        "Compass One",
+        "Plaza Singapura"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -504,6 +505,10 @@
         "Compass One": {
           "by": "Nur Azimah",
           "time": "16:34"
+        },
+        "Plaza Singapura": {
+          "by": "Rsathiyaselvi",
+          "time": "17:24"
         }
       },
       "problems": [],
