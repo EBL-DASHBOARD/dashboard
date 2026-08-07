@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T06:38:50.698Z",
+  "generated": "2026-08-07T07:26:40.127Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -151,7 +151,8 @@
         "TIO",
         "VIVO",
         "KIT",
-        "PS"
+        "PS",
+        "WNC"
       ],
       "outlets_outstanding": [
         "KNX",
@@ -165,7 +166,6 @@
         "KTB",
         "SSC2",
         "YS1",
-        "WNC",
         "R4",
         "AP1",
         "R1",
@@ -259,6 +259,10 @@
         "PS": {
           "by": "YAAKESH",
           "time": "12:48"
+        },
+        "WNC": {
+          "by": "Samy Kumar Meena",
+          "time": "15:26"
         }
       },
       "problems": [],
