@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T00:45:25.259Z",
+  "generated": "2026-08-07T01:18:31.041Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,10 +130,11 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "YTP",
-        "CL2"
+        "CL2",
+        "CCKS"
       ],
       "outlets_outstanding": [
         "BQ",
@@ -141,7 +142,6 @@
         "BNV",
         "KRC",
         "PS",
-        "CCKS",
         "BPP",
         "HV2",
         "TRM",
@@ -163,6 +163,10 @@
         "CL2": {
           "by": "Krishna",
           "time": "08:45"
+        },
+        "CCKS": {
+          "by": "Samy Kumar Meena",
+          "time": "09:18"
         }
       },
       "problems": [],
