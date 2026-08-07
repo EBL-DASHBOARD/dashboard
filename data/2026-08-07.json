@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T11:42:52.527Z",
+  "generated": "2026-08-07T11:55:13.975Z",
   "groups": [
     {
       "id": "EBL6",
@@ -555,6 +555,43 @@
           "time": "17:26"
         }
       },
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "XHNIGHT",
+      "name": "Xh Delivery (Night)",
+      "total_locations": 4,
+      "am_total": 4,
+      "pm_total": 0,
+      "am_outlets": [
+        "PLQ Tower 1",
+        "Aperia Mall",
+        "NUH Medical Centre",
+        "Tangs Plaza Kiosk 2"
+      ],
+      "pm_outlets": [],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "PLQ Tower 1",
+            "Aperia Mall",
+            "NUH Medical Centre",
+            "Tangs Plaza Kiosk 2"
+          ],
+          "pm": []
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "PLQ Tower 1",
+        "Aperia Mall",
+        "NUH Medical Centre",
+        "Tangs Plaza Kiosk 2"
+      ],
+      "done_detail": {},
       "problems": [],
       "customers": null
     }
