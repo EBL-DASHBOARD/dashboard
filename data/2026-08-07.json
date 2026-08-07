@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T04:23:25.948Z",
+  "generated": "2026-08-07T04:23:47.091Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 18,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -147,12 +147,12 @@
         "TRM",
         "BQ",
         "CTP",
-        "DV"
+        "DV",
+        "TIO",
+        "VIVO"
       ],
       "outlets_outstanding": [
         "PS",
-        "VIVO",
-        "TIO",
         "KIT",
         "KNX",
         "TPM",
@@ -243,6 +243,14 @@
         "DV": {
           "by": "Samy Kumar Meena",
           "time": "12:06"
+        },
+        "TIO": {
+          "by": "Krishna",
+          "time": "12:23"
+        },
+        "VIVO": {
+          "by": "Krishna",
+          "time": "12:23"
         }
       },
       "problems": [],
