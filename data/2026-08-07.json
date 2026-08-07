@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T02:35:57.064Z",
+  "generated": "2026-08-07T02:38:44.535Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -139,7 +139,8 @@
         "ARC",
         "BPP",
         "BNV",
-        "KRC"
+        "KRC",
+        "ART"
       ],
       "outlets_outstanding": [
         "BQ",
@@ -150,7 +151,6 @@
         "DV",
         "VIVO",
         "TIO",
-        "ART",
         "KIT",
         "SHP",
         "USQ"
@@ -187,6 +187,10 @@
         "KRC": {
           "by": "YAAKESH",
           "time": "10:26"
+        },
+        "ART": {
+          "by": "Krishna",
+          "time": "10:38"
         }
       },
       "problems": [],
