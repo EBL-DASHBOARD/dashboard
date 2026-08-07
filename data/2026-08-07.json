@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T09:24:48.216Z",
+  "generated": "2026-08-07T09:26:11.550Z",
   "groups": [
     {
       "id": "EBL6",
@@ -418,7 +418,7 @@
           "pm": []
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -434,7 +434,8 @@
         "Punggol Coast Mall",
         "Waterway Point",
         "Compass One",
-        "Plaza Singapura"
+        "Plaza Singapura",
+        "Rivervale Mall"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -446,8 +447,7 @@
         "Flavours @ NUS Uptown",
         "GENEO",
         "Margaret Market",
-        "Vivo City (9am onwards)",
-        "Rivervale Mall"
+        "Vivo City (9am onwards)"
       ],
       "done_detail": {
         "West Mall": {
@@ -509,6 +509,10 @@
         "Plaza Singapura": {
           "by": "Rsathiyaselvi",
           "time": "17:24"
+        },
+        "Rivervale Mall": {
+          "by": "Nur Azimah",
+          "time": "17:26"
         }
       },
       "problems": [],
