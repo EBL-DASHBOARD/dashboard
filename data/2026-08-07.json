@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T08:21:28.653Z",
+  "generated": "2026-08-07T08:34:06.495Z",
   "groups": [
     {
       "id": "EBL6",
@@ -410,7 +410,7 @@
           "pm": []
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -424,7 +424,8 @@
         "Hillion Mall",
         "Dairy Farm Mall",
         "Punggol Coast Mall",
-        "Waterway Point"
+        "Waterway Point",
+        "Compass One"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -437,7 +438,6 @@
         "GENEO",
         "Margaret Market",
         "Vivo City (9am onwards)",
-        "Compass One",
         "Rivervale Mall"
       ],
       "done_detail": {
@@ -492,6 +492,10 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "15:32"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "16:34"
         }
       },
       "problems": [],
