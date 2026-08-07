@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T01:44:58.961Z",
+  "generated": "2026-08-07T01:45:32.318Z",
   "groups": [
     {
       "id": "EBL6",
@@ -298,10 +298,11 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "West Mall",
-        "Le Quest"
+        "Le Quest",
+        "ARTRA"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -321,7 +322,6 @@
         "63 Pagoda Street",
         "AltitudeX",
         "Vivo City (9am onwards)",
-        "ARTRA",
         "Marina Square"
       ],
       "done_detail": {
@@ -332,6 +332,10 @@
         "Le Quest": {
           "by": "Nur Azimah",
           "time": "09:42"
+        },
+        "ARTRA": {
+          "by": "SEENU.C",
+          "time": "09:45"
         }
       },
       "problems": [],
