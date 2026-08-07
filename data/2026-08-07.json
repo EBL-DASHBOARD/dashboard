@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T08:34:06.495Z",
+  "generated": "2026-08-07T08:47:03.513Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -158,7 +158,8 @@
         "PAL",
         "SSC2",
         "NEX",
-        "NTP"
+        "NTP",
+        "R4"
       ],
       "outlets_outstanding": [
         "TPM",
@@ -169,7 +170,6 @@
         "WIS",
         "KTB",
         "YS1",
-        "R4",
         "AP1",
         "R1",
         "AP2",
@@ -287,6 +287,10 @@
         "NTP": {
           "by": "Sasi",
           "time": "16:21"
+        },
+        "R4": {
+          "by": "Krishna",
+          "time": "16:47"
         }
       },
       "problems": [],
