@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T01:42:18.448Z",
+  "generated": "2026-08-07T01:44:58.961Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,12 +130,13 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "YTP",
         "CL2",
         "CCKS",
-        "JP"
+        "JP",
+        "ARC"
       ],
       "outlets_outstanding": [
         "BQ",
@@ -149,7 +150,6 @@
         "DV",
         "VIVO",
         "TIO",
-        "ARC",
         "ART",
         "KIT",
         "SHP",
@@ -171,6 +171,10 @@
         "JP": {
           "by": "Sasi",
           "time": "09:30"
+        },
+        "ARC": {
+          "by": "Krishna",
+          "time": "09:44"
         }
       },
       "problems": [],
