@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T02:38:44.535Z",
+  "generated": "2026-08-07T02:42:17.202Z",
   "groups": [
     {
       "id": "EBL6",
@@ -314,12 +314,13 @@
           "pm": []
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "West Mall",
         "Le Quest",
         "ARTRA",
-        "AltitudeX"
+        "AltitudeX",
+        "Parc Point"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -328,7 +329,6 @@
         "Institute of Mental Health",
         "Hillion Mall",
         "Dairy Farm Mall",
-        "Parc Point",
         "Junction 9",
         "Northpoint City",
         "Flavours @ NUS Uptown",
@@ -356,6 +356,10 @@
         "AltitudeX": {
           "by": "Rsathiyaselvi",
           "time": "10:35"
+        },
+        "Parc Point": {
+          "by": "Nur Azimah",
+          "time": "10:42"
         }
       },
       "problems": [],
