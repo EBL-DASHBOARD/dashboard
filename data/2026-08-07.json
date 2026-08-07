@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T08:03:05.640Z",
+  "generated": "2026-08-07T08:14:18.205Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -155,7 +155,8 @@
         "WNC",
         "CCP",
         "KNX",
-        "PAL"
+        "PAL",
+        "SSC2"
       ],
       "outlets_outstanding": [
         "TPM",
@@ -165,7 +166,6 @@
         "J9",
         "WIS",
         "KTB",
-        "SSC2",
         "YS1",
         "R4",
         "AP1",
@@ -275,6 +275,10 @@
         "PAL": {
           "by": "YAAKESH",
           "time": "16:03"
+        },
+        "SSC2": {
+          "by": "Samy Kumar Meena",
+          "time": "16:14"
         }
       },
       "problems": [],
