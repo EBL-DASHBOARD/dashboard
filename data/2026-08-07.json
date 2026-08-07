@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T11:55:13.975Z",
+  "generated": "2026-08-07T12:15:35.261Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 39,
+      "done": 40,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -170,14 +170,14 @@
         "KTB",
         "WWP",
         "R3",
-        "EPT"
+        "EPT",
+        "CM1"
       ],
       "outlets_outstanding": [
         "BHT",
         "BOB",
         "AP1",
-        "R1",
-        "CM1"
+        "R1"
       ],
       "done_detail": {
         "YTP": {
@@ -335,6 +335,10 @@
         "EPT": {
           "by": "YAAKESH",
           "time": "19:42"
+        },
+        "CM1": {
+          "by": "Sasi",
+          "time": "20:15"
         }
       },
       "problems": [],
