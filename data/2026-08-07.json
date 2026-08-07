@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T00:37:48.369Z",
+  "generated": "2026-08-07T00:45:25.259Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,9 +130,10 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "YTP"
+        "YTP",
+        "CL2"
       ],
       "outlets_outstanding": [
         "BQ",
@@ -145,7 +146,6 @@
         "HV2",
         "TRM",
         "DV",
-        "CL2",
         "VIVO",
         "TIO",
         "ARC",
@@ -159,6 +159,10 @@
         "YTP": {
           "by": "Samy Kumar Meena",
           "time": "08:37"
+        },
+        "CL2": {
+          "by": "Krishna",
+          "time": "08:45"
         }
       },
       "problems": [],
