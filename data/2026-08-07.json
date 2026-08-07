@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T07:44:00.790Z",
+  "generated": "2026-08-07T08:03:05.640Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 22,
+      "done": 24,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -153,13 +153,13 @@
         "KIT",
         "PS",
         "WNC",
-        "CCP"
+        "CCP",
+        "KNX",
+        "PAL"
       ],
       "outlets_outstanding": [
-        "KNX",
         "TPM",
         "EPT",
-        "PAL",
         "BHT",
         "BOB",
         "J9",
@@ -267,6 +267,14 @@
         "CCP": {
           "by": "Krishna",
           "time": "15:44"
+        },
+        "KNX": {
+          "by": "YAAKESH",
+          "time": "16:03"
+        },
+        "PAL": {
+          "by": "YAAKESH",
+          "time": "16:03"
         }
       },
       "problems": [],
