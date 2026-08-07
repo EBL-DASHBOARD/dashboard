@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T04:06:39.016Z",
+  "generated": "2026-08-07T04:12:41.899Z",
   "groups": [
     {
       "id": "EBL6",
@@ -366,7 +366,7 @@
           "pm": []
         }
       ],
-      "done": 7,
+      "done": 9,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -374,7 +374,9 @@
         "AltitudeX",
         "Parc Point",
         "Marina Square",
-        "63 Pagoda Street"
+        "63 Pagoda Street",
+        "UE Square",
+        "The Woodleigh Mall"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -388,8 +390,6 @@
         "Flavours @ NUS Uptown",
         "GENEO",
         "Margaret Market",
-        "UE Square",
-        "The Woodleigh Mall",
         "Vivo City (9am onwards)"
       ],
       "done_detail": {
@@ -420,6 +420,14 @@
         "63 Pagoda Street": {
           "by": "Rsathiyaselvi",
           "time": "11:23"
+        },
+        "UE Square": {
+          "by": "Rsathiyaselvi",
+          "time": "12:12"
+        },
+        "The Woodleigh Mall": {
+          "by": "Rsathiyaselvi",
+          "time": "12:12"
         }
       },
       "problems": [],
