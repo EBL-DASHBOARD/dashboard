@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-08-07T07:26:40.127Z",
+  "generated": "2026-08-07T07:32:40.479Z",
   "groups": [
     {
       "id": "EBL6",
@@ -386,7 +386,7 @@
           "pm": []
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "West Mall",
         "Le Quest",
@@ -399,7 +399,8 @@
         "The Woodleigh Mall",
         "Hillion Mall",
         "Dairy Farm Mall",
-        "Punggol Coast Mall"
+        "Punggol Coast Mall",
+        "Waterway Point"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -413,7 +414,6 @@
         "Margaret Market",
         "Vivo City (9am onwards)",
         "Compass One",
-        "Waterway Point",
         "Rivervale Mall"
       ],
       "done_detail": {
@@ -464,6 +464,10 @@
         "Punggol Coast Mall": {
           "by": "Nur Azimah",
           "time": "14:38"
+        },
+        "Waterway Point": {
+          "by": "Nur Azimah",
+          "time": "15:32"
         }
       },
       "problems": [],
