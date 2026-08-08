@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T02:51:29.539Z",
+  "generated": "2026-08-08T02:58:46.773Z",
   "groups": [
     {
       "id": "XH",
@@ -285,7 +285,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -299,7 +299,8 @@
         "SHP",
         "KIT",
         "BNV",
-        "BQ"
+        "BQ",
+        "WSM"
       ],
       "outlets_outstanding": [
         "BS",
@@ -314,8 +315,7 @@
         "VIVO",
         "JKN",
         "IM",
-        "TGCC",
-        "WSM"
+        "TGCC"
       ],
       "done_detail": {
         "YTP": {
@@ -369,6 +369,10 @@
         "BQ": {
           "by": "YAAKESH",
           "time": "10:51"
+        },
+        "WSM": {
+          "by": "kannan",
+          "time": "10:58"
         }
       },
       "problems": [],
