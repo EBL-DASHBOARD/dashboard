@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T02:12:09.629Z",
+  "generated": "2026-08-08T02:29:12.286Z",
   "groups": [
     {
       "id": "XH",
@@ -285,7 +285,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -293,7 +293,8 @@
         "KRC",
         "DV",
         "CCKS",
-        "KH"
+        "KH",
+        "JP"
       ],
       "outlets_outstanding": [
         "BS",
@@ -313,7 +314,6 @@
         "VIVO",
         "JKN",
         "IM",
-        "JP",
         "TGCC",
         "WSM"
       ],
@@ -345,6 +345,10 @@
         "KH": {
           "by": "Samy Kumar Meena",
           "time": "10:12"
+        },
+        "JP": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "10:29"
         }
       },
       "problems": [],
