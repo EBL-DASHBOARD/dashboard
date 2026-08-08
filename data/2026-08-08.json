@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T09:13:06.200Z",
+  "generated": "2026-08-08T09:13:18.047Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 44,
+      "done": 45,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -342,7 +342,8 @@
         "CKCC",
         "ACV",
         "AP4",
-        "WIS"
+        "WIS",
+        "J9"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -356,7 +357,6 @@
         "KTB",
         "MARS",
         "SSC2",
-        "J9",
         "R1",
         "R3",
         "AP2",
@@ -538,6 +538,10 @@
           "time": "17:10"
         },
         "WIS": {
+          "by": "```Muthukumar```",
+          "time": "17:13"
+        },
+        "J9": {
           "by": "```Muthukumar```",
           "time": "17:13"
         }
