@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-09",
+  "generated": "2026-08-08T14:54:35.403Z",
+  "groups": [
+    {
+      "id": "XHNIGHT",
+      "name": "Xh Delivery (Night)",
+      "total_locations": 9,
+      "am_total": 6,
+      "pm_total": 3,
+      "am_outlets": [
+        "Jewel",
+        "Changi T1 Transit",
+        "Changi City Point",
+        "Hougang 1",
+        "Parkway Parade",
+        "Chinatown Point"
+      ],
+      "pm_outlets": [
+        "Coronation Shopping Plaza",
+        "Westgate",
+        "NTU South Spine"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Jewel",
+            "Changi T1 Transit"
+          ],
+          "pm": []
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "Changi City Point",
+            "Hougang 1",
+            "Parkway Parade",
+            "Chinatown Point"
+          ],
+          "pm": [
+            "Coronation Shopping Plaza",
+            "Westgate",
+            "NTU South Spine"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Jewel",
+        "Changi T1 Transit",
+        "Changi City Point",
+        "Hougang 1",
+        "Parkway Parade",
+        "Chinatown Point"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
