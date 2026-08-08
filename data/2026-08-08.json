@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T12:14:41.534Z",
+  "generated": "2026-08-08T12:14:46.008Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 59,
+      "done": 60,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -357,10 +357,10 @@
         "WWP",
         "PDD",
         "HRC",
-        "EPT"
+        "EPT",
+        "CCP"
       ],
       "outlets_outstanding": [
-        "CCP",
         "KTB",
         "R3"
       ],
@@ -598,6 +598,10 @@
           "time": "19:51"
         },
         "EPT": {
+          "by": "Sudhakar",
+          "time": "20:14"
+        },
+        "CCP": {
           "by": "Sudhakar",
           "time": "20:14"
         }
