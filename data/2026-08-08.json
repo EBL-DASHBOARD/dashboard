@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T07:36:46.281Z",
+  "generated": "2026-08-08T07:50:11.025Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 32,
+      "done": 33,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -330,7 +330,8 @@
         "LTM",
         "NTP",
         "WLCC",
-        "FEN"
+        "FEN",
+        "TNC2"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -355,7 +356,6 @@
         "R3",
         "AP4",
         "AP2",
-        "TNC2",
         "CKCC",
         "PAL",
         "YS1",
@@ -492,6 +492,10 @@
         "FEN": {
           "by": "Sasi",
           "time": "15:36"
+        },
+        "TNC2": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "15:50"
         }
       },
       "problems": [],
