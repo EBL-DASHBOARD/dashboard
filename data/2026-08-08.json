@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T08:36:42.002Z",
+  "generated": "2026-08-08T08:36:50.435Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 37,
+      "done": 38,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -335,7 +335,8 @@
         "KEB",
         "R4",
         "VIVA",
-        "NEX"
+        "NEX",
+        "GMM"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -361,8 +362,7 @@
         "CKCC",
         "PAL",
         "YS1",
-        "HRC",
-        "GMM"
+        "HRC"
       ],
       "done_detail": {
         "YTP": {
@@ -510,6 +510,10 @@
           "time": "16:34"
         },
         "NEX": {
+          "by": "Siva",
+          "time": "16:36"
+        },
+        "GMM": {
           "by": "Siva",
           "time": "16:36"
         }
