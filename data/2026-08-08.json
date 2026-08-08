@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T03:30:41.399Z",
+  "generated": "2026-08-08T03:50:26.683Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 18,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -314,14 +314,14 @@
         "BQ",
         "WSM",
         "BPP",
-        "IM"
+        "IM",
+        "HV2",
+        "TRM"
       ],
       "outlets_outstanding": [
         "BS",
         "STC",
         "CT",
-        "HV2",
-        "TRM",
         "KLP",
         "TIO",
         "ARC",
@@ -393,6 +393,14 @@
         "IM": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "11:01"
+        },
+        "HV2": {
+          "by": "Samy Kumar Meena",
+          "time": "11:50"
+        },
+        "TRM": {
+          "by": "Samy Kumar Meena",
+          "time": "11:50"
         }
       },
       "problems": [],
