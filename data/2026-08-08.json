@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T03:26:49.555Z",
+  "generated": "2026-08-08T03:30:41.399Z",
   "groups": [
     {
       "id": "XH",
@@ -71,11 +71,12 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "Punggol Plaza",
         "Pasir Ris Mall",
-        "White Sands"
+        "White Sands",
+        "Compass One"
       ],
       "outlets_outstanding": [
         "Junction 8",
@@ -83,7 +84,6 @@
         "Citygate",
         "Suntec City",
         "Hillion Mall",
-        "Compass One",
         "Rivervale Plaza"
       ],
       "done_detail": {
@@ -98,6 +98,10 @@
         "White Sands": {
           "by": "boss",
           "time": "11:26"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "11:30"
         }
       },
       "problems": [],
