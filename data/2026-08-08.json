@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T01:10:52.210Z",
+  "generated": "2026-08-08T01:12:31.863Z",
   "groups": [
     {
       "id": "XH",
@@ -71,8 +71,10 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "Punggol Plaza"
+      ],
       "outlets_outstanding": [
         "Pasir Ris Mall",
         "White Sands",
@@ -82,10 +84,14 @@
         "Suntec City",
         "Hillion Mall",
         "Compass One",
-        "Punggol Plaza",
         "Rivervale Plaza"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "Punggol Plaza": {
+          "by": "Nur Azimah",
+          "time": "09:12"
+        }
+      },
       "problems": [],
       "customers": null
     },
