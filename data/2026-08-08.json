@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T02:45:58.693Z",
+  "generated": "2026-08-08T02:51:29.539Z",
   "groups": [
     {
       "id": "XH",
@@ -285,7 +285,7 @@
           ]
         }
       ],
-      "done": 11,
+      "done": 13,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -297,14 +297,14 @@
         "JP",
         "CL2",
         "SHP",
-        "KIT"
+        "KIT",
+        "BNV",
+        "BQ"
       ],
       "outlets_outstanding": [
         "BS",
         "STC",
-        "BNV",
         "CT",
-        "BQ",
         "BPP",
         "HV2",
         "TRM",
@@ -361,6 +361,14 @@
         "KIT": {
           "by": "Sasi",
           "time": "10:45"
+        },
+        "BNV": {
+          "by": "YAAKESH",
+          "time": "10:51"
+        },
+        "BQ": {
+          "by": "YAAKESH",
+          "time": "10:51"
         }
       },
       "problems": [],
