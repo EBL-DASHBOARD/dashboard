@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T06:12:10.952Z",
+  "generated": "2026-08-08T07:18:22.196Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -325,7 +325,8 @@
         "CT",
         "BS",
         "VIVO",
-        "STC"
+        "STC",
+        "BOB"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -335,7 +336,6 @@
         "KNX",
         "PECC",
         "VIVA",
-        "BOB",
         "AP1",
         "FEN",
         "PDD",
@@ -472,6 +472,10 @@
         "STC": {
           "by": "YAAKESH",
           "time": "14:12"
+        },
+        "BOB": {
+          "by": "Samy Kumar Meena",
+          "time": "15:18"
         }
       },
       "problems": [],
