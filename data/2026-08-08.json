@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T08:34:12.103Z",
+  "generated": "2026-08-08T08:36:42.002Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 36,
+      "done": 37,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -334,7 +334,8 @@
         "TNC2",
         "KEB",
         "R4",
-        "VIVA"
+        "VIVA",
+        "NEX"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -361,7 +362,6 @@
         "PAL",
         "YS1",
         "HRC",
-        "NEX",
         "GMM"
       ],
       "done_detail": {
@@ -508,6 +508,10 @@
         "VIVA": {
           "by": "Samy Kumar Meena",
           "time": "16:34"
+        },
+        "NEX": {
+          "by": "Siva",
+          "time": "16:36"
         }
       },
       "problems": [],
