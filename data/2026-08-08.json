@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T07:18:22.196Z",
+  "generated": "2026-08-08T07:24:02.118Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -326,7 +326,8 @@
         "BS",
         "VIVO",
         "STC",
-        "BOB"
+        "BOB",
+        "LTM"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -359,7 +360,6 @@
         "WLCC",
         "HRC",
         "KEB",
-        "LTM",
         "NTP",
         "NEX",
         "GMM"
@@ -476,6 +476,10 @@
         "BOB": {
           "by": "Samy Kumar Meena",
           "time": "15:18"
+        },
+        "LTM": {
+          "by": "Siva",
+          "time": "15:24"
         }
       },
       "problems": [],
