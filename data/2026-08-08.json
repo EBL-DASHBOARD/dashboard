@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T08:56:58.825Z",
+  "generated": "2026-08-08T08:59:06.240Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 41,
+      "done": 42,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -339,7 +339,8 @@
         "GMM",
         "KNX",
         "LOY",
-        "CKCC"
+        "CKCC",
+        "ACV"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -350,7 +351,6 @@
         "PDD",
         "WWP",
         "CM1",
-        "ACV",
         "KTB",
         "MARS",
         "SSC2",
@@ -528,6 +528,10 @@
         "CKCC": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "16:56"
+        },
+        "ACV": {
+          "by": "Sasi",
+          "time": "16:59"
         }
       },
       "problems": [],
