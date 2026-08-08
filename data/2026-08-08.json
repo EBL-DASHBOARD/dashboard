@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T10:38:11.292Z",
+  "generated": "2026-08-08T10:47:55.175Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 51,
+      "done": 53,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -349,7 +349,9 @@
         "PAL",
         "PECC",
         "TPM",
-        "R1"
+        "R1",
+        "SSC2",
+        "MARS"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -357,8 +359,6 @@
         "PDD",
         "WWP",
         "KTB",
-        "MARS",
-        "SSC2",
         "R3",
         "AP2",
         "YS1",
@@ -568,6 +568,14 @@
         "R1": {
           "by": "Krishna",
           "time": "18:38"
+        },
+        "SSC2": {
+          "by": "```Muthukumar```",
+          "time": "18:47"
+        },
+        "MARS": {
+          "by": "```Muthukumar```",
+          "time": "18:47"
         }
       },
       "problems": [],
