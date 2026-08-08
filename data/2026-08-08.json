@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T07:24:07.624Z",
+  "generated": "2026-08-08T07:31:24.223Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 31,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -328,7 +328,8 @@
         "STC",
         "BOB",
         "LTM",
-        "NTP"
+        "NTP",
+        "WLCC"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -358,7 +359,6 @@
         "CKCC",
         "PAL",
         "YS1",
-        "WLCC",
         "HRC",
         "KEB",
         "NEX",
@@ -484,6 +484,10 @@
         "NTP": {
           "by": "Siva",
           "time": "15:24"
+        },
+        "WLCC": {
+          "by": "kannan",
+          "time": "15:31"
         }
       },
       "problems": [],
