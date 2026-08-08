@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T05:38:35.016Z",
+  "generated": "2026-08-08T06:12:10.952Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -324,10 +324,10 @@
         "TGCC",
         "CT",
         "BS",
-        "VIVO"
+        "VIVO",
+        "STC"
       ],
       "outlets_outstanding": [
-        "STC",
         "LOY",
         "EPT",
         "CCP",
@@ -468,6 +468,10 @@
         "VIVO": {
           "by": "Krishna",
           "time": "13:38"
+        },
+        "STC": {
+          "by": "YAAKESH",
+          "time": "14:12"
         }
       },
       "problems": [],
