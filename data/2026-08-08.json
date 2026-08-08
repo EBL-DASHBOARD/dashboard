@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T04:00:00.013Z",
+  "generated": "2026-08-08T04:00:22.915Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 20,
+      "done": 22,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -318,14 +318,14 @@
         "HV2",
         "TRM",
         "JKN",
-        "KLP"
+        "KLP",
+        "ARC",
+        "TIO"
       ],
       "outlets_outstanding": [
         "BS",
         "STC",
         "CT",
-        "TIO",
-        "ARC",
         "VIVO",
         "TGCC",
         "LOY",
@@ -444,6 +444,14 @@
         "KLP": {
           "by": "Sasi",
           "time": "11:50"
+        },
+        "ARC": {
+          "by": "Krishna",
+          "time": "12:00"
+        },
+        "TIO": {
+          "by": "Krishna",
+          "time": "12:00"
         }
       },
       "problems": [],
