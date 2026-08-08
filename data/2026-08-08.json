@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T01:45:08.649Z",
+  "generated": "2026-08-08T01:53:55.189Z",
   "groups": [
     {
       "id": "XH",
@@ -285,12 +285,13 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "YTP",
         "WXI",
         "TY",
-        "KRC"
+        "KRC",
+        "DV"
       ],
       "outlets_outstanding": [
         "BS",
@@ -314,8 +315,7 @@
         "IM",
         "JP",
         "TGCC",
-        "WSM",
-        "DV"
+        "WSM"
       ],
       "done_detail": {
         "YTP": {
@@ -333,6 +333,10 @@
         "KRC": {
           "by": "Krishna",
           "time": "09:45"
+        },
+        "DV": {
+          "by": "kannan",
+          "time": "09:53"
         }
       },
       "problems": [],
