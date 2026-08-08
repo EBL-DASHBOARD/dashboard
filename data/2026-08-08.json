@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T12:14:46.008Z",
+  "generated": "2026-08-08T12:25:23.532Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 60,
+      "done": 61,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -358,10 +358,10 @@
         "PDD",
         "HRC",
         "EPT",
-        "CCP"
+        "CCP",
+        "KTB"
       ],
       "outlets_outstanding": [
-        "KTB",
         "R3"
       ],
       "done_detail": {
@@ -604,6 +604,10 @@
         "CCP": {
           "by": "Sudhakar",
           "time": "20:14"
+        },
+        "KTB": {
+          "by": "```Muthukumar```",
+          "time": "20:25"
         }
       },
       "problems": [],
