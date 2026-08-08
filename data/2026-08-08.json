@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T10:37:41.411Z",
+  "generated": "2026-08-08T10:37:44.890Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 49,
+      "done": 50,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -347,12 +347,12 @@
         "CM1",
         "AP1",
         "PAL",
-        "PECC"
+        "PECC",
+        "TPM"
       ],
       "outlets_outstanding": [
         "EPT",
         "CCP",
-        "TPM",
         "PDD",
         "WWP",
         "KTB",
@@ -558,6 +558,10 @@
           "time": "18:35"
         },
         "PECC": {
+          "by": "Sudhakar",
+          "time": "18:37"
+        },
+        "TPM": {
           "by": "Sudhakar",
           "time": "18:37"
         }
