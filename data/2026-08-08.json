@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T07:24:02.118Z",
+  "generated": "2026-08-08T07:24:07.624Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -327,7 +327,8 @@
         "VIVO",
         "STC",
         "BOB",
-        "LTM"
+        "LTM",
+        "NTP"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -360,7 +361,6 @@
         "WLCC",
         "HRC",
         "KEB",
-        "NTP",
         "NEX",
         "GMM"
       ],
@@ -478,6 +478,10 @@
           "time": "15:18"
         },
         "LTM": {
+          "by": "Siva",
+          "time": "15:24"
+        },
+        "NTP": {
           "by": "Siva",
           "time": "15:24"
         }
