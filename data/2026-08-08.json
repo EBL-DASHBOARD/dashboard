@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T07:31:24.223Z",
+  "generated": "2026-08-08T07:36:46.281Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 31,
+      "done": 32,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -329,7 +329,8 @@
         "BOB",
         "LTM",
         "NTP",
-        "WLCC"
+        "WLCC",
+        "FEN"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -340,7 +341,6 @@
         "PECC",
         "VIVA",
         "AP1",
-        "FEN",
         "PDD",
         "WWP",
         "CM1",
@@ -488,6 +488,10 @@
         "WLCC": {
           "by": "kannan",
           "time": "15:31"
+        },
+        "FEN": {
+          "by": "Sasi",
+          "time": "15:36"
         }
       },
       "problems": [],
