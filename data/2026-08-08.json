@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T02:29:12.286Z",
+  "generated": "2026-08-08T02:30:36.477Z",
   "groups": [
     {
       "id": "XH",
@@ -285,7 +285,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -294,7 +294,8 @@
         "DV",
         "CCKS",
         "KH",
-        "JP"
+        "JP",
+        "CL2"
       ],
       "outlets_outstanding": [
         "BS",
@@ -308,7 +309,6 @@
         "SHP",
         "KLP",
         "KIT",
-        "CL2",
         "TIO",
         "ARC",
         "VIVO",
@@ -349,6 +349,10 @@
         "JP": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "10:29"
+        },
+        "CL2": {
+          "by": "Krishna",
+          "time": "10:30"
         }
       },
       "problems": [],
