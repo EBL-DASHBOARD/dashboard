@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-08-08T08:56:04.194Z",
+  "generated": "2026-08-08T08:56:58.825Z",
   "groups": [
     {
       "id": "XH",
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "done": 40,
+      "done": 41,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -338,7 +338,8 @@
         "NEX",
         "GMM",
         "KNX",
-        "LOY"
+        "LOY",
+        "CKCC"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -359,7 +360,6 @@
         "R3",
         "AP4",
         "AP2",
-        "CKCC",
         "PAL",
         "YS1",
         "HRC"
@@ -523,6 +523,10 @@
         },
         "LOY": {
           "by": "YAAKESH",
+          "time": "16:56"
+        },
+        "CKCC": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "16:56"
         }
       },
