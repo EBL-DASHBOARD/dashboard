@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-10T08:20:12.601Z",
+  "generated": "2026-08-10T08:21:34.952Z",
   "groups": [
     {
       "id": "XH",
@@ -242,6 +242,85 @@
           "time": "16:20"
         }
       },
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "XHNIGHT",
+      "name": "Xh Delivery (Night)",
+      "total_locations": 15,
+      "am_total": 10,
+      "pm_total": 5,
+      "am_outlets": [
+        "Citylink",
+        "One Raffles Link",
+        "One Raffles Place Tower 2",
+        "Tangs Plaza Kiosk 2",
+        "Royal Group Building",
+        "ESR BizPark @ Changi",
+        "PLQ Tower 1",
+        "Aperia Mall",
+        "Lazada One",
+        "Marina One"
+      ],
+      "pm_outlets": [
+        "The Strategy",
+        "Collyer Quay",
+        "9 Penang Road",
+        "NUH Medical Centre",
+        "77 Robinson"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Citylink",
+            "One Raffles Link",
+            "One Raffles Place Tower 2",
+            "Tangs Plaza Kiosk 2",
+            "Royal Group Building"
+          ],
+          "pm": [
+            "The Strategy",
+            "Collyer Quay",
+            "9 Penang Road",
+            "NUH Medical Centre",
+            "77 Robinson"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "ESR BizPark @ Changi",
+            "PLQ Tower 1",
+            "Aperia Mall"
+          ],
+          "pm": []
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Lazada One",
+            "Marina One"
+          ],
+          "pm": []
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Citylink",
+        "One Raffles Link",
+        "One Raffles Place Tower 2",
+        "Tangs Plaza Kiosk 2",
+        "Royal Group Building",
+        "ESR BizPark @ Changi",
+        "PLQ Tower 1",
+        "Aperia Mall",
+        "Lazada One",
+        "Marina One"
+      ],
+      "done_detail": {},
       "problems": [],
       "customers": null
     }
