@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-10T03:45:14.575Z",
+  "generated": "2026-08-10T04:01:37.497Z",
   "groups": [
     {
       "id": "XH",
@@ -132,7 +132,7 @@
           "pm": []
         }
       ],
-      "done": 8,
+      "done": 10,
       "outlets_done": [
         "Hougang Mall",
         "West Mall",
@@ -141,7 +141,9 @@
         "Le Quest",
         "Northpoint City",
         "Woods Square",
-        "63 Pagoda Street"
+        "63 Pagoda Street",
+        "Hillion Mall",
+        "Parc Point"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -153,8 +155,6 @@
         "Century Square",
         "Tampines 1",
         "Dairy Farm Mall",
-        "Hillion Mall",
-        "Parc Point",
         "AltitudeX",
         "GENEO",
         "ARTRA",
@@ -197,6 +197,14 @@
         "63 Pagoda Street": {
           "by": "TR",
           "time": "11:45"
+        },
+        "Hillion Mall": {
+          "by": "~ Mahadeb ~",
+          "time": "12:01"
+        },
+        "Parc Point": {
+          "by": "~ Mahadeb ~",
+          "time": "12:01"
         }
       },
       "problems": [],
