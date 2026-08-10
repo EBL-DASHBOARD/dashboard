@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-08-10T08:50:14.821Z",
+  "generated": "2026-08-10T08:50:21.926Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -228,7 +228,7 @@
           ]
         }
       ],
-      "done": 36,
+      "done": 37,
       "outlets_done": [
         "CL2",
         "CCKS",
@@ -265,7 +265,8 @@
         "AP4",
         "BHT",
         "VIVA",
-        "NEX"
+        "NEX",
+        "HRC"
       ],
       "outlets_outstanding": [
         "TPM",
@@ -283,7 +284,6 @@
         "BOB",
         "CM1",
         "WWP",
-        "HRC",
         "ACV"
       ],
       "done_detail": {
@@ -428,6 +428,10 @@
           "time": "16:41"
         },
         "NEX": {
+          "by": "😈AJITH😈",
+          "time": "16:50"
+        },
+        "HRC": {
           "by": "😈AJITH😈",
           "time": "16:50"
         }
