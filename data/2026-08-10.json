@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-10T01:16:50.490Z",
+  "generated": "2026-08-10T01:25:50.260Z",
   "groups": [
     {
       "id": "XH",
@@ -132,10 +132,11 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "Hougang Mall",
-        "West Mall"
+        "West Mall",
+        "Vivocity"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -153,7 +154,6 @@
         "Junction 9",
         "Northpoint City",
         "Woods Square",
-        "Vivocity",
         "AltitudeX",
         "GENEO",
         "ARTRA",
@@ -169,6 +169,10 @@
         "West Mall": {
           "by": "~ Mahadeb ~",
           "time": "09:16"
+        },
+        "Vivocity": {
+          "by": "palanivelumuthukumar",
+          "time": "09:25"
         }
       },
       "problems": [],
