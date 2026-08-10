@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-08-10T00:41:55.911Z",
+  "generated": "2026-08-10T01:05:44.007Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -228,14 +228,14 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "CL2",
-        "CCKS"
+        "CCKS",
+        "KRC"
       ],
       "outlets_outstanding": [
         "CT",
-        "KRC",
         "BQ",
         "BNV",
         "PS",
@@ -294,6 +294,10 @@
         "CCKS": {
           "by": "Samy Kumar Meena",
           "time": "08:41"
+        },
+        "KRC": {
+          "by": "```Muthukumar```",
+          "time": "09:05"
         }
       },
       "problems": [],
