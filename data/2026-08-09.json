@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-08-10T10:52:32.105Z",
+  "generated": "2026-08-10T11:54:42.202Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -228,7 +228,7 @@
           ]
         }
       ],
-      "done": 52,
+      "done": 53,
       "outlets_done": [
         "CL2",
         "CCKS",
@@ -281,11 +281,10 @@
         "WWP",
         "TNC2",
         "AP1",
-        "AP2"
-      ],
-      "outlets_outstanding": [
+        "AP2",
         "R3"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "CL2": {
           "by": "Krishna",
@@ -494,6 +493,10 @@
         "AP2": {
           "by": "Krishna",
           "time": "18:52"
+        },
+        "R3": {
+          "by": "Krishna",
+          "time": "19:54"
         }
       },
       "problems": [],
