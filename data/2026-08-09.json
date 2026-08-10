@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-08-10T06:50:56.474Z",
+  "generated": "2026-08-10T06:51:16.069Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -228,7 +228,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "CL2",
         "CCKS",
@@ -253,7 +253,8 @@
         "JP",
         "IM",
         "PS",
-        "NTP"
+        "NTP",
+        "GMM"
       ],
       "outlets_outstanding": [
         "KNX",
@@ -279,7 +280,6 @@
         "BOB",
         "BHT",
         "VIVA",
-        "GMM",
         "CM1",
         "WWP",
         "NEX",
@@ -382,6 +382,10 @@
         "NTP": {
           "by": "Siva",
           "time": "14:50"
+        },
+        "GMM": {
+          "by": "Siva",
+          "time": "14:51"
         }
       },
       "problems": [],
