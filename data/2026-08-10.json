@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-10T08:55:29.875Z",
+  "generated": "2026-08-10T08:56:17.235Z",
   "groups": [
     {
       "id": "XH",
@@ -132,7 +132,7 @@
           "pm": []
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "Hougang Mall",
         "West Mall",
@@ -153,7 +153,8 @@
         "SingPost Centre",
         "Flavours @ NUS Uptown",
         "Causeway Point",
-        "JEM"
+        "JEM",
+        "Compass One"
       ],
       "outlets_outstanding": [
         "Zhongshan Mall",
@@ -165,7 +166,6 @@
         "Lucky Plaza",
         "Ngee Ann City (Same store luc",
         "Fairprice Hub",
-        "Compass One",
         "Rivervale Mall"
       ],
       "done_detail": {
@@ -248,6 +248,10 @@
         "JEM": {
           "by": "ratharun",
           "time": "16:55"
+        },
+        "Compass One": {
+          "by": "~ Mahadeb ~",
+          "time": "16:56"
         }
       },
       "problems": [],
