@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-10T04:03:30.240Z",
+  "generated": "2026-08-10T04:41:05.105Z",
   "groups": [
     {
       "id": "XH",
@@ -132,7 +132,7 @@
           "pm": []
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "Hougang Mall",
         "West Mall",
@@ -145,7 +145,8 @@
         "Hillion Mall",
         "Parc Point",
         "Tanah Merah Ferry Terminal",
-        "The Woodleigh Mall"
+        "The Woodleigh Mall",
+        "Dairy Farm Mall"
       ],
       "outlets_outstanding": [
         "Zhongshan Mall",
@@ -154,7 +155,6 @@
         "Tampines Mart",
         "Century Square",
         "Tampines 1",
-        "Dairy Farm Mall",
         "AltitudeX",
         "GENEO",
         "ARTRA",
@@ -163,7 +163,10 @@
         "SingPost Centre",
         "Flavours @ NUS Uptown",
         "JEM",
-        "Fairprice Hub"
+        "Fairprice Hub",
+        "Compass One",
+        "Rivervale Mall",
+        "Causeway Point"
       ],
       "done_detail": {
         "Hougang Mall": {
@@ -213,6 +216,10 @@
         "The Woodleigh Mall": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "12:03"
+        },
+        "Dairy Farm Mall": {
+          "by": "~ Mahadeb ~",
+          "time": "12:41"
         }
       },
       "problems": [],
