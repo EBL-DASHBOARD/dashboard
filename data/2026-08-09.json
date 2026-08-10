@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-08-10T07:20:34.866Z",
+  "generated": "2026-08-10T07:57:39.840Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -228,7 +228,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 30,
       "outlets_done": [
         "CL2",
         "CCKS",
@@ -257,16 +257,16 @@
         "GMM",
         "PAL",
         "KEB",
-        "KNX"
+        "KNX",
+        "EPT",
+        "CCP"
       ],
       "outlets_outstanding": [
         "TPM",
         "CKCC",
         "TNC2",
-        "CCP",
         "AP1",
         "PECC",
-        "EPT",
         "LOY",
         "KTB",
         "YS1",
@@ -398,6 +398,14 @@
         "KNX": {
           "by": "```Muthukumar```",
           "time": "15:20"
+        },
+        "EPT": {
+          "by": "Samy Kumar Meena",
+          "time": "15:57"
+        },
+        "CCP": {
+          "by": "Samy Kumar Meena",
+          "time": "15:57"
         }
       },
       "problems": [],
