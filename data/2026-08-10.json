@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-09T22:00:00.870Z",
+  "generated": "2026-08-10T01:15:20.860Z",
   "groups": [
     {
       "id": "XH",
@@ -132,8 +132,10 @@
           "pm": []
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "Hougang Mall"
+      ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "Zhongshan Mall",
@@ -148,7 +150,6 @@
         "Le Quest",
         "West Mall",
         "Parc Point",
-        "Hougang Mall",
         "Junction 9",
         "Northpoint City",
         "Woods Square",
@@ -160,7 +161,12 @@
         "63 Pagoda Street",
         "Ngee Ann City (Same store luc"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "Hougang Mall": {
+          "by": "ratharun",
+          "time": "09:15"
+        }
+      },
       "problems": [],
       "customers": null
     }
