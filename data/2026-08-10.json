@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-10T08:21:34.952Z",
+  "generated": "2026-08-10T08:24:19.636Z",
   "groups": [
     {
       "id": "XH",
@@ -132,7 +132,7 @@
           "pm": []
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "Hougang Mall",
         "West Mall",
@@ -151,7 +151,8 @@
         "GENEO",
         "ARTRA",
         "SingPost Centre",
-        "Flavours @ NUS Uptown"
+        "Flavours @ NUS Uptown",
+        "Causeway Point"
       ],
       "outlets_outstanding": [
         "Zhongshan Mall",
@@ -165,8 +166,7 @@
         "JEM",
         "Fairprice Hub",
         "Compass One",
-        "Rivervale Mall",
-        "Causeway Point"
+        "Rivervale Mall"
       ],
       "done_detail": {
         "Hougang Mall": {
@@ -240,6 +240,10 @@
         "Flavours @ NUS Uptown": {
           "by": "ratharun",
           "time": "16:20"
+        },
+        "Causeway Point": {
+          "by": "~ Mahadeb ~",
+          "time": "16:24"
         }
       },
       "problems": [],
