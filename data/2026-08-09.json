@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-08-10T10:32:00.471Z",
+  "generated": "2026-08-10T10:32:26.342Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -228,7 +228,7 @@
           ]
         }
       ],
-      "done": 47,
+      "done": 48,
       "outlets_done": [
         "CL2",
         "CCKS",
@@ -276,15 +276,15 @@
         "YS1",
         "BOB",
         "R1",
-        "MARS"
+        "MARS",
+        "ACV"
       ],
       "outlets_outstanding": [
         "TNC2",
         "AP1",
         "AP2",
         "R3",
-        "WWP",
-        "ACV"
+        "WWP"
       ],
       "done_detail": {
         "CL2": {
@@ -473,6 +473,10 @@
         },
         "MARS": {
           "by": "Sasi",
+          "time": "18:32"
+        },
+        "ACV": {
+          "by": "😈AJITH😈",
           "time": "18:32"
         }
       },
