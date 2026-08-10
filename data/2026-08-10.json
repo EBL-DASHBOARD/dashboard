@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-10T04:01:37.497Z",
+  "generated": "2026-08-10T04:03:30.240Z",
   "groups": [
     {
       "id": "XH",
@@ -132,7 +132,7 @@
           "pm": []
         }
       ],
-      "done": 10,
+      "done": 12,
       "outlets_done": [
         "Hougang Mall",
         "West Mall",
@@ -143,12 +143,12 @@
         "Woods Square",
         "63 Pagoda Street",
         "Hillion Mall",
-        "Parc Point"
+        "Parc Point",
+        "Tanah Merah Ferry Terminal",
+        "The Woodleigh Mall"
       ],
       "outlets_outstanding": [
-        "Tanah Merah Ferry Terminal",
         "Zhongshan Mall",
-        "The Woodleigh Mall",
         "United Square",
         "UE Square",
         "Tampines Mart",
@@ -205,6 +205,14 @@
         "Parc Point": {
           "by": "~ Mahadeb ~",
           "time": "12:01"
+        },
+        "Tanah Merah Ferry Terminal": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "12:03"
+        },
+        "The Woodleigh Mall": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "12:03"
         }
       },
       "problems": [],
