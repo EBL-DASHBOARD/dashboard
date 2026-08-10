@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-08-10T03:07:33.351Z",
+  "generated": "2026-08-10T04:04:17.018Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -228,7 +228,7 @@
           ]
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "CL2",
         "CCKS",
@@ -246,10 +246,10 @@
         "TRM",
         "BQ",
         "KIT",
-        "KLP"
+        "KLP",
+        "CT"
       ],
       "outlets_outstanding": [
-        "CT",
         "PS",
         "TIO",
         "VIVO",
@@ -354,6 +354,10 @@
         "KLP": {
           "by": "Sasi",
           "time": "11:07"
+        },
+        "CT": {
+          "by": "```Muthukumar```",
+          "time": "12:04"
         }
       },
       "problems": [],
