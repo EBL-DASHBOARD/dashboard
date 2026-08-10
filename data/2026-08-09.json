@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-08-10T09:30:49.392Z",
+  "generated": "2026-08-10T09:42:47.452Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -228,7 +228,7 @@
           ]
         }
       ],
-      "done": 44,
+      "done": 45,
       "outlets_done": [
         "CL2",
         "CCKS",
@@ -273,7 +273,8 @@
         "LOY",
         "PECC",
         "WIS",
-        "YS1"
+        "YS1",
+        "BOB"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -282,7 +283,6 @@
         "AP2",
         "R3",
         "R1",
-        "BOB",
         "WWP",
         "ACV"
       ],
@@ -462,6 +462,10 @@
         "YS1": {
           "by": "Sasi",
           "time": "17:30"
+        },
+        "BOB": {
+          "by": "Siva",
+          "time": "17:42"
         }
       },
       "problems": [],
