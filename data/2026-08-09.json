@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-08-10T07:07:39.855Z",
+  "generated": "2026-08-10T07:20:34.866Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -228,7 +228,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "CL2",
         "CCKS",
@@ -256,10 +256,10 @@
         "NTP",
         "GMM",
         "PAL",
-        "KEB"
+        "KEB",
+        "KNX"
       ],
       "outlets_outstanding": [
-        "KNX",
         "TPM",
         "CKCC",
         "TNC2",
@@ -394,6 +394,10 @@
         "KEB": {
           "by": "Sasi",
           "time": "15:07"
+        },
+        "KNX": {
+          "by": "```Muthukumar```",
+          "time": "15:20"
         }
       },
       "problems": [],
