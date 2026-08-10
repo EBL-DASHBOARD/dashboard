@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-08-10T08:56:51.332Z",
+  "generated": "2026-08-10T09:21:47.943Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -228,7 +228,7 @@
           ]
         }
       ],
-      "done": 40,
+      "done": 42,
       "outlets_done": [
         "CL2",
         "CCKS",
@@ -269,13 +269,13 @@
         "HRC",
         "CM1",
         "CKCC",
-        "TPM"
+        "TPM",
+        "LOY",
+        "PECC"
       ],
       "outlets_outstanding": [
         "TNC2",
         "AP1",
-        "PECC",
-        "LOY",
         "YS1",
         "MARS",
         "WIS",
@@ -446,6 +446,14 @@
         "TPM": {
           "by": "```Muthukumar```",
           "time": "16:56"
+        },
+        "LOY": {
+          "by": "Samy Kumar Meena",
+          "time": "17:21"
+        },
+        "PECC": {
+          "by": "Samy Kumar Meena",
+          "time": "17:21"
         }
       },
       "problems": [],
