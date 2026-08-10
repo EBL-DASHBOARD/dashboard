@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-10T07:22:37.210Z",
+  "generated": "2026-08-10T08:20:12.601Z",
   "groups": [
     {
       "id": "XH",
@@ -132,7 +132,7 @@
           "pm": []
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "Hougang Mall",
         "West Mall",
@@ -150,7 +150,8 @@
         "AltitudeX",
         "GENEO",
         "ARTRA",
-        "SingPost Centre"
+        "SingPost Centre",
+        "Flavours @ NUS Uptown"
       ],
       "outlets_outstanding": [
         "Zhongshan Mall",
@@ -161,7 +162,6 @@
         "Tampines 1",
         "Lucky Plaza",
         "Ngee Ann City (Same store luc",
-        "Flavours @ NUS Uptown",
         "JEM",
         "Fairprice Hub",
         "Compass One",
@@ -236,6 +236,10 @@
         "SingPost Centre": {
           "by": "ratharun",
           "time": "15:22"
+        },
+        "Flavours @ NUS Uptown": {
+          "by": "ratharun",
+          "time": "16:20"
         }
       },
       "problems": [],
