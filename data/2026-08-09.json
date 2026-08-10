@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-08-10T01:19:04.761Z",
+  "generated": "2026-08-10T01:33:42.172Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -228,12 +228,14 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 6,
       "outlets_done": [
         "CL2",
         "CCKS",
         "KRC",
-        "DV"
+        "DV",
+        "USQ",
+        "SHP"
       ],
       "outlets_outstanding": [
         "CT",
@@ -246,8 +248,6 @@
         "KH",
         "KIT",
         "KLP",
-        "SHP",
-        "USQ",
         "TIO",
         "ARC",
         "ART",
@@ -302,6 +302,14 @@
         "DV": {
           "by": "Siva",
           "time": "09:19"
+        },
+        "USQ": {
+          "by": "Sasi",
+          "time": "09:33"
+        },
+        "SHP": {
+          "by": "Sasi",
+          "time": "09:33"
         }
       },
       "problems": [],
