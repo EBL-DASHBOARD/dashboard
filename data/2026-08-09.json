@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-08-10T08:40:59.621Z",
+  "generated": "2026-08-10T08:41:12.553Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -228,7 +228,7 @@
           ]
         }
       ],
-      "done": 34,
+      "done": 35,
       "outlets_done": [
         "CL2",
         "CCKS",
@@ -263,7 +263,8 @@
         "KTB",
         "R4",
         "AP4",
-        "BHT"
+        "BHT",
+        "VIVA"
       ],
       "outlets_outstanding": [
         "TPM",
@@ -279,7 +280,6 @@
         "R3",
         "R1",
         "BOB",
-        "VIVA",
         "CM1",
         "WWP",
         "NEX",
@@ -422,6 +422,10 @@
         "BHT": {
           "by": "Siva",
           "time": "16:40"
+        },
+        "VIVA": {
+          "by": "Siva",
+          "time": "16:41"
         }
       },
       "problems": [],
