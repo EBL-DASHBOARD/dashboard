@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-08-10T06:56:26.924Z",
+  "generated": "2026-08-10T07:07:39.855Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -228,7 +228,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "CL2",
         "CCKS",
@@ -255,7 +255,8 @@
         "PS",
         "NTP",
         "GMM",
-        "PAL"
+        "PAL",
+        "KEB"
       ],
       "outlets_outstanding": [
         "KNX",
@@ -270,7 +271,6 @@
         "KTB",
         "YS1",
         "MARS",
-        "KEB",
         "WIS",
         "R4",
         "AP2",
@@ -390,6 +390,10 @@
         "PAL": {
           "by": "Samy Kumar Meena",
           "time": "14:56"
+        },
+        "KEB": {
+          "by": "Sasi",
+          "time": "15:07"
         }
       },
       "problems": [],
