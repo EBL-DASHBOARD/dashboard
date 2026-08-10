@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-08-10T01:59:35.679Z",
+  "generated": "2026-08-10T02:32:30.240Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -228,7 +228,7 @@
           ]
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "CL2",
         "CCKS",
@@ -240,7 +240,8 @@
         "BPP",
         "ARC",
         "WSM",
-        "BNV"
+        "BNV",
+        "ART"
       ],
       "outlets_outstanding": [
         "CT",
@@ -251,7 +252,6 @@
         "KIT",
         "KLP",
         "TIO",
-        "ART",
         "VIVO",
         "JP",
         "IM",
@@ -330,6 +330,10 @@
         "BNV": {
           "by": "```Muthukumar```",
           "time": "09:59"
+        },
+        "ART": {
+          "by": "Krishna",
+          "time": "10:32"
         }
       },
       "problems": [],
