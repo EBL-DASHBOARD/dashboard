@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-10T03:02:44.825Z",
+  "generated": "2026-08-10T03:28:10.136Z",
   "groups": [
     {
       "id": "XH",
@@ -132,13 +132,15 @@
           "pm": []
         }
       ],
-      "done": 5,
+      "done": 7,
       "outlets_done": [
         "Hougang Mall",
         "West Mall",
         "Vivocity",
         "Junction 9",
-        "Le Quest"
+        "Le Quest",
+        "Northpoint City",
+        "Woods Square"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -152,14 +154,16 @@
         "Dairy Farm Mall",
         "Hillion Mall",
         "Parc Point",
-        "Northpoint City",
-        "Woods Square",
         "AltitudeX",
         "GENEO",
         "ARTRA",
         "Lucky Plaza",
         "63 Pagoda Street",
-        "Ngee Ann City (Same store luc"
+        "Ngee Ann City (Same store luc",
+        "SingPost Centre",
+        "Flavours @ NUS Uptown",
+        "JEM",
+        "Fairprice Hub"
       ],
       "done_detail": {
         "Hougang Mall": {
@@ -181,6 +185,14 @@
         "Le Quest": {
           "by": "~ Mahadeb ~",
           "time": "11:02"
+        },
+        "Northpoint City": {
+          "by": "ratharun",
+          "time": "11:28"
+        },
+        "Woods Square": {
+          "by": "ratharun",
+          "time": "11:28"
         }
       },
       "problems": [],
