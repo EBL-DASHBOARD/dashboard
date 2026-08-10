@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-10T01:25:50.260Z",
+  "generated": "2026-08-10T02:38:51.134Z",
   "groups": [
     {
       "id": "XH",
@@ -132,11 +132,12 @@
           "pm": []
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "Hougang Mall",
         "West Mall",
-        "Vivocity"
+        "Vivocity",
+        "Junction 9"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -151,7 +152,6 @@
         "Hillion Mall",
         "Le Quest",
         "Parc Point",
-        "Junction 9",
         "Northpoint City",
         "Woods Square",
         "AltitudeX",
@@ -173,6 +173,10 @@
         "Vivocity": {
           "by": "palanivelumuthukumar",
           "time": "09:25"
+        },
+        "Junction 9": {
+          "by": "ratharun",
+          "time": "10:38"
         }
       },
       "problems": [],
