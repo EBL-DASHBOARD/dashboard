@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-10T14:17:03.874Z",
+  "generated": "2026-08-10T16:03:03.197Z",
   "groups": [
     {
       "id": "XH",
@@ -326,10 +326,11 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "ESR BizPark @ Changi",
-        "Aperia Mall"
+        "Aperia Mall",
+        "PLQ Tower 1"
       ],
       "outlets_outstanding": [
         "Citylink",
@@ -337,7 +338,6 @@
         "One Raffles Place Tower 2",
         "Tangs Plaza Kiosk 2",
         "Royal Group Building",
-        "PLQ Tower 1",
         "Lazada One",
         "Marina One"
       ],
@@ -349,6 +349,10 @@
         "Aperia Mall": {
           "by": "Aravind🤍",
           "time": "22:17"
+        },
+        "PLQ Tower 1": {
+          "by": "Aravind🤍",
+          "time": "00:03"
         }
       },
       "problems": [],
