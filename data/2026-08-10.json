@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-10T01:15:20.860Z",
+  "generated": "2026-08-10T01:16:50.490Z",
   "groups": [
     {
       "id": "XH",
@@ -132,9 +132,10 @@
           "pm": []
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "Hougang Mall"
+        "Hougang Mall",
+        "West Mall"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
@@ -148,7 +149,6 @@
         "Dairy Farm Mall",
         "Hillion Mall",
         "Le Quest",
-        "West Mall",
         "Parc Point",
         "Junction 9",
         "Northpoint City",
@@ -165,6 +165,10 @@
         "Hougang Mall": {
           "by": "ratharun",
           "time": "09:15"
+        },
+        "West Mall": {
+          "by": "~ Mahadeb ~",
+          "time": "09:16"
         }
       },
       "problems": [],
