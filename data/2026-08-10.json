@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-10T09:38:47.185Z",
+  "generated": "2026-08-10T09:44:45.543Z",
   "groups": [
     {
       "id": "XH",
@@ -132,7 +132,7 @@
           "pm": []
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "Hougang Mall",
         "West Mall",
@@ -155,7 +155,8 @@
         "Causeway Point",
         "JEM",
         "Compass One",
-        "Fairprice Hub"
+        "Fairprice Hub",
+        "Rivervale Mall"
       ],
       "outlets_outstanding": [
         "Zhongshan Mall",
@@ -165,8 +166,7 @@
         "Century Square",
         "Tampines 1",
         "Lucky Plaza",
-        "Ngee Ann City (Same store luc",
-        "Rivervale Mall"
+        "Ngee Ann City (Same store luc"
       ],
       "done_detail": {
         "Hougang Mall": {
@@ -256,6 +256,10 @@
         "Fairprice Hub": {
           "by": "ratharun",
           "time": "17:38"
+        },
+        "Rivervale Mall": {
+          "by": "~ Mahadeb ~",
+          "time": "17:44"
         }
       },
       "problems": [],
