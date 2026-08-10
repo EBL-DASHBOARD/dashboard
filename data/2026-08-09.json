@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-08-10T04:35:13.900Z",
+  "generated": "2026-08-10T05:15:37.748Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -228,7 +228,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "CL2",
         "CCKS",
@@ -250,11 +250,11 @@
         "CT",
         "TIO",
         "VIVO",
-        "JP"
+        "JP",
+        "IM"
       ],
       "outlets_outstanding": [
         "PS",
-        "IM",
         "KNX",
         "TPM",
         "CKCC",
@@ -370,6 +370,10 @@
         "JP": {
           "by": "Siva",
           "time": "12:35"
+        },
+        "IM": {
+          "by": "Jeannn",
+          "time": "13:15"
         }
       },
       "problems": [],
