@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-10T04:41:07.052Z",
+  "generated": "2026-08-10T05:01:45.365Z",
   "groups": [
     {
       "id": "XH",
@@ -132,7 +132,7 @@
           "pm": []
         }
       ],
-      "done": 13,
+      "done": 16,
       "outlets_done": [
         "Hougang Mall",
         "West Mall",
@@ -146,7 +146,10 @@
         "Parc Point",
         "Tanah Merah Ferry Terminal",
         "The Woodleigh Mall",
-        "Dairy Farm Mall"
+        "Dairy Farm Mall",
+        "AltitudeX",
+        "GENEO",
+        "ARTRA"
       ],
       "outlets_outstanding": [
         "Zhongshan Mall",
@@ -155,9 +158,6 @@
         "Tampines Mart",
         "Century Square",
         "Tampines 1",
-        "AltitudeX",
-        "GENEO",
-        "ARTRA",
         "Lucky Plaza",
         "Ngee Ann City (Same store luc",
         "SingPost Centre",
@@ -220,6 +220,18 @@
         "Dairy Farm Mall": {
           "by": "~ Mahadeb ~",
           "time": "12:41"
+        },
+        "AltitudeX": {
+          "by": "palanivelumuthukumar",
+          "time": "13:01"
+        },
+        "GENEO": {
+          "by": "palanivelumuthukumar",
+          "time": "13:01"
+        },
+        "ARTRA": {
+          "by": "palanivelumuthukumar",
+          "time": "13:01"
         }
       },
       "problems": [],
