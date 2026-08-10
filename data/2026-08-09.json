@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-08-10T07:57:39.840Z",
+  "generated": "2026-08-10T08:00:19.273Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -228,7 +228,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 31,
       "outlets_done": [
         "CL2",
         "CCKS",
@@ -259,7 +259,8 @@
         "KEB",
         "KNX",
         "EPT",
-        "CCP"
+        "CCP",
+        "KTB"
       ],
       "outlets_outstanding": [
         "TPM",
@@ -268,7 +269,6 @@
         "AP1",
         "PECC",
         "LOY",
-        "KTB",
         "YS1",
         "MARS",
         "WIS",
@@ -406,6 +406,10 @@
         "CCP": {
           "by": "Samy Kumar Meena",
           "time": "15:57"
+        },
+        "KTB": {
+          "by": "Sasi",
+          "time": "16:00"
         }
       },
       "problems": [],
