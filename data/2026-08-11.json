@@ -1,0 +1,106 @@
+{
+  "date": "2026-08-11",
+  "generated": "2026-08-10T10:57:00.647Z",
+  "groups": [
+    {
+      "id": "XH",
+      "name": "Xh Delivery",
+      "total_locations": 23,
+      "am_total": 13,
+      "pm_total": 10,
+      "am_outlets": [
+        "Suntec City",
+        "Marina Square",
+        "Margaret Market",
+        "South Beach Tower",
+        "United Square",
+        "Pasir Ris Mall",
+        "White Sands",
+        "Institute of Mental Health",
+        "Junction 8",
+        "Punggol Plaza",
+        "The Rail Mall",
+        "888 Plaza",
+        "Holland Village MRT"
+      ],
+      "pm_outlets": [
+        "GRID",
+        "Duo Galleria",
+        "100 AM Mall",
+        "Downtown East",
+        "Plaza Singapura",
+        "Guoco Tower",
+        "120 Robinson",
+        "Waterway Point",
+        "Causeway Point",
+        "Compass One"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Suntec City",
+            "Marina Square",
+            "Margaret Market",
+            "South Beach Tower",
+            "United Square"
+          ],
+          "pm": [
+            "GRID",
+            "Duo Galleria",
+            "100 AM Mall"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "Pasir Ris Mall",
+            "White Sands",
+            "Institute of Mental Health",
+            "Junction 8"
+          ],
+          "pm": [
+            "Downtown East",
+            "Plaza Singapura",
+            "Guoco Tower",
+            "120 Robinson"
+          ]
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Punggol Plaza",
+            "The Rail Mall",
+            "888 Plaza",
+            "Holland Village MRT"
+          ],
+          "pm": [
+            "Waterway Point",
+            "Causeway Point",
+            "Compass One"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Suntec City",
+        "Marina Square",
+        "Margaret Market",
+        "South Beach Tower",
+        "United Square",
+        "Pasir Ris Mall",
+        "White Sands",
+        "Institute of Mental Health",
+        "Junction 8",
+        "Punggol Plaza",
+        "The Rail Mall",
+        "888 Plaza",
+        "Holland Village MRT"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
