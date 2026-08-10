@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-10T09:44:45.543Z",
+  "generated": "2026-08-10T11:54:43.956Z",
   "groups": [
     {
       "id": "XH",
@@ -339,6 +339,137 @@
         "Aperia Mall",
         "Lazada One",
         "Marina One"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 30,
+      "am_total": 13,
+      "pm_total": 17,
+      "am_outlets": [
+        "JKN",
+        "WXI",
+        "IM",
+        "KRC",
+        "KH",
+        "TGCC",
+        "BPP",
+        "YTP",
+        "STC",
+        "MBA",
+        "KIT",
+        "TY",
+        "BS"
+      ],
+      "pm_outlets": [
+        "R3",
+        "R1",
+        "AP4",
+        "AP1",
+        "VIVA",
+        "HRC",
+        "J9",
+        "WLCC",
+        "WNC",
+        "MARS",
+        "YS1",
+        "FEN",
+        "SSC2",
+        "WWP",
+        "PDD",
+        "CM1",
+        "KEB"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-2",
+          "am": [
+            "JKN",
+            "WXI",
+            "IM",
+            "KRC"
+          ],
+          "pm": [
+            "R3",
+            "R1",
+            "AP4",
+            "AP1",
+            "VIVA",
+            "HRC"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "KH",
+            "TGCC",
+            "BPP",
+            "YTP"
+          ],
+          "pm": [
+            "J9",
+            "WLCC",
+            "WNC",
+            "MARS",
+            "YS1"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "STC",
+            "MBA",
+            "KIT",
+            "TY",
+            "BS"
+          ],
+          "pm": [
+            "FEN",
+            "SSC2",
+            "WWP",
+            "PDD",
+            "CM1",
+            "KEB"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "JKN",
+        "WXI",
+        "IM",
+        "KRC",
+        "KH",
+        "TGCC",
+        "BPP",
+        "YTP",
+        "STC",
+        "MBA",
+        "KIT",
+        "TY",
+        "BS",
+        "R3",
+        "R1",
+        "AP4",
+        "AP1",
+        "VIVA",
+        "HRC",
+        "J9",
+        "WLCC",
+        "WNC",
+        "MARS",
+        "YS1",
+        "FEN",
+        "SSC2",
+        "WWP",
+        "PDD",
+        "CM1",
+        "KEB"
       ],
       "done_detail": {},
       "problems": [],
