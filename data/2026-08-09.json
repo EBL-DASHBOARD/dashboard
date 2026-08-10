@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-08-10T01:36:34.210Z",
+  "generated": "2026-08-10T01:36:46.399Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -228,7 +228,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "CL2",
         "CCKS",
@@ -237,7 +237,8 @@
         "USQ",
         "SHP",
         "KH",
-        "BPP"
+        "BPP",
+        "ARC"
       ],
       "outlets_outstanding": [
         "CT",
@@ -249,7 +250,6 @@
         "KIT",
         "KLP",
         "TIO",
-        "ARC",
         "ART",
         "VIVO",
         "JP",
@@ -317,6 +317,10 @@
         },
         "BPP": {
           "by": "Samy Kumar Meena",
+          "time": "09:36"
+        },
+        "ARC": {
+          "by": "Krishna",
           "time": "09:36"
         }
       },
