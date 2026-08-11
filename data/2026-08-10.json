@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-10T17:27:36.435Z",
+  "generated": "2026-08-11T00:46:23.330Z",
   "groups": [
     {
       "id": "XH",
@@ -464,10 +464,11 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "JKN"
+      ],
       "outlets_outstanding": [
-        "JKN",
         "WXI",
         "IM",
         "KRC",
@@ -498,7 +499,12 @@
         "CM1",
         "KEB"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "JKN": {
+          "by": "Krishna",
+          "time": "08:46"
+        }
+      },
       "problems": [],
       "customers": null
     }
