@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generated": "2026-08-11T06:35:38.229Z",
+  "generated": "2026-08-11T07:03:54.355Z",
   "groups": [
     {
       "id": "XH",
@@ -149,6 +149,76 @@
           "time": "14:35"
         }
       },
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "XHNIGHT",
+      "name": "Xh Delivery (Night)",
+      "total_locations": 12,
+      "am_total": 7,
+      "pm_total": 5,
+      "am_outlets": [
+        "Jewel",
+        "Changi T1 Transit",
+        "Icon Link",
+        "Chinatown Point",
+        "Changi City Point",
+        "Hougang 1",
+        "ESR BizPark @ Changi"
+      ],
+      "pm_outlets": [
+        "Coronation Shopping Plaza",
+        "The Strategy",
+        "Westgate",
+        "NTU South Spine",
+        "Ngee Ann Polytechnic"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Jewel",
+            "Changi T1 Transit"
+          ],
+          "pm": []
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "Icon Link",
+            "Chinatown Point"
+          ],
+          "pm": []
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Changi City Point",
+            "Hougang 1",
+            "ESR BizPark @ Changi"
+          ],
+          "pm": [
+            "Coronation Shopping Plaza",
+            "The Strategy",
+            "Westgate",
+            "NTU South Spine",
+            "Ngee Ann Polytechnic"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Jewel",
+        "Changi T1 Transit",
+        "Icon Link",
+        "Chinatown Point",
+        "Changi City Point",
+        "Hougang 1",
+        "ESR BizPark @ Changi"
+      ],
+      "done_detail": {},
       "problems": [],
       "customers": null
     }
