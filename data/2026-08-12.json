@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-11T11:23:39.914Z",
+  "generated": "2026-08-11T17:17:41.031Z",
   "groups": [
     {
       "id": "XH",
@@ -150,6 +150,162 @@
         "United Square",
         "The Woodleigh Mall",
         "63 Pagoda Street"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 43,
+      "am_total": 22,
+      "pm_total": 21,
+      "am_outlets": [
+        "BNV",
+        "BQ",
+        "KRC",
+        "CTP",
+        "CT",
+        "JP",
+        "HV2",
+        "CCKS",
+        "WSM",
+        "TRM",
+        "VIVO",
+        "TIO",
+        "ARC",
+        "CL2",
+        "ART",
+        "DV",
+        "USQ",
+        "KIT",
+        "MSQ",
+        "KLP",
+        "SHP",
+        "PS"
+      ],
+      "pm_outlets": [
+        "EPT",
+        "CCP",
+        "LOY",
+        "TNC2",
+        "PECC",
+        "KNX",
+        "TPM",
+        "BHT",
+        "GMM",
+        "NEX",
+        "NTP",
+        "AP2",
+        "R1",
+        "R3",
+        "AP4",
+        "R4",
+        "KTB",
+        "ACV",
+        "WWP",
+        "CM1",
+        "WIS"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [
+            "BNV",
+            "BQ",
+            "KRC",
+            "CTP",
+            "CT"
+          ],
+          "pm": [
+            "EPT",
+            "CCP",
+            "LOY",
+            "TNC2",
+            "PECC",
+            "KNX",
+            "TPM"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "JP",
+            "HV2",
+            "CCKS",
+            "WSM",
+            "TRM"
+          ],
+          "pm": [
+            "BHT",
+            "GMM",
+            "NEX",
+            "NTP"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "VIVO",
+            "TIO",
+            "ARC",
+            "CL2",
+            "ART"
+          ],
+          "pm": [
+            "AP2",
+            "R1",
+            "R3",
+            "AP4",
+            "R4"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "DV",
+            "USQ",
+            "KIT",
+            "MSQ",
+            "KLP",
+            "SHP",
+            "PS"
+          ],
+          "pm": [
+            "KTB",
+            "ACV",
+            "WWP",
+            "CM1",
+            "WIS"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "BNV",
+        "BQ",
+        "KRC",
+        "CTP",
+        "CT",
+        "JP",
+        "HV2",
+        "CCKS",
+        "WSM",
+        "TRM",
+        "VIVO",
+        "TIO",
+        "ARC",
+        "CL2",
+        "ART",
+        "DV",
+        "USQ",
+        "KIT",
+        "MSQ",
+        "KLP",
+        "SHP",
+        "PS"
       ],
       "done_detail": {},
       "problems": [],
