@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generated": "2026-08-11T07:03:54.355Z",
+  "generated": "2026-08-11T08:41:52.708Z",
   "groups": [
     {
       "id": "XH",
@@ -81,7 +81,7 @@
           ]
         }
       ],
-      "done": 11,
+      "done": 13,
       "outlets_done": [
         "The Rail Mall",
         "888 Plaza",
@@ -93,15 +93,15 @@
         "Pasir Ris Mall",
         "White Sands",
         "Institute of Mental Health",
-        "Junction 8"
+        "Junction 8",
+        "Downtown East",
+        "120 Robinson"
       ],
       "outlets_outstanding": [
         "United Square",
         "Holland Village MRT",
-        "Downtown East",
         "Plaza Singapura",
-        "Guoco Tower",
-        "120 Robinson"
+        "Guoco Tower"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -147,6 +147,14 @@
         "Junction 8": {
           "by": "boss",
           "time": "14:35"
+        },
+        "Downtown East": {
+          "by": "boss",
+          "time": "16:41"
+        },
+        "120 Robinson": {
+          "by": "boss",
+          "time": "16:41"
         }
       },
       "problems": [],
