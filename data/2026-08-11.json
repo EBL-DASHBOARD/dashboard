@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generated": "2026-08-11T00:37:09.132Z",
+  "generated": "2026-08-11T01:58:51.516Z",
   "groups": [
     {
       "id": "XH",
@@ -81,9 +81,10 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "The Rail Mall"
+        "The Rail Mall",
+        "888 Plaza"
       ],
       "outlets_outstanding": [
         "Suntec City",
@@ -96,13 +97,16 @@
         "Institute of Mental Health",
         "Junction 8",
         "Punggol Plaza",
-        "888 Plaza",
         "Holland Village MRT"
       ],
       "done_detail": {
         "The Rail Mall": {
           "by": "Nur Azimah",
           "time": "08:37"
+        },
+        "888 Plaza": {
+          "by": "Nur Azimah",
+          "time": "09:58"
         }
       },
       "problems": [],
