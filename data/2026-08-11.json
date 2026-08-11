@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generated": "2026-08-11T06:19:11.650Z",
+  "generated": "2026-08-11T06:35:36.651Z",
   "groups": [
     {
       "id": "XH",
@@ -81,7 +81,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 11,
       "outlets_done": [
         "The Rail Mall",
         "888 Plaza",
@@ -89,15 +89,19 @@
         "Suntec City",
         "Marina Square",
         "Margaret Market",
-        "South Beach Tower"
-      ],
-      "outlets_outstanding": [
-        "United Square",
+        "South Beach Tower",
         "Pasir Ris Mall",
         "White Sands",
         "Institute of Mental Health",
-        "Junction 8",
-        "Holland Village MRT"
+        "Junction 8"
+      ],
+      "outlets_outstanding": [
+        "United Square",
+        "Holland Village MRT",
+        "Downtown East",
+        "Plaza Singapura",
+        "Guoco Tower",
+        "120 Robinson"
       ],
       "done_detail": {
         "The Rail Mall": {
@@ -127,6 +131,22 @@
         "South Beach Tower": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "14:19"
+        },
+        "Pasir Ris Mall": {
+          "by": "boss",
+          "time": "14:35"
+        },
+        "White Sands": {
+          "by": "boss",
+          "time": "14:35"
+        },
+        "Institute of Mental Health": {
+          "by": "boss",
+          "time": "14:35"
+        },
+        "Junction 8": {
+          "by": "boss",
+          "time": "14:35"
         }
       },
       "problems": [],
