@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-08-11T04:17:34.476Z",
+  "generated": "2026-08-11T06:52:40.577Z",
   "groups": [
     {
       "id": "XH",
@@ -464,7 +464,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "JKN",
         "YTP",
@@ -478,7 +478,8 @@
         "TGCC",
         "WXI",
         "MBA",
-        "STC"
+        "STC",
+        "MARS"
       ],
       "outlets_outstanding": [
         "R3",
@@ -490,7 +491,6 @@
         "J9",
         "WLCC",
         "WNC",
-        "MARS",
         "YS1",
         "FEN",
         "SSC2",
@@ -551,6 +551,10 @@
         "STC": {
           "by": "Sasi",
           "time": "12:17"
+        },
+        "MARS": {
+          "by": "Samy Kumar Meena",
+          "time": "14:52"
         }
       },
       "problems": [],
