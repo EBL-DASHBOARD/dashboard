@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generated": "2026-08-11T02:46:47.575Z",
+  "generated": "2026-08-11T06:19:11.650Z",
   "groups": [
     {
       "id": "XH",
@@ -81,17 +81,17 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 7,
       "outlets_done": [
         "The Rail Mall",
         "888 Plaza",
-        "Punggol Plaza"
-      ],
-      "outlets_outstanding": [
+        "Punggol Plaza",
         "Suntec City",
         "Marina Square",
         "Margaret Market",
-        "South Beach Tower",
+        "South Beach Tower"
+      ],
+      "outlets_outstanding": [
         "United Square",
         "Pasir Ris Mall",
         "White Sands",
@@ -111,6 +111,22 @@
         "Punggol Plaza": {
           "by": "Nur Azimah",
           "time": "10:46"
+        },
+        "Suntec City": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "14:19"
+        },
+        "Marina Square": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "14:19"
+        },
+        "Margaret Market": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "14:19"
+        },
+        "South Beach Tower": {
+          "by": "#நVin🇮🇹🚀🔥",
+          "time": "14:19"
         }
       },
       "problems": [],
