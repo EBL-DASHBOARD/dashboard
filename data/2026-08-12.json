@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T09:39:48.818Z",
+  "generated": "2026-08-12T09:47:11.309Z",
   "groups": [
     {
       "id": "XH",
@@ -126,7 +126,7 @@
           "pm": []
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -151,7 +151,8 @@
         "The Poiz Centre",
         "Eastpoint Mall",
         "Rivervale Mall",
-        "Compass One"
+        "Compass One",
+        "Galaxis"
       ],
       "outlets_outstanding": [
         "Junction 9",
@@ -161,7 +162,6 @@
         "United Square",
         "The Woodleigh Mall",
         "Flavours @ NUS Uptown",
-        "Galaxis",
         "New Tech Park",
         "313 Somerset",
         "Far East Plaza Kiosk E"
@@ -262,6 +262,10 @@
         "Compass One": {
           "by": "Nur Azimah",
           "time": "17:37"
+        },
+        "Galaxis": {
+          "by": "Rsathiyaselvi",
+          "time": "17:47"
         }
       },
       "problems": [],
