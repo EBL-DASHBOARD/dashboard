@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T01:46:23.504Z",
+  "generated": "2026-08-12T02:04:22.467Z",
   "groups": [
     {
       "id": "XH",
@@ -126,11 +126,12 @@
           "pm": []
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
-        "Le Quest"
+        "Le Quest",
+        "63 Pagoda Street"
       ],
       "outlets_outstanding": [
         "Tampines 1",
@@ -149,8 +150,7 @@
         "Rivervale Plaza",
         "The Rail Mall",
         "United Square",
-        "The Woodleigh Mall",
-        "63 Pagoda Street"
+        "The Woodleigh Mall"
       ],
       "done_detail": {
         "West Mall": {
@@ -164,6 +164,10 @@
         "Le Quest": {
           "by": "Nur Azimah",
           "time": "09:46"
+        },
+        "63 Pagoda Street": {
+          "by": "TR",
+          "time": "10:04"
         }
       },
       "problems": [],
