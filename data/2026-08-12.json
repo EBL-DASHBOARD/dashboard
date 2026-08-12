@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T11:40:16.492Z",
+  "generated": "2026-08-12T11:40:24.415Z",
   "groups": [
     {
       "id": "XH",
@@ -413,7 +413,7 @@
           ]
         }
       ],
-      "done": 41,
+      "done": 42,
       "outlets_done": [
         "JP",
         "DV",
@@ -455,10 +455,10 @@
         "CM1",
         "WWP",
         "PECC",
-        "EPT"
+        "EPT",
+        "CCP"
       ],
       "outlets_outstanding": [
-        "CCP",
         "R3"
       ],
       "done_detail": {
@@ -623,6 +623,10 @@
           "time": "19:40"
         },
         "EPT": {
+          "by": "Sudhakar",
+          "time": "19:40"
+        },
+        "CCP": {
           "by": "Sudhakar",
           "time": "19:40"
         }
