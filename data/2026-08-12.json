@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T04:59:50.077Z",
+  "generated": "2026-08-12T05:03:43.626Z",
   "groups": [
     {
       "id": "XH",
@@ -344,7 +344,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "JP",
         "DV",
@@ -366,10 +366,10 @@
         "VIVO",
         "KLP",
         "MSQ",
-        "PS"
+        "PS",
+        "CT"
       ],
       "outlets_outstanding": [
-        "CT",
         "EPT",
         "CCP",
         "LOY",
@@ -476,6 +476,10 @@
         "PS": {
           "by": "Sasi",
           "time": "12:59"
+        },
+        "CT": {
+          "by": "Sudhakar",
+          "time": "13:03"
         }
       },
       "problems": [],
