@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T02:25:50.849Z",
+  "generated": "2026-08-12T02:57:45.706Z",
   "groups": [
     {
       "id": "XH",
@@ -126,7 +126,7 @@
           "pm": []
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -134,14 +134,14 @@
         "63 Pagoda Street",
         "Tampines 1",
         "Citygate",
-        "Vivocity"
+        "Vivocity",
+        "Parc Point"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
         "Century Square",
         "Dairy Farm Mall",
         "Hillion Mall",
-        "Parc Point",
         "HarbourFront Tower 1",
         "GENEO",
         "ARTRA",
@@ -180,6 +180,10 @@
         "Vivocity": {
           "by": "Rsathiyaselvi",
           "time": "10:25"
+        },
+        "Parc Point": {
+          "by": "Nur Azimah",
+          "time": "10:57"
         }
       },
       "problems": [],
