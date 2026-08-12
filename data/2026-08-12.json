@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T01:44:11.578Z",
+  "generated": "2026-08-12T01:46:23.504Z",
   "groups": [
     {
       "id": "XH",
@@ -126,17 +126,17 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "West Mall",
-        "Alexandra Technopark B"
+        "Alexandra Technopark B",
+        "Le Quest"
       ],
       "outlets_outstanding": [
         "Tampines 1",
         "Tampines Mart",
         "Century Square",
         "Citygate",
-        "Le Quest",
         "Dairy Farm Mall",
         "Hillion Mall",
         "Parc Point",
@@ -160,6 +160,10 @@
         "Alexandra Technopark B": {
           "by": "Rsathiyaselvi",
           "time": "09:31"
+        },
+        "Le Quest": {
+          "by": "Nur Azimah",
+          "time": "09:46"
         }
       },
       "problems": [],
