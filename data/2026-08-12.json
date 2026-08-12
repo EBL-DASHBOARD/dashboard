@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T10:11:34.990Z",
+  "generated": "2026-08-12T10:36:59.200Z",
   "groups": [
     {
       "id": "XH",
@@ -126,7 +126,7 @@
           "pm": []
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -155,7 +155,8 @@
         "Galaxis",
         "New Tech Park",
         "313 Somerset",
-        "Far East Plaza Kiosk E"
+        "Far East Plaza Kiosk E",
+        "Flavours @ NUS Uptown"
       ],
       "outlets_outstanding": [
         "Junction 9",
@@ -163,8 +164,7 @@
         "Rivervale Plaza",
         "The Rail Mall",
         "United Square",
-        "The Woodleigh Mall",
-        "Flavours @ NUS Uptown"
+        "The Woodleigh Mall"
       ],
       "done_detail": {
         "West Mall": {
@@ -278,6 +278,10 @@
         "Far East Plaza Kiosk E": {
           "by": "Ranjith",
           "time": "18:09"
+        },
+        "Flavours @ NUS Uptown": {
+          "by": "Rsathiyaselvi",
+          "time": "18:36"
         }
       },
       "problems": [],
