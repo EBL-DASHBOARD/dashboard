@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T08:45:17.243Z",
+  "generated": "2026-08-12T08:53:12.094Z",
   "groups": [
     {
       "id": "XH",
@@ -126,7 +126,7 @@
           "pm": []
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -148,7 +148,8 @@
         "V Hotel Lavender",
         "SingPost Centre",
         "Waterway Point",
-        "The Poiz Centre"
+        "The Poiz Centre",
+        "Eastpoint Mall"
       ],
       "outlets_outstanding": [
         "Junction 9",
@@ -159,7 +160,6 @@
         "The Woodleigh Mall",
         "Rivervale Mall",
         "Compass One",
-        "Eastpoint Mall",
         "Flavours @ NUS Uptown",
         "Galaxis",
         "New Tech Park",
@@ -250,6 +250,10 @@
         "The Poiz Centre": {
           "by": "Ranjith",
           "time": "16:45"
+        },
+        "Eastpoint Mall": {
+          "by": "Rsathiyaselvi",
+          "time": "16:53"
         }
       },
       "problems": [],
