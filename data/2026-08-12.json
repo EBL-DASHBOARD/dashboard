@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T08:53:12.094Z",
+  "generated": "2026-08-12T08:58:34.124Z",
   "groups": [
     {
       "id": "XH",
@@ -385,7 +385,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "JP",
         "DV",
@@ -415,7 +415,8 @@
         "WIS",
         "NEX",
         "KNX",
-        "LOY"
+        "LOY",
+        "GMM"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -424,7 +425,6 @@
         "PECC",
         "TPM",
         "BHT",
-        "GMM",
         "AP2",
         "R1",
         "R3",
@@ -549,6 +549,10 @@
         "LOY": {
           "by": "Sudhakar",
           "time": "16:03"
+        },
+        "GMM": {
+          "by": "Samy Kumar Meena",
+          "time": "16:58"
         }
       },
       "problems": [],
