@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T08:03:53.008Z",
+  "generated": "2026-08-12T08:03:58.757Z",
   "groups": [
     {
       "id": "XH",
@@ -369,7 +369,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "JP",
         "DV",
@@ -398,12 +398,12 @@
         "KTB",
         "WIS",
         "NEX",
-        "KNX"
+        "KNX",
+        "LOY"
       ],
       "outlets_outstanding": [
         "EPT",
         "CCP",
-        "LOY",
         "TNC2",
         "PECC",
         "TPM",
@@ -527,6 +527,10 @@
           "time": "16:01"
         },
         "KNX": {
+          "by": "Sudhakar",
+          "time": "16:03"
+        },
+        "LOY": {
           "by": "Sudhakar",
           "time": "16:03"
         }
