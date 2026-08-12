@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T07:30:37.496Z",
+  "generated": "2026-08-12T07:37:44.863Z",
   "groups": [
     {
       "id": "XH",
@@ -126,7 +126,7 @@
           "pm": []
         }
       ],
-      "done": 15,
+      "done": 17,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -142,11 +142,11 @@
         "Hillion Mall",
         "GENEO",
         "i12 Katong",
-        "Punggol Coast Mall"
+        "Punggol Coast Mall",
+        "Tampines Mart",
+        "Century Square"
       ],
       "outlets_outstanding": [
-        "Tampines Mart",
-        "Century Square",
         "Junction 9",
         "Northpoint City",
         "Rivervale Plaza",
@@ -159,7 +159,12 @@
         "Eastpoint Mall",
         "SingPost Centre",
         "Flavours @ NUS Uptown",
-        "Galaxis"
+        "Galaxis",
+        "V Hotel Lavender",
+        "The Poiz Centre",
+        "New Tech Park",
+        "313 Somerset",
+        "Far East Plaza Kiosk E"
       ],
       "done_detail": {
         "West Mall": {
@@ -221,6 +226,14 @@
         "Punggol Coast Mall": {
           "by": "Nur Azimah",
           "time": "15:30"
+        },
+        "Tampines Mart": {
+          "by": "Ranjith",
+          "time": "15:37"
+        },
+        "Century Square": {
+          "by": "Ranjith",
+          "time": "15:37"
         }
       },
       "problems": [],
