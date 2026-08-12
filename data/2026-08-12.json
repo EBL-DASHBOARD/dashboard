@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T10:47:59.272Z",
+  "generated": "2026-08-12T11:06:24.959Z",
   "groups": [
     {
       "id": "XH",
@@ -413,7 +413,7 @@
           ]
         }
       ],
-      "done": 36,
+      "done": 37,
       "outlets_done": [
         "JP",
         "DV",
@@ -450,13 +450,13 @@
         "BHT",
         "R1",
         "TNC2",
-        "TPM"
+        "TPM",
+        "AP2"
       ],
       "outlets_outstanding": [
         "EPT",
         "CCP",
         "PECC",
-        "AP2",
         "R3",
         "WWP",
         "CM1"
@@ -605,6 +605,10 @@
         "TPM": {
           "by": "Sudhakar",
           "time": "18:47"
+        },
+        "AP2": {
+          "by": "wizardvishnu460",
+          "time": "19:06"
         }
       },
       "problems": [],
