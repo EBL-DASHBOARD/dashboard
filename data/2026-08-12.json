@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T03:58:16.464Z",
+  "generated": "2026-08-12T03:58:45.135Z",
   "groups": [
     {
       "id": "XH",
@@ -126,7 +126,7 @@
           "pm": []
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -139,12 +139,12 @@
         "HarbourFront Tower 1",
         "ARTRA",
         "Dairy Farm Mall",
-        "Hillion Mall"
+        "Hillion Mall",
+        "GENEO"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
         "Century Square",
-        "GENEO",
         "Junction 9",
         "Northpoint City",
         "Rivervale Plaza",
@@ -154,7 +154,12 @@
         "Rivervale Mall",
         "Compass One",
         "Punggol Coast Mall",
-        "Waterway Point"
+        "Waterway Point",
+        "Eastpoint Mall",
+        "i12 Katong",
+        "SingPost Centre",
+        "Flavours @ NUS Uptown",
+        "Galaxis"
       ],
       "done_detail": {
         "West Mall": {
@@ -204,6 +209,10 @@
         "Hillion Mall": {
           "by": "Nur Azimah",
           "time": "11:53"
+        },
+        "GENEO": {
+          "by": "Rsathiyaselvi",
+          "time": "11:58"
         }
       },
       "problems": [],
