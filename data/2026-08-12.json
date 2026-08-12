@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T07:24:56.613Z",
+  "generated": "2026-08-12T07:30:37.496Z",
   "groups": [
     {
       "id": "XH",
@@ -126,7 +126,7 @@
           "pm": []
         }
       ],
-      "done": 14,
+      "done": 15,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -141,7 +141,8 @@
         "Dairy Farm Mall",
         "Hillion Mall",
         "GENEO",
-        "i12 Katong"
+        "i12 Katong",
+        "Punggol Coast Mall"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
@@ -154,7 +155,6 @@
         "The Woodleigh Mall",
         "Rivervale Mall",
         "Compass One",
-        "Punggol Coast Mall",
         "Waterway Point",
         "Eastpoint Mall",
         "SingPost Centre",
@@ -217,6 +217,10 @@
         "i12 Katong": {
           "by": "Rsathiyaselvi",
           "time": "15:24"
+        },
+        "Punggol Coast Mall": {
+          "by": "Nur Azimah",
+          "time": "15:30"
         }
       },
       "problems": [],
