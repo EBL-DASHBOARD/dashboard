@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T10:47:54.612Z",
+  "generated": "2026-08-12T10:47:59.272Z",
   "groups": [
     {
       "id": "XH",
@@ -413,7 +413,7 @@
           ]
         }
       ],
-      "done": 35,
+      "done": 36,
       "outlets_done": [
         "JP",
         "DV",
@@ -449,13 +449,13 @@
         "ACV",
         "BHT",
         "R1",
-        "TNC2"
+        "TNC2",
+        "TPM"
       ],
       "outlets_outstanding": [
         "EPT",
         "CCP",
         "PECC",
-        "TPM",
         "AP2",
         "R3",
         "WWP",
@@ -599,6 +599,10 @@
           "time": "18:11"
         },
         "TNC2": {
+          "by": "Sudhakar",
+          "time": "18:47"
+        },
+        "TPM": {
           "by": "Sudhakar",
           "time": "18:47"
         }
