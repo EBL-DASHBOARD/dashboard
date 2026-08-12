@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T12:04:50.231Z",
+  "generated": "2026-08-12T15:28:32.240Z",
   "groups": [
     {
       "id": "XH",
@@ -682,17 +682,27 @@
           "pm": []
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 2,
+      "outlets_done": [
+        "PLQ Tower 1",
+        "Aperia Mall"
+      ],
       "outlets_outstanding": [
         "One Raffles Place Tower 2",
         "Tangs Plaza Kiosk 2",
         "Royal Group Building",
-        "Parkway Parade",
-        "PLQ Tower 1",
-        "Aperia Mall"
+        "Parkway Parade"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "PLQ Tower 1": {
+          "by": "ratharun",
+          "time": "23:28"
+        },
+        "Aperia Mall": {
+          "by": "ratharun",
+          "time": "23:28"
+        }
+      },
       "problems": [],
       "customers": null
     }
