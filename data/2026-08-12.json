@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T03:42:51.938Z",
+  "generated": "2026-08-12T03:53:37.048Z",
   "groups": [
     {
       "id": "XH",
@@ -126,7 +126,7 @@
           "pm": []
         }
       ],
-      "done": 10,
+      "done": 12,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -137,20 +137,24 @@
         "Vivocity",
         "Parc Point",
         "HarbourFront Tower 1",
-        "ARTRA"
+        "ARTRA",
+        "Dairy Farm Mall",
+        "Hillion Mall"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
         "Century Square",
-        "Dairy Farm Mall",
-        "Hillion Mall",
         "GENEO",
         "Junction 9",
         "Northpoint City",
         "Rivervale Plaza",
         "The Rail Mall",
         "United Square",
-        "The Woodleigh Mall"
+        "The Woodleigh Mall",
+        "Rivervale Mall",
+        "Compass One",
+        "Punggol Coast Mall",
+        "Waterway Point"
       ],
       "done_detail": {
         "West Mall": {
@@ -192,6 +196,14 @@
         "ARTRA": {
           "by": "Rsathiyaselvi",
           "time": "11:42"
+        },
+        "Dairy Farm Mall": {
+          "by": "Nur Azimah",
+          "time": "11:53"
+        },
+        "Hillion Mall": {
+          "by": "Nur Azimah",
+          "time": "11:53"
         }
       },
       "problems": [],
