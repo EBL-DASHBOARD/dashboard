@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T02:25:33.928Z",
+  "generated": "2026-08-12T02:25:50.849Z",
   "groups": [
     {
       "id": "XH",
@@ -311,7 +311,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "JP",
         "DV",
@@ -319,7 +319,8 @@
         "CCKS",
         "BNV",
         "KRC",
-        "USQ"
+        "USQ",
+        "ARC"
       ],
       "outlets_outstanding": [
         "BQ",
@@ -330,7 +331,6 @@
         "TRM",
         "VIVO",
         "TIO",
-        "ARC",
         "ART",
         "KIT",
         "MSQ",
@@ -366,6 +366,10 @@
         "USQ": {
           "by": "Sasi",
           "time": "10:20"
+        },
+        "ARC": {
+          "by": "wizardvishnu460",
+          "time": "10:25"
         }
       },
       "problems": [],
