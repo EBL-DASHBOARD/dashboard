@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T09:08:18.445Z",
+  "generated": "2026-08-12T09:37:11.152Z",
   "groups": [
     {
       "id": "XH",
@@ -126,7 +126,7 @@
           "pm": []
         }
       ],
-      "done": 22,
+      "done": 24,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -149,7 +149,9 @@
         "SingPost Centre",
         "Waterway Point",
         "The Poiz Centre",
-        "Eastpoint Mall"
+        "Eastpoint Mall",
+        "Rivervale Mall",
+        "Compass One"
       ],
       "outlets_outstanding": [
         "Junction 9",
@@ -158,8 +160,6 @@
         "The Rail Mall",
         "United Square",
         "The Woodleigh Mall",
-        "Rivervale Mall",
-        "Compass One",
         "Flavours @ NUS Uptown",
         "Galaxis",
         "New Tech Park",
@@ -254,6 +254,14 @@
         "Eastpoint Mall": {
           "by": "Rsathiyaselvi",
           "time": "16:53"
+        },
+        "Rivervale Mall": {
+          "by": "Nur Azimah",
+          "time": "17:37"
+        },
+        "Compass One": {
+          "by": "Nur Azimah",
+          "time": "17:37"
         }
       },
       "problems": [],
