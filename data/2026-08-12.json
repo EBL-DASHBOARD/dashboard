@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T07:37:47.181Z",
+  "generated": "2026-08-12T07:38:19.742Z",
   "groups": [
     {
       "id": "XH",
@@ -126,7 +126,7 @@
           "pm": []
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -144,7 +144,8 @@
         "i12 Katong",
         "Punggol Coast Mall",
         "Tampines Mart",
-        "Century Square"
+        "Century Square",
+        "V Hotel Lavender"
       ],
       "outlets_outstanding": [
         "Junction 9",
@@ -160,7 +161,6 @@
         "SingPost Centre",
         "Flavours @ NUS Uptown",
         "Galaxis",
-        "V Hotel Lavender",
         "The Poiz Centre",
         "New Tech Park",
         "313 Somerset",
@@ -234,6 +234,10 @@
         "Century Square": {
           "by": "Ranjith",
           "time": "15:37"
+        },
+        "V Hotel Lavender": {
+          "by": "Ranjith",
+          "time": "15:38"
         }
       },
       "problems": [],
