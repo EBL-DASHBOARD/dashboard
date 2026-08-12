@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T01:31:55.986Z",
+  "generated": "2026-08-12T01:43:05.688Z",
   "groups": [
     {
       "id": "XH",
@@ -291,11 +291,12 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "JP",
         "DV",
-        "CL2"
+        "CL2",
+        "CCKS"
       ],
       "outlets_outstanding": [
         "BNV",
@@ -304,7 +305,6 @@
         "CTP",
         "CT",
         "HV2",
-        "CCKS",
         "WSM",
         "TRM",
         "VIVO",
@@ -330,6 +330,10 @@
         "CL2": {
           "by": "wizardvishnu460",
           "time": "09:09"
+        },
+        "CCKS": {
+          "by": "Samy Kumar Meena",
+          "time": "09:43"
         }
       },
       "problems": [],
