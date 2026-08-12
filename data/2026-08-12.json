@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T07:07:18.565Z",
+  "generated": "2026-08-12T07:24:56.613Z",
   "groups": [
     {
       "id": "XH",
@@ -126,7 +126,7 @@
           "pm": []
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -140,7 +140,8 @@
         "ARTRA",
         "Dairy Farm Mall",
         "Hillion Mall",
-        "GENEO"
+        "GENEO",
+        "i12 Katong"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
@@ -156,7 +157,6 @@
         "Punggol Coast Mall",
         "Waterway Point",
         "Eastpoint Mall",
-        "i12 Katong",
         "SingPost Centre",
         "Flavours @ NUS Uptown",
         "Galaxis"
@@ -213,6 +213,10 @@
         "GENEO": {
           "by": "Rsathiyaselvi",
           "time": "11:58"
+        },
+        "i12 Katong": {
+          "by": "Rsathiyaselvi",
+          "time": "15:24"
         }
       },
       "problems": [],
