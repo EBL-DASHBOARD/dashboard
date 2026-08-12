@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T04:57:02.838Z",
+  "generated": "2026-08-12T04:59:50.077Z",
   "groups": [
     {
       "id": "XH",
@@ -344,7 +344,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 21,
       "outlets_done": [
         "JP",
         "DV",
@@ -363,13 +363,13 @@
         "ART",
         "WSM",
         "TIO",
-        "VIVO"
+        "VIVO",
+        "KLP",
+        "MSQ",
+        "PS"
       ],
       "outlets_outstanding": [
         "CT",
-        "MSQ",
-        "KLP",
-        "PS",
         "EPT",
         "CCP",
         "LOY",
@@ -464,6 +464,18 @@
         "VIVO": {
           "by": "wizardvishnu460",
           "time": "12:57"
+        },
+        "KLP": {
+          "by": "Sasi",
+          "time": "12:59"
+        },
+        "MSQ": {
+          "by": "Sasi",
+          "time": "12:59"
+        },
+        "PS": {
+          "by": "Sasi",
+          "time": "12:59"
         }
       },
       "problems": [],
