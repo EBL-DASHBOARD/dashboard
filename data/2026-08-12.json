@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T11:40:24.415Z",
+  "generated": "2026-08-12T12:04:50.231Z",
   "groups": [
     {
       "id": "XH",
@@ -413,7 +413,7 @@
           ]
         }
       ],
-      "done": 42,
+      "done": 43,
       "outlets_done": [
         "JP",
         "DV",
@@ -456,11 +456,10 @@
         "WWP",
         "PECC",
         "EPT",
-        "CCP"
-      ],
-      "outlets_outstanding": [
+        "CCP",
         "R3"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "JP": {
           "by": "Samy Kumar Meena",
@@ -629,6 +628,10 @@
         "CCP": {
           "by": "Sudhakar",
           "time": "19:40"
+        },
+        "R3": {
+          "by": "wizardvishnu460",
+          "time": "20:04"
         }
       },
       "problems": [],
