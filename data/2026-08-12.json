@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T03:28:25.946Z",
+  "generated": "2026-08-12T03:38:35.570Z",
   "groups": [
     {
       "id": "XH",
@@ -400,6 +400,65 @@
           "time": "11:28"
         }
       },
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "XHNIGHT",
+      "name": "Xh Delivery (Night)",
+      "total_locations": 10,
+      "am_total": 6,
+      "pm_total": 4,
+      "am_outlets": [
+        "One Raffles Place Tower 2",
+        "Tangs Plaza Kiosk 2",
+        "Royal Group Building",
+        "Parkway Parade",
+        "PLQ Tower 1",
+        "Aperia Mall"
+      ],
+      "pm_outlets": [
+        "Collyer Quay",
+        "NUH Medical Centre",
+        "77 Robinson",
+        "Marina One"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "One Raffles Place Tower 2",
+            "Tangs Plaza Kiosk 2",
+            "Royal Group Building",
+            "Parkway Parade"
+          ],
+          "pm": [
+            "Collyer Quay",
+            "NUH Medical Centre",
+            "77 Robinson",
+            "Marina One"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "PLQ Tower 1",
+            "Aperia Mall"
+          ],
+          "pm": []
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "One Raffles Place Tower 2",
+        "Tangs Plaza Kiosk 2",
+        "Royal Group Building",
+        "Parkway Parade",
+        "PLQ Tower 1",
+        "Aperia Mall"
+      ],
+      "done_detail": {},
       "problems": [],
       "customers": null
     }
