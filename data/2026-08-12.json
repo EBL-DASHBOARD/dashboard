@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T08:13:55.541Z",
+  "generated": "2026-08-12T08:45:17.243Z",
   "groups": [
     {
       "id": "XH",
@@ -126,7 +126,7 @@
           "pm": []
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -147,7 +147,8 @@
         "Century Square",
         "V Hotel Lavender",
         "SingPost Centre",
-        "Waterway Point"
+        "Waterway Point",
+        "The Poiz Centre"
       ],
       "outlets_outstanding": [
         "Junction 9",
@@ -161,7 +162,6 @@
         "Eastpoint Mall",
         "Flavours @ NUS Uptown",
         "Galaxis",
-        "The Poiz Centre",
         "New Tech Park",
         "313 Somerset",
         "Far East Plaza Kiosk E"
@@ -246,6 +246,10 @@
         "Waterway Point": {
           "by": "Nur Azimah",
           "time": "16:13"
+        },
+        "The Poiz Centre": {
+          "by": "Ranjith",
+          "time": "16:45"
         }
       },
       "problems": [],
