@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T03:58:48.263Z",
+  "generated": "2026-08-12T04:00:00.403Z",
   "groups": [
     {
       "id": "XH",
@@ -369,7 +369,28 @@
         "TIO",
         "MSQ",
         "KLP",
-        "PS"
+        "PS",
+        "EPT",
+        "CCP",
+        "LOY",
+        "TNC2",
+        "PECC",
+        "KNX",
+        "TPM",
+        "BHT",
+        "GMM",
+        "NEX",
+        "NTP",
+        "AP2",
+        "R1",
+        "R3",
+        "AP4",
+        "R4",
+        "KTB",
+        "ACV",
+        "WWP",
+        "CM1",
+        "WIS"
       ],
       "done_detail": {
         "JP": {
