@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T03:42:29.157Z",
+  "generated": "2026-08-12T03:42:51.938Z",
   "groups": [
     {
       "id": "XH",
@@ -126,7 +126,7 @@
           "pm": []
         }
       ],
-      "done": 8,
+      "done": 10,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
@@ -135,16 +135,16 @@
         "Tampines 1",
         "Citygate",
         "Vivocity",
-        "Parc Point"
+        "Parc Point",
+        "HarbourFront Tower 1",
+        "ARTRA"
       ],
       "outlets_outstanding": [
         "Tampines Mart",
         "Century Square",
         "Dairy Farm Mall",
         "Hillion Mall",
-        "HarbourFront Tower 1",
         "GENEO",
-        "ARTRA",
         "Junction 9",
         "Northpoint City",
         "Rivervale Plaza",
@@ -184,6 +184,14 @@
         "Parc Point": {
           "by": "Nur Azimah",
           "time": "10:57"
+        },
+        "HarbourFront Tower 1": {
+          "by": "Rsathiyaselvi",
+          "time": "11:42"
+        },
+        "ARTRA": {
+          "by": "Rsathiyaselvi",
+          "time": "11:42"
         }
       },
       "problems": [],
