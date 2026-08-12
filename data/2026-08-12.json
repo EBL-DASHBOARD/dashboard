@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-12T02:20:39.221Z",
+  "generated": "2026-08-12T02:25:27.518Z",
   "groups": [
     {
       "id": "XH",
@@ -126,18 +126,18 @@
           "pm": []
         }
       ],
-      "done": 4,
+      "done": 6,
       "outlets_done": [
         "West Mall",
         "Alexandra Technopark B",
         "Le Quest",
-        "63 Pagoda Street"
+        "63 Pagoda Street",
+        "Tampines 1",
+        "Citygate"
       ],
       "outlets_outstanding": [
-        "Tampines 1",
         "Tampines Mart",
         "Century Square",
-        "Citygate",
         "Dairy Farm Mall",
         "Hillion Mall",
         "Parc Point",
@@ -168,6 +168,14 @@
         "63 Pagoda Street": {
           "by": "TR",
           "time": "10:04"
+        },
+        "Tampines 1": {
+          "by": "boss",
+          "time": "10:25"
+        },
+        "Citygate": {
+          "by": "boss",
+          "time": "10:25"
         }
       },
       "problems": [],
