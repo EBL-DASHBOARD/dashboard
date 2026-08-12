@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "generated": "2026-08-12T17:16:09.157Z",
+  "generated": "2026-08-12T17:16:33.427Z",
   "groups": [
     {
       "id": "XH",
@@ -96,6 +96,129 @@
         "South Beach Tower",
         "Lucky Plaza (AM)",
         "Ngee Ann City (Same store lucky plaza)"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 32,
+      "am_total": 12,
+      "pm_total": 20,
+      "am_outlets": [
+        "KH",
+        "CCKS",
+        "BPP",
+        "YTP",
+        "TGCC",
+        "WXI",
+        "JKN",
+        "IM",
+        "MBA",
+        "TY",
+        "BS",
+        "STC"
+      ],
+      "pm_outlets": [
+        "LOY",
+        "PECC",
+        "CKCC",
+        "TNC2",
+        "J9",
+        "MARS",
+        "YS1",
+        "SSC2",
+        "WLCC",
+        "AP4",
+        "R1",
+        "R3",
+        "AP1",
+        "VIVA",
+        "BOB",
+        "LTM",
+        "FEN",
+        "HRC",
+        "PDD",
+        "CM1"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [],
+          "pm": [
+            "LOY",
+            "PECC",
+            "CKCC",
+            "TNC2"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "KH",
+            "CCKS",
+            "BPP",
+            "YTP"
+          ],
+          "pm": [
+            "J9",
+            "MARS",
+            "YS1",
+            "SSC2",
+            "WLCC"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "TGCC",
+            "WXI",
+            "JKN",
+            "IM"
+          ],
+          "pm": [
+            "AP4",
+            "R1",
+            "R3",
+            "AP1",
+            "VIVA",
+            "BOB"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "MBA",
+            "TY",
+            "BS",
+            "STC"
+          ],
+          "pm": [
+            "LTM",
+            "FEN",
+            "HRC",
+            "PDD",
+            "CM1"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "KH",
+        "CCKS",
+        "BPP",
+        "YTP",
+        "TGCC",
+        "WXI",
+        "JKN",
+        "IM",
+        "MBA",
+        "TY",
+        "BS",
+        "STC"
       ],
       "done_detail": {},
       "problems": [],
