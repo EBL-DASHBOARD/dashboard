@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-08-11T17:36:22.689Z",
+  "generated": "2026-08-12T00:34:33.520Z",
   "groups": [
     {
       "id": "XH",
@@ -126,8 +126,10 @@
           "pm": []
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "West Mall"
+      ],
       "outlets_outstanding": [
         "Tampines 1",
         "Tampines Mart",
@@ -135,7 +137,6 @@
         "Citygate",
         "Le Quest",
         "Dairy Farm Mall",
-        "West Mall",
         "Hillion Mall",
         "Parc Point",
         "HarbourFront Tower 1",
@@ -151,7 +152,12 @@
         "The Woodleigh Mall",
         "63 Pagoda Street"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "West Mall": {
+          "by": "Nur Azimah",
+          "time": "08:34"
+        }
+      },
       "problems": [],
       "customers": null
     },
