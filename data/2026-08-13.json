@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "generated": "2026-08-13T04:14:20.455Z",
+  "generated": "2026-08-13T04:18:49.448Z",
   "groups": [
     {
       "id": "XH",
@@ -81,18 +81,18 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "The Rail Mall",
         "Hougang Mall",
         "Punggol Plaza",
         "Suntec City",
         "Junction 8",
-        "Woods Square"
+        "Woods Square",
+        "Zhongshan Mall"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
-        "Zhongshan Mall",
         "Rivervale Plaza",
         "South Beach Tower",
         "Lucky Plaza (AM)",
@@ -122,6 +122,10 @@
         "Woods Square": {
           "by": "Rsathiyaselvi",
           "time": "12:14"
+        },
+        "Zhongshan Mall": {
+          "by": "Ranjith",
+          "time": "12:18"
         }
       },
       "problems": [],
