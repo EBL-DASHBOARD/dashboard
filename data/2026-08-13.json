@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "generated": "2026-08-13T04:00:00.811Z",
+  "generated": "2026-08-13T04:14:20.455Z",
   "groups": [
     {
       "id": "XH",
@@ -81,19 +81,19 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 6,
       "outlets_done": [
         "The Rail Mall",
         "Hougang Mall",
         "Punggol Plaza",
-        "Suntec City"
+        "Suntec City",
+        "Junction 8",
+        "Woods Square"
       ],
       "outlets_outstanding": [
         "Tanah Merah Ferry Terminal",
         "Zhongshan Mall",
-        "Junction 8",
         "Rivervale Plaza",
-        "Woods Square",
         "South Beach Tower",
         "Lucky Plaza (AM)",
         "Ngee Ann City (Same store lucky plaza)"
@@ -114,6 +114,14 @@
         "Suntec City": {
           "by": "#நVin🇮🇹🚀🔥",
           "time": "11:37"
+        },
+        "Junction 8": {
+          "by": "Rsathiyaselvi",
+          "time": "12:14"
+        },
+        "Woods Square": {
+          "by": "Rsathiyaselvi",
+          "time": "12:14"
         }
       },
       "problems": [],
