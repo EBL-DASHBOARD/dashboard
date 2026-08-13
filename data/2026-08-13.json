@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "generated": "2026-08-13T03:23:46.753Z",
+  "generated": "2026-08-13T03:34:57.073Z",
   "groups": [
     {
       "id": "XH",
@@ -218,7 +218,7 @@
           ]
         }
       ],
-      "done": 9,
+      "done": 11,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -228,11 +228,11 @@
         "TY",
         "MBA",
         "BPP",
-        "BS"
+        "BS",
+        "JKN",
+        "IM"
       ],
       "outlets_outstanding": [
-        "JKN",
-        "IM",
         "STC"
       ],
       "done_detail": {
@@ -271,6 +271,14 @@
         "BS": {
           "by": "K🅰️RTHICK💐",
           "time": "11:23"
+        },
+        "JKN": {
+          "by": "Krishna",
+          "time": "11:34"
+        },
+        "IM": {
+          "by": "Krishna",
+          "time": "11:34"
         }
       },
       "problems": [],
