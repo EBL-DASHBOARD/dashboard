@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-14T16:46:34.285Z",
+  "generated": "2026-08-14T16:47:36.960Z",
   "groups": [
     {
       "id": "XH",
@@ -89,6 +89,215 @@
         "Compass One",
         "Punggol Plaza",
         "Rivervale Plaza"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    },
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 60,
+      "am_total": 27,
+      "pm_total": 33,
+      "am_outlets": [
+        "BQ",
+        "STC",
+        "CT",
+        "BNV",
+        "HV2",
+        "TRM",
+        "YTP",
+        "KH",
+        "CCKS",
+        "BPP",
+        "SHP",
+        "KIT",
+        "TY",
+        "KLP",
+        "WXI",
+        "VIVO",
+        "TIO",
+        "ARC",
+        "KRC",
+        "IM",
+        "JP",
+        "JKN",
+        "TGCC",
+        "DV",
+        "MSQ",
+        "BS",
+        "WSM"
+      ],
+      "pm_outlets": [
+        "PECC",
+        "KNX",
+        "CKCC",
+        "TPM",
+        "LOY",
+        "TNC2",
+        "EPT",
+        "CCP",
+        "BOB",
+        "PAL",
+        "VIVA",
+        "KEB",
+        "HRC",
+        "NTP",
+        "NEX",
+        "WLCC",
+        "AP1",
+        "R4",
+        "R3",
+        "R1",
+        "AP4",
+        "AP2",
+        "J9",
+        "YS1",
+        "KTB",
+        "WIS",
+        "SSC2",
+        "MARS",
+        "PDD",
+        "WWP",
+        "FEN",
+        "ACV",
+        "CM1"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [
+            "BQ",
+            "STC",
+            "CT",
+            "BNV"
+          ],
+          "pm": [
+            "PECC",
+            "KNX",
+            "CKCC",
+            "TPM",
+            "LOY",
+            "TNC2"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "HV2",
+            "TRM",
+            "YTP",
+            "KH",
+            "CCKS",
+            "BPP"
+          ],
+          "pm": [
+            "EPT",
+            "CCP",
+            "BOB",
+            "PAL",
+            "VIVA"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "SHP",
+            "KIT",
+            "TY",
+            "KLP"
+          ],
+          "pm": [
+            "KEB",
+            "HRC",
+            "NTP",
+            "NEX",
+            "WLCC"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "WXI",
+            "VIVO",
+            "TIO",
+            "ARC",
+            "KRC"
+          ],
+          "pm": [
+            "AP1",
+            "R4",
+            "R3",
+            "R1",
+            "AP4",
+            "AP2"
+          ]
+        },
+        {
+          "name": "EBL6-4",
+          "am": [
+            "IM",
+            "JP",
+            "JKN",
+            "TGCC"
+          ],
+          "pm": [
+            "J9",
+            "YS1",
+            "KTB",
+            "WIS",
+            "SSC2",
+            "MARS"
+          ]
+        },
+        {
+          "name": "EBL6-6",
+          "am": [
+            "DV",
+            "MSQ",
+            "BS",
+            "WSM"
+          ],
+          "pm": [
+            "PDD",
+            "WWP",
+            "FEN",
+            "ACV",
+            "CM1"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "BQ",
+        "STC",
+        "CT",
+        "BNV",
+        "HV2",
+        "TRM",
+        "YTP",
+        "KH",
+        "CCKS",
+        "BPP",
+        "SHP",
+        "KIT",
+        "TY",
+        "KLP",
+        "WXI",
+        "VIVO",
+        "TIO",
+        "ARC",
+        "KRC",
+        "IM",
+        "JP",
+        "JKN",
+        "TGCC",
+        "DV",
+        "MSQ",
+        "BS",
+        "WSM"
       ],
       "done_detail": {},
       "problems": [],
