@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-15",
+  "generated": "2026-08-14T11:21:37.721Z",
+  "groups": [
+    {
+      "id": "XH",
+      "name": "Xh Delivery",
+      "total_locations": 20,
+      "am_total": 11,
+      "pm_total": 9,
+      "am_outlets": [
+        "Pasir Ris Mall",
+        "White Sands",
+        "Junction 8",
+        "United Square",
+        "Citygate",
+        "Suntec City",
+        "Hillion Mall",
+        "Holland Village MRT",
+        "Compass One",
+        "Punggol Plaza",
+        "Rivervale Plaza"
+      ],
+      "pm_outlets": [
+        "Causeway Point",
+        "Waterway Point",
+        "888 Plaza",
+        "Downtown East",
+        "SingPost Centre",
+        "i12 Katong",
+        "100 AM Mall",
+        "Guoco Tower",
+        "V Hotel Lavender"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Pasir Ris Mall",
+            "White Sands",
+            "Junction 8",
+            "United Square"
+          ],
+          "pm": [
+            "Causeway Point",
+            "Waterway Point",
+            "888 Plaza"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "Citygate",
+            "Suntec City",
+            "Hillion Mall",
+            "Holland Village MRT"
+          ],
+          "pm": [
+            "Downtown East",
+            "SingPost Centre",
+            "i12 Katong"
+          ]
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Compass One",
+            "Punggol Plaza",
+            "Rivervale Plaza"
+          ],
+          "pm": [
+            "100 AM Mall",
+            "Guoco Tower",
+            "V Hotel Lavender"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Pasir Ris Mall",
+        "White Sands",
+        "Junction 8",
+        "United Square",
+        "Citygate",
+        "Suntec City",
+        "Hillion Mall",
+        "Holland Village MRT",
+        "Compass One",
+        "Punggol Plaza",
+        "Rivervale Plaza"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
