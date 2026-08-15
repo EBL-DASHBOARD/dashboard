@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-15T08:42:41.159Z",
+  "generated": "2026-08-15T08:44:28.121Z",
   "groups": [
     {
       "id": "XH",
@@ -286,7 +286,7 @@
           ]
         }
       ],
-      "done": 39,
+      "done": 40,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -326,7 +326,8 @@
         "R4",
         "AP4",
         "NEX",
-        "NTP"
+        "NTP",
+        "CM1"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -348,8 +349,7 @@
         "PDD",
         "WWP",
         "FEN",
-        "ACV",
-        "CM1"
+        "ACV"
       ],
       "done_detail": {
         "YTP": {
@@ -507,6 +507,10 @@
         "NTP": {
           "by": "Sasi",
           "time": "16:42"
+        },
+        "CM1": {
+          "by": "Kishanthsuresh",
+          "time": "16:44"
         }
       },
       "problems": [],
