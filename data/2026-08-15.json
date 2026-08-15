@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-15T09:34:32.740Z",
+  "generated": "2026-08-15T09:42:13.404Z",
   "groups": [
     {
       "id": "XH",
@@ -286,7 +286,7 @@
           ]
         }
       ],
-      "done": 44,
+      "done": 46,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -331,13 +331,13 @@
         "VIVA",
         "ACV",
         "KTB",
-        "SSC2"
+        "SSC2",
+        "TPM",
+        "TNC2"
       ],
       "outlets_outstanding": [
         "PECC",
-        "TPM",
         "LOY",
-        "TNC2",
         "EPT",
         "CCP",
         "KEB",
@@ -527,6 +527,14 @@
         "SSC2": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "17:34"
+        },
+        "TPM": {
+          "by": "YAAKESH",
+          "time": "17:42"
+        },
+        "TNC2": {
+          "by": "YAAKESH",
+          "time": "17:42"
         }
       },
       "problems": [],
