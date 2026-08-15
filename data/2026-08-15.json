@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-15T02:39:00.397Z",
+  "generated": "2026-08-15T02:45:34.377Z",
   "groups": [
     {
       "id": "XH",
@@ -75,8 +75,10 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "Compass One"
+      ],
       "outlets_outstanding": [
         "Pasir Ris Mall",
         "White Sands",
@@ -86,11 +88,15 @@
         "Suntec City",
         "Hillion Mall",
         "Holland Village MRT",
-        "Compass One",
         "Punggol Plaza",
         "Rivervale Plaza"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "Compass One": {
+          "by": "Rsathiyaselvi",
+          "time": "10:45"
+        }
+      },
       "problems": [],
       "customers": null
     },
