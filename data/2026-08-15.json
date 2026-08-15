@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-15T03:27:58.991Z",
+  "generated": "2026-08-15T03:34:30.738Z",
   "groups": [
     {
       "id": "XH",
@@ -274,7 +274,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -293,13 +293,13 @@
         "KIT",
         "BPP",
         "HV2",
-        "TGCC"
+        "TGCC",
+        "KLP"
       ],
       "outlets_outstanding": [
         "STC",
         "CT",
         "TRM",
-        "KLP",
         "VIVO",
         "TIO",
         "JKN",
@@ -378,6 +378,10 @@
         "TGCC": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "11:27"
+        },
+        "KLP": {
+          "by": "Sasi",
+          "time": "11:34"
         }
       },
       "problems": [],
