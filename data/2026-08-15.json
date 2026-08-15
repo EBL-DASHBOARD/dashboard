@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-15T02:20:03.905Z",
+  "generated": "2026-08-15T02:20:23.029Z",
   "groups": [
     {
       "id": "XH",
@@ -268,7 +268,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -277,7 +277,8 @@
         "WSM",
         "CCKS",
         "KH",
-        "SHP"
+        "SHP",
+        "JP"
       ],
       "outlets_outstanding": [
         "BQ",
@@ -293,7 +294,6 @@
         "ARC",
         "KRC",
         "IM",
-        "JP",
         "JKN",
         "TGCC",
         "DV",
@@ -331,6 +331,10 @@
         },
         "SHP": {
           "by": "Sasi",
+          "time": "10:20"
+        },
+        "JP": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "10:20"
         }
       },
