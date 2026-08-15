@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-15T08:18:10.580Z",
+  "generated": "2026-08-15T08:41:34.305Z",
   "groups": [
     {
       "id": "XH",
@@ -286,7 +286,7 @@
           ]
         }
       ],
-      "done": 35,
+      "done": 37,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -322,7 +322,9 @@
         "YS1",
         "WIS",
         "BOB",
-        "CKCC"
+        "CKCC",
+        "R4",
+        "AP4"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -337,10 +339,8 @@
         "NEX",
         "WLCC",
         "AP1",
-        "R4",
         "R3",
         "R1",
-        "AP4",
         "AP2",
         "KTB",
         "SSC2",
@@ -491,6 +491,14 @@
         "CKCC": {
           "by": "YAAKESH",
           "time": "16:18"
+        },
+        "R4": {
+          "by": "Krishna",
+          "time": "16:41"
+        },
+        "AP4": {
+          "by": "Krishna",
+          "time": "16:41"
         }
       },
       "problems": [],
