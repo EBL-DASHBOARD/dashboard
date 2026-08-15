@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-15T02:36:59.341Z",
+  "generated": "2026-08-15T02:39:00.397Z",
   "groups": [
     {
       "id": "XH",
@@ -268,7 +268,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 14,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -281,7 +281,9 @@
         "JP",
         "IM",
         "BQ",
-        "DV"
+        "DV",
+        "KRC",
+        "ARC"
       ],
       "outlets_outstanding": [
         "STC",
@@ -293,8 +295,6 @@
         "KLP",
         "VIVO",
         "TIO",
-        "ARC",
-        "KRC",
         "JKN",
         "TGCC",
         "MSQ",
@@ -348,6 +348,14 @@
         "DV": {
           "by": "Kishanthsuresh",
           "time": "10:36"
+        },
+        "KRC": {
+          "by": "Krishna",
+          "time": "10:39"
+        },
+        "ARC": {
+          "by": "Krishna",
+          "time": "10:39"
         }
       },
       "problems": [],
