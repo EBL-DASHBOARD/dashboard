@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-15T04:10:54.081Z",
+  "generated": "2026-08-15T04:10:57.307Z",
   "groups": [
     {
       "id": "XH",
@@ -274,7 +274,7 @@
           ]
         }
       ],
-      "done": 25,
+      "done": 26,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -300,10 +300,10 @@
         "TIO",
         "VIVO",
         "JKN",
-        "STC"
+        "STC",
+        "CT"
       ],
       "outlets_outstanding": [
-        "CT",
         "MSQ",
         "PECC",
         "KNX",
@@ -437,6 +437,10 @@
           "time": "12:10"
         },
         "STC": {
+          "by": "Sudhakar",
+          "time": "12:10"
+        },
+        "CT": {
           "by": "Sudhakar",
           "time": "12:10"
         }
