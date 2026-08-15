@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-15T07:33:37.107Z",
+  "generated": "2026-08-15T07:57:29.979Z",
   "groups": [
     {
       "id": "XH",
@@ -286,7 +286,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 33,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -317,7 +317,10 @@
         "MSQ",
         "PAL",
         "KNX",
-        "HRC"
+        "HRC",
+        "J9",
+        "YS1",
+        "WIS"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -339,10 +342,7 @@
         "R1",
         "AP4",
         "AP2",
-        "J9",
-        "YS1",
         "KTB",
-        "WIS",
         "SSC2",
         "MARS",
         "PDD",
@@ -471,6 +471,18 @@
         "HRC": {
           "by": "Sasi",
           "time": "15:33"
+        },
+        "J9": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "15:57"
+        },
+        "YS1": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "15:57"
+        },
+        "WIS": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "15:57"
         }
       },
       "problems": [],
