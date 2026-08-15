@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-15T11:35:39.132Z",
+  "generated": "2026-08-15T11:45:02.886Z",
   "groups": [
     {
       "id": "XH",
@@ -286,7 +286,7 @@
           ]
         }
       ],
-      "done": 56,
+      "done": 57,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -343,12 +343,12 @@
         "AP2",
         "WLCC",
         "LOY",
-        "PECC"
+        "PECC",
+        "MARS"
       ],
       "outlets_outstanding": [
         "AP1",
         "R3",
-        "MARS",
         "PDD"
       ],
       "done_detail": {
@@ -575,6 +575,10 @@
         "PECC": {
           "by": "YAAKESH",
           "time": "19:35"
+        },
+        "MARS": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "19:45"
         }
       },
       "problems": [],
