@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-15T04:10:39.279Z",
+  "generated": "2026-08-15T04:10:54.081Z",
   "groups": [
     {
       "id": "XH",
@@ -274,7 +274,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -299,10 +299,10 @@
         "BS",
         "TIO",
         "VIVO",
-        "JKN"
+        "JKN",
+        "STC"
       ],
       "outlets_outstanding": [
-        "STC",
         "CT",
         "MSQ",
         "PECC",
@@ -434,6 +434,10 @@
         },
         "JKN": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "12:10"
+        },
+        "STC": {
+          "by": "Sudhakar",
           "time": "12:10"
         }
       },
