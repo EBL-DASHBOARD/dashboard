@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-15T06:57:26.779Z",
+  "generated": "2026-08-15T07:30:18.614Z",
   "groups": [
     {
       "id": "XH",
@@ -286,7 +286,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -315,11 +315,11 @@
         "STC",
         "CT",
         "MSQ",
-        "PAL"
+        "PAL",
+        "KNX"
       ],
       "outlets_outstanding": [
         "PECC",
-        "KNX",
         "CKCC",
         "TPM",
         "LOY",
@@ -463,6 +463,10 @@
         "PAL": {
           "by": "Samy Kumar Meena",
           "time": "14:57"
+        },
+        "KNX": {
+          "by": "YAAKESH",
+          "time": "15:30"
         }
       },
       "problems": [],
