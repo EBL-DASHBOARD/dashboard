@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-15T03:34:30.738Z",
+  "generated": "2026-08-15T03:46:38.936Z",
   "groups": [
     {
       "id": "XH",
@@ -274,7 +274,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -294,12 +294,12 @@
         "BPP",
         "HV2",
         "TGCC",
-        "KLP"
+        "KLP",
+        "TRM"
       ],
       "outlets_outstanding": [
         "STC",
         "CT",
-        "TRM",
         "VIVO",
         "TIO",
         "JKN",
@@ -382,6 +382,10 @@
         "KLP": {
           "by": "Sasi",
           "time": "11:34"
+        },
+        "TRM": {
+          "by": "Samy Kumar Meena",
+          "time": "11:46"
         }
       },
       "problems": [],
