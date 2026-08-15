@@ -1,0 +1,97 @@
+{
+  "date": "2026-08-16",
+  "generated": "2026-08-15T05:59:16.183Z",
+  "groups": [
+    {
+      "id": "XHNIGHT",
+      "name": "Xh Delivery (Night)",
+      "total_locations": 17,
+      "am_total": 12,
+      "pm_total": 5,
+      "am_outlets": [
+        "Jewel",
+        "Changi T1 Transit",
+        "Icon Link",
+        "Chinatown Point",
+        "Changi City Point",
+        "Hougang 1",
+        "ESR BizPark @ Changi",
+        "Parkway Parade",
+        "Century Square",
+        "63 Pagoda Street",
+        "The Woodleigh Mall",
+        "Flavours @ NUS Uptown"
+      ],
+      "pm_outlets": [
+        "Coronation Shopping Plaza",
+        "The Strategy",
+        "Ngee Ann Polytechnic",
+        "Westgate",
+        "NTU South Spine"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "Jewel",
+            "Changi T1 Transit"
+          ],
+          "pm": []
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "Icon Link",
+            "Chinatown Point"
+          ],
+          "pm": []
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Changi City Point",
+            "Hougang 1",
+            "ESR BizPark @ Changi",
+            "Parkway Parade"
+          ],
+          "pm": [
+            "Coronation Shopping Plaza",
+            "The Strategy",
+            "Ngee Ann Polytechnic",
+            "Westgate",
+            "NTU South Spine"
+          ]
+        },
+        {
+          "name": "TRUCK 4",
+          "am": [
+            "Century Square",
+            "63 Pagoda Street",
+            "The Woodleigh Mall",
+            "Flavours @ NUS Uptown"
+          ],
+          "pm": []
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "Jewel",
+        "Changi T1 Transit",
+        "Icon Link",
+        "Chinatown Point",
+        "Changi City Point",
+        "Hougang 1",
+        "ESR BizPark @ Changi",
+        "Parkway Parade",
+        "Century Square",
+        "63 Pagoda Street",
+        "The Woodleigh Mall",
+        "Flavours @ NUS Uptown"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
