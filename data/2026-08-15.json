@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-15T11:22:03.835Z",
+  "generated": "2026-08-15T11:35:39.132Z",
   "groups": [
     {
       "id": "XH",
@@ -286,7 +286,7 @@
           ]
         }
       ],
-      "done": 54,
+      "done": 56,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -341,11 +341,11 @@
         "R1",
         "WWP",
         "AP2",
-        "WLCC"
+        "WLCC",
+        "LOY",
+        "PECC"
       ],
       "outlets_outstanding": [
-        "PECC",
-        "LOY",
         "AP1",
         "R3",
         "MARS",
@@ -567,6 +567,14 @@
         "WLCC": {
           "by": "Sasi",
           "time": "19:22"
+        },
+        "LOY": {
+          "by": "YAAKESH",
+          "time": "19:35"
+        },
+        "PECC": {
+          "by": "YAAKESH",
+          "time": "19:35"
         }
       },
       "problems": [],
