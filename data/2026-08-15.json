@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-15T07:30:18.614Z",
+  "generated": "2026-08-15T07:33:37.107Z",
   "groups": [
     {
       "id": "XH",
@@ -286,7 +286,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -316,7 +316,8 @@
         "CT",
         "MSQ",
         "PAL",
-        "KNX"
+        "KNX",
+        "HRC"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -329,7 +330,6 @@
         "BOB",
         "VIVA",
         "KEB",
-        "HRC",
         "NTP",
         "NEX",
         "WLCC",
@@ -467,6 +467,10 @@
         "KNX": {
           "by": "YAAKESH",
           "time": "15:30"
+        },
+        "HRC": {
+          "by": "Sasi",
+          "time": "15:33"
         }
       },
       "problems": [],
