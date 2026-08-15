@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-15T04:48:38.019Z",
+  "generated": "2026-08-15T04:52:21.624Z",
   "groups": [
     {
       "id": "XH",
@@ -75,14 +75,14 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 4,
       "outlets_done": [
         "Compass One",
-        "Punggol Plaza"
+        "Punggol Plaza",
+        "Pasir Ris Mall",
+        "White Sands"
       ],
       "outlets_outstanding": [
-        "Pasir Ris Mall",
-        "White Sands",
         "Junction 8",
         "United Square",
         "Citygate",
@@ -99,6 +99,14 @@
         "Punggol Plaza": {
           "by": "Rsathiyaselvi",
           "time": "12:48"
+        },
+        "Pasir Ris Mall": {
+          "by": "Ranjith",
+          "time": "12:52"
+        },
+        "White Sands": {
+          "by": "Ranjith",
+          "time": "12:52"
         }
       },
       "problems": [],
