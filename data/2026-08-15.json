@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-08-15T10:04:42.766Z",
+  "generated": "2026-08-15T10:05:59.030Z",
   "groups": [
     {
       "id": "XH",
@@ -286,7 +286,7 @@
           ]
         }
       ],
-      "done": 47,
+      "done": 49,
       "outlets_done": [
         "YTP",
         "WXI",
@@ -334,13 +334,13 @@
         "SSC2",
         "TPM",
         "TNC2",
-        "FEN"
+        "FEN",
+        "CCP",
+        "EPT"
       ],
       "outlets_outstanding": [
         "PECC",
         "LOY",
-        "EPT",
-        "CCP",
         "KEB",
         "WLCC",
         "AP1",
@@ -539,6 +539,14 @@
         "FEN": {
           "by": "Kishanthsuresh",
           "time": "18:04"
+        },
+        "CCP": {
+          "by": "Samy Kumar Meena",
+          "time": "18:05"
+        },
+        "EPT": {
+          "by": "Samy Kumar Meena",
+          "time": "18:05"
         }
       },
       "problems": [],
