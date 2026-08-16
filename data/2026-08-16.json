@@ -1,6 +1,6 @@
 {
   "date": "2026-08-16",
-  "generated": "2026-08-16T02:24:36.414Z",
+  "generated": "2026-08-16T15:20:32.805Z",
   "groups": [
     {
       "id": "XHNIGHT",
@@ -73,11 +73,12 @@
           "pm": []
         }
       ],
-      "done": 0,
-      "outlets_done": [],
-      "outlets_outstanding": [
+      "done": 2,
+      "outlets_done": [
         "Jewel",
-        "Changi T1 Transit",
+        "Changi T1 Transit"
+      ],
+      "outlets_outstanding": [
         "Icon Link",
         "Chinatown Point",
         "Changi City Point",
@@ -89,7 +90,16 @@
         "The Woodleigh Mall",
         "Flavours @ NUS Uptown"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "Jewel": {
+          "by": "~ Mahadeb ~",
+          "time": "23:20"
+        },
+        "Changi T1 Transit": {
+          "by": "~ Mahadeb ~",
+          "time": "23:20"
+        }
+      },
       "problems": [],
       "customers": null
     }
