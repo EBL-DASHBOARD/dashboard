@@ -1,0 +1,169 @@
+{
+  "date": "2026-08-17",
+  "generated": "2026-08-16T11:28:53.208Z",
+  "groups": [
+    {
+      "id": "XH",
+      "name": "Xh Delivery",
+      "total_locations": 40,
+      "am_total": 22,
+      "pm_total": 18,
+      "am_outlets": [
+        "UE Square",
+        "Holland Village MRT",
+        "Alexandra Technopark B",
+        "ARTRA",
+        "Tanah Merah Ferry Terminal",
+        "Tampines Mart",
+        "Tampines 1",
+        "Zhongshan Mall",
+        "Dairy Farm Mall",
+        "Hillion Mall",
+        "Le Quest",
+        "West Mall",
+        "Parc Point",
+        "Hougang Mall",
+        "Junction 9",
+        "Northpoint City",
+        "Vivocity",
+        "AltitudeX",
+        "HarbourFront Tower 1",
+        "GENEO",
+        "Lucky Plaza",
+        "Ngee Ann City (Same store luc"
+      ],
+      "pm_outlets": [
+        "Punggol Coast Mall",
+        "The Poiz Centre",
+        "Royal Square",
+        "New Tech Park",
+        "Eastpoint Mall",
+        "313 Somerset",
+        "Far East Plaza Kiosk E",
+        "V Hotel Lavender",
+        "Compass One",
+        "Rivervale Mall",
+        "Causeway Point",
+        "Waterway Point",
+        "120 Robinson",
+        "Galaxis",
+        "Mapletree Business City",
+        "Westgate Tower",
+        "JEM",
+        "Fairprice Hub"
+      ],
+      "trucks": [
+        {
+          "name": "TRUCK 1",
+          "am": [
+            "UE Square",
+            "Holland Village MRT",
+            "Alexandra Technopark B",
+            "ARTRA"
+          ],
+          "pm": [
+            "Punggol Coast Mall",
+            "The Poiz Centre",
+            "Royal Square",
+            "New Tech Park"
+          ]
+        },
+        {
+          "name": "TRUCK 2",
+          "am": [
+            "Tanah Merah Ferry Terminal",
+            "Tampines Mart",
+            "Tampines 1",
+            "Zhongshan Mall"
+          ],
+          "pm": [
+            "Eastpoint Mall",
+            "313 Somerset",
+            "Far East Plaza Kiosk E",
+            "V Hotel Lavender"
+          ]
+        },
+        {
+          "name": "TRUCK 3",
+          "am": [
+            "Dairy Farm Mall",
+            "Hillion Mall",
+            "Le Quest",
+            "West Mall",
+            "Parc Point"
+          ],
+          "pm": [
+            "Compass One",
+            "Rivervale Mall",
+            "Causeway Point",
+            "Waterway Point"
+          ]
+        },
+        {
+          "name": "TRUCK 4",
+          "am": [
+            "Hougang Mall",
+            "Junction 9",
+            "Northpoint City"
+          ],
+          "pm": [
+            "120 Robinson",
+            "Galaxis",
+            "Mapletree Business City"
+          ]
+        },
+        {
+          "name": "TRUCK 5",
+          "am": [
+            "Vivocity",
+            "AltitudeX",
+            "HarbourFront Tower 1",
+            "GENEO"
+          ],
+          "pm": [
+            "Westgate Tower",
+            "JEM",
+            "Fairprice Hub"
+          ]
+        },
+        {
+          "name": "TRUCK 6",
+          "am": [
+            "Lucky Plaza",
+            "Ngee Ann City (Same store luc"
+          ],
+          "pm": []
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "UE Square",
+        "Holland Village MRT",
+        "Alexandra Technopark B",
+        "ARTRA",
+        "Tanah Merah Ferry Terminal",
+        "Tampines Mart",
+        "Tampines 1",
+        "Zhongshan Mall",
+        "Dairy Farm Mall",
+        "Hillion Mall",
+        "Le Quest",
+        "West Mall",
+        "Parc Point",
+        "Hougang Mall",
+        "Junction 9",
+        "Northpoint City",
+        "Vivocity",
+        "AltitudeX",
+        "HarbourFront Tower 1",
+        "GENEO",
+        "Lucky Plaza",
+        "Ngee Ann City (Same store luc"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
