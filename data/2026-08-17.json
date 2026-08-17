@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T12:03:41.001Z",
+  "generated": "2026-08-17T12:47:11.175Z",
   "groups": [
     {
       "id": "XH",
@@ -332,7 +332,7 @@
           ]
         }
       ],
-      "done": 50,
+      "done": 51,
       "outlets_done": [
         "CCKS",
         "DV",
@@ -383,11 +383,10 @@
         "KEB",
         "LOY",
         "PECC",
-        "R3"
-      ],
-      "outlets_outstanding": [
+        "R3",
         "AP1"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "CCKS": {
           "by": "Samy Kumar Meena",
@@ -588,6 +587,10 @@
         "R3": {
           "by": "Krishna",
           "time": "20:03"
+        },
+        "AP1": {
+          "by": "Krishna",
+          "time": "20:47"
         }
       },
       "problems": [],
