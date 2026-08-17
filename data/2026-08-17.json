@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T01:02:00.567Z",
+  "generated": "2026-08-17T01:08:51.945Z",
   "groups": [
     {
       "id": "XH",
@@ -135,14 +135,15 @@
           "pm": []
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "Tanah Merah Ferry Terminal"
+      ],
       "outlets_outstanding": [
         "UE Square",
         "Holland Village MRT",
         "Alexandra Technopark B",
         "ARTRA",
-        "Tanah Merah Ferry Terminal",
         "Tampines Mart",
         "Tampines 1",
         "Zhongshan Mall",
@@ -161,7 +162,12 @@
         "Lucky Plaza",
         "Ngee Ann City (Same store luc"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "Tanah Merah Ferry Terminal": {
+          "by": "Ranjith",
+          "time": "09:08"
+        }
+      },
       "problems": [],
       "customers": null
     },
