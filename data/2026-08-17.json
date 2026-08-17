@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T03:45:21.461Z",
+  "generated": "2026-08-17T04:00:29.926Z",
   "groups": [
     {
       "id": "XH",
@@ -357,7 +357,36 @@
         "VIVO"
       ],
       "outlets_outstanding": [
-        "PS"
+        "PS",
+        "TNC2",
+        "TPM",
+        "CKCC",
+        "PECC",
+        "LOY",
+        "KNX",
+        "CCP",
+        "VIVA",
+        "EPT",
+        "BOB",
+        "BHT",
+        "NTP",
+        "GMM",
+        "PAL",
+        "NEX",
+        "KEB",
+        "AP2",
+        "AP1",
+        "R4",
+        "R3",
+        "AP4",
+        "R1",
+        "WIS",
+        "YS1",
+        "KTB",
+        "CM1",
+        "ACV",
+        "WWP",
+        "MARS"
       ],
       "done_detail": {
         "CCKS": {
