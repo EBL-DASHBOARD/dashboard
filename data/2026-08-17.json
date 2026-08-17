@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T01:59:28.625Z",
+  "generated": "2026-08-17T02:01:36.467Z",
   "groups": [
     {
       "id": "XH",
@@ -135,10 +135,11 @@
           "pm": []
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "Tanah Merah Ferry Terminal",
-        "HarbourFront Tower 1"
+        "HarbourFront Tower 1",
+        "Northpoint City"
       ],
       "outlets_outstanding": [
         "UE Square",
@@ -155,7 +156,6 @@
         "Parc Point",
         "Hougang Mall",
         "Junction 9",
-        "Northpoint City",
         "Vivocity",
         "AltitudeX",
         "GENEO",
@@ -170,6 +170,10 @@
         "HarbourFront Tower 1": {
           "by": "palanivelumuthukumar",
           "time": "09:11"
+        },
+        "Northpoint City": {
+          "by": "Rsathiyaselvi",
+          "time": "10:01"
         }
       },
       "problems": [],
