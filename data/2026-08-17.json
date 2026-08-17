@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T01:11:29.073Z",
+  "generated": "2026-08-17T01:12:11.932Z",
   "groups": [
     {
       "id": "XH",
@@ -324,19 +324,19 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "CCKS",
         "DV",
         "CL2",
-        "WSM"
+        "WSM",
+        "KRC"
       ],
       "outlets_outstanding": [
         "CTP",
         "BNV",
         "CT",
         "PS",
-        "KRC",
         "KH",
         "BPP",
         "HV2",
@@ -367,6 +367,10 @@
         "WSM": {
           "by": "Rajesh",
           "time": "09:02"
+        },
+        "KRC": {
+          "by": "YAAKESH",
+          "time": "09:12"
         }
       },
       "problems": [],
