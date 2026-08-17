@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T10:11:51.527Z",
+  "generated": "2026-08-17T10:39:13.141Z",
   "groups": [
     {
       "id": "XH",
@@ -332,7 +332,7 @@
           ]
         }
       ],
-      "done": 42,
+      "done": 43,
       "outlets_done": [
         "CCKS",
         "DV",
@@ -375,12 +375,12 @@
         "CCP",
         "YS1",
         "NEX",
-        "NTP"
+        "NTP",
+        "EPT"
       ],
       "outlets_outstanding": [
         "PECC",
         "LOY",
-        "EPT",
         "KEB",
         "AP2",
         "AP1",
@@ -556,6 +556,10 @@
         "NTP": {
           "by": "Sasi",
           "time": "18:11"
+        },
+        "EPT": {
+          "by": "Samy Kumar Meena",
+          "time": "18:39"
         }
       },
       "problems": [],
