@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T08:10:15.423Z",
+  "generated": "2026-08-17T08:25:22.030Z",
   "groups": [
     {
       "id": "XH",
@@ -332,7 +332,7 @@
           ]
         }
       ],
-      "done": 31,
+      "done": 32,
       "outlets_done": [
         "CCKS",
         "DV",
@@ -364,7 +364,8 @@
         "R4",
         "AP4",
         "CM1",
-        "CKCC"
+        "CKCC",
+        "GMM"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -375,7 +376,6 @@
         "VIVA",
         "EPT",
         "NTP",
-        "GMM",
         "NEX",
         "KEB",
         "AP2",
@@ -512,6 +512,10 @@
         "CKCC": {
           "by": "Sudhakar",
           "time": "16:10"
+        },
+        "GMM": {
+          "by": "Sasi",
+          "time": "16:25"
         }
       },
       "problems": [],
