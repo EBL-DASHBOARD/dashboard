@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T01:53:52.499Z",
+  "generated": "2026-08-17T01:59:17.144Z",
   "groups": [
     {
       "id": "XH",
@@ -324,7 +324,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "CCKS",
         "DV",
@@ -332,7 +332,8 @@
         "WSM",
         "KRC",
         "KH",
-        "ART"
+        "ART",
+        "IM"
       ],
       "outlets_outstanding": [
         "CTP",
@@ -348,8 +349,7 @@
         "SHP",
         "VIVO",
         "TIO",
-        "JP",
-        "IM"
+        "JP"
       ],
       "done_detail": {
         "CCKS": {
@@ -379,6 +379,10 @@
         "ART": {
           "by": "Krishna",
           "time": "09:53"
+        },
+        "IM": {
+          "by": "Rajesh",
+          "time": "09:59"
         }
       },
       "problems": [],
