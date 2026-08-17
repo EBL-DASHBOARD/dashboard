@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T03:35:43.763Z",
+  "generated": "2026-08-17T03:42:06.711Z",
   "groups": [
     {
       "id": "XH",
@@ -332,7 +332,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 20,
       "outlets_done": [
         "CCKS",
         "DV",
@@ -351,12 +351,12 @@
         "HV2",
         "TRM",
         "CTP",
-        "CT"
+        "CT",
+        "KIT",
+        "KLP"
       ],
       "outlets_outstanding": [
         "PS",
-        "KIT",
-        "KLP",
         "VIVO"
       ],
       "done_detail": {
@@ -431,6 +431,14 @@
         "CT": {
           "by": "YAAKESH",
           "time": "11:35"
+        },
+        "KIT": {
+          "by": "Sasi",
+          "time": "11:42"
+        },
+        "KLP": {
+          "by": "Sasi",
+          "time": "11:42"
         }
       },
       "problems": [],
