@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T01:59:17.144Z",
+  "generated": "2026-08-17T01:59:28.625Z",
   "groups": [
     {
       "id": "XH",
@@ -324,7 +324,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "CCKS",
         "DV",
@@ -333,7 +333,8 @@
         "KRC",
         "KH",
         "ART",
-        "IM"
+        "IM",
+        "USQ"
       ],
       "outlets_outstanding": [
         "CTP",
@@ -343,7 +344,6 @@
         "BPP",
         "HV2",
         "TRM",
-        "USQ",
         "KIT",
         "KLP",
         "SHP",
@@ -382,6 +382,10 @@
         },
         "IM": {
           "by": "Rajesh",
+          "time": "09:59"
+        },
+        "USQ": {
+          "by": "Sasi",
           "time": "09:59"
         }
       },
