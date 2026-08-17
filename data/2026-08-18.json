@@ -1,0 +1,134 @@
+{
+  "date": "2026-08-18",
+  "generated": "2026-08-17T13:29:49.603Z",
+  "groups": [
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 33,
+      "am_total": 15,
+      "pm_total": 18,
+      "am_outlets": [
+        "CT",
+        "KRC",
+        "IM",
+        "WXI",
+        "JKN",
+        "KH",
+        "BPP",
+        "YTP",
+        "TGCC",
+        "WSM",
+        "STC",
+        "MBA",
+        "BS",
+        "TY",
+        "KIT"
+      ],
+      "pm_outlets": [
+        "WNC",
+        "WLCC",
+        "VIVA",
+        "R3",
+        "AP1",
+        "AP4",
+        "R1",
+        "LTM",
+        "J9",
+        "MARS",
+        "YS1",
+        "SSC2",
+        "KEB",
+        "PDD",
+        "WWP",
+        "HRC",
+        "FEN",
+        "CM1"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-6",
+          "am": [],
+          "pm": [
+            "WNC",
+            "WLCC"
+          ]
+        },
+        {
+          "name": "EBL6-6",
+          "am": [
+            "CT",
+            "KRC",
+            "IM",
+            "WXI",
+            "JKN"
+          ],
+          "pm": [
+            "VIVA",
+            "R3",
+            "AP1",
+            "AP4",
+            "R1"
+          ]
+        },
+        {
+          "name": "EBL6-6",
+          "am": [
+            "KH",
+            "BPP",
+            "YTP",
+            "TGCC",
+            "WSM"
+          ],
+          "pm": [
+            "LTM",
+            "J9",
+            "MARS",
+            "YS1",
+            "SSC2"
+          ]
+        },
+        {
+          "name": "EBL6-6",
+          "am": [
+            "STC",
+            "MBA",
+            "BS",
+            "TY",
+            "KIT"
+          ],
+          "pm": [
+            "KEB",
+            "PDD",
+            "WWP",
+            "HRC",
+            "FEN",
+            "CM1"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "CT",
+        "KRC",
+        "IM",
+        "WXI",
+        "JKN",
+        "KH",
+        "BPP",
+        "YTP",
+        "TGCC",
+        "WSM",
+        "STC",
+        "MBA",
+        "BS",
+        "TY",
+        "KIT"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
