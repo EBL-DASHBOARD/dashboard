@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T10:40:59.452Z",
+  "generated": "2026-08-17T11:00:46.888Z",
   "groups": [
     {
       "id": "XH",
@@ -332,7 +332,7 @@
           ]
         }
       ],
-      "done": 44,
+      "done": 45,
       "outlets_done": [
         "CCKS",
         "DV",
@@ -377,7 +377,8 @@
         "NEX",
         "NTP",
         "EPT",
-        "AP2"
+        "AP2",
+        "WIS"
       ],
       "outlets_outstanding": [
         "PECC",
@@ -385,7 +386,6 @@
         "KEB",
         "AP1",
         "R3",
-        "WIS",
         "MARS"
       ],
       "done_detail": {
@@ -564,6 +564,10 @@
         "AP2": {
           "by": "Krishna",
           "time": "18:40"
+        },
+        "WIS": {
+          "by": "Rajesh",
+          "time": "19:00"
         }
       },
       "problems": [],
