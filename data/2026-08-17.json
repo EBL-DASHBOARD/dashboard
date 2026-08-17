@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T08:03:59.788Z",
+  "generated": "2026-08-17T08:05:16.431Z",
   "groups": [
     {
       "id": "XH",
@@ -332,7 +332,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "CCKS",
         "DV",
@@ -362,7 +362,8 @@
         "KNX",
         "BOB",
         "R4",
-        "AP4"
+        "AP4",
+        "CM1"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -384,7 +385,6 @@
         "WIS",
         "YS1",
         "KTB",
-        "CM1",
         "WWP",
         "MARS"
       ],
@@ -504,6 +504,10 @@
         "AP4": {
           "by": "Krishna",
           "time": "16:03"
+        },
+        "CM1": {
+          "by": "Rajesh",
+          "time": "16:05"
         }
       },
       "problems": [],
