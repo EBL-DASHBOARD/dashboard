@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T01:33:40.144Z",
+  "generated": "2026-08-17T01:53:52.499Z",
   "groups": [
     {
       "id": "XH",
@@ -324,14 +324,15 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "CCKS",
         "DV",
         "CL2",
         "WSM",
         "KRC",
-        "KH"
+        "KH",
+        "ART"
       ],
       "outlets_outstanding": [
         "CTP",
@@ -347,7 +348,6 @@
         "SHP",
         "VIVO",
         "TIO",
-        "ART",
         "JP",
         "IM"
       ],
@@ -375,6 +375,10 @@
         "KH": {
           "by": "Samy Kumar Meena",
           "time": "09:33"
+        },
+        "ART": {
+          "by": "Krishna",
+          "time": "09:53"
         }
       },
       "problems": [],
