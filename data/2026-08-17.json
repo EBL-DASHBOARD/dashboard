@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T02:38:49.420Z",
+  "generated": "2026-08-17T02:42:24.087Z",
   "groups": [
     {
       "id": "XH",
@@ -332,7 +332,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "CCKS",
         "DV",
@@ -345,7 +345,8 @@
         "USQ",
         "BNV",
         "BPP",
-        "SHP"
+        "SHP",
+        "TIO"
       ],
       "outlets_outstanding": [
         "CTP",
@@ -356,7 +357,6 @@
         "KIT",
         "KLP",
         "VIVO",
-        "TIO",
         "JP"
       ],
       "done_detail": {
@@ -407,6 +407,10 @@
         "SHP": {
           "by": "Sasi",
           "time": "10:38"
+        },
+        "TIO": {
+          "by": "Krishna",
+          "time": "10:42"
         }
       },
       "problems": [],
