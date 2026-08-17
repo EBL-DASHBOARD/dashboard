@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T09:07:00.526Z",
+  "generated": "2026-08-17T09:39:18.926Z",
   "groups": [
     {
       "id": "XH",
@@ -332,7 +332,7 @@
           ]
         }
       ],
-      "done": 35,
+      "done": 36,
       "outlets_done": [
         "CCKS",
         "DV",
@@ -368,7 +368,8 @@
         "GMM",
         "VIVA",
         "WWP",
-        "KTB"
+        "KTB",
+        "R1"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -383,7 +384,6 @@
         "AP2",
         "AP1",
         "R3",
-        "R1",
         "WIS",
         "YS1",
         "MARS"
@@ -528,6 +528,10 @@
         "KTB": {
           "by": "Rajesh",
           "time": "17:07"
+        },
+        "R1": {
+          "by": "Krishna",
+          "time": "17:39"
         }
       },
       "problems": [],
