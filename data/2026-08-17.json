@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T02:10:02.942Z",
+  "generated": "2026-08-17T02:13:11.336Z",
   "groups": [
     {
       "id": "XH",
@@ -332,7 +332,7 @@
           ]
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "CCKS",
         "DV",
@@ -342,11 +342,11 @@
         "KH",
         "ART",
         "IM",
-        "USQ"
+        "USQ",
+        "BNV"
       ],
       "outlets_outstanding": [
         "CTP",
-        "BNV",
         "CT",
         "PS",
         "BPP",
@@ -395,6 +395,10 @@
         "USQ": {
           "by": "Sasi",
           "time": "09:59"
+        },
+        "BNV": {
+          "by": "YAAKESH",
+          "time": "10:13"
         }
       },
       "problems": [],
