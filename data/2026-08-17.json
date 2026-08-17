@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T06:45:57.156Z",
+  "generated": "2026-08-17T06:50:54.483Z",
   "groups": [
     {
       "id": "XH",
@@ -332,7 +332,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "CCKS",
         "DV",
@@ -356,7 +356,8 @@
         "KLP",
         "VIVO",
         "PS",
-        "BHT"
+        "BHT",
+        "ACV"
       ],
       "outlets_outstanding": [
         "TNC2",
@@ -384,7 +385,6 @@
         "YS1",
         "KTB",
         "CM1",
-        "ACV",
         "WWP",
         "MARS"
       ],
@@ -480,6 +480,10 @@
         "BHT": {
           "by": "Samy Kumar Meena",
           "time": "14:45"
+        },
+        "ACV": {
+          "by": "Rajesh",
+          "time": "14:50"
         }
       },
       "problems": [],
