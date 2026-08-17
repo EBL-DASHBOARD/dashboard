@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T11:38:08.931Z",
+  "generated": "2026-08-17T12:03:41.001Z",
   "groups": [
     {
       "id": "XH",
@@ -332,7 +332,7 @@
           ]
         }
       ],
-      "done": 49,
+      "done": 50,
       "outlets_done": [
         "CCKS",
         "DV",
@@ -382,11 +382,11 @@
         "MARS",
         "KEB",
         "LOY",
-        "PECC"
+        "PECC",
+        "R3"
       ],
       "outlets_outstanding": [
-        "AP1",
-        "R3"
+        "AP1"
       ],
       "done_detail": {
         "CCKS": {
@@ -584,6 +584,10 @@
         "PECC": {
           "by": "YAAKESH",
           "time": "19:38"
+        },
+        "R3": {
+          "by": "Krishna",
+          "time": "20:03"
         }
       },
       "problems": [],
