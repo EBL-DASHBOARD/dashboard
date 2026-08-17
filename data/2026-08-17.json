@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T00:49:18.345Z",
+  "generated": "2026-08-17T00:57:05.983Z",
   "groups": [
     {
       "id": "XH",
@@ -314,10 +314,11 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "CCKS",
-        "DV"
+        "DV",
+        "CL2"
       ],
       "outlets_outstanding": [
         "CTP",
@@ -335,7 +336,6 @@
         "SHP",
         "VIVO",
         "TIO",
-        "CL2",
         "ART",
         "JP",
         "IM",
@@ -349,6 +349,10 @@
         "DV": {
           "by": "Sasi",
           "time": "08:49"
+        },
+        "CL2": {
+          "by": "Krishna",
+          "time": "08:57"
         }
       },
       "problems": [],
