@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated": "2026-08-17T11:00:55.792Z",
+  "generated": "2026-08-17T11:03:12.104Z",
   "groups": [
     {
       "id": "XH",
@@ -332,7 +332,7 @@
           ]
         }
       ],
-      "done": 46,
+      "done": 47,
       "outlets_done": [
         "CCKS",
         "DV",
@@ -379,12 +379,12 @@
         "EPT",
         "AP2",
         "WIS",
-        "MARS"
+        "MARS",
+        "KEB"
       ],
       "outlets_outstanding": [
         "PECC",
         "LOY",
-        "KEB",
         "AP1",
         "R3"
       ],
@@ -572,6 +572,10 @@
         "MARS": {
           "by": "Rajesh",
           "time": "19:00"
+        },
+        "KEB": {
+          "by": "Sasi",
+          "time": "19:03"
         }
       },
       "problems": [],
