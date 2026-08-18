@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated": "2026-08-18T01:37:23.501Z",
+  "generated": "2026-08-18T01:40:47.032Z",
   "groups": [
     {
       "id": "EBL6",
@@ -107,16 +107,16 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "WXI",
         "YTP",
         "TY",
-        "KH"
+        "KH",
+        "KRC"
       ],
       "outlets_outstanding": [
         "CT",
-        "KRC",
         "IM",
         "JKN",
         "BPP",
@@ -143,6 +143,10 @@
         "KH": {
           "by": "Samy Kumar Meena",
           "time": "09:37"
+        },
+        "KRC": {
+          "by": "Krishna",
+          "time": "09:40"
         }
       },
       "problems": [],
