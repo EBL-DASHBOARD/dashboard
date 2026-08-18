@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated": "2026-08-18T08:44:36.022Z",
+  "generated": "2026-08-18T08:54:51.719Z",
   "groups": [
     {
       "id": "EBL6",
@@ -107,7 +107,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "WXI",
         "YTP",
@@ -129,7 +129,8 @@
         "HRC",
         "SSC2",
         "WNC",
-        "AP4"
+        "AP4",
+        "J9"
       ],
       "outlets_outstanding": [
         "WLCC",
@@ -137,7 +138,6 @@
         "AP1",
         "R1",
         "LTM",
-        "J9",
         "YS1",
         "KEB",
         "PDD",
@@ -229,6 +229,10 @@
         "AP4": {
           "by": "Krishna",
           "time": "16:44"
+        },
+        "J9": {
+          "by": "Samy Kumar Meena",
+          "time": "16:54"
         }
       },
       "problems": [],
