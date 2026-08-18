@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated": "2026-08-18T08:11:41.807Z",
+  "generated": "2026-08-18T08:15:15.751Z",
   "groups": [
     {
       "id": "EBL6",
@@ -107,7 +107,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "WXI",
         "YTP",
@@ -127,10 +127,10 @@
         "MARS",
         "VIVA",
         "HRC",
-        "SSC2"
+        "SSC2",
+        "WNC"
       ],
       "outlets_outstanding": [
-        "WNC",
         "WLCC",
         "R3",
         "AP1",
@@ -221,6 +221,10 @@
         "SSC2": {
           "by": "Samy Kumar Meena",
           "time": "16:11"
+        },
+        "WNC": {
+          "by": "Rajesh",
+          "time": "16:15"
         }
       },
       "problems": [],
