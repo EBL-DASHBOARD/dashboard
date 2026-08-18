@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated": "2026-08-18T08:15:15.751Z",
+  "generated": "2026-08-18T08:44:36.022Z",
   "groups": [
     {
       "id": "EBL6",
@@ -107,7 +107,7 @@
           ]
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "WXI",
         "YTP",
@@ -128,13 +128,13 @@
         "VIVA",
         "HRC",
         "SSC2",
-        "WNC"
+        "WNC",
+        "AP4"
       ],
       "outlets_outstanding": [
         "WLCC",
         "R3",
         "AP1",
-        "AP4",
         "R1",
         "LTM",
         "J9",
@@ -225,6 +225,10 @@
         "WNC": {
           "by": "Rajesh",
           "time": "16:15"
+        },
+        "AP4": {
+          "by": "Krishna",
+          "time": "16:44"
         }
       },
       "problems": [],
