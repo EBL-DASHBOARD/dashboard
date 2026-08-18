@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated": "2026-08-18T11:48:09.787Z",
+  "generated": "2026-08-18T11:49:57.081Z",
   "groups": [
     {
       "id": "EBL6",
@@ -107,7 +107,7 @@
           ]
         }
       ],
-      "done": 32,
+      "done": 33,
       "outlets_done": [
         "WXI",
         "YTP",
@@ -140,11 +140,10 @@
         "LTM",
         "AP1",
         "FEN",
-        "KEB"
-      ],
-      "outlets_outstanding": [
+        "KEB",
         "R3"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "WXI": {
           "by": "Krishna",
@@ -273,6 +272,10 @@
         "KEB": {
           "by": "Sasi",
           "time": "19:48"
+        },
+        "R3": {
+          "by": "Krishna",
+          "time": "19:49"
         }
       },
       "problems": [],
