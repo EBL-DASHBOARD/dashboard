@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated": "2026-08-18T03:37:13.505Z",
+  "generated": "2026-08-18T04:00:00.812Z",
   "groups": [
     {
       "id": "EBL6",
@@ -125,7 +125,25 @@
         "JKN",
         "TGCC",
         "STC",
-        "MBA"
+        "MBA",
+        "WNC",
+        "WLCC",
+        "VIVA",
+        "R3",
+        "AP1",
+        "AP4",
+        "R1",
+        "LTM",
+        "J9",
+        "MARS",
+        "YS1",
+        "SSC2",
+        "KEB",
+        "PDD",
+        "WWP",
+        "HRC",
+        "FEN",
+        "CM1"
       ],
       "done_detail": {
         "WXI": {
