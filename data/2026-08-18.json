@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated": "2026-08-18T10:57:50.195Z",
+  "generated": "2026-08-18T11:48:09.787Z",
   "groups": [
     {
       "id": "EBL6",
@@ -107,7 +107,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 32,
       "outlets_done": [
         "WXI",
         "YTP",
@@ -138,12 +138,12 @@
         "R1",
         "WWP",
         "LTM",
-        "AP1"
+        "AP1",
+        "FEN",
+        "KEB"
       ],
       "outlets_outstanding": [
-        "R3",
-        "KEB",
-        "FEN"
+        "R3"
       ],
       "done_detail": {
         "WXI": {
@@ -265,6 +265,14 @@
         "AP1": {
           "by": "Krishna",
           "time": "18:57"
+        },
+        "FEN": {
+          "by": "Sasi",
+          "time": "19:48"
+        },
+        "KEB": {
+          "by": "Sasi",
+          "time": "19:48"
         }
       },
       "problems": [],
