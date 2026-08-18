@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated": "2026-08-18T01:50:25.620Z",
+  "generated": "2026-08-18T02:24:45.529Z",
   "groups": [
     {
       "id": "EBL6",
@@ -107,17 +107,17 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "WXI",
         "YTP",
         "TY",
         "KH",
         "KRC",
-        "KIT"
+        "KIT",
+        "CT"
       ],
       "outlets_outstanding": [
-        "CT",
         "IM",
         "JKN",
         "BPP",
@@ -151,6 +151,10 @@
         "KIT": {
           "by": "Sasi",
           "time": "09:50"
+        },
+        "CT": {
+          "by": "Krishna",
+          "time": "10:24"
         }
       },
       "problems": [],
