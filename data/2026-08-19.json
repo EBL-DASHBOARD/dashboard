@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-19",
+  "generated": "2026-08-18T02:57:44.786Z",
+  "groups": [
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 10,
+      "am_total": 5,
+      "pm_total": 5,
+      "am_outlets": [
+        "USQ",
+        "KIT",
+        "KLP",
+        "SHP",
+        "DV"
+      ],
+      "pm_outlets": [
+        "NTP",
+        "GMM",
+        "PAL",
+        "NEX",
+        "KEB"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-5",
+          "am": [
+            "USQ",
+            "KIT",
+            "KLP",
+            "SHP",
+            "DV"
+          ],
+          "pm": [
+            "NTP",
+            "GMM",
+            "PAL",
+            "NEX",
+            "KEB"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "USQ",
+        "KIT",
+        "KLP",
+        "SHP",
+        "DV"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
