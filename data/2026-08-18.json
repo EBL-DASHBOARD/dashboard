@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated": "2026-08-18T09:46:03.288Z",
+  "generated": "2026-08-18T09:46:32.486Z",
   "groups": [
     {
       "id": "EBL6",
@@ -107,7 +107,7 @@
           ]
         }
       ],
-      "done": 25,
+      "done": 26,
       "outlets_done": [
         "WXI",
         "YTP",
@@ -133,14 +133,14 @@
         "J9",
         "WLCC",
         "PDD",
-        "CM1"
+        "CM1",
+        "YS1"
       ],
       "outlets_outstanding": [
         "R3",
         "AP1",
         "R1",
         "LTM",
-        "YS1",
         "KEB",
         "WWP",
         "FEN"
@@ -244,6 +244,10 @@
         },
         "CM1": {
           "by": "Sasi",
+          "time": "17:46"
+        },
+        "YS1": {
+          "by": "Samy Kumar Meena",
           "time": "17:46"
         }
       },
