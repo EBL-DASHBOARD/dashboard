@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated": "2026-08-18T07:26:03.169Z",
+  "generated": "2026-08-18T08:11:41.807Z",
   "groups": [
     {
       "id": "EBL6",
@@ -107,7 +107,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "WXI",
         "YTP",
@@ -126,7 +126,8 @@
         "TGCC",
         "MARS",
         "VIVA",
-        "HRC"
+        "HRC",
+        "SSC2"
       ],
       "outlets_outstanding": [
         "WNC",
@@ -138,7 +139,6 @@
         "LTM",
         "J9",
         "YS1",
-        "SSC2",
         "KEB",
         "PDD",
         "WWP",
@@ -217,6 +217,10 @@
         "HRC": {
           "by": "Sasi",
           "time": "15:26"
+        },
+        "SSC2": {
+          "by": "Samy Kumar Meena",
+          "time": "16:11"
         }
       },
       "problems": [],
