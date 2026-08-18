@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated": "2026-08-18T00:44:50.476Z",
+  "generated": "2026-08-18T00:46:27.408Z",
   "groups": [
     {
       "id": "EBL6",
@@ -107,9 +107,10 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "WXI"
+        "WXI",
+        "YTP"
       ],
       "outlets_outstanding": [
         "CT",
@@ -118,7 +119,6 @@
         "JKN",
         "KH",
         "BPP",
-        "YTP",
         "TGCC",
         "WSM",
         "STC",
@@ -131,6 +131,10 @@
         "WXI": {
           "by": "Krishna",
           "time": "08:44"
+        },
+        "YTP": {
+          "by": "Samy Kumar Meena",
+          "time": "08:46"
         }
       },
       "problems": [],
