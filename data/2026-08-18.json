@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated": "2026-08-17T17:24:15.790Z",
+  "generated": "2026-08-18T00:44:50.476Z",
   "groups": [
     {
       "id": "EBL6",
@@ -107,13 +107,14 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "WXI"
+      ],
       "outlets_outstanding": [
         "CT",
         "KRC",
         "IM",
-        "WXI",
         "JKN",
         "KH",
         "BPP",
@@ -126,7 +127,12 @@
         "TY",
         "KIT"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "WXI": {
+          "by": "Krishna",
+          "time": "08:44"
+        }
+      },
       "problems": [],
       "customers": null
     }
