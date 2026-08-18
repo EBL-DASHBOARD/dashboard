@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated": "2026-08-18T09:01:28.677Z",
+  "generated": "2026-08-18T09:46:03.288Z",
   "groups": [
     {
       "id": "EBL6",
@@ -107,7 +107,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 25,
       "outlets_done": [
         "WXI",
         "YTP",
@@ -131,7 +131,9 @@
         "WNC",
         "AP4",
         "J9",
-        "WLCC"
+        "WLCC",
+        "PDD",
+        "CM1"
       ],
       "outlets_outstanding": [
         "R3",
@@ -140,10 +142,8 @@
         "LTM",
         "YS1",
         "KEB",
-        "PDD",
         "WWP",
-        "FEN",
-        "CM1"
+        "FEN"
       ],
       "done_detail": {
         "WXI": {
@@ -237,6 +237,14 @@
         "WLCC": {
           "by": "Rajesh",
           "time": "17:01"
+        },
+        "PDD": {
+          "by": "Sasi",
+          "time": "17:46"
+        },
+        "CM1": {
+          "by": "Sasi",
+          "time": "17:46"
         }
       },
       "problems": [],
