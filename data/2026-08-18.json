@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated": "2026-08-18T04:06:23.764Z",
+  "generated": "2026-08-18T04:13:10.329Z",
   "groups": [
     {
       "id": "EBL6",
@@ -107,7 +107,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 14,
       "outlets_done": [
         "WXI",
         "YTP",
@@ -120,12 +120,12 @@
         "BPP",
         "IM",
         "WSM",
-        "JKN"
+        "JKN",
+        "MBA",
+        "STC"
       ],
       "outlets_outstanding": [
         "TGCC",
-        "STC",
-        "MBA",
         "WNC",
         "WLCC",
         "VIVA",
@@ -193,6 +193,14 @@
         "JKN": {
           "by": "Krishna",
           "time": "12:06"
+        },
+        "MBA": {
+          "by": "Sasi",
+          "time": "12:13"
+        },
+        "STC": {
+          "by": "Sasi",
+          "time": "12:13"
         }
       },
       "problems": [],
