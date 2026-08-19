@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated": "2026-08-19T12:03:06.157Z",
+  "generated": "2026-08-19T12:59:09.708Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 39,
+      "done": 40,
       "outlets_done": [
         "CL2",
         "JP",
@@ -170,14 +170,14 @@
         "BOB",
         "R3",
         "R1",
-        "KNX"
+        "KNX",
+        "AP1"
       ],
       "outlets_outstanding": [
         "LOY",
         "PECC",
         "TNC2",
-        "TPM",
-        "AP1"
+        "TPM"
       ],
       "done_detail": {
         "CL2": {
@@ -335,6 +335,10 @@
         "KNX": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "20:03"
+        },
+        "AP1": {
+          "by": "Krishna",
+          "time": "20:59"
         }
       },
       "problems": [],
