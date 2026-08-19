@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated": "2026-08-19T08:56:28.270Z",
+  "generated": "2026-08-19T09:01:07.036Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 28,
       "outlets_done": [
         "CL2",
         "JP",
@@ -157,7 +157,9 @@
         "GMM",
         "CM1",
         "PAL",
-        "WWP"
+        "WWP",
+        "NEX",
+        "NTP"
       ],
       "outlets_outstanding": [
         "KNX",
@@ -174,8 +176,6 @@
         "R4",
         "AP1",
         "R3",
-        "NTP",
-        "NEX",
         "BOB",
         "BHT"
       ],
@@ -283,6 +283,14 @@
         "WWP": {
           "by": "Samy Kumar Meena",
           "time": "16:56"
+        },
+        "NEX": {
+          "by": "Sasi",
+          "time": "17:01"
+        },
+        "NTP": {
+          "by": "Sasi",
+          "time": "17:01"
         }
       },
       "problems": [],
