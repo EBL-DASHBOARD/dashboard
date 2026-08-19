@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated": "2026-08-19T13:19:54.082Z",
+  "generated": "2026-08-19T13:20:15.670Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 42,
+      "done": 44,
       "outlets_done": [
         "CL2",
         "JP",
@@ -173,12 +173,11 @@
         "KNX",
         "AP1",
         "TPM",
-        "LOY"
-      ],
-      "outlets_outstanding": [
+        "LOY",
         "PECC",
         "TNC2"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "CL2": {
           "by": "Krishna",
@@ -347,6 +346,14 @@
         "LOY": {
           "by": "Major Dhillon",
           "time": "21:19"
+        },
+        "PECC": {
+          "by": "Major Dhillon",
+          "time": "21:20"
+        },
+        "TNC2": {
+          "by": "Major Dhillon",
+          "time": "21:20"
         }
       },
       "problems": [],
