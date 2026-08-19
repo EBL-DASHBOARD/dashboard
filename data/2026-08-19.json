@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated": "2026-08-19T09:21:46.021Z",
+  "generated": "2026-08-19T10:11:02.574Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 31,
       "outlets_done": [
         "CL2",
         "JP",
@@ -161,7 +161,8 @@
         "NEX",
         "NTP",
         "R4",
-        "AP4"
+        "AP4",
+        "EPT"
       ],
       "outlets_outstanding": [
         "KNX",
@@ -169,7 +170,6 @@
         "PECC",
         "TNC2",
         "TPM",
-        "EPT",
         "KTB",
         "WIS",
         "R1",
@@ -299,6 +299,10 @@
         "AP4": {
           "by": "Krishna",
           "time": "17:21"
+        },
+        "EPT": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "18:11"
         }
       },
       "problems": [],
