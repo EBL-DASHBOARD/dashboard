@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated": "2026-08-19T08:05:15.541Z",
+  "generated": "2026-08-19T08:07:42.899Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "CL2",
         "JP",
@@ -155,10 +155,10 @@
         "ACV",
         "CCP",
         "GMM",
-        "CM1"
+        "CM1",
+        "PAL"
       ],
       "outlets_outstanding": [
-        "PAL",
         "KNX",
         "LOY",
         "PECC",
@@ -275,6 +275,10 @@
         "CM1": {
           "by": "Samy Kumar Meena",
           "time": "16:05"
+        },
+        "PAL": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "16:07"
         }
       },
       "problems": [],
