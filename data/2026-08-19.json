@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated": "2026-08-19T10:48:02.960Z",
+  "generated": "2026-08-19T10:50:06.762Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 34,
+      "done": 36,
       "outlets_done": [
         "CL2",
         "JP",
@@ -165,7 +165,9 @@
         "EPT",
         "KTB",
         "WIS",
-        "AP2"
+        "AP2",
+        "BHT",
+        "BOB"
       ],
       "outlets_outstanding": [
         "KNX",
@@ -175,9 +177,7 @@
         "TPM",
         "R1",
         "AP1",
-        "R3",
-        "BOB",
-        "BHT"
+        "R3"
       ],
       "done_detail": {
         "CL2": {
@@ -315,6 +315,14 @@
         "AP2": {
           "by": "Krishna",
           "time": "18:48"
+        },
+        "BHT": {
+          "by": "Sasi",
+          "time": "18:50"
+        },
+        "BOB": {
+          "by": "Sasi",
+          "time": "18:50"
         }
       },
       "problems": [],
