@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated": "2026-08-19T10:12:03.919Z",
+  "generated": "2026-08-19T10:48:02.960Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 33,
+      "done": 34,
       "outlets_done": [
         "CL2",
         "JP",
@@ -164,7 +164,8 @@
         "AP4",
         "EPT",
         "KTB",
-        "WIS"
+        "WIS",
+        "AP2"
       ],
       "outlets_outstanding": [
         "KNX",
@@ -173,7 +174,6 @@
         "TNC2",
         "TPM",
         "R1",
-        "AP2",
         "AP1",
         "R3",
         "BOB",
@@ -311,6 +311,10 @@
         "WIS": {
           "by": "Samy Kumar Meena",
           "time": "18:12"
+        },
+        "AP2": {
+          "by": "Krishna",
+          "time": "18:48"
         }
       },
       "problems": [],
