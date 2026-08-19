@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated": "2026-08-19T07:15:17.053Z",
+  "generated": "2026-08-19T07:37:06.818Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 22,
+      "done": 23,
       "outlets_done": [
         "CL2",
         "JP",
@@ -153,7 +153,8 @@
         "BQ",
         "PS",
         "ACV",
-        "CCP"
+        "CCP",
+        "GMM"
       ],
       "outlets_outstanding": [
         "PAL",
@@ -176,8 +177,7 @@
         "NTP",
         "NEX",
         "BOB",
-        "BHT",
-        "GMM"
+        "BHT"
       ],
       "done_detail": {
         "CL2": {
@@ -267,6 +267,10 @@
         "CCP": {
           "by": "Krishna",
           "time": "15:15"
+        },
+        "GMM": {
+          "by": "Sasi",
+          "time": "15:37"
         }
       },
       "problems": [],
