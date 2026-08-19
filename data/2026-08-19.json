@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated": "2026-08-19T13:19:40.581Z",
+  "generated": "2026-08-19T13:19:54.082Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 41,
+      "done": 42,
       "outlets_done": [
         "CL2",
         "JP",
@@ -172,10 +172,10 @@
         "R1",
         "KNX",
         "AP1",
-        "TPM"
+        "TPM",
+        "LOY"
       ],
       "outlets_outstanding": [
-        "LOY",
         "PECC",
         "TNC2"
       ],
@@ -341,6 +341,10 @@
           "time": "20:59"
         },
         "TPM": {
+          "by": "Major Dhillon",
+          "time": "21:19"
+        },
+        "LOY": {
           "by": "Major Dhillon",
           "time": "21:19"
         }
