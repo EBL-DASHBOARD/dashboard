@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated": "2026-08-19T04:02:22.980Z",
+  "generated": "2026-08-19T04:19:57.857Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 17,
       "outlets_done": [
         "CL2",
         "JP",
@@ -146,14 +146,14 @@
         "ART",
         "TRM",
         "TIO",
-        "VIVO"
+        "VIVO",
+        "KLP",
+        "MSQ"
       ],
       "outlets_outstanding": [
         "PS",
         "CT",
         "BQ",
-        "KLP",
-        "MSQ",
         "PAL",
         "KNX",
         "LOY",
@@ -239,6 +239,14 @@
         "VIVO": {
           "by": "Krishna",
           "time": "12:02"
+        },
+        "KLP": {
+          "by": "Sasi",
+          "time": "12:19"
+        },
+        "MSQ": {
+          "by": "Sasi",
+          "time": "12:19"
         }
       },
       "problems": [],
