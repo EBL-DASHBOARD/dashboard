@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated": "2026-08-19T04:51:42.077Z",
+  "generated": "2026-08-19T05:25:12.726Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 19,
+      "done": 20,
       "outlets_done": [
         "CL2",
         "JP",
@@ -150,10 +150,10 @@
         "KLP",
         "MSQ",
         "CT",
-        "BQ"
+        "BQ",
+        "PS"
       ],
       "outlets_outstanding": [
-        "PS",
         "PAL",
         "KNX",
         "LOY",
@@ -255,6 +255,10 @@
         "BQ": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "12:51"
+        },
+        "PS": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "13:25"
         }
       },
       "problems": [],
