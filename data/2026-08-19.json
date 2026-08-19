@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated": "2026-08-19T01:15:45.716Z",
+  "generated": "2026-08-19T01:44:28.248Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,10 +130,11 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "CL2",
-        "JP"
+        "JP",
+        "ARC"
       ],
       "outlets_outstanding": [
         "PS",
@@ -146,7 +147,6 @@
         "CCKS",
         "ART",
         "TIO",
-        "ARC",
         "VIVO",
         "SHP",
         "KLP",
@@ -163,6 +163,10 @@
         "JP": {
           "by": "Samy Kumar Meena",
           "time": "09:15"
+        },
+        "ARC": {
+          "by": "Krishna",
+          "time": "09:44"
         }
       },
       "problems": [],
