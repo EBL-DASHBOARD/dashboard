@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated": "2026-08-18T18:07:31.038Z",
+  "generated": "2026-08-19T00:51:10.209Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,8 +130,10 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "CL2"
+      ],
       "outlets_outstanding": [
         "PS",
         "CT",
@@ -143,7 +145,6 @@
         "JP",
         "CCKS",
         "ART",
-        "CL2",
         "TIO",
         "ARC",
         "VIVO",
@@ -154,7 +155,12 @@
         "USQ",
         "MSQ"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "CL2": {
+          "by": "Krishna",
+          "time": "08:51"
+        }
+      },
       "problems": [],
       "customers": null
     }
