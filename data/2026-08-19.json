@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated": "2026-08-19T10:11:02.574Z",
+  "generated": "2026-08-19T10:12:03.919Z",
   "groups": [
     {
       "id": "EBL6",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "done": 31,
+      "done": 33,
       "outlets_done": [
         "CL2",
         "JP",
@@ -162,7 +162,9 @@
         "NTP",
         "R4",
         "AP4",
-        "EPT"
+        "EPT",
+        "KTB",
+        "WIS"
       ],
       "outlets_outstanding": [
         "KNX",
@@ -170,8 +172,6 @@
         "PECC",
         "TNC2",
         "TPM",
-        "KTB",
-        "WIS",
         "R1",
         "AP2",
         "AP1",
@@ -303,6 +303,14 @@
         "EPT": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "18:11"
+        },
+        "KTB": {
+          "by": "Samy Kumar Meena",
+          "time": "18:12"
+        },
+        "WIS": {
+          "by": "Samy Kumar Meena",
+          "time": "18:12"
         }
       },
       "problems": [],
