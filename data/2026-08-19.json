@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated": "2026-08-19T03:32:27.509Z",
+  "generated": "2026-08-19T04:00:00.473Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,7 +153,31 @@
         "TIO",
         "VIVO",
         "KLP",
-        "MSQ"
+        "MSQ",
+        "PAL",
+        "KNX",
+        "LOY",
+        "PECC",
+        "TNC2",
+        "TPM",
+        "EPT",
+        "KTB",
+        "WWP",
+        "WIS",
+        "CM1",
+        "ACV",
+        "CCP",
+        "AP4",
+        "R1",
+        "AP2",
+        "R4",
+        "AP1",
+        "R3",
+        "NTP",
+        "NEX",
+        "BOB",
+        "BHT",
+        "GMM"
       ],
       "done_detail": {
         "CL2": {
