@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated": "2026-08-20T11:44:26.053Z",
+  "generated": "2026-08-20T13:08:44.929Z",
   "groups": [
     {
       "id": "EBL6",
@@ -99,7 +99,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 32,
       "outlets_done": [
         "JKN",
         "YTP",
@@ -130,12 +130,11 @@
         "YS1",
         "J9",
         "KEB",
-        "R3"
-      ],
-      "outlets_outstanding": [
+        "R3",
         "R1",
         "AP1"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "JKN": {
           "by": "Krishna",
@@ -256,6 +255,14 @@
         "R3": {
           "by": "Krishna",
           "time": "19:44"
+        },
+        "R1": {
+          "by": "Krishna",
+          "time": "21:08"
+        },
+        "AP1": {
+          "by": "Krishna",
+          "time": "21:08"
         }
       },
       "problems": [],
