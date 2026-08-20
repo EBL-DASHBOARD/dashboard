@@ -1,0 +1,158 @@
+{
+  "date": "2026-08-21",
+  "generated": "2026-08-20T14:48:43.253Z",
+  "groups": [
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 42,
+      "am_total": 20,
+      "pm_total": 22,
+      "am_outlets": [
+        "KRC",
+        "CTP",
+        "BQ",
+        "PS",
+        "BNV",
+        "CCKS",
+        "HV2",
+        "BPP",
+        "YTP",
+        "TRM",
+        "TIO",
+        "CL2",
+        "ART",
+        "ARC",
+        "VIVO",
+        "JP",
+        "DV",
+        "USQ",
+        "KIT",
+        "SHP"
+      ],
+      "pm_outlets": [
+        "EPT",
+        "CCP",
+        "PAL",
+        "KNX",
+        "TPM",
+        "ACV",
+        "YS1",
+        "WIS",
+        "LTM",
+        "KTB",
+        "CM1",
+        "AP2",
+        "R1",
+        "R3",
+        "AP4",
+        "R4",
+        "AP1",
+        "NTP",
+        "NEX",
+        "WWP",
+        "BOB",
+        "BHT"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [
+            "KRC",
+            "CTP",
+            "BQ",
+            "PS",
+            "BNV"
+          ],
+          "pm": [
+            "EPT",
+            "CCP",
+            "PAL",
+            "KNX",
+            "TPM"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "CCKS",
+            "HV2",
+            "BPP",
+            "YTP",
+            "TRM"
+          ],
+          "pm": [
+            "ACV",
+            "YS1",
+            "WIS",
+            "LTM",
+            "KTB",
+            "CM1"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "TIO",
+            "CL2",
+            "ART",
+            "ARC",
+            "VIVO"
+          ],
+          "pm": [
+            "AP2",
+            "R1",
+            "R3",
+            "AP4",
+            "R4",
+            "AP1"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "JP",
+            "DV",
+            "USQ",
+            "KIT",
+            "SHP"
+          ],
+          "pm": [
+            "NTP",
+            "NEX",
+            "WWP",
+            "BOB",
+            "BHT"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "KRC",
+        "CTP",
+        "BQ",
+        "PS",
+        "BNV",
+        "CCKS",
+        "HV2",
+        "BPP",
+        "YTP",
+        "TRM",
+        "TIO",
+        "CL2",
+        "ART",
+        "ARC",
+        "VIVO",
+        "JP",
+        "DV",
+        "USQ",
+        "KIT",
+        "SHP"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
