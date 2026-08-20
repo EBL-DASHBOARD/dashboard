@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated": "2026-08-20T11:40:15.619Z",
+  "generated": "2026-08-20T11:44:26.053Z",
   "groups": [
     {
       "id": "EBL6",
@@ -99,7 +99,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "JKN",
         "YTP",
@@ -129,10 +129,10 @@
         "FEN",
         "YS1",
         "J9",
-        "KEB"
+        "KEB",
+        "R3"
       ],
       "outlets_outstanding": [
-        "R3",
         "R1",
         "AP1"
       ],
@@ -252,6 +252,10 @@
         "KEB": {
           "by": "Sasi",
           "time": "19:40"
+        },
+        "R3": {
+          "by": "Krishna",
+          "time": "19:44"
         }
       },
       "problems": [],
