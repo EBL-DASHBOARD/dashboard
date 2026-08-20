@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated": "2026-08-20T04:00:00.824Z",
+  "generated": "2026-08-20T07:01:34.280Z",
   "groups": [
     {
       "id": "EBL6",
@@ -99,7 +99,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "JKN",
         "YTP",
@@ -112,7 +112,8 @@
         "WSM",
         "STC",
         "MBA",
-        "WXI"
+        "WXI",
+        "MARS"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -126,7 +127,6 @@
         "SSC2",
         "WLCC",
         "J9",
-        "MARS",
         "YS1",
         "PDD",
         "VIVA",
@@ -184,6 +184,10 @@
         "WXI": {
           "by": "Krishna",
           "time": "11:25"
+        },
+        "MARS": {
+          "by": "Samy Kumar Meena",
+          "time": "15:01"
         }
       },
       "problems": [],
