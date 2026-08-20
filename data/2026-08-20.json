@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated": "2026-08-20T10:24:03.237Z",
+  "generated": "2026-08-20T10:50:24.127Z",
   "groups": [
     {
       "id": "EBL6",
@@ -99,7 +99,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 26,
       "outlets_done": [
         "JKN",
         "YTP",
@@ -124,7 +124,9 @@
         "SSC2",
         "PDD",
         "WWP",
-        "PECC"
+        "PECC",
+        "CM1",
+        "FEN"
       ],
       "outlets_outstanding": [
         "R3",
@@ -132,9 +134,7 @@
         "AP1",
         "J9",
         "YS1",
-        "KEB",
-        "FEN",
-        "CM1"
+        "KEB"
       ],
       "done_detail": {
         "JKN": {
@@ -232,6 +232,14 @@
         "PECC": {
           "by": "Krishna",
           "time": "18:24"
+        },
+        "CM1": {
+          "by": "Sasi",
+          "time": "18:50"
+        },
+        "FEN": {
+          "by": "Sasi",
+          "time": "18:50"
         }
       },
       "problems": [],
