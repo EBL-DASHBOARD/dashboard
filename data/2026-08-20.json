@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated": "2026-08-20T08:48:10.648Z",
+  "generated": "2026-08-20T09:32:40.181Z",
   "groups": [
     {
       "id": "EBL6",
@@ -99,7 +99,7 @@
           ]
         }
       ],
-      "done": 18,
+      "done": 19,
       "outlets_done": [
         "JKN",
         "YTP",
@@ -118,10 +118,10 @@
         "CKCC",
         "HRC",
         "WLCC",
-        "TNC2"
+        "TNC2",
+        "LOY"
       ],
       "outlets_outstanding": [
-        "LOY",
         "PECC",
         "R3",
         "R1",
@@ -208,6 +208,10 @@
         "TNC2": {
           "by": "Krishna",
           "time": "16:48"
+        },
+        "LOY": {
+          "by": "Krishna",
+          "time": "17:32"
         }
       },
       "problems": [],
