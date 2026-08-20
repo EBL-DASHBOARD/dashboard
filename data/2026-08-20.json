@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated": "2026-08-19T21:55:13.395Z",
+  "generated": "2026-08-20T00:40:58.707Z",
   "groups": [
     {
       "id": "EBL6",
@@ -99,13 +99,14 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "JKN"
+      ],
       "outlets_outstanding": [
         "WXI",
         "TGCC",
         "IM",
-        "JKN",
         "KH",
         "CCKS",
         "YTP",
@@ -115,7 +116,12 @@
         "TY",
         "MBA"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "JKN": {
+          "by": "Krishna",
+          "time": "08:40"
+        }
+      },
       "problems": [],
       "customers": null
     }
