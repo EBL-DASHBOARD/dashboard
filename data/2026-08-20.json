@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated": "2026-08-20T03:25:28.508Z",
+  "generated": "2026-08-20T04:00:00.824Z",
   "groups": [
     {
       "id": "EBL6",
@@ -114,7 +114,28 @@
         "MBA",
         "WXI"
       ],
-      "outlets_outstanding": [],
+      "outlets_outstanding": [
+        "LOY",
+        "PECC",
+        "CKCC",
+        "TNC2",
+        "R3",
+        "R1",
+        "AP1",
+        "WNC",
+        "SSC2",
+        "WLCC",
+        "J9",
+        "MARS",
+        "YS1",
+        "PDD",
+        "VIVA",
+        "HRC",
+        "KEB",
+        "WWP",
+        "FEN",
+        "CM1"
+      ],
       "done_detail": {
         "JKN": {
           "by": "Krishna",
