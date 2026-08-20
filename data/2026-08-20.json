@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated": "2026-08-20T07:52:57.773Z",
+  "generated": "2026-08-20T07:58:34.407Z",
   "groups": [
     {
       "id": "EBL6",
@@ -99,7 +99,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "JKN",
         "YTP",
@@ -115,7 +115,8 @@
         "WXI",
         "MARS",
         "VIVA",
-        "CKCC"
+        "CKCC",
+        "HRC"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -130,7 +131,6 @@
         "J9",
         "YS1",
         "PDD",
-        "HRC",
         "KEB",
         "WWP",
         "FEN",
@@ -196,6 +196,10 @@
         "CKCC": {
           "by": "Krishna",
           "time": "15:52"
+        },
+        "HRC": {
+          "by": "Sasi",
+          "time": "15:58"
         }
       },
       "problems": [],
