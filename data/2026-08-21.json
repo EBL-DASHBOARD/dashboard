@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-21T01:55:28.215Z",
+  "generated": "2026-08-21T01:56:34.335Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 8,
+      "done": 9,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -135,7 +135,8 @@
         "ARC",
         "CCKS",
         "BPP",
-        "BNV"
+        "BNV",
+        "USQ"
       ],
       "outlets_outstanding": [
         "CTP",
@@ -147,7 +148,6 @@
         "ART",
         "VIVO",
         "JP",
-        "USQ",
         "KIT",
         "SHP"
       ],
@@ -183,6 +183,10 @@
         "BNV": {
           "by": "Mani Elayaraja",
           "time": "09:55"
+        },
+        "USQ": {
+          "by": "Sasi",
+          "time": "09:56"
         }
       },
       "problems": [],
