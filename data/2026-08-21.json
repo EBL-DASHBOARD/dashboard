@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-21T03:34:50.175Z",
+  "generated": "2026-08-21T03:41:26.574Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 16,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -142,10 +142,10 @@
         "HV2",
         "TRM",
         "ART",
-        "TIO"
+        "TIO",
+        "BQ"
       ],
       "outlets_outstanding": [
-        "BQ",
         "PS",
         "VIVO",
         "JP",
@@ -211,6 +211,10 @@
         "TIO": {
           "by": "Krishna",
           "time": "11:34"
+        },
+        "BQ": {
+          "by": "Mani Elayaraja",
+          "time": "11:41"
         }
       },
       "problems": [],
