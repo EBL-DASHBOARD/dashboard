@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-21T11:35:14.623Z",
+  "generated": "2026-08-21T12:11:27.616Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 41,
+      "done": 42,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -168,11 +168,10 @@
         "CCP",
         "BOB",
         "BHT",
-        "R3"
-      ],
-      "outlets_outstanding": [
+        "R3",
         "AP1"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "YTP": {
           "by": "Samy Kumar Meena",
@@ -337,6 +336,10 @@
         "R3": {
           "by": "Krishna",
           "time": "19:35"
+        },
+        "AP1": {
+          "by": "Krishna",
+          "time": "20:11"
         }
       },
       "problems": [],
