@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-21T02:42:36.297Z",
+  "generated": "2026-08-21T02:43:13.391Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 10,
+      "done": 11,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -137,7 +137,8 @@
         "BPP",
         "BNV",
         "USQ",
-        "CTP"
+        "CTP",
+        "SHP"
       ],
       "outlets_outstanding": [
         "BQ",
@@ -148,8 +149,7 @@
         "ART",
         "VIVO",
         "JP",
-        "KIT",
-        "SHP"
+        "KIT"
       ],
       "done_detail": {
         "YTP": {
@@ -191,6 +191,10 @@
         "CTP": {
           "by": "Rajesh",
           "time": "10:42"
+        },
+        "SHP": {
+          "by": "Sasi",
+          "time": "10:43"
         }
       },
       "problems": [],
