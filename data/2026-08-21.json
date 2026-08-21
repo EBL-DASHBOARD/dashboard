@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-21T04:00:00.598Z",
+  "generated": "2026-08-21T04:11:51.945Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 18,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -143,13 +143,13 @@
         "TRM",
         "ART",
         "TIO",
-        "BQ"
+        "BQ",
+        "KIT",
+        "PS"
       ],
       "outlets_outstanding": [
-        "PS",
         "VIVO",
         "JP",
-        "KIT",
         "EPT",
         "CCP",
         "PAL",
@@ -237,6 +237,14 @@
         "BQ": {
           "by": "Mani Elayaraja",
           "time": "11:41"
+        },
+        "KIT": {
+          "by": "Sasi",
+          "time": "12:11"
+        },
+        "PS": {
+          "by": "Sasi",
+          "time": "12:11"
         }
       },
       "problems": [],
