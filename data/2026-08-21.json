@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-21T09:18:55.343Z",
+  "generated": "2026-08-21T09:21:24.558Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 31,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -156,15 +156,15 @@
         "ACV",
         "PAL",
         "TPM",
-        "WWP"
+        "WWP",
+        "LTM",
+        "KTB"
       ],
       "outlets_outstanding": [
         "EPT",
         "CCP",
         "YS1",
         "WIS",
-        "LTM",
-        "KTB",
         "AP2",
         "R1",
         "R3",
@@ -289,6 +289,14 @@
         "WWP": {
           "by": "Sasi",
           "time": "17:18"
+        },
+        "LTM": {
+          "by": "Samy Kumar Meena",
+          "time": "17:21"
+        },
+        "KTB": {
+          "by": "Samy Kumar Meena",
+          "time": "17:21"
         }
       },
       "problems": [],
