@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-21T01:13:17.286Z",
+  "generated": "2026-08-21T01:54:45.871Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,12 +126,13 @@
           ]
         }
       ],
-      "done": 4,
+      "done": 5,
       "outlets_done": [
         "YTP",
         "CL2",
         "DV",
-        "KRC"
+        "KRC",
+        "ARC"
       ],
       "outlets_outstanding": [
         "CTP",
@@ -144,7 +145,6 @@
         "TRM",
         "TIO",
         "ART",
-        "ARC",
         "VIVO",
         "JP",
         "USQ",
@@ -167,6 +167,10 @@
         "KRC": {
           "by": "Mani Elayaraja",
           "time": "09:13"
+        },
+        "ARC": {
+          "by": "Krishna",
+          "time": "09:54"
         }
       },
       "problems": [],
