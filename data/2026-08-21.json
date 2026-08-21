@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-20T18:17:03.732Z",
+  "generated": "2026-08-21T00:32:48.061Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,8 +126,10 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "YTP"
+      ],
       "outlets_outstanding": [
         "KRC",
         "CTP",
@@ -137,7 +139,6 @@
         "CCKS",
         "HV2",
         "BPP",
-        "YTP",
         "TRM",
         "TIO",
         "CL2",
@@ -150,7 +151,12 @@
         "KIT",
         "SHP"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "YTP": {
+          "by": "Samy Kumar Meena",
+          "time": "08:32"
+        }
+      },
       "problems": [],
       "customers": null
     }
