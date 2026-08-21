@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-21T11:15:47.944Z",
+  "generated": "2026-08-21T11:35:14.623Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 40,
+      "done": 41,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -167,10 +167,10 @@
         "YS1",
         "CCP",
         "BOB",
-        "BHT"
+        "BHT",
+        "R3"
       ],
       "outlets_outstanding": [
-        "R3",
         "AP1"
       ],
       "done_detail": {
@@ -333,6 +333,10 @@
         "BHT": {
           "by": "Sasi",
           "time": "19:15"
+        },
+        "R3": {
+          "by": "Krishna",
+          "time": "19:35"
         }
       },
       "problems": [],
