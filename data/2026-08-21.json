@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-21T01:54:45.871Z",
+  "generated": "2026-08-21T01:55:19.519Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,22 +126,22 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 7,
       "outlets_done": [
         "YTP",
         "CL2",
         "DV",
         "KRC",
-        "ARC"
+        "ARC",
+        "CCKS",
+        "BPP"
       ],
       "outlets_outstanding": [
         "CTP",
         "BQ",
         "PS",
         "BNV",
-        "CCKS",
         "HV2",
-        "BPP",
         "TRM",
         "TIO",
         "ART",
@@ -171,6 +171,14 @@
         "ARC": {
           "by": "Krishna",
           "time": "09:54"
+        },
+        "CCKS": {
+          "by": "Samy Kumar Meena",
+          "time": "09:55"
+        },
+        "BPP": {
+          "by": "Samy Kumar Meena",
+          "time": "09:55"
         }
       },
       "problems": [],
