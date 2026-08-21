@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-21T11:04:41.299Z",
+  "generated": "2026-08-21T11:04:42.820Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 37,
+      "done": 38,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -164,10 +164,10 @@
         "EPT",
         "AP2",
         "WIS",
-        "YS1"
+        "YS1",
+        "CCP"
       ],
       "outlets_outstanding": [
-        "CCP",
         "R3",
         "AP1",
         "BOB",
@@ -320,6 +320,10 @@
         },
         "YS1": {
           "by": "Samy Kumar Meena",
+          "time": "19:04"
+        },
+        "CCP": {
+          "by": "Rajesh",
           "time": "19:04"
         }
       },
