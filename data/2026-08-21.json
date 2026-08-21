@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-21T07:15:20.351Z",
+  "generated": "2026-08-21T07:20:59.598Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 20,
+      "done": 21,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -147,14 +147,14 @@
         "KIT",
         "PS",
         "VIVO",
-        "CM1"
+        "CM1",
+        "KNX"
       ],
       "outlets_outstanding": [
         "JP",
         "EPT",
         "CCP",
         "PAL",
-        "KNX",
         "TPM",
         "ACV",
         "YS1",
@@ -253,6 +253,10 @@
         "CM1": {
           "by": "Samy Kumar Meena",
           "time": "15:15"
+        },
+        "KNX": {
+          "by": "Mani Elayaraja",
+          "time": "15:20"
         }
       },
       "problems": [],
