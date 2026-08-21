@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-21T01:56:34.335Z",
+  "generated": "2026-08-21T02:42:36.297Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 9,
+      "done": 10,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -136,10 +136,10 @@
         "CCKS",
         "BPP",
         "BNV",
-        "USQ"
+        "USQ",
+        "CTP"
       ],
       "outlets_outstanding": [
-        "CTP",
         "BQ",
         "PS",
         "HV2",
@@ -187,6 +187,10 @@
         "USQ": {
           "by": "Sasi",
           "time": "09:56"
+        },
+        "CTP": {
+          "by": "Rajesh",
+          "time": "10:42"
         }
       },
       "problems": [],
