@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-22",
+  "generated": "2026-08-21T02:55:07.514Z",
+  "groups": [
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 11,
+      "am_total": 4,
+      "pm_total": 7,
+      "am_outlets": [
+        "BS",
+        "STC",
+        "TY",
+        "MBA"
+      ],
+      "pm_outlets": [
+        "PDD",
+        "VIVA",
+        "HRC",
+        "KEB",
+        "WWP",
+        "FEN",
+        "CM1"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-5",
+          "am": [
+            "BS",
+            "STC",
+            "TY",
+            "MBA"
+          ],
+          "pm": [
+            "PDD",
+            "VIVA",
+            "HRC",
+            "KEB",
+            "WWP",
+            "FEN",
+            "CM1"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "BS",
+        "STC",
+        "TY",
+        "MBA"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
