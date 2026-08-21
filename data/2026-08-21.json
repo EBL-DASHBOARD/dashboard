@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-21T07:20:59.598Z",
+  "generated": "2026-08-21T07:22:04.072Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -148,10 +148,10 @@
         "PS",
         "VIVO",
         "CM1",
-        "KNX"
+        "KNX",
+        "JP"
       ],
       "outlets_outstanding": [
-        "JP",
         "EPT",
         "CCP",
         "PAL",
@@ -257,6 +257,10 @@
         "KNX": {
           "by": "Mani Elayaraja",
           "time": "15:20"
+        },
+        "JP": {
+          "by": "Mani Elayaraja",
+          "time": "15:22"
         }
       },
       "problems": [],
