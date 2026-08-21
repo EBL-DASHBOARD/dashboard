@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-21T07:38:41.273Z",
+  "generated": "2026-08-21T08:02:51.520Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 25,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -150,7 +150,9 @@
         "CM1",
         "KNX",
         "JP",
-        "AP4"
+        "AP4",
+        "NEX",
+        "NTP"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -167,8 +169,6 @@
         "R3",
         "R4",
         "AP1",
-        "NTP",
-        "NEX",
         "WWP",
         "BOB",
         "BHT"
@@ -265,6 +265,14 @@
         "AP4": {
           "by": "Krishna",
           "time": "15:38"
+        },
+        "NEX": {
+          "by": "Sasi",
+          "time": "16:02"
+        },
+        "NTP": {
+          "by": "Sasi",
+          "time": "16:02"
         }
       },
       "problems": [],
