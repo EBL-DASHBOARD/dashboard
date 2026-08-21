@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-21T01:55:19.519Z",
+  "generated": "2026-08-21T01:55:28.215Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -134,13 +134,13 @@
         "KRC",
         "ARC",
         "CCKS",
-        "BPP"
+        "BPP",
+        "BNV"
       ],
       "outlets_outstanding": [
         "CTP",
         "BQ",
         "PS",
-        "BNV",
         "HV2",
         "TRM",
         "TIO",
@@ -178,6 +178,10 @@
         },
         "BPP": {
           "by": "Samy Kumar Meena",
+          "time": "09:55"
+        },
+        "BNV": {
+          "by": "Mani Elayaraja",
           "time": "09:55"
         }
       },
