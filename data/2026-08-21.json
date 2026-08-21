@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-21T00:54:30.281Z",
+  "generated": "2026-08-21T01:13:17.286Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,14 +126,14 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 4,
       "outlets_done": [
         "YTP",
         "CL2",
-        "DV"
+        "DV",
+        "KRC"
       ],
       "outlets_outstanding": [
-        "KRC",
         "CTP",
         "BQ",
         "PS",
@@ -163,6 +163,10 @@
         "DV": {
           "by": "Sasi",
           "time": "08:54"
+        },
+        "KRC": {
+          "by": "Mani Elayaraja",
+          "time": "09:13"
         }
       },
       "problems": [],
