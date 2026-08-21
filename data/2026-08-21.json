@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-08-21T09:26:19.379Z",
+  "generated": "2026-08-21T10:06:14.747Z",
   "groups": [
     {
       "id": "EBL6",
@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "done": 33,
+      "done": 34,
       "outlets_done": [
         "YTP",
         "CL2",
@@ -160,10 +160,10 @@
         "LTM",
         "KTB",
         "R1",
-        "R4"
+        "R4",
+        "EPT"
       ],
       "outlets_outstanding": [
-        "EPT",
         "CCP",
         "YS1",
         "WIS",
@@ -305,6 +305,10 @@
         "R4": {
           "by": "Krishna",
           "time": "17:26"
+        },
+        "EPT": {
+          "by": "Rajesh",
+          "time": "18:06"
         }
       },
       "problems": [],
