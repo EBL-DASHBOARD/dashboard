@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T07:15:36.277Z",
+  "generated": "2026-08-22T07:28:38.852Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 26,
+      "done": 27,
       "outlets_done": [
         "WXI",
         "JP",
@@ -206,7 +206,8 @@
         "BPP",
         "TRM",
         "PAL",
-        "KTB"
+        "KTB",
+        "GMM"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -220,7 +221,6 @@
         "AP4",
         "CCP",
         "KEB",
-        "GMM",
         "NTP",
         "NEX",
         "HRC",
@@ -347,6 +347,10 @@
         "KTB": {
           "by": "```Muthukumar```",
           "time": "15:15"
+        },
+        "GMM": {
+          "by": "Sasi",
+          "time": "15:28"
         }
       },
       "problems": [],
