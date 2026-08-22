@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T05:14:56.861Z",
+  "generated": "2026-08-22T07:05:25.450Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "WXI",
         "JP",
@@ -204,7 +204,8 @@
         "VIVO",
         "IM",
         "BPP",
-        "TRM"
+        "TRM",
+        "PAL"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -215,7 +216,6 @@
         "KNX",
         "VIVA",
         "BOB",
-        "PAL",
         "AP4",
         "CCP",
         "KEB",
@@ -339,6 +339,10 @@
         "TRM": {
           "by": "Kishanthsuresh",
           "time": "13:14"
+        },
+        "PAL": {
+          "by": "Manikandan.P",
+          "time": "15:05"
         }
       },
       "problems": [],
