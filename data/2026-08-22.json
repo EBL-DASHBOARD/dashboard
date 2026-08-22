@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T08:04:50.752Z",
+  "generated": "2026-08-22T08:15:05.036Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 30,
+      "done": 32,
       "outlets_done": [
         "WXI",
         "JP",
@@ -210,7 +210,9 @@
         "GMM",
         "CM1",
         "MARS",
-        "BOB"
+        "BOB",
+        "R4",
+        "AP4"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -220,7 +222,6 @@
         "TNC2",
         "KNX",
         "VIVA",
-        "AP4",
         "CCP",
         "KEB",
         "NTP",
@@ -230,7 +231,6 @@
         "YS1",
         "R3",
         "R1",
-        "R4",
         "AP2",
         "AP1",
         "LTM",
@@ -363,6 +363,14 @@
         "BOB": {
           "by": "Manikandan.P",
           "time": "16:04"
+        },
+        "R4": {
+          "by": "Krishna",
+          "time": "16:15"
+        },
+        "AP4": {
+          "by": "Krishna",
+          "time": "16:15"
         }
       },
       "problems": [],
