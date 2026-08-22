@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T04:00:00.091Z",
+  "generated": "2026-08-22T04:01:32.772Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 17,
+      "done": 19,
       "outlets_done": [
         "WXI",
         "JP",
@@ -197,11 +197,11 @@
         "CCKS",
         "KIT",
         "KLP",
-        "KH"
+        "KH",
+        "MSQ",
+        "STC"
       ],
       "outlets_outstanding": [
-        "STC",
-        "MSQ",
         "IM",
         "TIO",
         "VIVO",
@@ -311,6 +311,14 @@
         "KH": {
           "by": "Kishanthsuresh",
           "time": "11:53"
+        },
+        "MSQ": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "12:01"
+        },
+        "STC": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "12:01"
         }
       },
       "problems": [],
