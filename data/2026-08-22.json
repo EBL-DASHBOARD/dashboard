@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T07:49:31.038Z",
+  "generated": "2026-08-22T08:04:50.752Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 30,
       "outlets_done": [
         "WXI",
         "JP",
@@ -209,7 +209,8 @@
         "KTB",
         "GMM",
         "CM1",
-        "MARS"
+        "MARS",
+        "BOB"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -219,7 +220,6 @@
         "TNC2",
         "KNX",
         "VIVA",
-        "BOB",
         "AP4",
         "CCP",
         "KEB",
@@ -359,6 +359,10 @@
         "MARS": {
           "by": "Kishanthsuresh",
           "time": "15:49"
+        },
+        "BOB": {
+          "by": "Manikandan.P",
+          "time": "16:04"
         }
       },
       "problems": [],
