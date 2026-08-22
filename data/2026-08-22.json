@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T08:42:04.739Z",
+  "generated": "2026-08-22T09:00:06.397Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 36,
+      "done": 38,
       "outlets_done": [
         "WXI",
         "JP",
@@ -216,7 +216,9 @@
         "KNX",
         "EPT",
         "TPM",
-        "ACV"
+        "ACV",
+        "NEX",
+        "NTP"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -225,8 +227,6 @@
         "VIVA",
         "CCP",
         "KEB",
-        "NTP",
-        "NEX",
         "HRC",
         "WIS",
         "YS1",
@@ -387,6 +387,14 @@
         "ACV": {
           "by": "YAAKESH",
           "time": "16:42"
+        },
+        "NEX": {
+          "by": "Sasi",
+          "time": "17:00"
+        },
+        "NTP": {
+          "by": "Sasi",
+          "time": "17:00"
         }
       },
       "problems": [],
