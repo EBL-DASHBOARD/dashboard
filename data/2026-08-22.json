@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T02:06:51.570Z",
+  "generated": "2026-08-22T02:15:01.547Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,19 +179,19 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "WXI",
         "JP",
         "DV",
         "CT",
         "BS",
-        "WSM"
+        "WSM",
+        "JKN"
       ],
       "outlets_outstanding": [
         "STC",
         "MSQ",
-        "JKN",
         "TGCC",
         "IM",
         "KLP",
@@ -232,6 +232,10 @@
         "WSM": {
           "by": "Kishanthsuresh",
           "time": "10:06"
+        },
+        "JKN": {
+          "by": "Manikandan.P",
+          "time": "10:15"
         }
       },
       "problems": [],
