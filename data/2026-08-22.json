@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T01:53:00.349Z",
+  "generated": "2026-08-22T02:06:51.570Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,13 +179,14 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "WXI",
         "JP",
         "DV",
         "CT",
-        "BS"
+        "BS",
+        "WSM"
       ],
       "outlets_outstanding": [
         "STC",
@@ -201,7 +202,6 @@
         "VIVO",
         "KRC",
         "BNV",
-        "WSM",
         "CCKS",
         "TRM",
         "YTP",
@@ -228,6 +228,10 @@
         "BS": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "09:53"
+        },
+        "WSM": {
+          "by": "Kishanthsuresh",
+          "time": "10:06"
         }
       },
       "problems": [],
