@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T11:30:33.503Z",
+  "generated": "2026-08-22T11:42:04.810Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 51,
+      "done": 53,
       "outlets_done": [
         "WXI",
         "JP",
@@ -231,7 +231,9 @@
         "AP1",
         "SSC2",
         "KEB",
-        "HRC"
+        "HRC",
+        "PDD",
+        "WWP"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -239,9 +241,7 @@
         "TNC2",
         "R3",
         "LTM",
-        "J9",
-        "WWP",
-        "PDD"
+        "J9"
       ],
       "done_detail": {
         "WXI": {
@@ -447,6 +447,14 @@
         "HRC": {
           "by": "Sasi",
           "time": "19:30"
+        },
+        "PDD": {
+          "by": "YAAKESH",
+          "time": "19:42"
+        },
+        "WWP": {
+          "by": "YAAKESH",
+          "time": "19:42"
         }
       },
       "problems": [],
