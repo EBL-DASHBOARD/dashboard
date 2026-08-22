@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T02:46:03.562Z",
+  "generated": "2026-08-22T03:24:01.361Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 12,
+      "done": 13,
       "outlets_done": [
         "WXI",
         "JP",
@@ -192,12 +192,12 @@
         "SHP",
         "KRC",
         "BNV",
-        "YTP"
+        "YTP",
+        "TGCC"
       ],
       "outlets_outstanding": [
         "STC",
         "MSQ",
-        "TGCC",
         "IM",
         "KLP",
         "KIT",
@@ -256,6 +256,10 @@
         "YTP": {
           "by": "Kishanthsuresh",
           "time": "10:46"
+        },
+        "TGCC": {
+          "by": "Manikandan.P",
+          "time": "11:24"
         }
       },
       "problems": [],
