@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T07:28:38.852Z",
+  "generated": "2026-08-22T07:36:59.935Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "WXI",
         "JP",
@@ -207,7 +207,8 @@
         "TRM",
         "PAL",
         "KTB",
-        "GMM"
+        "GMM",
+        "CM1"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -239,7 +240,6 @@
         "J9",
         "WWP",
         "FEN",
-        "CM1",
         "ACV",
         "PDD"
       ],
@@ -351,6 +351,10 @@
         "GMM": {
           "by": "Sasi",
           "time": "15:28"
+        },
+        "CM1": {
+          "by": "YAAKESH",
+          "time": "15:36"
         }
       },
       "problems": [],
