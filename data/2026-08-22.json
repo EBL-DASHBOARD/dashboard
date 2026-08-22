@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T07:36:59.935Z",
+  "generated": "2026-08-22T07:49:31.038Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 28,
+      "done": 29,
       "outlets_done": [
         "WXI",
         "JP",
@@ -208,7 +208,8 @@
         "PAL",
         "KTB",
         "GMM",
-        "CM1"
+        "CM1",
+        "MARS"
       ],
       "outlets_outstanding": [
         "EPT",
@@ -234,7 +235,6 @@
         "AP1",
         "LTM",
         "SSC2",
-        "MARS",
         "WLCC",
         "WNC",
         "J9",
@@ -355,6 +355,10 @@
         "CM1": {
           "by": "YAAKESH",
           "time": "15:36"
+        },
+        "MARS": {
+          "by": "Kishanthsuresh",
+          "time": "15:49"
         }
       },
       "problems": [],
