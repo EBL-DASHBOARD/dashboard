@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T11:21:26.640Z",
+  "generated": "2026-08-22T11:30:33.503Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 49,
+      "done": 51,
       "outlets_done": [
         "WXI",
         "JP",
@@ -229,14 +229,14 @@
         "WIS",
         "YS1",
         "AP1",
-        "SSC2"
+        "SSC2",
+        "KEB",
+        "HRC"
       ],
       "outlets_outstanding": [
         "LOY",
         "PECC",
         "TNC2",
-        "KEB",
-        "HRC",
         "R3",
         "LTM",
         "J9",
@@ -439,6 +439,14 @@
         "SSC2": {
           "by": "Kishanthsuresh",
           "time": "19:21"
+        },
+        "KEB": {
+          "by": "Sasi",
+          "time": "19:30"
+        },
+        "HRC": {
+          "by": "Sasi",
+          "time": "19:30"
         }
       },
       "problems": [],
