@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T01:25:31.159Z",
+  "generated": "2026-08-22T01:53:00.349Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,16 +179,16 @@
           ]
         }
       ],
-      "done": 3,
+      "done": 5,
       "outlets_done": [
         "WXI",
         "JP",
-        "DV"
+        "DV",
+        "CT",
+        "BS"
       ],
       "outlets_outstanding": [
-        "BS",
         "STC",
-        "CT",
         "MSQ",
         "JKN",
         "TGCC",
@@ -220,6 +220,14 @@
         "DV": {
           "by": "Sasi",
           "time": "09:25"
+        },
+        "CT": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "09:53"
+        },
+        "BS": {
+          "by": "PRABHU  💥  🇲🇩  💫  🤍",
+          "time": "09:53"
         }
       },
       "problems": [],
