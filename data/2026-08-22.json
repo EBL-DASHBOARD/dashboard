@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T03:39:55.438Z",
+  "generated": "2026-08-22T03:53:48.370Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 16,
+      "done": 17,
       "outlets_done": [
         "WXI",
         "JP",
@@ -196,7 +196,8 @@
         "TGCC",
         "CCKS",
         "KIT",
-        "KLP"
+        "KLP",
+        "KH"
       ],
       "outlets_outstanding": [
         "STC",
@@ -205,8 +206,7 @@
         "TIO",
         "VIVO",
         "TRM",
-        "BPP",
-        "KH"
+        "BPP"
       ],
       "done_detail": {
         "WXI": {
@@ -272,6 +272,10 @@
         "KLP": {
           "by": "Sasi",
           "time": "11:39"
+        },
+        "KH": {
+          "by": "Kishanthsuresh",
+          "time": "11:53"
         }
       },
       "problems": [],
