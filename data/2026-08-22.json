@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T02:15:01.547Z",
+  "generated": "2026-08-22T02:26:28.310Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 9,
       "outlets_done": [
         "WXI",
         "JP",
@@ -187,7 +187,9 @@
         "CT",
         "BS",
         "WSM",
-        "JKN"
+        "JKN",
+        "TY",
+        "SHP"
       ],
       "outlets_outstanding": [
         "STC",
@@ -195,9 +197,7 @@
         "TGCC",
         "IM",
         "KLP",
-        "TY",
         "KIT",
-        "SHP",
         "TIO",
         "VIVO",
         "KRC",
@@ -236,6 +236,14 @@
         "JKN": {
           "by": "Manikandan.P",
           "time": "10:15"
+        },
+        "TY": {
+          "by": "Sasi",
+          "time": "10:26"
+        },
+        "SHP": {
+          "by": "Sasi",
+          "time": "10:26"
         }
       },
       "problems": [],
