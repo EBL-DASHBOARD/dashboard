@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T09:28:34.528Z",
+  "generated": "2026-08-22T09:28:36.502Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 39,
+      "done": 41,
       "outlets_done": [
         "WXI",
         "JP",
@@ -219,7 +219,9 @@
         "ACV",
         "NEX",
         "NTP",
-        "VIVA"
+        "VIVA",
+        "WLCC",
+        "WNC"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -236,8 +238,6 @@
         "AP1",
         "LTM",
         "SSC2",
-        "WLCC",
-        "WNC",
         "J9",
         "WWP",
         "FEN",
@@ -398,6 +398,14 @@
         },
         "VIVA": {
           "by": "Manikandan.P",
+          "time": "17:28"
+        },
+        "WLCC": {
+          "by": "Kishanthsuresh",
+          "time": "17:28"
+        },
+        "WNC": {
+          "by": "Kishanthsuresh",
           "time": "17:28"
         }
       },
