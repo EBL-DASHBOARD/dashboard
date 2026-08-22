@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T04:32:52.890Z",
+  "generated": "2026-08-22T05:14:56.861Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "WXI",
         "JP",
@@ -203,10 +203,10 @@
         "TIO",
         "VIVO",
         "IM",
-        "BPP"
+        "BPP",
+        "TRM"
       ],
       "outlets_outstanding": [
-        "TRM",
         "EPT",
         "TPM",
         "LOY",
@@ -335,6 +335,10 @@
         "BPP": {
           "by": "Kishanthsuresh",
           "time": "12:32"
+        },
+        "TRM": {
+          "by": "Kishanthsuresh",
+          "time": "13:14"
         }
       },
       "problems": [],
