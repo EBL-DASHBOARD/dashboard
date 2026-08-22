@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T01:04:24.955Z",
+  "generated": "2026-08-22T01:24:20.056Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,9 +179,10 @@
           ]
         }
       ],
-      "done": 1,
+      "done": 2,
       "outlets_done": [
-        "WXI"
+        "WXI",
+        "JP"
       ],
       "outlets_outstanding": [
         "BS",
@@ -191,7 +192,6 @@
         "JKN",
         "TGCC",
         "IM",
-        "JP",
         "KLP",
         "TY",
         "KIT",
@@ -212,6 +212,10 @@
         "WXI": {
           "by": "Krishna",
           "time": "09:04"
+        },
+        "JP": {
+          "by": "Manikandan.P",
+          "time": "09:24"
         }
       },
       "problems": [],
