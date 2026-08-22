@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T10:57:19.768Z",
+  "generated": "2026-08-22T10:57:23.632Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 44,
+      "done": 45,
       "outlets_done": [
         "WXI",
         "JP",
@@ -224,7 +224,8 @@
         "WNC",
         "R1",
         "FEN",
-        "CCP"
+        "CCP",
+        "AP2"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -235,7 +236,6 @@
         "WIS",
         "YS1",
         "R3",
-        "AP2",
         "AP1",
         "LTM",
         "SSC2",
@@ -417,6 +417,10 @@
           "time": "17:55"
         },
         "CCP": {
+          "by": "Manikandan.P",
+          "time": "18:57"
+        },
+        "AP2": {
           "by": "Manikandan.P",
           "time": "18:57"
         }
