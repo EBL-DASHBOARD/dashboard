@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T04:02:10.383Z",
+  "generated": "2026-08-22T04:04:00.153Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "WXI",
         "JP",
@@ -201,10 +201,10 @@
         "MSQ",
         "STC",
         "TIO",
-        "VIVO"
+        "VIVO",
+        "IM"
       ],
       "outlets_outstanding": [
-        "IM",
         "TRM",
         "BPP",
         "EPT",
@@ -327,6 +327,10 @@
         "VIVO": {
           "by": "Krishna",
           "time": "12:02"
+        },
+        "IM": {
+          "by": "Manikandan.P",
+          "time": "12:04"
         }
       },
       "problems": [],
