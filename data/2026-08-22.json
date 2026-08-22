@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T08:18:08.649Z",
+  "generated": "2026-08-22T08:42:04.739Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 35,
+      "done": 36,
       "outlets_done": [
         "WXI",
         "JP",
@@ -215,7 +215,8 @@
         "AP4",
         "KNX",
         "EPT",
-        "TPM"
+        "TPM",
+        "ACV"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -240,7 +241,6 @@
         "J9",
         "WWP",
         "FEN",
-        "ACV",
         "PDD"
       ],
       "done_detail": {
@@ -383,6 +383,10 @@
         "TPM": {
           "by": "PRABHU  💥  🇲🇩  💫  🤍",
           "time": "16:18"
+        },
+        "ACV": {
+          "by": "YAAKESH",
+          "time": "16:42"
         }
       },
       "problems": [],
