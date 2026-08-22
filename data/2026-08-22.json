@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T01:24:20.056Z",
+  "generated": "2026-08-22T01:25:31.159Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,10 +179,11 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 3,
       "outlets_done": [
         "WXI",
-        "JP"
+        "JP",
+        "DV"
       ],
       "outlets_outstanding": [
         "BS",
@@ -196,7 +197,6 @@
         "TY",
         "KIT",
         "SHP",
-        "DV",
         "TIO",
         "VIVO",
         "KRC",
@@ -216,6 +216,10 @@
         "JP": {
           "by": "Manikandan.P",
           "time": "09:24"
+        },
+        "DV": {
+          "by": "Sasi",
+          "time": "09:25"
         }
       },
       "problems": [],
