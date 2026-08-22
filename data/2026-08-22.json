@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T11:42:04.810Z",
+  "generated": "2026-08-22T11:46:18.063Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 53,
+      "done": 59,
       "outlets_done": [
         "WXI",
         "JP",
@@ -233,9 +233,7 @@
         "KEB",
         "HRC",
         "PDD",
-        "WWP"
-      ],
-      "outlets_outstanding": [
+        "WWP",
         "LOY",
         "PECC",
         "TNC2",
@@ -243,6 +241,7 @@
         "LTM",
         "J9"
       ],
+      "outlets_outstanding": [],
       "done_detail": {
         "WXI": {
           "by": "Krishna",
@@ -455,6 +454,30 @@
         "WWP": {
           "by": "YAAKESH",
           "time": "19:42"
+        },
+        "LOY": {
+          "by": "Major Dhillon",
+          "time": "19:46"
+        },
+        "PECC": {
+          "by": "Major Dhillon",
+          "time": "19:46"
+        },
+        "TNC2": {
+          "by": "Major Dhillon",
+          "time": "19:46"
+        },
+        "R3": {
+          "by": "Major Dhillon",
+          "time": "19:46"
+        },
+        "LTM": {
+          "by": "Major Dhillon",
+          "time": "19:46"
+        },
+        "J9": {
+          "by": "Major Dhillon",
+          "time": "19:46"
         }
       },
       "problems": [],
