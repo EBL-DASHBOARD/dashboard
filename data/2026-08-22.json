@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T02:27:21.743Z",
+  "generated": "2026-08-22T02:46:03.562Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 11,
+      "done": 12,
       "outlets_done": [
         "WXI",
         "JP",
@@ -191,7 +191,8 @@
         "TY",
         "SHP",
         "KRC",
-        "BNV"
+        "BNV",
+        "YTP"
       ],
       "outlets_outstanding": [
         "STC",
@@ -204,7 +205,6 @@
         "VIVO",
         "CCKS",
         "TRM",
-        "YTP",
         "BPP",
         "KH"
       ],
@@ -252,6 +252,10 @@
         "BNV": {
           "by": "Krishna",
           "time": "10:27"
+        },
+        "YTP": {
+          "by": "Kishanthsuresh",
+          "time": "10:46"
         }
       },
       "problems": [],
