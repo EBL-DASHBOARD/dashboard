@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T09:00:06.397Z",
+  "generated": "2026-08-22T09:28:34.528Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 38,
+      "done": 39,
       "outlets_done": [
         "WXI",
         "JP",
@@ -218,13 +218,13 @@
         "TPM",
         "ACV",
         "NEX",
-        "NTP"
+        "NTP",
+        "VIVA"
       ],
       "outlets_outstanding": [
         "LOY",
         "PECC",
         "TNC2",
-        "VIVA",
         "CCP",
         "KEB",
         "HRC",
@@ -395,6 +395,10 @@
         "NTP": {
           "by": "Sasi",
           "time": "17:00"
+        },
+        "VIVA": {
+          "by": "Manikandan.P",
+          "time": "17:28"
         }
       },
       "problems": [],
