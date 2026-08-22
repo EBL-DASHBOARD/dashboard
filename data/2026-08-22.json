@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T09:47:26.327Z",
+  "generated": "2026-08-22T09:55:22.463Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 42,
+      "done": 43,
       "outlets_done": [
         "WXI",
         "JP",
@@ -222,7 +222,8 @@
         "VIVA",
         "WLCC",
         "WNC",
-        "R1"
+        "R1",
+        "FEN"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -240,7 +241,6 @@
         "SSC2",
         "J9",
         "WWP",
-        "FEN",
         "PDD"
       ],
       "done_detail": {
@@ -411,6 +411,10 @@
         "R1": {
           "by": "Krishna",
           "time": "17:47"
+        },
+        "FEN": {
+          "by": "YAAKESH",
+          "time": "17:55"
         }
       },
       "problems": [],
