@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated": "2026-08-22T09:55:22.463Z",
+  "generated": "2026-08-22T10:57:19.768Z",
   "groups": [
     {
       "id": "EBL6",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "done": 43,
+      "done": 44,
       "outlets_done": [
         "WXI",
         "JP",
@@ -223,13 +223,13 @@
         "WLCC",
         "WNC",
         "R1",
-        "FEN"
+        "FEN",
+        "CCP"
       ],
       "outlets_outstanding": [
         "LOY",
         "PECC",
         "TNC2",
-        "CCP",
         "KEB",
         "HRC",
         "WIS",
@@ -415,6 +415,10 @@
         "FEN": {
           "by": "YAAKESH",
           "time": "17:55"
+        },
+        "CCP": {
+          "by": "Manikandan.P",
+          "time": "18:57"
         }
       },
       "problems": [],
