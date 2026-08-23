@@ -1,0 +1,188 @@
+{
+  "date": "2026-08-24",
+  "generated": "2026-08-23T15:03:13.382Z",
+  "groups": [
+    {
+      "id": "EBL6",
+      "name": "EBL-6 (BK/PMI)",
+      "total_locations": 52,
+      "am_total": 23,
+      "pm_total": 29,
+      "am_outlets": [
+        "KRC",
+        "BNV",
+        "BQ",
+        "CT",
+        "PS",
+        "TRM",
+        "BPP",
+        "CCKS",
+        "KH",
+        "HV2",
+        "SHP",
+        "DV",
+        "KIT",
+        "USQ",
+        "KLP",
+        "ART",
+        "ARC",
+        "VIVO",
+        "CL2",
+        "TIO",
+        "IM",
+        "WSM",
+        "JP"
+      ],
+      "pm_outlets": [
+        "CKCC",
+        "LOY",
+        "TNC2",
+        "TPM",
+        "KNX",
+        "PECC",
+        "EPT",
+        "CCP",
+        "PAL",
+        "GMM",
+        "ACV",
+        "MARS",
+        "CM1",
+        "WIS",
+        "YS1",
+        "KTB",
+        "HRC",
+        "R3",
+        "AP2",
+        "R4",
+        "AP1",
+        "R1",
+        "AP4",
+        "VIVA",
+        "NTP",
+        "BHT",
+        "BOB",
+        "NEX",
+        "KEB"
+      ],
+      "trucks": [
+        {
+          "name": "EBL6-1",
+          "am": [
+            "KRC",
+            "BNV",
+            "BQ",
+            "CT",
+            "PS"
+          ],
+          "pm": [
+            "CKCC",
+            "LOY",
+            "TNC2",
+            "TPM"
+          ]
+        },
+        {
+          "name": "EBL6-3",
+          "am": [
+            "TRM",
+            "BPP",
+            "CCKS",
+            "KH",
+            "HV2"
+          ],
+          "pm": [
+            "KNX",
+            "PECC",
+            "EPT",
+            "CCP",
+            "PAL",
+            "GMM"
+          ]
+        },
+        {
+          "name": "EBL6-5",
+          "am": [
+            "SHP",
+            "DV",
+            "KIT",
+            "USQ",
+            "KLP"
+          ],
+          "pm": [
+            "ACV",
+            "MARS",
+            "CM1",
+            "WIS",
+            "YS1",
+            "KTB",
+            "HRC"
+          ]
+        },
+        {
+          "name": "EBL6-2",
+          "am": [
+            "ART",
+            "ARC",
+            "VIVO",
+            "CL2",
+            "TIO"
+          ],
+          "pm": [
+            "R3",
+            "AP2",
+            "R4",
+            "AP1",
+            "R1",
+            "AP4"
+          ]
+        },
+        {
+          "name": "EBL6-4",
+          "am": [
+            "IM",
+            "WSM",
+            "JP"
+          ],
+          "pm": [
+            "VIVA",
+            "NTP",
+            "BHT",
+            "BOB",
+            "NEX",
+            "KEB"
+          ]
+        }
+      ],
+      "done": 0,
+      "outlets_done": [],
+      "outlets_outstanding": [
+        "KRC",
+        "BNV",
+        "BQ",
+        "CT",
+        "PS",
+        "TRM",
+        "BPP",
+        "CCKS",
+        "KH",
+        "HV2",
+        "SHP",
+        "DV",
+        "KIT",
+        "USQ",
+        "KLP",
+        "ART",
+        "ARC",
+        "VIVO",
+        "CL2",
+        "TIO",
+        "IM",
+        "WSM",
+        "JP"
+      ],
+      "done_detail": {},
+      "problems": [],
+      "customers": null
+    }
+  ]
+}
