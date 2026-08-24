@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T07:59:29.010Z",
+  "generated": "2026-08-24T07:59:39.796Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,7 +153,7 @@
           ]
         }
       ],
-      "done": 27,
+      "done": 28,
       "outlets_done": [
         "CL2",
         "BPP",
@@ -181,7 +181,8 @@
         "KEB",
         "CM1",
         "GMM",
-        "PAL"
+        "PAL",
+        "ACV"
       ],
       "outlets_outstanding": [
         "CKCC",
@@ -192,7 +193,6 @@
         "PECC",
         "EPT",
         "CCP",
-        "ACV",
         "MARS",
         "WIS",
         "YS1",
@@ -317,6 +317,10 @@
         },
         "PAL": {
           "by": "Harpreetrai",
+          "time": "15:59"
+        },
+        "ACV": {
+          "by": "Sasi",
           "time": "15:59"
         }
       },
