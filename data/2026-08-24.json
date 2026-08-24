@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T09:54:24.414Z",
+  "generated": "2026-08-24T10:00:55.469Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,7 +153,7 @@
           ]
         }
       ],
-      "done": 39,
+      "done": 40,
       "outlets_done": [
         "CL2",
         "BPP",
@@ -193,7 +193,8 @@
         "TNC2",
         "NTP",
         "KNX",
-        "EPT"
+        "EPT",
+        "KTB"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -202,7 +203,6 @@
         "MARS",
         "WIS",
         "YS1",
-        "KTB",
         "R3",
         "AP2",
         "AP1",
@@ -366,6 +366,10 @@
         "EPT": {
           "by": "Harpreetrai",
           "time": "17:54"
+        },
+        "KTB": {
+          "by": "Sasi",
+          "time": "18:00"
         }
       },
       "problems": [],
