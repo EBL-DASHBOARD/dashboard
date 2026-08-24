@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T09:44:29.738Z",
+  "generated": "2026-08-24T09:52:16.329Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,7 +153,7 @@
           ]
         }
       ],
-      "done": 36,
+      "done": 37,
       "outlets_done": [
         "CL2",
         "BPP",
@@ -190,7 +190,8 @@
         "TPM",
         "BHT",
         "HRC",
-        "TNC2"
+        "TNC2",
+        "NTP"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -207,7 +208,6 @@
         "AP1",
         "R1",
         "VIVA",
-        "NTP",
         "BOB"
       ],
       "done_detail": {
@@ -354,6 +354,10 @@
         "TNC2": {
           "by": "Sudhakar",
           "time": "17:44"
+        },
+        "NTP": {
+          "by": "Rajesh",
+          "time": "17:52"
         }
       },
       "problems": [],
