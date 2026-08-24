@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T01:47:27.872Z",
+  "generated": "2026-08-24T02:11:21.991Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,17 +153,17 @@
           ]
         }
       ],
-      "done": 6,
+      "done": 7,
       "outlets_done": [
         "CL2",
         "BPP",
         "DV",
         "USQ",
         "CCKS",
-        "JP"
+        "JP",
+        "KRC"
       ],
       "outlets_outstanding": [
-        "KRC",
         "BNV",
         "BQ",
         "CT",
@@ -205,6 +205,10 @@
         "JP": {
           "by": "Rajesh",
           "time": "09:47"
+        },
+        "KRC": {
+          "by": "Sudhakar",
+          "time": "10:11"
         }
       },
       "problems": [],
