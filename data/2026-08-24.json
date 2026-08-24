@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T08:06:10.763Z",
+  "generated": "2026-08-24T08:08:48.814Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,7 +153,7 @@
           ]
         }
       ],
-      "done": 29,
+      "done": 31,
       "outlets_done": [
         "CL2",
         "BPP",
@@ -183,7 +183,9 @@
         "GMM",
         "PAL",
         "ACV",
-        "NEX"
+        "NEX",
+        "R4",
+        "AP4"
       ],
       "outlets_outstanding": [
         "CKCC",
@@ -201,10 +203,8 @@
         "HRC",
         "R3",
         "AP2",
-        "R4",
         "AP1",
         "R1",
-        "AP4",
         "VIVA",
         "NTP",
         "BHT",
@@ -326,6 +326,14 @@
         "NEX": {
           "by": "Rajesh",
           "time": "16:06"
+        },
+        "R4": {
+          "by": "Krishna",
+          "time": "16:08"
+        },
+        "AP4": {
+          "by": "Krishna",
+          "time": "16:08"
         }
       },
       "problems": [],
