@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T09:15:48.112Z",
+  "generated": "2026-08-24T09:44:29.738Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,7 +153,7 @@
           ]
         }
       ],
-      "done": 35,
+      "done": 36,
       "outlets_done": [
         "CL2",
         "BPP",
@@ -189,11 +189,11 @@
         "CKCC",
         "TPM",
         "BHT",
-        "HRC"
+        "HRC",
+        "TNC2"
       ],
       "outlets_outstanding": [
         "LOY",
-        "TNC2",
         "KNX",
         "PECC",
         "EPT",
@@ -350,6 +350,10 @@
         "HRC": {
           "by": "Sasi",
           "time": "17:15"
+        },
+        "TNC2": {
+          "by": "Sudhakar",
+          "time": "17:44"
         }
       },
       "problems": [],
