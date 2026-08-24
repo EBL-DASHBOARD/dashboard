@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T02:11:21.991Z",
+  "generated": "2026-08-24T02:11:26.058Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,7 +153,7 @@
           ]
         }
       ],
-      "done": 7,
+      "done": 8,
       "outlets_done": [
         "CL2",
         "BPP",
@@ -161,10 +161,10 @@
         "USQ",
         "CCKS",
         "JP",
-        "KRC"
+        "KRC",
+        "BNV"
       ],
       "outlets_outstanding": [
-        "BNV",
         "BQ",
         "CT",
         "PS",
@@ -207,6 +207,10 @@
           "time": "09:47"
         },
         "KRC": {
+          "by": "Sudhakar",
+          "time": "10:11"
+        },
+        "BNV": {
           "by": "Sudhakar",
           "time": "10:11"
         }
