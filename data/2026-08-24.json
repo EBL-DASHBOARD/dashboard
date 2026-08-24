@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T03:22:27.940Z",
+  "generated": "2026-08-24T03:22:58.510Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,7 +153,7 @@
           ]
         }
       ],
-      "done": 13,
+      "done": 14,
       "outlets_done": [
         "CL2",
         "BPP",
@@ -167,14 +167,14 @@
         "ARC",
         "ART",
         "SHP",
-        "KH"
+        "KH",
+        "HV2"
       ],
       "outlets_outstanding": [
         "BQ",
         "CT",
         "PS",
         "TRM",
-        "HV2",
         "KIT",
         "KLP",
         "VIVO",
@@ -231,6 +231,10 @@
           "time": "10:43"
         },
         "KH": {
+          "by": "Harpreetrai",
+          "time": "11:22"
+        },
+        "HV2": {
           "by": "Harpreetrai",
           "time": "11:22"
         }
