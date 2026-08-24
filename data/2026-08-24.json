@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T01:45:01.009Z",
+  "generated": "2026-08-24T01:47:27.872Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,13 +153,14 @@
           ]
         }
       ],
-      "done": 5,
+      "done": 6,
       "outlets_done": [
         "CL2",
         "BPP",
         "DV",
         "USQ",
-        "CCKS"
+        "CCKS",
+        "JP"
       ],
       "outlets_outstanding": [
         "KRC",
@@ -178,8 +179,7 @@
         "VIVO",
         "TIO",
         "IM",
-        "WSM",
-        "JP"
+        "WSM"
       ],
       "done_detail": {
         "CL2": {
@@ -201,6 +201,10 @@
         "CCKS": {
           "by": "Harpreetrai",
           "time": "09:44"
+        },
+        "JP": {
+          "by": "Rajesh",
+          "time": "09:47"
         }
       },
       "problems": [],
