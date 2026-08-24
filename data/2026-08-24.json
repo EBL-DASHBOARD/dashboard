@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T04:00:36.394Z",
+  "generated": "2026-08-24T04:26:41.358Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,7 +153,7 @@
           ]
         }
       ],
-      "done": 21,
+      "done": 22,
       "outlets_done": [
         "CL2",
         "BPP",
@@ -175,11 +175,11 @@
         "BQ",
         "CT",
         "TIO",
-        "VIVO"
+        "VIVO",
+        "TRM"
       ],
       "outlets_outstanding": [
         "PS",
-        "TRM",
         "CKCC",
         "LOY",
         "TNC2",
@@ -294,6 +294,10 @@
         "VIVO": {
           "by": "Krishna",
           "time": "12:00"
+        },
+        "TRM": {
+          "by": "Harpreetrai",
+          "time": "12:26"
         }
       },
       "problems": [],
