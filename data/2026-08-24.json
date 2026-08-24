@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T10:55:57.874Z",
+  "generated": "2026-08-24T11:00:06.110Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,7 +153,7 @@
           ]
         }
       ],
-      "done": 45,
+      "done": 46,
       "outlets_done": [
         "CL2",
         "BPP",
@@ -199,14 +199,14 @@
         "VIVA",
         "YS1",
         "WIS",
-        "CCP"
+        "CCP",
+        "AP2"
       ],
       "outlets_outstanding": [
         "LOY",
         "PECC",
         "MARS",
         "R3",
-        "AP2",
         "AP1",
         "BOB"
       ],
@@ -390,6 +390,10 @@
         "CCP": {
           "by": "Harpreetrai",
           "time": "18:55"
+        },
+        "AP2": {
+          "by": "Krishna",
+          "time": "19:00"
         }
       },
       "problems": [],
