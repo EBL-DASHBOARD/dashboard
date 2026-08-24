@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T04:35:12.662Z",
+  "generated": "2026-08-24T06:51:04.915Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,7 +153,7 @@
           ]
         }
       ],
-      "done": 23,
+      "done": 24,
       "outlets_done": [
         "CL2",
         "BPP",
@@ -177,7 +177,8 @@
         "TIO",
         "VIVO",
         "TRM",
-        "PS"
+        "PS",
+        "KEB"
       ],
       "outlets_outstanding": [
         "CKCC",
@@ -207,8 +208,7 @@
         "NTP",
         "BHT",
         "BOB",
-        "NEX",
-        "KEB"
+        "NEX"
       ],
       "done_detail": {
         "CL2": {
@@ -302,6 +302,10 @@
         "PS": {
           "by": "Sudhakar",
           "time": "12:35"
+        },
+        "KEB": {
+          "by": "Rajesh",
+          "time": "14:51"
         }
       },
       "problems": [],
