@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T09:02:43.394Z",
+  "generated": "2026-08-24T09:15:48.112Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,7 +153,7 @@
           ]
         }
       ],
-      "done": 34,
+      "done": 35,
       "outlets_done": [
         "CL2",
         "BPP",
@@ -188,7 +188,8 @@
         "AP4",
         "CKCC",
         "TPM",
-        "BHT"
+        "BHT",
+        "HRC"
       ],
       "outlets_outstanding": [
         "LOY",
@@ -201,7 +202,6 @@
         "WIS",
         "YS1",
         "KTB",
-        "HRC",
         "R3",
         "AP2",
         "AP1",
@@ -346,6 +346,10 @@
         "BHT": {
           "by": "Rajesh",
           "time": "17:02"
+        },
+        "HRC": {
+          "by": "Sasi",
+          "time": "17:15"
         }
       },
       "problems": [],
