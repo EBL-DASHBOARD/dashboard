@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T08:31:21.054Z",
+  "generated": "2026-08-24T08:31:29.396Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,7 +153,7 @@
           ]
         }
       ],
-      "done": 32,
+      "done": 33,
       "outlets_done": [
         "CL2",
         "BPP",
@@ -186,12 +186,12 @@
         "NEX",
         "R4",
         "AP4",
-        "CKCC"
+        "CKCC",
+        "TPM"
       ],
       "outlets_outstanding": [
         "LOY",
         "TNC2",
-        "TPM",
         "KNX",
         "PECC",
         "EPT",
@@ -336,6 +336,10 @@
           "time": "16:08"
         },
         "CKCC": {
+          "by": "Sudhakar",
+          "time": "16:31"
+        },
+        "TPM": {
           "by": "Sudhakar",
           "time": "16:31"
         }
