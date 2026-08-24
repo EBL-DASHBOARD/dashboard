@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T11:31:48.587Z",
+  "generated": "2026-08-24T11:37:09.859Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,7 +153,7 @@
           ]
         }
       ],
-      "done": 49,
+      "done": 50,
       "outlets_done": [
         "CL2",
         "BPP",
@@ -203,10 +203,10 @@
         "AP2",
         "LOY",
         "BOB",
-        "MARS"
+        "MARS",
+        "PECC"
       ],
       "outlets_outstanding": [
-        "PECC",
         "R3",
         "AP1"
       ],
@@ -406,6 +406,10 @@
         "MARS": {
           "by": "Sasi",
           "time": "19:31"
+        },
+        "PECC": {
+          "by": "Harpreetrai",
+          "time": "19:37"
         }
       },
       "problems": [],
