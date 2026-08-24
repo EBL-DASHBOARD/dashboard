@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T01:05:40.046Z",
+  "generated": "2026-08-24T01:30:31.653Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,10 +153,12 @@
           ]
         }
       ],
-      "done": 2,
+      "done": 4,
       "outlets_done": [
         "CL2",
-        "BPP"
+        "BPP",
+        "DV",
+        "USQ"
       ],
       "outlets_outstanding": [
         "KRC",
@@ -169,9 +171,7 @@
         "KH",
         "HV2",
         "SHP",
-        "DV",
         "KIT",
-        "USQ",
         "KLP",
         "ART",
         "ARC",
@@ -189,6 +189,14 @@
         "BPP": {
           "by": "Harpreetrai",
           "time": "09:05"
+        },
+        "DV": {
+          "by": "Sasi",
+          "time": "09:30"
+        },
+        "USQ": {
+          "by": "Sasi",
+          "time": "09:30"
         }
       },
       "problems": [],
