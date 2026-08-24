@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-23T22:00:00.638Z",
+  "generated": "2026-08-24T00:53:55.045Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,8 +153,10 @@
           ]
         }
       ],
-      "done": 0,
-      "outlets_done": [],
+      "done": 1,
+      "outlets_done": [
+        "CL2"
+      ],
       "outlets_outstanding": [
         "KRC",
         "BNV",
@@ -174,13 +176,17 @@
         "ART",
         "ARC",
         "VIVO",
-        "CL2",
         "TIO",
         "IM",
         "WSM",
         "JP"
       ],
-      "done_detail": {},
+      "done_detail": {
+        "CL2": {
+          "by": "Krishna",
+          "time": "08:53"
+        }
+      },
       "problems": [],
       "customers": null
     }
