@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T03:26:42.446Z",
+  "generated": "2026-08-24T03:40:26.432Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,7 +153,7 @@
           ]
         }
       ],
-      "done": 15,
+      "done": 17,
       "outlets_done": [
         "CL2",
         "BPP",
@@ -169,15 +169,15 @@
         "SHP",
         "KH",
         "HV2",
-        "WSM"
+        "WSM",
+        "KIT",
+        "KLP"
       ],
       "outlets_outstanding": [
         "BQ",
         "CT",
         "PS",
         "TRM",
-        "KIT",
-        "KLP",
         "VIVO",
         "TIO"
       ],
@@ -241,6 +241,14 @@
         "WSM": {
           "by": "Rajesh",
           "time": "11:26"
+        },
+        "KIT": {
+          "by": "Sasi",
+          "time": "11:40"
+        },
+        "KLP": {
+          "by": "Sasi",
+          "time": "11:40"
         }
       },
       "problems": [],
