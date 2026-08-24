@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T06:51:04.915Z",
+  "generated": "2026-08-24T07:11:13.952Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,7 +153,7 @@
           ]
         }
       ],
-      "done": 24,
+      "done": 25,
       "outlets_done": [
         "CL2",
         "BPP",
@@ -178,7 +178,8 @@
         "VIVO",
         "TRM",
         "PS",
-        "KEB"
+        "KEB",
+        "CM1"
       ],
       "outlets_outstanding": [
         "CKCC",
@@ -193,7 +194,6 @@
         "GMM",
         "ACV",
         "MARS",
-        "CM1",
         "WIS",
         "YS1",
         "KTB",
@@ -306,6 +306,10 @@
         "KEB": {
           "by": "Rajesh",
           "time": "14:51"
+        },
+        "CM1": {
+          "by": "Sasi",
+          "time": "15:11"
         }
       },
       "problems": [],
