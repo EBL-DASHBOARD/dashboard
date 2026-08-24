@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-08-24T03:40:26.432Z",
+  "generated": "2026-08-24T03:49:29.868Z",
   "groups": [
     {
       "id": "EBL6",
@@ -153,7 +153,7 @@
           ]
         }
       ],
-      "done": 17,
+      "done": 18,
       "outlets_done": [
         "CL2",
         "BPP",
@@ -171,10 +171,10 @@
         "HV2",
         "WSM",
         "KIT",
-        "KLP"
+        "KLP",
+        "BQ"
       ],
       "outlets_outstanding": [
-        "BQ",
         "CT",
         "PS",
         "TRM",
@@ -249,6 +249,10 @@
         "KLP": {
           "by": "Sasi",
           "time": "11:40"
+        },
+        "BQ": {
+          "by": "Sudhakar",
+          "time": "11:49"
         }
       },
       "problems": [],
